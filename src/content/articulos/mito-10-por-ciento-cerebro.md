@@ -40,7 +40,7 @@ related:
 next: tragar-chicle
 ---
 
-En la película *Lucy*, Scarlett Johansson toma una droga que le permite usar el 100 % de su cerebro y acaba moviendo objetos con la mente. Una gran idea para el cine. Un desastre como neurología.
+En la película *Lucy*, Scarlett Johansson toma una droga que le permite usar el 100 % de su cerebro y acaba moviendo objetos con la mente. Una gran idea para el cine. Un desastre como neurología. Y, sin embargo, la frase del 10 % sigue saliendo en charlas de bar y en grupos de WhatsApp.
 
 **Es un mito: no usamos solo el 10 % del cerebro. Los escáneres muestran que usamos prácticamente todas sus zonas a lo largo del día, aunque no todas trabajen a la vez.** Barry Gordon, neurólogo de la Universidad Johns Hopkins, llegó a decir en [Scientific American](https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/) que la idea es "tan errónea que casi da risa".
 

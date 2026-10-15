@@ -34,7 +34,7 @@ related:
 next: latidos-del-corazon-en-una-vida
 ---
 
-Imagina entrar en casa y tener que agacharte en cada puerta, dormir en una cama hecha a medida y llevar zapatos que nadie fabrica. Así era el día a día de Robert Wadlow.
+Imagina entrar en un piso de cualquier ciudad española y tener que agacharte en cada puerta, dormir en una cama hecha a medida y llevar zapatos que nadie fabrica. Así era el día a día de Robert Wadlow.
 
 **Según Guinness World Records, la persona más alta de la historia es Robert Wadlow, un estadounidense que llegó a medir unos 2,72 metros. Creció tanto por un exceso de hormona del crecimiento y murió con solo 22 años.**
 

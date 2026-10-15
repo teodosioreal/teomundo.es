@@ -44,7 +44,7 @@ related:
 next: sacudida-al-dormirse
 ---
 
-Reunión de las cuatro de la tarde, después de comer. Alguien al fondo de la mesa abre la boca de par en par y, en cuestión de segundos, medio equipo está bostezando. Puede que tú también estés a punto.
+Reunión de las cuatro de la tarde, después del menú del día. Alguien al fondo de la mesa abre la boca de par en par y, en cuestión de segundos, medio equipo está bostezando. Puede que tú también estés a punto.
 
 **El bostezo es contagioso porque ver, oír o incluso leer sobre un bostezo activa en el cerebro el impulso de imitarlo, y ese efecto es más fuerte con las personas cercanas. Para qué sirve bostezar, en cambio, todavía no está del todo claro.**
 

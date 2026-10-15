@@ -42,7 +42,7 @@ related:
 next: electricidad-del-corazon
 ---
 
-Seguro que lo has visto en redes: "Tu lengua es tan única como tu huella dactilar". Suena a dato curioso perfecto para soltar en una cena. Y tiene algo de verdad, aunque menos de lo que parece.
+Seguro que lo has visto en redes: "Tu lengua es tan única como tu huella dactilar". Suena a dato curioso perfecto para soltar en una cena con amigos o en la sobremesa del domingo. Y tiene algo de verdad, aunque menos de lo que parece.
 
 **La forma y la textura de la lengua varían de una persona a otra, y algunos investigadores la han estudiado como forma de identificación. Pero son estudios preliminares, con pocas personas, y en la práctica no se usa como las huellas dactilares.**
 

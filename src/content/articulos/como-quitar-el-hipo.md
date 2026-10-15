@@ -53,7 +53,7 @@ next: estornudar-con-el-sol
 
 ¡Hic! Ese sonidito siempre aparece en el peor momento posible.
 
-En una reunión, en una cita o justo cuando vas a hablar en público.
+En una reunión, en la cola del supermercado, en plena cena de Nochebuena o justo cuando vas a hablar en público.
 
 Si estás leyendo esto con hipo ahora mismo, no pierdas ni un segundo: **para quitar el hipo, prueba a aguantar la respiración entre 10 y 20 segundos, beber agua muy fría a sorbos pequeños o tomar una cucharadita de azúcar. Si a los dos minutos sigue, pasa al siguiente truco de la lista.**
 

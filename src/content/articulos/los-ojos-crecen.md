@@ -42,7 +42,7 @@ related:
 next: huella-de-la-lengua
 ---
 
-Miras a un bebé de pocos meses y lo primero que ves son esos ojos enormes. Parece que le ocupan media cara. Y alguien en la familia suelta: "Es que los ojos son lo único que no crece".
+Miras a un bebé de pocos meses y lo primero que ves son esos ojos enormes. Parece que le ocupan media cara. Y en la comida del domingo, alguien en la familia suelta: "Es que los ojos son lo único que no crece".
 
 **Es un mito, pero con una parte de verdad: los ojos sí crecen, pero muy deprisa en los primeros años y casi nada después. Al nacer ya tienen en torno al 70 % de su longitud adulta, y por eso parecen tan grandes en una cara tan pequeña.**
 

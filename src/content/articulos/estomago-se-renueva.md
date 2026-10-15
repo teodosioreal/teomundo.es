@@ -42,7 +42,7 @@ related:
 next: los-ojos-crecen
 ---
 
-El ácido de tu estómago es tan fuerte que puede corroer algunos metales. Entonces, ¿cómo es posible que no se coma su propia pared? La respuesta es una de las defensas más ingeniosas de tu cuerpo.
+Un plato de callos, unas bravas bien picantes, un café solo detrás. Tu estómago lo recibe todo sin rechistar. El ácido de tu estómago es tan fuerte que puede corroer algunos metales. Entonces, ¿cómo es posible que no se coma su propia pared? La respuesta es una de las defensas más ingeniosas de tu cuerpo.
 
 **El estómago no se digiere porque una capa de moco con bicarbonato protege sus paredes del ácido, y porque las células que lo recubren se renuevan muy deprisa. Cuando esa protección falla, aparecen las úlceras.**
 

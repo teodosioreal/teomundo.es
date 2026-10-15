@@ -42,7 +42,7 @@ related:
 next: cuanto-tiempo-sin-dormir
 ---
 
-Coge un grano de arroz y míralo de cerca. Ahora imagina un hueso de ese tamaño, con forma de herradura, trabajando sin descanso cada vez que oyes una voz, una canción o el pitido del microondas.
+Coge un grano de arroz y míralo de cerca. Ahora imagina un hueso de ese tamaño, con forma de herradura, trabajando sin descanso cada vez que oyes una voz, una canción, las campanadas de Nochevieja o el pitido del microondas.
 
 **El hueso más pequeño del cuerpo es el estribo, en el oído medio. Mide alrededor de 3 milímetros y, junto con otros dos huesecillos, hace que puedas oír.**
 

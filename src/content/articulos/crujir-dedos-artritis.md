@@ -42,7 +42,7 @@ related:
 next: azucar-hiperactividad-ninos
 ---
 
-"¡Deja de crujirte los dedos, que te va a dar artritis!". Es probablemente la advertencia que más se repite en las oficinas, justo después del sonido de unos nudillos estirándose.
+"¡Deja de crujirte los dedos, que te va a dar artritis!". Es probablemente la advertencia que más se repite en las oficinas y en las sobremesas familiares, justo después del sonido de unos nudillos estirándose.
 
 **Es un mito: los estudios no han encontrado relación entre crujirse los dedos y la artritis.** Y hay un médico que lo comprobó con su propio cuerpo durante unos 60 años.
 

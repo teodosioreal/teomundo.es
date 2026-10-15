@@ -42,7 +42,7 @@ related:
 next: mito-10-por-ciento-cerebro
 ---
 
-Son las dos de la madrugada y oyes pasos en el pasillo. Es tu hijo, con los ojos abiertos, caminando hacia la cocina como si nada. Te quedas paralizado: ¿le despiertas? ¿Y si le pasa algo?
+Son las dos de la madrugada y oyes pasos en el pasillo. Es tu hijo, en pijama, con los ojos abiertos, caminando hacia la cocina como si nada. Te quedas paralizado: ¿le despiertas? ¿Y si le pasa algo?
 
 **Despertar a un sonámbulo no es peligroso para su salud: no le provoca un infarto ni un daño en el cerebro. Lo que sí puede pasar es que se despierte confuso o asustado. Por eso lo mejor es guiarle con calma de vuelta a la cama.**
 

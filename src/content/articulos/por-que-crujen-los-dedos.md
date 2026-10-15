@@ -44,7 +44,7 @@ related:
 next: dedos-arrugados-en-el-agua
 ---
 
-Llevas una hora delante del ordenador, entrelazas los dedos, estiras los brazos y... crac, crac, crac. A tu compañera de mesa le da grima. A ti te sabe a gloria.
+Lunes, nueve de la mañana, llevas una hora delante del ordenador, entrelazas los dedos, estiras los brazos y... crac, crac, crac. A tu compañera de mesa le da grima. A ti te sabe a gloria.
 
 **Los dedos crujen porque, al estirar la articulación, baja la presión del líquido que la lubrica y se forma de golpe una pequeña cavidad de gas. Ese "crac" es el sonido de la cavidad al formarse, y no causa artritis.**
 

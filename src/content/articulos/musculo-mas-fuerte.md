@@ -42,7 +42,7 @@ related:
 next: longitud-vasos-sanguineos
 ---
 
-Seguro que te lo han dicho alguna vez: "El músculo más fuerte del cuerpo es la lengua". Suena curioso, se repite mucho y, sin embargo, no es verdad.
+Seguro que te lo han dicho alguna vez, quizá en un programa de preguntas de la tele: "El músculo más fuerte del cuerpo es la lengua". Suena curioso, se repite mucho y, sin embargo, no es verdad.
 
 **No hay un único músculo más fuerte: depende de cómo midas la fuerza. Por su peso, gana el masetero, el músculo de la mandíbula con el que masticas. En fuerza total destacan el glúteo mayor y el sóleo, en la pantorrilla. Y el que más trabaja es el corazón.**
 

@@ -42,7 +42,7 @@ related:
 next: musculo-mas-fuerte
 ---
 
-Una noche sin dormir por un examen, un vuelo o un bebé que no para de llorar. A la mañana siguiente todo cuesta: las palabras no salen, se te olvida dónde dejaste las llaves y el café no hace efecto. Ahora imagina once días así.
+Una noche sin dormir por la selectividad, un vuelo, las fiestas del pueblo o un bebé que no para de llorar. A la mañana siguiente todo cuesta: las palabras no salen, se te olvida dónde dejaste las llaves y el café no hace efecto. Ahora imagina once días así.
 
 **El récord más famoso sin dormir es el de Randy Gardner, un estudiante estadounidense de 17 años que en 1964 estuvo 264 horas despierto, unos 11 días seguidos.** No es un reto que convenga repetir.
 

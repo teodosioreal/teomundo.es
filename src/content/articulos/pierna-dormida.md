@@ -40,7 +40,7 @@ related:
 next: por-que-crujen-los-dedos
 ---
 
-Llevas un rato sentado en el sofá con las piernas cruzadas, o en el baño mirando el móvil más de la cuenta. Te levantas y la pierna no responde: está como de corcho. Un segundo después llegan las agujas.
+Llevas un rato sentado en el sofá con las piernas cruzadas viendo el partido, o en el baño mirando el móvil más de la cuenta. Te levantas y la pierna no responde: está como de corcho. Un segundo después llegan las agujas.
 
 **Cuando se duerme una pierna, lo que pasa es que la presión mantenida aplasta un nervio y este deja de enviar bien sus señales. Al cambiar de postura, el nervio se recupera y aparecen las "hormigas". Los médicos lo llaman parestesia temporal, y casi siempre es inofensiva.**
 

@@ -40,7 +40,7 @@ related:
 next: pierna-dormida
 ---
 
-Estás en la cama, a punto de caer rendido, y de repente todo tu cuerpo da un bote. A veces con la sensación de pisar en falso un escalón que no existe. Te despiertas con el corazón acelerado y, si duermes acompañado, con una mirada de "¿qué ha sido eso?".
+Estás en la cama, o en el sofá en plena siesta, a punto de caer rendido, y de repente todo tu cuerpo da un bote. A veces con la sensación de pisar en falso un escalón que no existe. Te despiertas con el corazón acelerado y, si duermes acompañado, con una mirada de "¿qué ha sido eso?".
 
 **Ese salto se llama sacudida hipnagógica o mioclonía hípnica: una contracción muscular repentina e involuntaria que aparece justo cuando pasas de estar despierto a estar dormido. Es muy común y, por sí sola, no es motivo de preocupación.**
 

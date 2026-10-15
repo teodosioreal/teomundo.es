@@ -42,7 +42,7 @@ related:
 next: cerebro-consume-energia
 ---
 
-Apagas todas las luces de la habitación, bajas la persiana y te quedas a oscuras. No ves nada. Pero, en ese mismo momento, tu cuerpo está emitiendo luz. Muy poquita, eso sí.
+Apagas todas las luces de la habitación, bajas la persiana hasta abajo, como en cualquier casa española en verano, y te quedas a oscuras. No ves nada. Pero, en ese mismo momento, tu cuerpo está emitiendo luz. Muy poquita, eso sí.
 
 **Es verdad: el cuerpo humano emite una luz muy débil. En 2009, un equipo japonés la fotografió con cámaras ultrasensibles. Es unas mil veces más débil de lo que el ojo puede ver, y está relacionada con el metabolismo, no con ningún aura.**
 

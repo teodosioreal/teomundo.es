@@ -42,7 +42,7 @@ related:
 next: piel-de-gallina
 ---
 
-Una tarde de agosto en la piscina, o una hora en el mar con los niños. Sales del agua y tus dedos parecen pasas. De pequeño te dijeron que era porque la piel "se empapa".
+Una tarde de agosto en la piscina municipal, o una hora en el mar con los niños en Benidorm o en la Costa Brava. Sales del agua y tus dedos parecen pasas. De pequeño te dijeron que era porque la piel "se empapa".
 
 **En realidad, los dedos se arrugan en el agua porque tu sistema nervioso estrecha los vasos sanguíneos que hay justo debajo de la piel de las yemas. Al perder volumen, la piel se pliega. No es solo agua: es una reacción activa de tu cuerpo.**
 

@@ -42,7 +42,7 @@ related:
 next: cuerpo-humano-brilla
 ---
 
-Coges en brazos a un recién nacido y te sorprende lo blandito que es. No solo por la piel: también por dentro. Ese cuerpecito tiene muchos más huesos que el tuyo.
+Primera visita al hospital para conocer al sobrino. Coges en brazos al recién nacido y te sorprende lo blandito que es. No solo por la piel: también por dentro. Ese cuerpecito tiene muchos más huesos que el tuyo.
 
 **Un bebé nace con unos 270 a 300 huesos y piezas de cartílago, mientras que un adulto tiene 206. La diferencia se debe a que muchos de esos huesos se van fusionando con los años.**
 

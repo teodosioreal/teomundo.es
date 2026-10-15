@@ -42,7 +42,7 @@ related:
 next: afeitarse-pelo-mas-fuerte
 ---
 
-"¡Enciende la luz, que te vas a quedar ciego!". Lo oíste de pequeño cuando leías con la linterna debajo de las sábanas, y quizá lo repites ahora cuando ves a alguien con el móvil a oscuras en la cama.
+"¡Enciende la luz, que te vas a quedar ciego!". Lo oíste de pequeño cuando leías con la linterna debajo de las sábanas, y quizá lo repites ahora cuando ves a alguien con el móvil a oscuras en la cama o en el sofá a la hora de la siesta.
 
 **Es un mito: leer con poca luz no estropea la vista. Cansa los ojos y puede dar dolor de cabeza, pero no causa un daño permanente.** La Academia Americana de Oftalmología ([AAO](https://www.aao.org/eye-health/tips-prevention/common-eye-vision-myths-facts)) lo incluye en su lista de mitos sobre los ojos.
 

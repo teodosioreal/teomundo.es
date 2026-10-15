@@ -42,7 +42,7 @@ related:
 next: corte-de-digestion
 ---
 
-"¡No te lo tragues, que se te queda pegado siete años en la tripa!". Si eras de los que acababan tragándose el chicle sin querer, seguro que pasaste algún mal rato pensando en ese chicle eterno.
+"¡No te lo tragues, que se te queda pegado siete años en la tripa!". Si eras de los que se gastaban la paga en chicles en el quiosco y acababan tragándoselos sin querer, seguro que pasaste algún mal rato pensando en ese chicle eterno.
 
 **Es un mito. Un chicle tragado no se queda siete años en el estómago: el cuerpo no digiere la goma base, pero la empuja por el intestino y la expulsa en pocos días.** Mark Larson, gastroenterólogo de [Mayo Clinic](https://newsnetwork.mayoclinic.org/?p=214461), lo resume así: el chicle "pasa sin problemas y, en general, se expulsa bastante rápido".
 

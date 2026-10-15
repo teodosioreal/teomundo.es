@@ -42,7 +42,7 @@ related:
 next: higado-se-regenera
 ---
 
-Mientras lees esta frase, tu cuerpo está fabricando millones de células nuevas. No lo notas, no te duele y no tienes que hacer nada. Pero la cifra diaria es casi imposible de imaginar.
+Mientras lees esta frase en el metro o con el café de media mañana, tu cuerpo está fabricando millones de células nuevas. No lo notas, no te duele y no tienes que hacer nada. Pero la cifra diaria es casi imposible de imaginar.
 
 **Según un estudio del Instituto Weizmann de Ciencias (Israel), tu cuerpo renueva unos 330.000 millones de células cada día, alrededor del 1 % del total. La mayoría son células de la sangre y del intestino. Y no, el cuerpo no se renueva entero cada siete años.**
 

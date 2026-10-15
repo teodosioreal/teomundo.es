@@ -42,7 +42,7 @@ related:
 next: cuantos-huesos-tiene-un-bebe
 ---
 
-Cada vez que tu corazón late, una pequeña chispa eléctrica recorre sus paredes. No la ves ni la notas, pero sin ella no habría latido. Y lo más curioso: esa chispa no la manda el cerebro, la fabrica el propio corazón.
+Mientras subes la cuesta hacia casa o esperas el autobús, cada vez que tu corazón late, una pequeña chispa eléctrica recorre sus paredes. No la ves ni la notas, pero sin ella no habría latido. Y lo más curioso: esa chispa no la manda el cerebro, la fabrica el propio corazón.
 
 **El corazón tiene su propio sistema eléctrico. Un grupo de células llamado nódulo sinusal genera los impulsos que marcan cada latido, como un marcapasos natural. El electrocardiograma registra esa electricidad.**
 

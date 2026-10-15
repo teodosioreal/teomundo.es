@@ -42,7 +42,7 @@ related:
 next: cuanta-saliva-producimos
 ---
 
-En el mito griego, Prometeo robó el fuego a los dioses y fue castigado: cada día un águila le comía el hígado y cada noche le volvía a crecer. Es curioso que, de todos los órganos, eligieran precisamente ese.
+En el mito griego, Prometeo robó el fuego a los dioses y fue castigado: cada día un águila le comía el hígado y cada noche le volvía a crecer. Es curioso que, de todos los órganos, eligieran precisamente ese. Y aún más curioso que hoy, en los hospitales españoles, se trasplanten trozos de hígado de una persona viva a otra.
 
 **El hígado es el órgano interno con mayor capacidad de regenerarse. Si se quita una parte, el resto crece hasta recuperar gran parte de su tamaño. Gracias a eso, una persona viva puede donar parte de su hígado. Pero tiene límites: el daño repetido acaba en cirrosis, una cicatriz que no desaparece.**
 
