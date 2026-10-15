@@ -17,7 +17,7 @@ import unlinkScheduled from './integrations/unlink-scheduled.mjs';
 import alsoRead from './integrations/also-read.mjs';
 
 export default defineConfig({
-  site: 'https://checkvitalsnow.com',
+  site: 'https://teomundo.es',
   trailingSlash: 'always',
   integrations: [
     sitemap({
