@@ -87,4 +87,4 @@ Y para la próxima vez: come antes de beber, alterna cada copa con un vaso de ag
 
 Busca atención médica urgente (llama al 112) si alguien que ha bebido está muy confuso, no se despierta, vomita sin parar, respira muy despacio o de forma irregular, o tiene la piel azulada o muy fría: pueden ser signos de intoxicación etílica.
 
-Hoy, si vas a salir, deja preparada una botella de agua junto a la cama. Y si al día siguiente te pesa la tarde, aprovecha para entender [qué le pasa a tu cuerpo cuando duermes la siesta](/cuerpo-y-espana/beneficios-de-la-siesta/).
+Antes de salir de fiesta, deja preparada una botella de agua junto a la cama. Y si al día siguiente te pesa la tarde, aprovecha para entender [qué le pasa a tu cuerpo cuando duermes la siesta](/cuerpo-y-espana/beneficios-de-la-siesta/).

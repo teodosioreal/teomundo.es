@@ -86,4 +86,4 @@ El próximo cambio es en la madrugada del **24 al 25 de octubre de 2026**: a las
 
 Consulta con tu médico si los problemas de sueño duran más de un par de semanas o si ya tenías insomnio y empeora.
 
-Hoy, si el cambio está cerca, empieza a mover tu hora de acostarte 15 minutos. Y como el reloj del verano trae también olas de calor, lee [lo que el calor le hace a tu corazón](/cuerpo-y-espana/calor-y-corazon/). El reloj interno también manda en la mesa y en el sofá: lee [qué pasa al cenar a las 22 h](/cuerpo-y-espana/cenar-tarde/) y [cuánto debe durar la siesta](/cuerpo-y-espana/beneficios-de-la-siesta/).
+Con el cambio a la vuelta de la esquina, empieza a mover tu hora de acostarte 15 minutos. Y como el reloj del verano trae también olas de calor, lee [lo que el calor le hace a tu corazón](/cuerpo-y-espana/calor-y-corazon/). El reloj interno también manda en la mesa y en el sofá: lee [qué pasa al cenar a las 22 h](/cuerpo-y-espana/cenar-tarde/) y [cuánto debe durar la siesta](/cuerpo-y-espana/beneficios-de-la-siesta/).

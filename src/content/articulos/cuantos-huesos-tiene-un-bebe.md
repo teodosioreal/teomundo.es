@@ -83,4 +83,4 @@ La fusión de los huesos no acaba en la infancia: continúa durante la adolescen
 
 Consulta con el pediatra si la fontanela del bebé está muy hundida (puede ser señal de [deshidratación](/mitos/cuanta-agua-beber-al-dia/)) o muy abultada y tensa, sobre todo si hay fiebre, vómitos o el bebé está muy irritable o adormilado. En ese caso, acude a urgencias.
 
-Hoy, si tienes un bebé cerca, toca con suavidad la parte de arriba de su cabeza y notarás la fontanela. Y para otra curiosidad que no puedes ver a simple vista, descubre por qué [tu cuerpo brilla en la oscuridad](/en-1-minuto/cuerpo-humano-brilla/). Y si te sorprenden los bebés, descubre también [por qué parecen tener los ojos enormes](/en-1-minuto/los-ojos-crecen/).
+Si tienes un bebé cerca, toca con suavidad la parte de arriba de su cabeza y notarás la fontanela. Y para otra curiosidad que no puedes ver a simple vista, descubre por qué [tu cuerpo brilla en la oscuridad](/en-1-minuto/cuerpo-humano-brilla/). Y si te sorprenden los bebés, descubre también [por qué parecen tener los ojos enormes](/en-1-minuto/los-ojos-crecen/).

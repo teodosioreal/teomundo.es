@@ -120,4 +120,4 @@ Pide cita si:
 - Te pitan los oídos de forma continua o notas que oyes peor.
 - Hace tiempo que no te miras la tensión, sobre todo si vives en una calle muy ruidosa o tienes antecedentes de problemas de corazón.
 
-Hoy, antes de acostarte, cierra la ventana del dormitorio y escucha un minuto en silencio: apunta qué ruidos oyes y de dónde vienen. Y si te interesa lo que le pasa al cuerpo cuando falta el sueño, lee [cuánto tiempo puede estar una persona sin dormir](/records/cuanto-tiempo-sin-dormir/).
+Esta noche, antes de acostarte, cierra la ventana del dormitorio y escucha un minuto en silencio: apunta qué ruidos oyes y de dónde vienen. Y si te interesa lo que le pasa al cuerpo cuando falta el sueño, lee [cuánto tiempo puede estar una persona sin dormir](/records/cuanto-tiempo-sin-dormir/).

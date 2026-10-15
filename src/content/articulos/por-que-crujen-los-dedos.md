@@ -86,4 +86,4 @@ Tu guía rápida:
 | Hinchazón o dedos que se tuercen | No es normal | Consulta al médico |
 | Crujido con dolor en rodilla, hombro o cuello | Puede tener otra causa | Consulta al médico |
 
-Hoy, cuando vayas a crujirte los dedos, cuenta cuánto tardas en poder repetirlo con el mismo dedo. Y si te gusta saber por qué tus manos hacen cosas raras, lee [por qué se arrugan los dedos en el agua](/por-que/dedos-arrugados-en-el-agua/). Y si después del crujido se te duerme una pierna, aquí tienes [por qué pasa](/por-que/pierna-dormida/).
+La próxima vez que vayas a crujirte los dedos, cuenta cuánto tardas en poder repetirlo con el mismo dedo. Y si te gusta saber por qué tus manos hacen cosas raras, lee [por qué se arrugan los dedos en el agua](/por-que/dedos-arrugados-en-el-agua/). Y si después del crujido se te duerme una pierna, aquí tienes [por qué pasa](/por-que/pierna-dormida/).

@@ -91,4 +91,4 @@ Tu plan para un día de estudio intenso:
 - [ ] Haz pausas cortas cada 45 o 60 minutos de estudio.
 - [ ] Bebe agua y sal a caminar unos minutos.
 
-Hoy, si estudias, pon una alarma para levantarte y estirar cada hora. Y para otra curiosidad del cuerpo, descubre si [el ácido del estómago puede disolver metal](/en-1-minuto/acido-del-estomago/).
+Si estudias, pon una alarma para levantarte y estirar cada hora. Y para otra curiosidad del cuerpo, descubre si [el ácido del estómago puede disolver metal](/en-1-minuto/acido-del-estomago/).

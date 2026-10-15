@@ -85,4 +85,4 @@ En las grandes ciudades, del interior o de la costa, la contaminación del tráf
 - **Costa:** ropa transpirable, duchas frescas, ventilar a primera hora y beber aunque sudes sin notarlo.
 - **En los dos:** evitar el sol de las horas centrales en verano y vigilar a las personas mayores.
 
-Hoy, mira la humedad en la previsión del tiempo además de la temperatura. Y como las dos zonas comparten una forma de comer, descubre [qué hace la dieta mediterránea dentro de tu cuerpo](/cuerpo-y-espana/dieta-mediterranea-beneficios/). Y para los veranos de interior y de costa, lee [lo que el calor le hace a tu corazón](/cuerpo-y-espana/calor-y-corazon/) y [por qué en España vivimos tanto](/cuerpo-y-espana/esperanza-de-vida-espana/).
+Cuando mires la previsión del tiempo, fíjate en la humedad además de la temperatura. Y como las dos zonas comparten una forma de comer, descubre [qué hace la dieta mediterránea dentro de tu cuerpo](/cuerpo-y-espana/dieta-mediterranea-beneficios/). Y para los veranos de interior y de costa, lee [lo que el calor le hace a tu corazón](/cuerpo-y-espana/calor-y-corazon/) y [por qué en España vivimos tanto](/cuerpo-y-espana/esperanza-de-vida-espana/).

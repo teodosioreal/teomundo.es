@@ -85,4 +85,4 @@ Una red tan larga funciona mejor si la cuidas:
 
 Consulta con tu médico si notas las piernas hinchadas, dolor al caminar que se alivia al parar o heridas en los pies que tardan en curar.
 
-Hoy, levántate de la silla cada hora y da un pequeño paseo para ayudar a tu circulación. Y si te gustan los récords, descubre [a qué velocidad sale un estornudo](/records/velocidad-estornudo/). Toda esa red la mueve un motor incansable: descubre [cuántas veces latirá tu corazón](/records/latidos-del-corazon-en-una-vida/) y [cuántas células renuevas cada día](/records/celulas-que-se-renuevan/).
+Levántate de la silla cada hora y da un pequeño paseo para ayudar a tu circulación. Y si te gustan los récords, descubre [a qué velocidad sale un estornudo](/records/velocidad-estornudo/). Toda esa red la mueve un motor incansable: descubre [cuántas veces latirá tu corazón](/records/latidos-del-corazon-en-una-vida/) y [cuántas células renuevas cada día](/records/celulas-que-se-renuevan/).

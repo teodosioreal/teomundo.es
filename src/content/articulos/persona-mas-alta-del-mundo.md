@@ -80,4 +80,4 @@ El hombre vivo más alto, según Guinness, es el turco **Sultan Kösen**, que mi
 
 Consulta con el pediatra si un niño crece mucho más deprisa que el resto de su edad, o con tu médico si en un adulto crecen las manos, los pies o la mandíbula: pueden ser señales de exceso de hormona del crecimiento.
 
-Hoy, mide la puerta de tu habitación y compárala con la tabla: verás lo enorme que era Wadlow. Y para seguir con los récords, descubre [cuántas veces latirá tu corazón en toda tu vida](/records/latidos-del-corazon-en-una-vida/). Otros récords del cuerpo: [el hueso más pequeño](/records/hueso-mas-pequeno/) y [la saliva que produces en toda tu vida](/records/cuanta-saliva-producimos/).
+Mide la puerta de tu habitación y compárala con la tabla: verás lo enorme que era Wadlow. Y para seguir con los récords, descubre [cuántas veces latirá tu corazón en toda tu vida](/records/latidos-del-corazon-en-una-vida/). Otros récords del cuerpo: [el hueso más pequeño](/records/hueso-mas-pequeno/) y [la saliva que produces en toda tu vida](/records/cuanta-saliva-producimos/).

@@ -81,4 +81,4 @@ Son casos raros, pero merece la pena explicarles a los peques que el chicle se t
 
 Si un niño ha tragado muchos chicles y tiene dolor de barriga, vómitos o no hace caca, llévalo al médico.
 
-Hoy puedes contarle a tus hijos o sobrinos que el chicle no se queda siete años, pero que va a la papelera. Y si en casa también se respeta "la regla de las dos horas" antes del baño, lee lo que dice la ciencia sobre el [corte de digestión](/mitos/corte-de-digestion/). Más mitos para contar en casa: [el del 10 % del cerebro](/mitos/mito-10-por-ciento-cerebro/) y [el del azúcar en los cumpleaños](/mitos/azucar-hiperactividad-ninos/).
+Ya puedes contarles a tus hijos o sobrinos que el chicle no se queda siete años, pero que va a la papelera. Y si en casa también se respeta "la regla de las dos horas" antes del baño, lee lo que dice la ciencia sobre el [corte de digestión](/mitos/corte-de-digestion/). Más mitos para contar en casa: [el del 10 % del cerebro](/mitos/mito-10-por-ciento-cerebro/) y [el del azúcar en los cumpleaños](/mitos/azucar-hiperactividad-ninos/).

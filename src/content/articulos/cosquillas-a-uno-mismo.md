@@ -113,4 +113,4 @@ No necesitas un robot para ver el filtro del cerebro en acción. Hazlo con algui
 
 Apunta quién se ríe en cada prueba. Con hermanos o primos pequeños, el juego da para una tarde entera.
 
-Hoy, prueba la tabla con alguien de tu familia y fíjate en la diferencia entre la prueba 1 y la 2. Y si te interesan otras reacciones que tu cuerpo hace sin pedirte permiso, lee [por qué se nos pone la piel de gallina](/por-que/piel-de-gallina/) o [por qué das un salto justo al dormirte](/por-que/sacudida-al-dormirse/).
+Prueba la tabla con alguien de tu familia y fíjate en la diferencia entre la prueba 1 y la 2. Y si te interesan otras reacciones que tu cuerpo hace sin pedirte permiso, lee [por qué se nos pone la piel de gallina](/por-que/piel-de-gallina/) o [por qué das un salto justo al dormirte](/por-que/sacudida-al-dormirse/).

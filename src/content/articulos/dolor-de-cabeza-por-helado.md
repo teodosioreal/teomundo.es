@@ -120,4 +120,4 @@ El dolor de cabeza por helado en sí no necesita médico. Pero si el dolor no en
 
 Y llama al **112** si un dolor de cabeza llega de golpe y es muy intenso, o viene con debilidad o adormecimiento de la cara o del cuerpo, dificultad para hablar, confusión, fiebre alta con rigidez de cuello o pérdida de visión. Son las señales de alarma que recoge el [NHS británico](https://www.nhs.uk/conditions/headaches/).
 
-Hoy, si te pides un helado o un granizado, cómelo a sorbos cortos y ten un vaso de agua del tiempo al lado. Y si te pica la curiosidad por otros reflejos raros de verano, lee [por qué estornudamos al mirar el sol](/por-que/estornudar-con-el-sol/) o [cómo quitar el hipo](/por-que/como-quitar-el-hipo/).
+La próxima vez que te pidas un helado o un granizado, cómelo a sorbos cortos y ten un vaso de agua del tiempo al lado. Y si te pica la curiosidad por otros reflejos raros de verano, lee [por qué estornudamos al mirar el sol](/por-que/estornudar-con-el-sol/) o [cómo quitar el hipo](/por-que/como-quitar-el-hipo/).

@@ -81,4 +81,4 @@ Hay quien dice que nacemos con un número fijo de latidos y que hacer deporte no
 
 Consulta con tu médico si en reposo tu pulso está a menudo por encima de 100 o por debajo de 50 sin que hagas deporte, si notas palpitaciones, mareos o desmayos. Si tienes dolor en el pecho o falta de aire, llama al 112.
 
-Hoy, tómate el pulso en reposo durante un minuto y apúntalo. Y si te han gustado estos récords, vuelve al primero: [el hueso más pequeño del cuerpo](/records/hueso-mas-pequeno/).
+Tómate ahora el pulso en reposo durante un minuto y apúntalo. Y si te han gustado estos récords, vuelve al primero: [el hueso más pequeño del cuerpo](/records/hueso-mas-pequeno/).

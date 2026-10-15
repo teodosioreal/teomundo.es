@@ -130,4 +130,4 @@ La mayoría de cambios en la piel no tienen importancia, pero conviene pedir cit
 - Una herida o mancha nueva que no termina de curar en unas semanas.
 - Una quemadura solar con ampollas extensas, fiebre o malestar general.
 
-Hoy, cuando te duches, piensa que estás lavando casi cuatro kilos de órgano. Y si quieres seguir con los récords de tu cuerpo, el siguiente es [el hígado y su capacidad de regenerarse](/records/higado-se-regenera/), o puedes leer [por qué tu cuerpo brilla en la oscuridad](/en-1-minuto/cuerpo-humano-brilla/).
+En tu próxima ducha, piensa que estás lavando casi cuatro kilos de órgano. Y si quieres seguir con los récords de tu cuerpo, el siguiente es [el hígado y su capacidad de regenerarse](/records/higado-se-regenera/), o puedes leer [por qué tu cuerpo brilla en la oscuridad](/en-1-minuto/cuerpo-humano-brilla/).

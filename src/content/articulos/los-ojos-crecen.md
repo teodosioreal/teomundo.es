@@ -76,6 +76,6 @@ Cuando el ojo se alarga más de lo normal, aparece la **[miopía](/mitos/leer-co
 
 Lleva a tu hijo al oftalmólogo o al pediatra si se acerca mucho a las pantallas o los libros, entrecierra los ojos para ver de lejos, se queja de dolor de cabeza o se le desvía un ojo. Y si eres adulto y notas que ves peor, pide una revisión.
 
-Hoy, si en casa hay niños, apunta en el calendario su próxima revisión de la vista. Y para otra curiosidad única de tu cara, descubre si [tu lengua es tan única como tu huella dactilar](/en-1-minuto/huella-de-la-lengua/).
+Si en casa hay niños, apunta en el calendario su próxima revisión de la vista. Y para otra curiosidad única de tu cara, descubre si [tu lengua es tan única como tu huella dactilar](/en-1-minuto/huella-de-la-lengua/).
 
 Y mientras lees esto, tus ojos no paran: descubre [cuántas veces parpadeas al día](/en-1-minuto/cuantas-veces-parpadeamos/).

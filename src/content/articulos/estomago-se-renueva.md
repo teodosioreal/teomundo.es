@@ -78,4 +78,4 @@ Por eso los antiinflamatorios deben tomarse siempre siguiendo el prospecto y las
 
 Consulta con tu médico si tienes dolor o ardor en la parte alta del abdomen que vuelve una y otra vez, sobre todo con el estómago vacío. Llama al 112 o ve a urgencias si vomitas sangre o algo parecido a posos de café, o si haces heces negras como el alquitrán.
 
-Hoy, si tomas antiinflamatorios a menudo, revisa el prospecto o pregúntale a tu farmacéutico cómo tomarlos. Y si te gustan las curiosidades del cuerpo, descubre si [los ojos dejan de crecer](/en-1-minuto/los-ojos-crecen/).
+Si tomas antiinflamatorios a menudo, revisa el prospecto o pregúntale a tu farmacéutico cómo tomarlos. Y si te gustan las curiosidades del cuerpo, descubre si [los ojos dejan de crecer](/en-1-minuto/los-ojos-crecen/).

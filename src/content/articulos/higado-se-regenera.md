@@ -86,6 +86,6 @@ Cómo ayudar a tu hígado:
 
 Consulta con tu médico si notas la piel o los ojos amarillentos, orina muy oscura, picor intenso en todo el cuerpo o hinchazón de la barriga.
 
-Hoy, si quieres hacer algo grande, infórmate sobre cómo hacerte donante de órganos en la web de la ONT y cuéntaselo a tu familia. Y si te interesan las cifras del cuerpo, descubre [cuánta saliva produces en toda tu vida](/records/cuanta-saliva-producimos/). Y si te interesa cómo se renueva el cuerpo, lee [cuántas células nuevas fabricas cada día](/records/celulas-que-se-renuevan/).
+Si quieres hacer algo grande, infórmate sobre cómo hacerte donante de órganos en la web de la ONT y cuéntaselo a tu familia. Y si te interesan las cifras del cuerpo, descubre [cuánta saliva produces en toda tu vida](/records/cuanta-saliva-producimos/). Y si te interesa cómo se renueva el cuerpo, lee [cuántas células nuevas fabricas cada día](/records/celulas-que-se-renuevan/).
 
 El hígado es el órgano interno más pesado, pero no el más grande: descubre [cuál es el órgano más grande del cuerpo](/records/organo-mas-grande/).
