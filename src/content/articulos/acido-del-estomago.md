@@ -29,8 +29,8 @@ sources:
     url: "https://www.ncbi.nlm.nih.gov/books/NBK499926/"
   - title: "Duke Health: Children, pets who swallow post-1982 pennies at risk for stomach upset, even ulcers"
     url: "https://corporate.dukehealth.org/news/children-pets-who-swallow-post-1982-pennies-risk-stomach-upset-even-ulcers"
-  - title: "En Familia (Asociación Española de Pediatría): El peligro de la ingesta de pilas de botón"
-    url: "https://enfamilia.aeped.es/prevencion/peligro-ingesta-pilas-boton"
+  - title: "AEPap (Asociación Española de Pediatría de Atención Primaria): Ingesta de pila de botón"
+    url: "https://pap.es/files/1116-3104-pdf/08_Ingesta_pila.pdf"
 related:
   - estomago-se-renueva
   - cerebro-consume-energia
@@ -69,7 +69,7 @@ Al reaccionar, el zinc puede irritar el estómago e incluso causar una úlcera. 
 ## Si un niño se traga algo
 
 - **Moneda u objeto pequeño:** llama al pediatra o al centro de salud para que te indiquen qué hacer.
-- **Pila de botón:** es una **urgencia**. Puede quemar el esófago en muy poco tiempo. La Asociación Española de Pediatría recomienda acudir a un centro sanitario lo antes posible ante la mínima sospecha ([En Familia, AEP](https://enfamilia.aeped.es/prevencion/peligro-ingesta-pilas-boton)), aunque el niño parezca estar bien.
+- **Pila de botón:** es una **urgencia**. Puede quemar el esófago en muy poco tiempo. Los pediatras españoles recomiendan acudir a un centro sanitario lo antes posible ante la mínima sospecha ([AEPap](https://pap.es/files/1116-3104-pdf/08_Ingesta_pila.pdf)), aunque el niño parezca estar bien.
 - **Imanes:** si se tragan varios, pueden atraerse a través del intestino. También es una urgencia.
 
 Llama al 112 si el niño tiene dificultad para respirar, babea mucho, no puede tragar, vomita o tiene dolor fuerte.
