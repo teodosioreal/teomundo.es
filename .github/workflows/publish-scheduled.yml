@@ -1,9 +1,10 @@
 name: Publicar artigos agendados
 
-# Todo dia às 06:00 UTC (08:00 em Madri no horário de verão, 07:00 no inverno). O GitHub pode atrasar alguns minutos.
+# Todo dia às 08:00 em Madri, no verão e no inverno. O cron do GitHub só usa UTC, então roda às 06:00 e às 07:00 UTC
+# e só publica na primeira execução depois das 08h em Madri (uma vez por dia). O GitHub pode atrasar alguns minutos.
 on:
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '0 6,7 * * *'
   workflow_dispatch:
 
 permissions:
@@ -20,22 +21,26 @@ jobs:
       - name: Ver o que está agendado para hoje
         id: due
         run: |
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$(TZ=Europe/Madrid date +%H)" -lt 8 ]; then
+            echo "Ainda não são 08h em Madri; a próxima execução publica."
+            echo "count=0" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          if [ "${{ github.event_name }}" = "schedule" ] && grep -q "^$(date -u +%F)" .last-scheduled-publish 2>/dev/null; then
+            echo "Já publicado hoje."
+            echo "count=0" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
           node scripts/publish-today.mjs > due.txt
           cat due.txt
           echo "count=$(grep -c . due.txt || true)" >> "$GITHUB_OUTPUT"
       - name: Disparar a publicação
         if: steps.due.outputs.count != '0' || github.event_name == 'workflow_dispatch'
-        env:
-          DEPLOY_HOOK: ${{ secrets.CF_PAGES_DEPLOY_HOOK }}
         run: |
-          if [ -n "$DEPLOY_HOOK" ]; then
-            curl -fsS -X POST "$DEPLOY_HOOK" && echo "Deploy hook chamado."
-          else
-            # Sem deploy hook: um commit pequeno faz o Cloudflare Pages reconstruir o site.
-            date -u +%FT%TZ > .last-scheduled-publish
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add .last-scheduled-publish
-            git commit -m "chore: scheduled publish $(date -u +%F)"
-            git push
-          fi
+          # A Hostinger reconstrói o site a cada push neste branch, então um commit pequeno publica o artigo do dia.
+          date -u +%FT%TZ > .last-scheduled-publish
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .last-scheduled-publish
+          git commit -m "chore: scheduled publish $(date -u +%F)"
+          git push
