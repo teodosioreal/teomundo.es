@@ -72,12 +72,25 @@ export const categories: Record<string, Category> = {
   },
 };
 
+// Assinatura dos artigos. É a equipe (sem nome pessoal, por decisão do dono). Não inventar pessoas nem credenciais.
 export const author = {
   name: 'Equipo editorial de TeoMundo',
+  url: '/equipo-editorial/',
+  image: '/equipo-editorial.svg',
+  /** PNG para o schema.org (logo da organização). */
+  imagePng: '/equipo-editorial.png',
+  bio: 'Investigamos, escribimos y revisamos cada curiosidad de TeoMundo. Todos los datos llevan su fuente (organismos oficiales, hospitales de referencia y estudios publicados) y, si la evidencia es limitada, lo decimos.',
+};
+
+// Redes sociais do site. Aparecem no rodapé e na assinatura quando preenchidas (URL completa).
+export const social: { instagram: string | null; facebook: string | null } = {
+  instagram: null,
+  facebook: null,
 };
 
 export const footerLinks: { label: string; href: string }[] = [
   { label: 'Sobre nosotros', href: '/sobre-nosotros/' },
+  { label: 'Equipo editorial', href: '/equipo-editorial/' },
   { label: 'Política editorial', href: '/politica-editorial/' },
   { label: 'Aviso legal', href: '/aviso-legal/' },
   { label: 'Política de privacidad', href: '/politica-de-privacidad/' },

@@ -1,0 +1,44 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { site, author, social } from '../data/site';
+---
+
+<PageLayout
+  title={`Equipo editorial | ${site.name}`}
+  description={`Quién escribe y revisa las curiosidades de ${site.name}, cómo elegimos las fuentes y cómo puedes avisarnos de un error.`}
+  h1={author.name}
+  updated={false}
+  pageType="AboutPage"
+>
+  <img src={author.image} width="120" height="120" alt={`Logotipo del ${author.name}`} class="!my-6" />
+
+  <p>{author.bio}</p>
+
+  <h2>Qué hacemos</h2>
+  <ul>
+    <li>Elegimos preguntas reales del día a día: por qué pasa algo en el cuerpo, si un mito es cierto, qué dice la ciencia.</li>
+    <li>Buscamos la respuesta en fuentes primarias y enlazamos cada una al final del artículo.</li>
+    <li>Escribimos textos cortos, en español de España, que se leen en un minuto.</li>
+    <li>Revisamos los artículos cuando cambian los datos o cuando un lector nos avisa de un error.</li>
+  </ul>
+
+  <h2>Lo que no hacemos</h2>
+  <ul>
+    <li>No damos consejo médico personalizado: ante cualquier duda sobre tu salud, consulta a tu médico.</li>
+    <li>No vendemos productos ni publicamos reseñas pagadas.</li>
+    <li>No inventamos cifras: si un dato no se puede comprobar, no lo publicamos.</li>
+  </ul>
+
+  <h2>Cómo elegimos las fuentes</h2>
+  <p>
+    Priorizamos organismos oficiales, hospitales y centros de referencia, y estudios publicados en revistas científicas.
+    Puedes leer el proceso completo en nuestra <a href="/politica-editorial/">política editorial</a>.
+  </p>
+
+  <h2>¿Has visto un error?</h2>
+  <p>
+    Escríbenos desde la <a href="/contacto/">página de contacto</a> y lo revisamos.
+    {social.instagram && (<> También estamos en <a href={social.instagram} rel="noopener" target="_blank">Instagram</a>.</>)}
+    {social.facebook && (<> Y en <a href={social.facebook} rel="noopener" target="_blank">Facebook</a>.</>)}
+  </p>
+</PageLayout>

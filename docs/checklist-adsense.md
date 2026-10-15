@@ -32,7 +32,7 @@
 | Estratégia do Oceano Azul | ✅ | Nicho "curiosidades verificadas do corpo" com ângulo espanhol (siesta, cena tarde, calor). |
 | Sem erros de ortografia ou gramática | ✅ | Revisado em espanhol da Espanha. Revisar a cada artigo novo. |
 | Título, autor, categoria e data visíveis | ✅ | Em todos os artigos. |
-| Assinatura do autor no final com foto, descrição e redes sociais | ⬜ | Precisa de um **autor real**: nome, foto, bio curta e redes. Hoje aparece "Equipo editorial de TeoMundo". |
+| Assinatura do autor no final com foto, descrição e redes sociais | ✅ | "Equipo editorial de TeoMundo" (decisão do dono, sem nome pessoal): caixa no fim dos 50 artigos com selo próprio, bio verdadeira e links; página /equipo-editorial/. As redes entram sozinhas quando preenchidas em `social` (`site.ts`). |
 | Sem conteúdo proibido | ✅ | — |
 
 ## Estrutura técnica

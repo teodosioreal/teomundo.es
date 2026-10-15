@@ -12,6 +12,7 @@ import AlsoRead from '../../components/AlsoRead.astro';
 import ArticleNav from '../../components/ArticleNav.astro';
 import Comments from '../../components/Comments.astro';
 import { site, categories, author, comments } from '../../data/site';
+import AuthorBox from '../../components/AuthorBox.astro';
 import { unsplash } from '../../lib/unsplash';
 
 export async function getStaticPaths() {
@@ -60,7 +61,7 @@ const jsonLd: Record<string, unknown>[] = [
     description: data.description,
     datePublished: iso(data.datePublished),
     dateModified: iso(data.dateModified),
-    author: { '@type': 'Organization', name: author.name, url: `${site.url}/sobre-nosotros/` },
+    author: { '@type': 'Organization', name: author.name, url: `${site.url}${author.url}`, logo: `${site.url}${author.imagePng}` },
     inLanguage: site.lang,
     ...(data.cover ? { image: unsplash(data.cover.url, 1200) } : {}),
     publisher: { '@type': 'Organization', name: site.name, url: `${site.url}/`, logo: `${site.url}/favicon-512x512.png` },
@@ -100,7 +101,7 @@ if (data.faq.length) {
     </nav>
     <h1 class="mt-4 text-4xl font-bold sm:text-5xl">{data.h1}</h1>
     <p class="mt-4 text-sm text-muted">
-      Por {author.name} · Publicado el <time datetime={iso(data.datePublished)}>{fmt(data.datePublished)}</time>
+      Por <a href={author.url} class="text-muted">{author.name}</a> · Publicado el <time datetime={iso(data.datePublished)}>{fmt(data.datePublished)}</time>
       {
         iso(data.dateModified) !== iso(data.datePublished) && (
           <>
@@ -149,6 +150,7 @@ if (data.faq.length) {
     <div class="article-body">
       <Content />
     </div>
+    <AuthorBox />
     <AlsoRead articles={alsoRead} />
     {next && <NextArticle article={next} />}
     <FAQ items={data.faq} />
