@@ -11,7 +11,7 @@
 
 | Item | Status | Observação |
 |---|---|---|
-| Menu com pelo menos 5 categorias e todas as páginas obrigatórias | 🟡 | 2 de 5 categorias (¿Por qué?, Mitos). Faltam Cuerpo y España, Récords e En 1 minuto, que entram no menu sozinhas ao publicar o 1º artigo de cada. |
+| Menu com pelo menos 5 categorias e todas as páginas obrigatórias | 🟡 | 3 de 5 categorias (¿Por qué?, Mitos, Cuerpo y España). Faltam Récords e En 1 minuto, que entram no menu sozinhas ao publicar o 1º artigo de cada. |
 | Página "Sobre" | ✅ | /sobre-nosotros/ |
 | Política de Privacidade (obrigatória) | ✅ | /politica-de-privacidad/ (RGPD) + /politica-de-cookies/ |
 | Página "Contato" | 🟡 | Existe (/contacto/), mas falta o **e-mail real**. Fica fora do Google até ter e-mail. |
@@ -26,8 +26,8 @@
 
 | Item | Status | Observação |
 |---|---|---|
-| Pelo menos 50 artigos publicados | 🟡 | **20 de 50.** A pauta-mestre já tem os 50 temas. |
-| Cada categoria com no mínimo 6 artigos | 🟡 | ¿Por qué?: 10 ✅ · Mitos: 10 ✅ · Cuerpo y España: 0 · Récords: 0 · En 1 minuto: 0 |
+| Pelo menos 50 artigos publicados | 🟡 | **30 de 50.** A pauta-mestre já tem os 50 temas. |
+| Cada categoria com no mínimo 6 artigos | 🟡 | ¿Por qué?: 10 ✅ · Mitos: 10 ✅ · Cuerpo y España: 10 ✅ · Récords: 0 · En 1 minuto: 0 |
 | Conteúdo 100% original e de qualidade | ✅ | Texto próprio, com fontes verificadas. |
 | Estratégia do Oceano Azul | ✅ | Nicho "curiosidades verificadas do corpo" com ângulo espanhol (siesta, cena tarde, calor). |
 | Sem erros de ortografia ou gramática | ✅ | Revisado em espanhol da Espanha. Revisar a cada artigo novo. |
@@ -59,7 +59,7 @@
 
 | Item | Status | Observação |
 |---|---|---|
-| Imagens nos artigos | ✅ | 20 de 20 artigos com capa e foto no meio do texto (falta só a foto do meio do artigo do chiclete, que entra na próxima busca). Unsplash, com crédito e alt em espanhol, revisadas uma a uma. |
+| Imagens nos artigos | 🟡 | 20 de 30 artigos com fotos. Os 10 de Cuerpo y España (e a foto do meio do chiclete) aguardam a próxima busca, por causa do limite de 50 pedidos/hora da chave gratuita do Unsplash. |
 | Dados do titular em `src/data/owner.mjs` | ⬜ | Nome, NIF/NIE, endereço, e-mail (exigência da lei espanhola LSSI). |
 
 ## Quando pedir a aprovação

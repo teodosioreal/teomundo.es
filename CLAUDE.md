@@ -10,7 +10,7 @@
 ## 2. O negócio
 
 - Blog informativo em `https://teomundo.es`, público da Espanha.
-- **Nicho:** "curiosidades verificadas do seu corpo no dia a dia" (leituras de ~1 minuto, sempre com fonte, ligadas à rotina espanhola). Pauta-mestre com 50 temas em 5 categorias: ¿Por qué?, Mitos, Cuerpo y España, Récords, En 1 minuto. Artigos de 300–600 palavras, com box "En resumen", FAQ e fontes. Categorias em `categories` (`src/data/site.ts`); hoje `por-que` (pautas 1–10) e `mitos` (pautas 11–20). Próximas: Cuerpo y España (21–30), Récords (31–40), En 1 minuto (41–50).
+- **Nicho:** "curiosidades verificadas do seu corpo no dia a dia" (leituras de ~1 minuto, sempre com fonte, ligadas à rotina espanhola). Pauta-mestre com 50 temas em 5 categorias: ¿Por qué?, Mitos, Cuerpo y España, Récords, En 1 minuto. Artigos de 300–600 palavras, com box "En resumen", FAQ e fontes. Categorias em `categories` (`src/data/site.ts`); hoje `por-que` (pautas 1–10), `mitos` (11–20) e `cuerpo-y-espana` (21–30). Próximas: Récords (31–40), En 1 minuto (41–50).
 - **Monetização planejada:** Google AdSense (desligado até `adsense.client` ser preenchido).
 - **Prioridade do dono:** mais páginas por visita. Todo artigo dá um próximo passo claro (blocos de leitura, links internos), **sem clickbait** nem dividir artigo em páginas.
 - Afiliados, produtos ou reviews: **pergunte antes**; exigem mudar as páginas legais e identificar a publicidade (LSSI art. 20).
@@ -98,7 +98,7 @@ Use botões para **links internos** úteis, nunca para imitar anúncios nem para
 
 - `datePublished` no futuro → artigo escondido até um build nessa data. Links para artigos agendados viram texto (`integrations/unlink-scheduled.mjs`).
 - `.github/workflows/publish-scheduled.yml`: todo dia às 06:00 UTC (08:00 em Madri no verão) dispara o deploy (secret opcional `CF_PAGES_DEPLOY_HOOK`).
-- `unsplash-covers.yml`: busca capas e fotos (`imageQuery` + `imageAlt` em espanhol; no texto `<!-- unsplash: busca em inglês | alt em espanhol -->`), usa o secret `UNSPLASH_ACCESS_KEY` (já no GitHub). Depois de rodar, **revise cada foto** (recuse produtos de marca, cannabis/CBD, tabaco, álcool em destaque e cenas que não combinam com o tema) (montagem de `.unsplash-preview/*.jpg`) e troque as que não combinam com o tema.
+- `unsplash-covers.yml`: busca capas e fotos (`imageQuery` + `imageAlt` em espanhol; no texto `<!-- unsplash: busca em inglês | alt em espanhol -->`), usa o secret `UNSPLASH_ACCESS_KEY` (já no GitHub; chave gratuita = 50 pedidos/hora, cada foto gasta 2, então ~25 fotos por hora; se o run terminar sem commit, é o limite: rodar de novo depois de 1 h). Depois de rodar, **revise cada foto** (recuse produtos de marca, cannabis/CBD, tabaco, álcool em destaque e cenas que não combinam com o tema) (montagem de `.unsplash-preview/*.jpg`) e troque as que não combinam com o tema.
 - `check-sources.yml`: testa os links de `sources`.
 - Pré-visualizar uma data futura: `PREVIEW_DATE=2026-11-01T12:00:00Z npm run build`.
 
