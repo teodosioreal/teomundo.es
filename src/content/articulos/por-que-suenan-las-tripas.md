@@ -12,10 +12,10 @@ secondaryKeywords:
 datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "woman eating lunch at office desk"
-imageAlt: "Mujer comiendo en su mesa de trabajo"
+imageAlt: "Comida junto a un portátil en una mesa de trabajo"
 cover:
   url: "https://images.unsplash.com/photo-1653463174554-ce2692abd7b5?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBlYXRpbmclMjBsdW5jaCUyMGF0JTIwb2ZmaWNlJTIwZGVza3xlbnwxfDB8fHwxNzkyMDc1ODI0fDA&ixlib=rb-4.1.0"
-  alt: "Mujer comiendo en su mesa de trabajo"
+  alt: "Comida junto a un portátil en una mesa de trabajo"
   author: "Annie Spratt"
   authorUrl: "https://unsplash.com/@anniespratt?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/a-woman-taking-a-picture-of-food-on-a-plate-MphSZpPtYk8?utm_source=teomundo&utm_medium=referral"

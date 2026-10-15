@@ -98,7 +98,7 @@ Use botões para **links internos** úteis, nunca para imitar anúncios nem para
 
 - `datePublished` no futuro → artigo escondido até um build nessa data. Links para artigos agendados viram texto (`integrations/unlink-scheduled.mjs`).
 - `.github/workflows/publish-scheduled.yml`: todo dia às 06:00 UTC (08:00 em Madri no verão) dispara o deploy (secret opcional `CF_PAGES_DEPLOY_HOOK`).
-- `unsplash-covers.yml`: busca capas e fotos (`imageQuery` e `<!-- unsplash: busca -->`), precisa do secret `UNSPLASH_ACCESS_KEY`.
+- `unsplash-covers.yml`: busca capas e fotos (`imageQuery` + `imageAlt` em espanhol; no texto `<!-- unsplash: busca em inglês | alt em espanhol -->`), usa o secret `UNSPLASH_ACCESS_KEY` (já no GitHub). Depois de rodar, **revise cada foto** (montagem de `.unsplash-preview/*.jpg`) e troque as que não combinam com o tema.
 - `check-sources.yml`: testa os links de `sources`.
 - Pré-visualizar uma data futura: `PREVIEW_DATE=2026-11-01T12:00:00Z npm run build`.
 
@@ -127,7 +127,7 @@ Use botões para **links internos** úteis, nunca para imitar anúncios nem para
 - [x] Nicho definido (curiosidades do corpo); criar as próximas categorias conforme a pauta
 - [ ] Dados reais do titular em `owner.mjs` (nome, NIF, endereço, e-mail)
 - [ ] ~20–30 artigos originais e interligados
-- [ ] Imagens (secret `UNSPLASH_ACCESS_KEY`)
+- [x] Imagens (secret `UNSPLASH_ACCESS_KEY` configurado; rodar o workflow a cada artigo novo e revisar as fotos em `.unsplash-preview/`)
 - [ ] Site no ar em teomundo.es com HTTPS (Cloudflare Pages)
 - [ ] Google Search Console configurado
 - [ ] CMP certificada configurada antes de ligar anúncios

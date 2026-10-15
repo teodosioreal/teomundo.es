@@ -59,7 +59,7 @@
 
 | Item | Status | Observação |
 |---|---|---|
-| Imagens nos artigos | ⬜ | Secret `UNSPLASH_ACCESS_KEY` + workflow "Buscar imagens do Unsplash". |
+| Imagens nos artigos | ✅ | 10 de 10 artigos com capa + 1 foto no meio do texto (Unsplash, com crédito e alt em espanhol). Rodar o workflow a cada artigo novo. |
 | Dados do titular em `src/data/owner.mjs` | ⬜ | Nome, NIF/NIE, endereço, e-mail (exigência da lei espanhola LSSI). |
 
 ## Quando pedir a aprovação
