@@ -11,14 +11,8 @@ secondaryKeywords:
   - "niño se ha tragado un chicle"
 datePublished: 2026-10-15
 dateModified: 2026-10-15
-imageQuery: "chewing gum pack"
-imageAlt: "Paquete de chicles abierto"
-cover:
-  url: "https://images.unsplash.com/photo-1616536814420-4e9702f83f75?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hld2luZyUyMGd1bSUyMHBhY2t8ZW58MXwwfHx8MTc5MjA3NjY2MHww&ixlib=rb-4.1.0"
-  alt: "Paquete de chicles abierto"
-  author: "Elsa Olofsson"
-  authorUrl: "https://unsplash.com/@elsaolofsson?utm_source=teomundo&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/orange-plastic-container-on-white-and-black-granite-table-_4lzXD58Nsw?utm_source=teomundo&utm_medium=referral"
+imageQuery: "girl blowing pink bubble gum"
+imageAlt: "Niña haciendo un globo de chicle rosa"
 keyTakeaways:
   - "Es un mito: un chicle tragado no se queda siete años en el estómago."
   - "El cuerpo no digiere la goma base, pero la empuja por el intestino y la expulsa en pocos días, como otras cosas que no digerimos."
@@ -59,7 +53,7 @@ Un chicle tiene dos partes:
 
 Que algo no se digiera no significa que se quede dentro. Pasa lo mismo con la piel de algunas semillas o con parte de la fibra de las verduras: el intestino las mueve hacia delante con sus contracciones hasta que salen.
 
-<!-- unsplash: person chewing gum smiling | Persona mascando chicle -->
+<!-- unsplash: bubble gum balloon | Globo de chicle rosa -->
 
 ## El viaje real del chicle
 
