@@ -92,6 +92,12 @@ export const adsense: { client: string | null } = {
   client: null,
 };
 
+// Google Search Console: código da verificação por "Tag HTML" (só o valor de content="...").
+// Não é necessário se a verificação for feita pelo DNS (domínio na Cloudflare).
+export const searchConsole: { verification: string | null } = {
+  verification: null,
+};
+
 // Medição de cliques nos blocos de leitura relacionada (ideia do plugin "Conteúdo Relacionado").
 // Com um ID do Google Analytics 4 (ex.: 'G-XXXXXXXXXX'), cada clique vira o evento "clic_relacionado".
 // null = desligado (nenhum script de analytics é carregado).
