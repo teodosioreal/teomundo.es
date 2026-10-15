@@ -34,6 +34,7 @@
 | Título, autor, categoria e data visíveis | ✅ | Em todos os artigos. |
 | Assinatura do autor no final com foto, descrição e redes sociais | ✅ | "Equipo editorial de TeoMundo" (decisão do dono, sem nome pessoal): caixa no fim dos 50 artigos com selo próprio, bio verdadeira e links; página /equipo-editorial/. As redes entram sozinhas quando preenchidas em `social` (`site.ts`). |
 | Sem conteúdo proibido | ✅ | — |
+| Só curiosidades, sem remédios | ✅ | 15/10/2026: tiradas todas as menções a remédios, suplementos e conselhos de farmácia (24 artigos revisados). Regra do dono: nenhum artigo fala de remédio. |
 
 ## Estrutura técnica
 
