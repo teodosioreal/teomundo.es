@@ -11,7 +11,8 @@ secondaryKeywords:
   - "líquido sinovial"
 datePublished: 2026-10-15
 dateModified: 2026-10-15
-imageQuery: "hands cracking knuckles over keyboard"
+imageQuery: "hands stretching fingers desk laptop"
+imageAlt: "Manos estirando los dedos junto a un portátil"
 keyTakeaways:
   - "El crujido viene del líquido que lubrica la articulación: al separar los huesos, baja la presión y se forma una cavidad de gas."
   - "Un estudio con resonancia magnética en tiempo real (2015) vio que el ruido coincide con la formación de esa cavidad."
@@ -56,6 +57,8 @@ En 2015, un equipo de la Universidad de Alberta (Canadá) metió a un voluntario
 Lo que vieron fue que el crujido coincidía con el momento en que **se formaba** una cavidad de gas dentro del líquido, al separarse las superficies de la articulación de golpe. Es como cuando despegas dos cristales mojados: se resisten y, de repente, se separan.
 
 El debate no está cerrado del todo, pero esta es hoy la explicación con más apoyo.
+
+<!-- unsplash: hand joints close up | Primer plano de los nudillos de una mano -->
 
 ## Por qué no puedes repetirlo enseguida
 

@@ -13,7 +13,8 @@ secondaryKeywords:
   - "remedios para el hipo"
 datePublished: 2026-10-15
 dateModified: 2026-10-15
-imageQuery: "glass of water"
+imageQuery: "woman drinking glass of water kitchen"
+imageAlt: "Mujer bebiendo un vaso de agua en la cocina"
 keyTakeaways:
   - "El hipo es un espasmo involuntario del diafragma y casi siempre se va solo en unos minutos."
   - "Aguantar la respiración, el agua muy fría o una cucharadita de azúcar son trucos sencillos y sin riesgo; prueba uno y, si no funciona, pasa al siguiente."
@@ -91,7 +92,7 @@ Hay dos tipos de hipo que conviene distinguir:
 
 Si el tuyo es del primer tipo, estás de suerte. Vamos a lo que has venido a buscar.
 
-<!-- unsplash: person drinking a glass of water -->
+<!-- unsplash: person holding breath hand on chest | Persona aguantando la respiración con la mano en el pecho -->
 
 ## Cómo quitar el hipo: 9 trucos para probar
 

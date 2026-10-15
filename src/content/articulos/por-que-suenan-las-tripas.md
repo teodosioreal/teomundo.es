@@ -11,7 +11,8 @@ secondaryKeywords:
   - "tripas que suenan con hambre"
 datePublished: 2026-10-15
 dateModified: 2026-10-15
-imageQuery: "person hand on stomach in meeting"
+imageQuery: "person hungry stomach office"
+imageAlt: "Persona con la mano en el estómago en la oficina"
 keyTakeaways:
   - "El ruido de tripas (borborigmos) es el sonido de gas y líquido que el intestino y el estómago empujan con sus movimientos."
   - "Suena más con el estómago vacío, cuando el intestino hace sus contracciones de 'limpieza' entre comidas y aumenta la hormona del hambre, la grelina."
@@ -52,6 +53,8 @@ Tu intestino es un tubo muscular que se contrae en oleadas para hacer avanzar lo
 Aquí está la parte curiosa. Cuando llevas un tiempo sin comer, el intestino no se queda quieto: pone en marcha una especie de **barrendero**, un patrón de contracciones que recorre el tubo digestivo para limpiar los restos de la comida anterior.
 
 Ese "barrido" lo impulsa en parte una hormona llamada **motilina**, que según [Cleveland Clinic](https://my.clevelandclinic.org/health/body/23037-motilin) ayuda a mover el contenido del estómago y del intestino en los periodos de ayuno. Con el estómago vacío no hay comida que amortigüe el sonido, así que se oye mucho más.
+
+<!-- unsplash: healthy snack fruit yogurt | Tentempié sano con fruta y yogur -->
 
 ## Por qué con hambre suena más fuerte
 

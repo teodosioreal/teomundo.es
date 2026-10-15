@@ -11,7 +11,8 @@ secondaryKeywords:
   - "bostezo y temperatura del cerebro"
 datePublished: 2026-10-15
 dateModified: 2026-10-15
-imageQuery: "person yawning on train"
+imageQuery: "person yawning"
+imageAlt: "Persona bostezando"
 keyTakeaways:
   - "Nadie sabe con certeza para qué sirve el bostezo; una de las hipótesis más estudiadas es que ayuda a enfriar el cerebro."
   - "El bostezo se contagia más entre familiares y amigos que entre desconocidos, según estudios de observación."
@@ -54,6 +55,8 @@ En un estudio de 2011 con 160 personas en Tucson (Arizona), los investigadores A
 El contagio es otro misterio aparte. Un estudio de observación en Italia y Madagascar ([Norscia y Palagi, 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3233580)) vio que el bostezo se contagiaba más entre familiares, después entre amigos, luego entre conocidos y, por último, entre desconocidos.
 
 Las autoras lo interpretaron como una señal de **empatía**: nos "conectamos" más con quien queremos.
+
+<!-- unsplash: colleagues meeting office table | Compañeros de trabajo reunidos alrededor de una mesa -->
 
 ## ¿Bostezar es cosa de empatía?
 

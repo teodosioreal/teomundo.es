@@ -11,7 +11,8 @@ secondaryKeywords:
   - "se me eriza la piel"
 datePublished: 2026-10-15
 dateModified: 2026-10-15
-imageQuery: "goosebumps on arm close up"
+imageQuery: "goosebumps skin arm macro"
+imageAlt: "Primer plano de la piel de un brazo con piel de gallina"
 keyTakeaways:
   - "La piel de gallina aparece cuando se contraen los músculos diminutos unidos a cada pelo, por orden del sistema nervioso simpático."
   - "La provocan el frío y las emociones fuertes: miedo, sorpresa o una canción que te llega."
@@ -57,6 +58,8 @@ Piensa en un gato asustado o en un pájaro en invierno. Al erizar el pelo o las 
 - **Parecen más grandes:** un animal con el pelo de punta impone más a un depredador.
 
 Nosotros tenemos muy poco pelo, así que ninguna de las dos funciones nos sirve de mucho. La reacción se ha quedado como un recuerdo de nuestro pasado evolutivo.
+
+<!-- unsplash: person listening music headphones eyes closed | Persona escuchando música con auriculares y los ojos cerrados -->
 
 ## Por qué una canción te eriza la piel
 

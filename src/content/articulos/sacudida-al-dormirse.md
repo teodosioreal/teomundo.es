@@ -11,7 +11,8 @@ secondaryKeywords:
   - "salto al quedarse dormido"
 datePublished: 2026-10-15
 dateModified: 2026-10-15
-imageQuery: "person waking up startled in bed"
+imageQuery: "person sleeping bed night"
+imageAlt: "Persona durmiendo en la cama por la noche"
 keyTakeaways:
   - "El salto al quedarte dormido se llama sacudida hipnagógica o mioclonía hípnica, y es muy común."
   - "No se sabe con certeza por qué ocurre; la cafeína, el estrés y el cansancio pueden hacerla más frecuente."
@@ -57,6 +58,8 @@ Lo que sí se ha observado, según la [Sleep Foundation](https://www.sleepfounda
 ## El mito del mono que se cae del árbol
 
 Seguro que lo has leído: "el salto es un reflejo heredado de nuestros antepasados primates, que se despertaban de golpe para no caerse del árbol". Es una historia bonita, pero **no hay pruebas** de que sea así. Es una hipótesis popular, no una explicación científica comprobada.
+
+<!-- unsplash: cup of coffee afternoon | Taza de café por la tarde -->
 
 ## Tu checklist para una noche más tranquila
 

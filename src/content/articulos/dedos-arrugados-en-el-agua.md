@@ -11,7 +11,8 @@ secondaryKeywords:
   - "arrugas en los dedos al bañarse"
 datePublished: 2026-10-15
 dateModified: 2026-10-15
-imageQuery: "wrinkled fingertips by the pool"
+imageQuery: "hand in swimming pool water"
+imageAlt: "Mano dentro del agua de una piscina"
 keyTakeaways:
   - "Las arrugas de los dedos en el agua no son solo piel que absorbe agua: las provoca el sistema nervioso al estrechar los vasos sanguíneos bajo la piel."
   - "La prueba: en dedos con nervios dañados, las arrugas no aparecen."
@@ -50,6 +51,8 @@ Lo que ocurre es que, tras un rato en remojo, el **sistema nervioso simpático**
 La prueba más clara llegó hace casi un siglo. En los años treinta, los médicos observaron que en los dedos con un **nervio lesionado** la piel no se arrugaba en el agua, aunque estuviera igual de mojada.
 
 Esto es tan fiable que el test de arrugas en agua se ha usado como una forma sencilla de comprobar si los nervios de la mano funcionan bien.
+
+<!-- unsplash: wet hands holding glass | Manos mojadas sujetando un vaso -->
 
 ## ¿Neumáticos para mojado?
 

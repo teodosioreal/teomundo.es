@@ -11,7 +11,8 @@ secondaryKeywords:
   - "se me duerme el pie"
 datePublished: 2026-10-15
 dateModified: 2026-10-15
-imageQuery: "person sitting on floor holding leg"
+imageQuery: "person sitting crossed legs sofa"
+imageAlt: "Persona sentada en el sofá con las piernas cruzadas"
 keyTakeaways:
   - "Una pierna 'dormida' es una parestesia temporal: la presión mantenida sobre un nervio hace que deje de enviar bien sus señales."
   - "Las 'hormigas' aparecen cuando quitas la presión y el nervio vuelve a funcionar."
@@ -60,6 +61,8 @@ Es molesto, pero es buena señal: significa que el nervio vuelve a funcionar.
 | Durmiendo sobre un brazo | Nervios del brazo (también pasa) | Cambiar de lado |
 
 Cuando te pase, cambia de postura, mueve con suavidad el pie y los dedos y **espera unos segundos antes de levantarte**: con la pierna dormida es fácil tropezar o torcerse un tobillo.
+
+<!-- unsplash: woman stretching legs floor | Mujer estirando las piernas en el suelo -->
 
 ## Hormigueo que no es normal
 

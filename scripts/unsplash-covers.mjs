@@ -83,13 +83,15 @@ for (const file of files) {
   let text = readFileSync(path, 'utf8');
 
   const coverQuery = text.match(/^imageQuery:\s*"?(.+?)"?\s*$/m)?.[1];
+  // Texto alternativo em espanhol (frontmatter imageAlt); sem ele, usa o do Unsplash.
+  const coverAlt = text.match(/^imageAlt:\s*"?(.+?)"?\s*$/m)?.[1];
   if (coverQuery && !/^cover:/m.test(text)) {
     const photo = await pick(coverQuery);
     if (photo) {
       const cover = [
         'cover:',
         `  url: ${yaml(photo.urls.raw)}`,
-        `  alt: ${yaml(altText(photo, coverQuery))}`,
+        `  alt: ${yaml(coverAlt ?? altText(photo, coverQuery))}`,
         `  author: ${yaml(photo.user.name)}`,
         `  authorUrl: ${yaml(utm(photo.user.links.html))}`,
         `  photoUrl: ${yaml(utm(photo.links.html))}`,
@@ -101,8 +103,9 @@ for (const file of files) {
   }
 
   let n = 0;
+  // Marcador no texto: <!-- unsplash: busca em inglês | texto alternativo em espanhol -->
   for (const m of [...text.matchAll(/<!-- unsplash: (.+?) -->/g)]) {
-    const query = m[1].trim();
+    const [query, alt] = m[1].split('|').map((part) => part.trim());
     const photo = await pick(query);
     if (!photo) {
       if (!stopped) report.push(`${slug} | inline | ${query} | NO RESULT`);
@@ -112,7 +115,7 @@ for (const file of files) {
     const raw = photo.urls.raw;
     const figure = [
       '<figure class="article-figure">',
-      `<img src="${esc(sized(raw, 1200))}" srcset="${[640, 960, 1200].map((w) => `${esc(sized(raw, w))} ${w}w`).join(', ')}" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="${esc(altText(photo, query))}" loading="lazy" decoding="async">`,
+      `<img src="${esc(sized(raw, 1200))}" srcset="${[640, 960, 1200].map((w) => `${esc(sized(raw, w))} ${w}w`).join(', ')}" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="${esc(alt || altText(photo, query))}" loading="lazy" decoding="async">`,
       `<figcaption>Foto de <a href="${esc(utm(photo.user.links.html))}" rel="noopener" target="_blank">${esc(photo.user.name)}</a> en <a href="${esc(utm(photo.links.html))}" rel="noopener" target="_blank">Unsplash</a></figcaption>`,
       '</figure>',
     ].join('\n');

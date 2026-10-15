@@ -11,7 +11,8 @@ secondaryKeywords:
   - "por qué estornudo al salir al sol"
 datePublished: 2026-10-15
 dateModified: 2026-10-15
-imageQuery: "person sneezing in the sun"
+imageQuery: "woman sunlight face squinting street"
+imageAlt: "Mujer en la calle con el sol de frente en la cara"
 keyTakeaways:
   - "Estornudar al pasar de la sombra a una luz intensa tiene nombre: reflejo fótico del estornudo, o síndrome ACHOO."
   - "Es hereditario: se transmite de forma autosómica dominante, así que si lo tiene uno de tus padres, tienes un 50 % de probabilidades de tenerlo."
@@ -67,6 +68,8 @@ Como es hereditario, es fácil comprobarlo. Pregunta en el próximo grupo de Wha
 | ¿Le pasa a algún hermano o hermana? | | |
 
 Si salen varios "sí" en la misma rama de la familia, ya sabes de dónde viene.
+
+<!-- unsplash: sunglasses car driving sunny | Gafas de sol en un coche en un día soleado -->
 
 ## Cuando conduces o haces deporte
 

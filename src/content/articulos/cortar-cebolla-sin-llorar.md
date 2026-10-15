@@ -11,7 +11,8 @@ secondaryKeywords:
   - "cebolla y lágrimas"
 datePublished: 2026-10-15
 dateModified: 2026-10-15
-imageQuery: "chopping onion on cutting board"
+imageQuery: "cutting onion knife cutting board"
+imageAlt: "Cuchillo cortando una cebolla sobre una tabla"
 keyTakeaways:
   - "Al cortar la cebolla se rompen sus células y una enzima fabrica un gas irritante, el óxido de propanotial."
   - "Ese gas llega a tus ojos, irrita sus terminaciones nerviosas y las glándulas lagrimales producen lágrimas para limpiarlo."
@@ -67,6 +68,8 @@ No lloras de pena: es un sistema de limpieza automático.
 | Cortar bajo el grifo | Discutido | Puede ayudar con el gas, pero es incómodo y resbaladizo |
 
 Según un científico de alimentos citado por [AARP](https://www.aarp.org/health/healthy-living/how-to-cut-onions-without-crying/), con un cuchillo romo "rompes más células" y liberas más compuestos irritantes.
+
+<!-- unsplash: spanish omelette tortilla | Tortilla de patatas recién hecha -->
 
 ## La cebolla que no hace llorar
 
