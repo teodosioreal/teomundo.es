@@ -12,10 +12,10 @@ secondaryKeywords:
 datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "stomach anatomy illustration"
-imageAlt: "Ilustración del estómago humano"
+imageAlt: "Ilustración del aparato digestivo humano"
 cover:
   url: "https://images.unsplash.com/photo-1743767587835-7a80fe384236?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3RvbWFjaCUyMGFuYXRvbXklMjBpbGx1c3RyYXRpb258ZW58MXwwfHx8MTc5MjA4NTU5OXww&ixlib=rb-4.1.0"
-  alt: "Ilustración del estómago humano"
+  alt: "Ilustración del aparato digestivo humano"
   author: "Aakash Dhage"
   authorUrl: "https://unsplash.com/@aakashdhage?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/a-detailed-diagram-of-the-human-digestive-system-bye_nDbQqEw?utm_source=teomundo&utm_medium=referral"
@@ -61,7 +61,7 @@ La primera defensa es una capa de **moco** que cubre toda la pared interior. Ese
 La segunda defensa es la velocidad. Las células que recubren el aparato digestivo están entre las que más rápido se renuevan de todo el cuerpo, según los cálculos del Instituto Weizmann ([Weizmann](https://wis-wander.weizmann.ac.il/node/11205)). Si alguna se daña, enseguida hay otra nueva para sustituirla.
 
 <figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1563213126-a4273aed2016?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGhhcm1hY3klMjBtZWRpY2luZSUyMGJveHxlbnwxfDB8fHwxNzkyMDg1NjAwfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1563213126-a4273aed2016?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGhhcm1hY3klMjBtZWRpY2luZSUyMGJveHxlbnwxfDB8fHwxNzkyMDg1NjAwfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1563213126-a4273aed2016?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGhhcm1hY3klMjBtZWRpY2luZSUyMGJveHxlbnwxfDB8fHwxNzkyMDg1NjAwfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1563213126-a4273aed2016?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGhhcm1hY3klMjBtZWRpY2luZSUyMGJveHxlbnwxfDB8fHwxNzkyMDg1NjAwfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Caja de medicamentos en una farmacia" loading="lazy" decoding="async">
+<img src="https://images.unsplash.com/photo-1563213126-a4273aed2016?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGhhcm1hY3klMjBtZWRpY2luZSUyMGJveHxlbnwxfDB8fHwxNzkyMDg1NjAwfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1563213126-a4273aed2016?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGhhcm1hY3klMjBtZWRpY2luZSUyMGJveHxlbnwxfDB8fHwxNzkyMDg1NjAwfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1563213126-a4273aed2016?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGhhcm1hY3klMjBtZWRpY2luZSUyMGJveHxlbnwxfDB8fHwxNzkyMDg1NjAwfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1563213126-a4273aed2016?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGhhcm1hY3klMjBtZWRpY2luZSUyMGJveHxlbnwxfDB8fHwxNzkyMDg1NjAwfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona cogiendo una pastilla de un pastillero" loading="lazy" decoding="async">
 <figcaption>Foto de <a href="https://unsplash.com/@laurynasm?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Laurynas Me</a> en <a href="https://unsplash.com/photos/person-about-to-pick-medicine-from-medicine-organizer-1TL8AoEDj_c?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 

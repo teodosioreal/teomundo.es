@@ -12,10 +12,10 @@ secondaryKeywords:
 datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "elderly people talking park bench spain"
-imageAlt: "Personas mayores conversando en un banco de una plaza"
+imageAlt: "Pareja de personas mayores sentada en un banco de un parque"
 cover:
   url: "https://images.unsplash.com/photo-1665586145717-e19f064950bf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWxkZXJseSUyMHBlb3BsZSUyMHRhbGtpbmclMjBwYXJrJTIwYmVuY2glMjBzcGFpbnxlbnwxfDB8fHwxNzkyMDg1NTk3fDA&ixlib=rb-4.1.0"
-  alt: "Personas mayores conversando en un banco de una plaza"
+  alt: "Pareja de personas mayores sentada en un banco de un parque"
   author: "Stephanie Barbour"
   authorUrl: "https://unsplash.com/@my_perspective?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/a-couple-sitting-on-a-bench-T3WIvhGcXHc?utm_source=teomundo&utm_medium=referral"

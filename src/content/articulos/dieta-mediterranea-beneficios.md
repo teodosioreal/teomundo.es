@@ -12,10 +12,10 @@ secondaryKeywords:
 datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "mediterranean food olive oil tomatoes bread fish"
-imageAlt: "Mesa con aceite de oliva, tomates, pan y pescado"
+imageAlt: "Pescado al horno con tomates"
 cover:
   url: "https://images.unsplash.com/photo-1656945764473-6157c129817e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8bWVkaXRlcnJhbmVhbiUyMGZvb2QlMjBvbGl2ZSUyMG9pbCUyMHRvbWF0b2VzJTIwYnJlYWQlMjBmaXNofGVufDF8MHx8fDE3OTIwODU1OTN8MA&ixlib=rb-4.1.0"
-  alt: "Mesa con aceite de oliva, tomates, pan y pescado"
+  alt: "Pescado al horno con tomates"
   author: "Yael Hofnung"
   authorUrl: "https://unsplash.com/@yayosh?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/a-pile-of-sea-shells-8nHA3i7lMo4?utm_source=teomundo&utm_medium=referral"

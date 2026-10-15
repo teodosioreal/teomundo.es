@@ -12,10 +12,10 @@ secondaryKeywords:
 datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "blood vessels illustration red network"
-imageAlt: "Ilustración de una red de vasos sanguíneos"
+imageAlt: "Red de filamentos rojos sobre un fondo oscuro"
 cover:
   url: "https://images.unsplash.com/photo-1667434513820-1758114d8262?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Ymxvb2QlMjB2ZXNzZWxzJTIwaWxsdXN0cmF0aW9uJTIwcmVkJTIwbmV0d29ya3xlbnwxfDB8fHwxNzkyMDg1NjA5fDA&ixlib=rb-4.1.0"
-  alt: "Ilustración de una red de vasos sanguíneos"
+  alt: "Red de filamentos rojos sobre un fondo oscuro"
   author: "and machines"
   authorUrl: "https://unsplash.com/@and_machines?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/a-red-and-blue-nebula-BFXNXvt7yaE?utm_source=teomundo&utm_medium=referral"
@@ -65,7 +65,7 @@ Tu sistema circulatorio tiene tres tipos de vasos:
 Los capilares son tan finos y hay tantísimos, repartidos por todos los tejidos, que suponen la inmensa mayoría de esa longitud total.
 
 <figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWFydGglMjBnbG9iZXxlbnwxfDB8fHwxNzkyMDg1NjEwfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWFydGglMjBnbG9iZXxlbnwxfDB8fHwxNzkyMDg1NjEwfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWFydGglMjBnbG9iZXxlbnwxfDB8fHwxNzkyMDg1NjEwfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWFydGglMjBnbG9iZXxlbnwxfDB8fHwxNzkyMDg1NjEwfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Globo terráqueo" loading="lazy" decoding="async">
+<img src="https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWFydGglMjBnbG9iZXxlbnwxfDB8fHwxNzkyMDg1NjEwfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWFydGglMjBnbG9iZXxlbnwxfDB8fHwxNzkyMDg1NjEwfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWFydGglMjBnbG9iZXxlbnwxfDB8fHwxNzkyMDg1NjEwfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWFydGglMjBnbG9iZXxlbnwxfDB8fHwxNzkyMDg1NjEwfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="La Tierra vista desde el espacio" loading="lazy" decoding="async">
 <figcaption>Foto de <a href="https://unsplash.com/@nasa?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">NASA</a> en <a href="https://unsplash.com/photos/earth-with-clouds-above-the-african-continent-vhSz50AaFAs?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 

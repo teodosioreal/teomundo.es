@@ -60,7 +60,7 @@
 
 | Item | Status | Observação |
 |---|---|---|
-| Imagens nos artigos | 🟡 | 31 de 50 artigos com capa (fotos revisadas uma a uma). Faltam 19 capas e 20 fotos do meio do texto, em 2 rodadas (limite de ~25 fotos/hora da chave gratuita do Unsplash). |
+| Imagens nos artigos | 🟡 | 43 de 50 artigos com capa (fotos revisadas uma a uma). Faltam 7 capas e 9 fotos do meio do texto: 1 última rodada (limite de ~25 fotos/hora da chave gratuita do Unsplash). |
 | Dados do titular em `src/data/owner.mjs` | ⬜ | Nome, NIF/NIE, endereço, e-mail (exigência da lei espanhola LSSI). |
 
 ## Quando pedir a aprovação

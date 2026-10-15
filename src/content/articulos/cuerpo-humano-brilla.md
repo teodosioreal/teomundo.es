@@ -12,10 +12,10 @@ secondaryKeywords:
 datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "human silhouette dark background soft light"
-imageAlt: "Silueta humana sobre un fondo oscuro con una luz tenue"
+imageAlt: "Mano levantada bajo un foco de luz en la oscuridad"
 cover:
   url: "https://images.unsplash.com/photo-1500206329404-5057e0aefa48?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aHVtYW4lMjBzaWxob3VldHRlJTIwZGFyayUyMGJhY2tncm91bmQlMjBzb2Z0JTIwbGlnaHR8ZW58MXwwfHx8MTc5MjA4MTY2OHww&ixlib=rb-4.1.0"
-  alt: "Silueta humana sobre un fondo oscuro con una luz tenue"
+  alt: "Mano levantada bajo un foco de luz en la oscuridad"
   author: "Cherry Laithang"
   authorUrl: "https://unsplash.com/@laicho?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/hand-reaching-upward-in-spotlight-NmPpz1jA_JE?utm_source=teomundo&utm_medium=referral"
@@ -75,7 +75,7 @@ Dos hallazgos curiosos:
 Ojo con el tamaño del estudio: con solo cinco voluntarios no se puede saber cómo cambia en mujeres, niños, personas mayores o enfermas.
 
 <figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1623601716829-179fd5dd9467?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGFyayUyMHJvb20lMjBuaWdodCUyMHdpbmRvd3xlbnwxfDB8fHwxNzkyMDg1NTkyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1623601716829-179fd5dd9467?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGFyayUyMHJvb20lMjBuaWdodCUyMHdpbmRvd3xlbnwxfDB8fHwxNzkyMDg1NTkyfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1623601716829-179fd5dd9467?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGFyayUyMHJvb20lMjBuaWdodCUyMHdpbmRvd3xlbnwxfDB8fHwxNzkyMDg1NTkyfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1623601716829-179fd5dd9467?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGFyayUyMHJvb20lMjBuaWdodCUyMHdpbmRvd3xlbnwxfDB8fHwxNzkyMDg1NTkyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Habitación a oscuras por la noche" loading="lazy" decoding="async">
+<img src="https://images.unsplash.com/photo-1623601716829-179fd5dd9467?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGFyayUyMHJvb20lMjBuaWdodCUyMHdpbmRvd3xlbnwxfDB8fHwxNzkyMDg1NTkyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1623601716829-179fd5dd9467?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGFyayUyMHJvb20lMjBuaWdodCUyMHdpbmRvd3xlbnwxfDB8fHwxNzkyMDg1NTkyfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1623601716829-179fd5dd9467?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGFyayUyMHJvb20lMjBuaWdodCUyMHdpbmRvd3xlbnwxfDB8fHwxNzkyMDg1NTkyfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1623601716829-179fd5dd9467?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGFyayUyMHJvb20lMjBuaWdodCUyMHdpbmRvd3xlbnwxfDB8fHwxNzkyMDg1NTkyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Ventana vista desde una habitación a oscuras" loading="lazy" decoding="async">
 <figcaption>Foto de <a href="https://unsplash.com/@iaman_upadhyay?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Aman Upadhyay</a> en <a href="https://unsplash.com/photos/black-metal-framed-glass-window-TevAfvVqkmM?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 

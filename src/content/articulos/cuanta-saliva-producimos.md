@@ -12,10 +12,10 @@ secondaryKeywords:
 datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "churros with sugar on plate"
-imageAlt: "Churros con azúcar en un plato"
+imageAlt: "Mano cogiendo dulces de un plato"
 cover:
   url: "https://images.unsplash.com/photo-1764665755009-0d7485a85cd7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2h1cnJvcyUyMHdpdGglMjBzdWdhciUyMG9uJTIwcGxhdGV8ZW58MXwwfHx8MTc5MjA4NTU5MXww&ixlib=rb-4.1.0"
-  alt: "Churros con azúcar en un plato"
+  alt: "Mano cogiendo dulces de un plato"
   author: "MIROV"
   authorUrl: "https://unsplash.com/@denmirov?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/a-hand-reaching-for-eclairs-in-a-bowl-8cdWoAJjdxY?utm_source=teomundo&utm_medium=referral"

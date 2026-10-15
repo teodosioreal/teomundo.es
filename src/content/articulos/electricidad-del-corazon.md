@@ -67,10 +67,7 @@ El corazón no necesita una orden del cerebro para latir: su marcapasos funciona
 
 El **electrocardiograma** (ECG) es una prueba sencilla e indolora. Se colocan unos electrodos en el pecho, los brazos y las piernas, y una máquina dibuja la actividad eléctrica del corazón como una línea con picos ([Cedars-Sinai](https://www.cedars-sinai.org/health-topics/anatomy-and-function-of-the-electrical-system)). Esa línea permite ver si el ritmo es regular y si la señal recorre el corazón como debe.
 
-<figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1747699529551-a2d41eaebf93?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGVmaWJyaWxsYXRvciUyMHB1YmxpYyUyMHdhbGx8ZW58MXwwfHx8MTc5MjA4NTU5NXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1747699529551-a2d41eaebf93?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGVmaWJyaWxsYXRvciUyMHB1YmxpYyUyMHdhbGx8ZW58MXwwfHx8MTc5MjA4NTU5NXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1747699529551-a2d41eaebf93?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGVmaWJyaWxsYXRvciUyMHB1YmxpYyUyMHdhbGx8ZW58MXwwfHx8MTc5MjA4NTU5NXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1747699529551-a2d41eaebf93?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGVmaWJyaWxsYXRvciUyMHB1YmxpYyUyMHdhbGx8ZW58MXwwfHx8MTc5MjA4NTU5NXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Desfibrilador colgado en la pared de un lugar público" loading="lazy" decoding="async">
-<figcaption>Foto de <a href="https://unsplash.com/@pixel_shot?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Pixel Shot</a> en <a href="https://unsplash.com/photos/emergency-exit-sign-is-illuminated-on-a-wall-o-54V9Zfq3w?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
-</figure>
+<!-- unsplash: automated external defibrillator AED box | Desfibrilador colgado en la pared de un lugar público -->
 
 ## Cuando el sistema falla
 

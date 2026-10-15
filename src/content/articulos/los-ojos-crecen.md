@@ -12,10 +12,10 @@ secondaryKeywords:
 datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "baby eyes close up"
-imageAlt: "Primer plano de los ojos de un bebé"
+imageAlt: "Primer plano de un ojo"
 cover:
   url: "https://images.unsplash.com/photo-1593792339789-83da33413b61?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmFieSUyMGV5ZXMlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTIwODU2MTB8MA&ixlib=rb-4.1.0"
-  alt: "Primer plano de los ojos de un bebé"
+  alt: "Primer plano de un ojo"
   author: "Daniel Hooper 🌊"
   authorUrl: "https://unsplash.com/@dantakesphotos?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/persons-eye-with-blue-eyes-euajDE7Y7JI?utm_source=teomundo&utm_medium=referral"
