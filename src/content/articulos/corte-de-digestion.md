@@ -86,3 +86,5 @@ Tu checklist antes de meterte al agua:
 Si alguien pierde el conocimiento en el agua, avisa al socorrista y llama al 112.
 
 En tu próximo día de playa o de piscina, cambia la regla de las dos horas por la de entrar poco a poco. Y si te preocupa el calor, lee también [cuánta agua hay que beber al día](/mitos/cuanta-agua-beber-al-dia/). Y si en casa siguen con los avisos de siempre, revisa también [el mito del gorro](/mitos/calor-por-la-cabeza/).
+
+Y si en la playa te encuentras con medusas, repasa [qué hacer ante una picadura de medusa](/cuerpo-y-espana/picadura-de-medusa/).

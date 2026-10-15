@@ -85,3 +85,5 @@ El aceite es muy calórico, así que se trata de **cambiarlo por otras grasas**,
 Si notas problemas de memoria que te preocupan, o los ve alguien de tu familia, consulta con tu médico: ningún alimento sustituye a una valoración profesional.
 
 Un cambio fácil para mañana: la mantequilla del desayuno, por un chorrito de aceite de oliva virgen extra. Y si te preguntas si el jamón ibérico es "aceite de oliva con patas", lee [qué pasa en tu cuerpo cuando comes jamón ibérico](/cuerpo-y-espana/jamon-iberico-salud/). Para entender por qué este aceite está tan ligado a nuestra salud, mira también [por qué los españoles viven tanto](/cuerpo-y-espana/esperanza-de-vida-espana/).
+
+El mismo árbol que nos da el aceite hace estornudar a media Andalucía en primavera: lee [por qué el polen del olivo da tanta alergia](/cuerpo-y-espana/alergia-polen-olivo/).
