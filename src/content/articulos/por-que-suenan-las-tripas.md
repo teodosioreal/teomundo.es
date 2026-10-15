@@ -11,14 +11,8 @@ secondaryKeywords:
   - "tripas que suenan con hambre"
 datePublished: 2026-10-15
 dateModified: 2026-10-15
-imageQuery: "person hungry stomach office"
-imageAlt: "Persona con la mano en el estómago en la oficina"
-cover:
-  url: "https://images.unsplash.com/photo-1758598304204-5bec31342d05?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwaHVuZ3J5JTIwc3RvbWFjaCUyMG9mZmljZXxlbnwxfDB8fHwxNzkyMDc1MzM4fDA&ixlib=rb-4.1.0"
-  alt: "Persona con la mano en el estómago en la oficina"
-  author: "Vitaly Gariev"
-  authorUrl: "https://unsplash.com/@silverkblack?utm_source=teomundo&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/young-woman-winks-and-sticks-tongue-out-playfully-XDUGMtqaE2E?utm_source=teomundo&utm_medium=referral"
+imageQuery: "woman eating lunch at office desk"
+imageAlt: "Mujer comiendo en su mesa de trabajo"
 keyTakeaways:
   - "El ruido de tripas (borborigmos) es el sonido de gas y líquido que el intestino y el estómago empujan con sus movimientos."
   - "Suena más con el estómago vacío, cuando el intestino hace sus contracciones de 'limpieza' entre comidas y aumenta la hormona del hambre, la grelina."

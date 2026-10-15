@@ -64,10 +64,7 @@ Lo que vieron fue que el crujido coincidía con el momento en que **se formaba**
 
 El debate no está cerrado del todo, pero esta es hoy la explicación con más apoyo.
 
-<figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1790259367713-4ea0722c95e7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZCUyMGpvaW50cyUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5MjA3NTMzN3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1790259367713-4ea0722c95e7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZCUyMGpvaW50cyUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5MjA3NTMzN3ww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1790259367713-4ea0722c95e7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZCUyMGpvaW50cyUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5MjA3NTMzN3ww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1790259367713-4ea0722c95e7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZCUyMGpvaW50cyUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5MjA3NTMzN3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Primer plano de los nudillos de una mano" loading="lazy" decoding="async">
-<figcaption>Foto de <a href="https://unsplash.com/@gb_the_green_brand?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">GB The Green Brand</a> en <a href="https://unsplash.com/photos/bearded-man-rolling-cigarette-in-hoodie-yVrw5hrm8Ug?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
-</figure>
+<!-- unsplash: hands interlaced fingers stretching | Manos con los dedos entrelazados estirándose -->
 
 ## Por qué no puedes repetirlo enseguida
 
