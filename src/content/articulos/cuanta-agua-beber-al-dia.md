@@ -11,8 +11,8 @@ secondaryKeywords:
   - "señales de deshidratación"
 datePublished: 2026-10-15
 dateModified: 2026-10-15
-imageQuery: "glass of water gazpacho bowl table"
-imageAlt: "Vaso de agua junto a un cuenco de gazpacho en la mesa"
+imageQuery: "glass of water on table"
+imageAlt: "Vaso de agua sobre una mesa"
 keyTakeaways:
   - "Medio mito: la Autoridad Europea de Seguridad Alimentaria (EFSA) recomienda unos 2 litros de agua al día para mujeres y 2,5 para hombres."
   - "Pero esa cifra incluye el agua de la comida y de todas las bebidas, no solo el agua del grifo o la botella."

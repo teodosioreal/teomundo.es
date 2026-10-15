@@ -12,10 +12,10 @@ secondaryKeywords:
 datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "children birthday party running"
-imageAlt: "Niños jugando en una fiesta de cumpleaños"
+imageAlt: "Niño corriendo entre globos de colores en una fiesta"
 cover:
   url: "https://images.unsplash.com/photo-1765947377925-941c12c84331?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hpbGRyZW4lMjBiaXJ0aGRheSUyMHBhcnR5JTIwcnVubmluZ3xlbnwxfDB8fHwxNzkyMDc2NTQ2fDA&ixlib=rb-4.1.0"
-  alt: "Niños jugando en una fiesta de cumpleaños"
+  alt: "Niño corriendo entre globos de colores en una fiesta"
   author: "Samuel Lopez Cruz"
   authorUrl: "https://unsplash.com/@fotogugu?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/boy-in-paw-patrol-jacket-runs-past-colorful-balloons-RpGbu8YfhyU?utm_source=teomundo&utm_medium=referral"
@@ -69,10 +69,7 @@ Si no es el azúcar, ¿qué es? Probablemente todo lo demás:
 - Horarios distintos y, a veces, menos siesta o sueño.
 - Y las expectativas de los adultos, que buscan señales de "subidón".
 
-<figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1677785464533-d2c5ffeffb64?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJ1aXQlMjBza2V3ZXJzJTIwa2lkcyUyMHNuYWNrfGVufDF8MHx8fDE3OTIwNzY1NDd8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1677785464533-d2c5ffeffb64?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJ1aXQlMjBza2V3ZXJzJTIwa2lkcyUyMHNuYWNrfGVufDF8MHx8fDE3OTIwNzY1NDd8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1677785464533-d2c5ffeffb64?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJ1aXQlMjBza2V3ZXJzJTIwa2lkcyUyMHNuYWNrfGVufDF8MHx8fDE3OTIwNzY1NDd8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1677785464533-d2c5ffeffb64?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJ1aXQlMjBza2V3ZXJzJTIwa2lkcyUyMHNuYWNrfGVufDF8MHx8fDE3OTIwNzY1NDd8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Brochetas de fruta para una merienda infantil" loading="lazy" decoding="async">
-<figcaption>Foto de <a href="https://unsplash.com/@babs_gorniak?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Babs Gorniak</a> en <a href="https://unsplash.com/photos/a-group-of-fruit-lollipops-hanging-from-a-string-3c8nBOl9MZ8?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
-</figure>
+<!-- unsplash: fresh fruit platter | Bandeja de fruta fresca cortada -->
 
 ## Pero el azúcar sigue sin ser buena idea
 

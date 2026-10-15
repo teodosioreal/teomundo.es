@@ -12,10 +12,10 @@ secondaryKeywords:
 datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "razor shaving foam bathroom sink"
-imageAlt: "Cuchilla y espuma de afeitar junto al lavabo"
+imageAlt: "Brocha, espuma y cuchilla de afeitar junto al lavabo"
 cover:
   url: "https://images.unsplash.com/photo-1776843250496-cfd86eb283e7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cmF6b3IlMjBzaGF2aW5nJTIwZm9hbSUyMGJhdGhyb29tJTIwc2lua3xlbnwxfDB8fHwxNzkyMDc2NTQ0fDA&ixlib=rb-4.1.0"
-  alt: "Cuchilla y espuma de afeitar junto al lavabo"
+  alt: "Brocha, espuma y cuchilla de afeitar junto al lavabo"
   author: "David Trinks"
   authorUrl: "https://unsplash.com/@dtrinksrph?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/shaving-brush-and-bowl-with-lather-and-razor-on-sink-foIZv9Oe1zw?utm_source=teomundo&utm_medium=referral"
@@ -65,10 +65,7 @@ El mito tiene su lógica, porque el efecto se nota. La explicación está en la 
 
 Por eso parece más grueso y oscuro, aunque sea exactamente el mismo pelo.
 
-<figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1602005106541-b79126495de7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzaGF2aW5nJTIwbGVnc3xlbnwxfDB8fHwxNzkyMDc2NTQ1fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1602005106541-b79126495de7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzaGF2aW5nJTIwbGVnc3xlbnwxfDB8fHwxNzkyMDc2NTQ1fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1602005106541-b79126495de7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzaGF2aW5nJTIwbGVnc3xlbnwxfDB8fHwxNzkyMDc2NTQ1fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1602005106541-b79126495de7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzaGF2aW5nJTIwbGVnc3xlbnwxfDB8fHwxNzkyMDc2NTQ1fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Mujer afeitándose las piernas" loading="lazy" decoding="async">
-<figcaption>Foto de <a href="https://unsplash.com/@batch_by_whs?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">BATCH by Wisconsin Hemp Scientific</a> en <a href="https://unsplash.com/photos/blue-and-white-labeled-bottle-2EIgQK1Je3E?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
-</figure>
+<!-- unsplash: woman legs beach summer | Piernas de una mujer en la playa en verano -->
 
 ## Cuchilla, cera o láser: qué hace cada una
 

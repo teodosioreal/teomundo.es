@@ -12,10 +12,10 @@ secondaryKeywords:
 datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "family beach mediterranean summer"
-imageAlt: "Familia en una playa del Mediterráneo en verano"
+imageAlt: "Playa de aguas cristalinas rodeada de pinos"
 cover:
   url: "https://images.unsplash.com/photo-1755813964333-bc22c84e5cfb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZmFtaWx5JTIwYmVhY2glMjBtZWRpdGVycmFuZWFuJTIwc3VtbWVyfGVufDF8MHx8fDE3OTIwNzY1NTB8MA&ixlib=rb-4.1.0"
-  alt: "Familia en una playa del Mediterráneo en verano"
+  alt: "Playa de aguas cristalinas rodeada de pinos"
   author: "Julian Henke"
   authorUrl: "https://unsplash.com/@julianhenke?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/tropical-beach-with-clear-blue-water-and-green-trees-ts-gWJjl_Oo?utm_source=teomundo&utm_medium=referral"

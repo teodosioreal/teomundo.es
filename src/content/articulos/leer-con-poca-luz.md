@@ -12,10 +12,10 @@ secondaryKeywords:
 datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "reading book in bed lamp night"
-imageAlt: "Persona leyendo un libro en la cama con una lámpara"
+imageAlt: "Libro abierto iluminado con una guirnalda de luces"
 cover:
   url: "https://images.unsplash.com/photo-1519791883288-dc8bd696e667?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cmVhZGluZyUyMGJvb2slMjBpbiUyMGJlZCUyMGxhbXAlMjBuaWdodHxlbnwxfDB8fHwxNzkyMDc2NTU3fDA&ixlib=rb-4.1.0"
-  alt: "Persona leyendo un libro en la cama con una lámpara"
+  alt: "Libro abierto iluminado con una guirnalda de luces"
   author: "Nong"
   authorUrl: "https://unsplash.com/@californong?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/person-holding-string-lights-on-opened-book-9pw4TKvT3po?utm_source=teomundo&utm_medium=referral"

@@ -11,14 +11,8 @@ secondaryKeywords:
   - "niño se ha tragado un chicle"
 datePublished: 2026-10-15
 dateModified: 2026-10-15
-imageQuery: "child blowing bubble gum"
-imageAlt: "Niña haciendo un globo con un chicle"
-cover:
-  url: "https://images.unsplash.com/photo-1652020797500-70e503813210?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hpbGQlMjBibG93aW5nJTIwYnViYmxlJTIwZ3VtfGVufDF8MHx8fDE3OTIwNzY1NjF8MA&ixlib=rb-4.1.0"
-  alt: "Niña haciendo un globo con un chicle"
-  author: "FETHI BOUHAOUCHINE"
-  authorUrl: "https://unsplash.com/@titouhwayne?utm_source=teomundo&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/a-man-looking-down-at-a-ball-3Yp-sv8WDnw?utm_source=teomundo&utm_medium=referral"
+imageQuery: "chewing gum pack"
+imageAlt: "Paquete de chicles abierto"
 keyTakeaways:
   - "Es un mito: un chicle tragado no se queda siete años en el estómago."
   - "El cuerpo no digiere la goma base, pero la empuja por el intestino y la expulsa en pocos días, como otras cosas que no digerimos."
@@ -59,10 +53,7 @@ Un chicle tiene dos partes:
 
 Que algo no se digiera no significa que se quede dentro. Pasa lo mismo con la piel de algunas semillas o con parte de la fibra de las verduras: el intestino las mueve hacia delante con sus contracciones hasta que salen.
 
-<figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1617627191898-1408bf607b4d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hld2luZyUyMGd1bSUyMHBpZWNlc3xlbnwxfDB8fHwxNzkyMDc2NTYxfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1617627191898-1408bf607b4d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hld2luZyUyMGd1bSUyMHBpZWNlc3xlbnwxfDB8fHwxNzkyMDc2NTYxfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1617627191898-1408bf607b4d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hld2luZyUyMGd1bSUyMHBpZWNlc3xlbnwxfDB8fHwxNzkyMDc2NTYxfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1617627191898-1408bf607b4d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hld2luZyUyMGd1bSUyMHBpZWNlc3xlbnwxfDB8fHwxNzkyMDc2NTYxfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Chicles sobre una mesa" loading="lazy" decoding="async">
-<figcaption>Foto de <a href="https://unsplash.com/@eviefjord?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Evie Fjord</a> en <a href="https://unsplash.com/photos/orange-green-and-pink-candies-wfIaDGcvXOo?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
-</figure>
+<!-- unsplash: person chewing gum smiling | Persona mascando chicle -->
 
 ## El viaje real del chicle
 
