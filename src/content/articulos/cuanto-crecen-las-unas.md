@@ -14,8 +14,8 @@ secondaryKeywords:
   - "cambios en las uñas"
 datePublished: 2026-11-19
 dateModified: 2026-11-19
-imageQuery: "bare hands and feet natural nails on white towel"
-imageAlt: "Manos y pies con las uñas al natural sobre una toalla blanca"
+imageQuery: "hands nails"
+imageAlt: "Manos con las uñas al natural"
 keyTakeaways:
   - "Un estudio con adultos jóvenes sanos midió unos 3,5 mm al mes en las uñas de las manos y unos 1,6 mm en las de los pies: menos de la mitad."
   - "Una uña de la mano tarda al menos seis meses en renovarse entera; la del pie, de 12 a 18 meses."
@@ -80,7 +80,7 @@ También se repite mucho que crecen más en verano. Es posible, pero no hemos en
 
 La uña es una de tantas piezas que tu cuerpo renueva sin que lo notes, como ves en [cuántas células fabricas cada día](/records/celulas-que-se-renuevan/), y, como el pelo, lo que cortas es material sin vida ([cuántos pelos tenemos](/records/cuantos-pelos-tenemos/)).
 
-<!-- unsplash: close up of fingernail with visible half moon lunula | Primer plano de una uña con la lúnula visible -->
+<!-- unsplash: fingernail | Uña de una mano vista de cerca -->
 
 ## Tu uña como calendario
 

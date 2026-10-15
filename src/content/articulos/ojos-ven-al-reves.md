@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-11-09
 dateModified: 2026-11-09
 imageQuery: "hand holding magnifying glass projecting window light on paper"
-imageAlt: "Mano que sostiene una lupa sobre una hoja de papel"
+imageAlt: "Mano que sostiene una lupa a contraluz"
 cover:
   url: "https://images.unsplash.com/photo-1541753401-20908b25d227?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZCUyMGhvbGRpbmclMjBtYWduaWZ5aW5nJTIwZ2xhc3MlMjBwcm9qZWN0aW5nJTIwd2luZG93JTIwbGlnaHQlMjBvbiUyMHBhcGVyfGVufDF8MHx8fDE3OTIxMDAwODZ8MA&ixlib=rb-4.1.0"
-  alt: "Mano que sostiene una lupa sobre una hoja de papel"
+  alt: "Mano que sostiene una lupa a contraluz"
   author: "Rachel Omnès"
   authorUrl: "https://unsplash.com/@kyocan?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/person-holding-magnifying-glass-in-front-of-silhouette-of-two-people-QW_X8p044gQ?utm_source=teomundo&utm_medium=referral"
@@ -73,10 +73,7 @@ Este experimento dura un minuto y no necesitas nada raro:
 
 Esa imagen girada es, en esencia, lo que el cristalino deja en tu retina.
 
-<figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1673915208130-e084836e00cb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWFnbmlmeWluZyUyMGdsYXNzJTIwcHJvamVjdGluZyUyMGltYWdlJTIwb24lMjB3aGl0ZSUyMHBhcGVyfGVufDF8MHx8fDE3OTIxMDAwODd8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1673915208130-e084836e00cb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWFnbmlmeWluZyUyMGdsYXNzJTIwcHJvamVjdGluZyUyMGltYWdlJTIwb24lMjB3aGl0ZSUyMHBhcGVyfGVufDF8MHx8fDE3OTIxMDAwODd8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1673915208130-e084836e00cb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWFnbmlmeWluZyUyMGdsYXNzJTIwcHJvamVjdGluZyUyMGltYWdlJTIwb24lMjB3aGl0ZSUyMHBhcGVyfGVufDF8MHx8fDE3OTIxMDAwODd8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1673915208130-e084836e00cb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWFnbmlmeWluZyUyMGdsYXNzJTIwcHJvamVjdGluZyUyMGltYWdlJTIwb24lMjB3aGl0ZSUyMHBhcGVyfGVufDF8MHx8fDE3OTIxMDAwODd8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Lupa que proyecta una imagen sobre un papel blanco" loading="lazy" decoding="async">
-<figcaption>Foto de <a href="https://unsplash.com/@emmanuelphaeton?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Emmanuel Phaeton</a> en <a href="https://unsplash.com/photos/a-piece-of-paper-with-writing-on-it-7OZULFl51RI?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
-</figure>
+<!-- unsplash: magnifying glass | Lupa sobre una mesa -->
 
 ## ¿De verdad el cerebro la pone del derecho?
 

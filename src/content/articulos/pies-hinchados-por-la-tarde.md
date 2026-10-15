@@ -14,8 +14,8 @@ secondaryKeywords:
   - "hinchazón en una sola pierna"
 datePublished: 2026-11-14
 dateModified: 2026-11-14
-imageQuery: "person trying on shoes in shoe store sitting on bench"
-imageAlt: "Persona probándose zapatos sentada en una tienda"
+imageQuery: "shoes"
+imageAlt: "Zapatos"
 keyTakeaways:
   - "A lo largo del día el líquido tiende a bajar y a acumularse en pies y tobillos, sobre todo si pasas horas de pie o sentado."
   - "Con calor, estar mucho de pie o caminar favorece todavía más la hinchazón."
@@ -75,7 +75,7 @@ La razón es sencilla: con calor, los vasos de la piel se abren para soltar temp
 Si quieres saber qué más le pide el verano a tu circulación, lee [lo que el calor le hace a tu corazón](/cuerpo-y-espana/calor-y-corazon/).
 
 <figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1590072454220-561046bbb667?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzaXR0aW5nJTIwd2l0aCUyMGxlZ3MlMjByYWlzZWQlMjBvbiUyMHNvZmElMjByZXN0aW5nfGVufDF8MHx8fDE3OTIxMDAwOTB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1590072454220-561046bbb667?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzaXR0aW5nJTIwd2l0aCUyMGxlZ3MlMjByYWlzZWQlMjBvbiUyMHNvZmElMjByZXN0aW5nfGVufDF8MHx8fDE3OTIxMDAwOTB8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1590072454220-561046bbb667?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzaXR0aW5nJTIwd2l0aCUyMGxlZ3MlMjByYWlzZWQlMjBvbiUyMHNvZmElMjByZXN0aW5nfGVufDF8MHx8fDE3OTIxMDAwOTB8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1590072454220-561046bbb667?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzaXR0aW5nJTIwd2l0aCUyMGxlZ3MlMjByYWlzZWQlMjBvbiUyMHNvZmElMjByZXN0aW5nfGVufDF8MHx8fDE3OTIxMDAwOTB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Mujer descansando en el sofá con las piernas en alto" loading="lazy" decoding="async">
+<img src="https://images.unsplash.com/photo-1590072454220-561046bbb667?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzaXR0aW5nJTIwd2l0aCUyMGxlZ3MlMjByYWlzZWQlMjBvbiUyMHNvZmElMjByZXN0aW5nfGVufDF8MHx8fDE3OTIxMDAwOTB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1590072454220-561046bbb667?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzaXR0aW5nJTIwd2l0aCUyMGxlZ3MlMjByYWlzZWQlMjBvbiUyMHNvZmElMjByZXN0aW5nfGVufDF8MHx8fDE3OTIxMDAwOTB8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1590072454220-561046bbb667?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzaXR0aW5nJTIwd2l0aCUyMGxlZ3MlMjByYWlzZWQlMjBvbiUyMHNvZmElMjByZXN0aW5nfGVufDF8MHx8fDE3OTIxMDAwOTB8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1590072454220-561046bbb667?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzaXR0aW5nJTIwd2l0aCUyMGxlZ3MlMjByYWlzZWQlMjBvbiUyMHNvZmElMjByZXN0aW5nfGVufDF8MHx8fDE3OTIxMDAwOTB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Mujer descansando tumbada en el sofá" loading="lazy" decoding="async">
 <figcaption>Foto de <a href="https://unsplash.com/@enginakyurt?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">engin akyurt</a> en <a href="https://unsplash.com/photos/woman-in-green-shirt-lying-on-gray-couch-77-c8g157U8?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 

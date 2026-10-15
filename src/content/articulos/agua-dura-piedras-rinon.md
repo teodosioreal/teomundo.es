@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-11-12
 dateModified: 2026-11-12
 imageQuery: "kitchen tap water glass limescale"
-imageAlt: "Vaso de agua bajo un grifo de cocina"
+imageAlt: "Vaso llenándose de agua"
 cover:
   url: "https://images.unsplash.com/photo-1743333601396-9fc5cf8ec344?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8a2l0Y2hlbiUyMHRhcCUyMHdhdGVyJTIwZ2xhc3MlMjBsaW1lc2NhbGV8ZW58MXwwfHx8MTc5MjEwMDA2OHww&ixlib=rb-4.1.0"
-  alt: "Vaso de agua bajo un grifo de cocina"
+  alt: "Vaso llenándose de agua"
   author: "Daniele Romanello"
   authorUrl: "https://unsplash.com/@dannythekid?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/water-is-being-poured-into-a-glass-7RFBmmk7jHc?utm_source=teomundo&utm_medium=referral"
@@ -78,7 +78,7 @@ Una [revisión sistemática de 2020](https://dx.doi.org/10.1007/s11934-020-0968-
 
 Parece un contrasentido, pero tiene lógica. La mayoría de los cálculos son de oxalato cálcico, según la [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/kidney-stones/symptoms-causes/syc-20355755), y el calcio de la comida no aumenta el riesgo. La OMS va más allá: los estudios indican que el calcio de la dieta reduce la frecuencia de los cálculos. Los suplementos de calcio son otra historia, y conviene consultarlos con el médico.
 
-<!-- unsplash: limescale on chrome faucet bathroom | Grifo de baño con restos blancos de cal -->
+<!-- unsplash: faucet | Grifo -->
 
 ## Lo que sí fabrica piedras
 

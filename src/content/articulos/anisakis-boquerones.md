@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-11-07
 dateModified: 2026-11-07
 imageQuery: "marinated anchovies plate parsley garlic"
-imageAlt: "Plato de boquerones en vinagre con ajo y perejil"
+imageAlt: "Plato de boquerones aliñados"
 cover:
   url: "https://images.unsplash.com/photo-1566714637542-e4410b9edc48?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWFyaW5hdGVkJTIwYW5jaG92aWVzJTIwcGxhdGUlMjBwYXJzbGV5JTIwZ2FybGljfGVufDF8MHx8fDE3OTIxMDAwNjl8MA&ixlib=rb-4.1.0"
-  alt: "Plato de boquerones en vinagre con ajo y perejil"
+  alt: "Plato de boquerones aliñados"
   author: "Yoav Hornung"
   authorUrl: "https://unsplash.com/@yoav?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/cooked-fish-on-plate-8-IpqsggI1s?utm_source=teomundo&utm_medium=referral"
@@ -78,7 +78,7 @@ La AESAN incluye en su lista de productos que hay que congelar los boquerones en
 Lo que sí funciona es el calor. Según la AESAN, cocinar, freír, hornear o hacer a la plancha mata al anisakis cuando se alcanzan 60 °C durante al menos un minuto en toda la pieza. Como guía, una pieza de unos 2,5 cm de grosor necesita unos 10 minutos en total, dándole la vuelta a los 5.
 
 <figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1500732917506-30dc38b6477f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlc2glMjBhbmNob3ZpZXMlMjBmaXNoJTIwbWFya2V0JTIwaWNlfGVufDF8MHx8fDE3OTIxMDAwNzB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1500732917506-30dc38b6477f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlc2glMjBhbmNob3ZpZXMlMjBmaXNoJTIwbWFya2V0JTIwaWNlfGVufDF8MHx8fDE3OTIxMDAwNzB8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1500732917506-30dc38b6477f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlc2glMjBhbmNob3ZpZXMlMjBmaXNoJTIwbWFya2V0JTIwaWNlfGVufDF8MHx8fDE3OTIxMDAwNzB8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1500732917506-30dc38b6477f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlc2glMjBhbmNob3ZpZXMlMjBmaXNoJTIwbWFya2V0JTIwaWNlfGVufDF8MHx8fDE3OTIxMDAwNzB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Boquerones frescos sobre hielo en un mostrador de pescadería" loading="lazy" decoding="async">
+<img src="https://images.unsplash.com/photo-1500732917506-30dc38b6477f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlc2glMjBhbmNob3ZpZXMlMjBmaXNoJTIwbWFya2V0JTIwaWNlfGVufDF8MHx8fDE3OTIxMDAwNzB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1500732917506-30dc38b6477f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlc2glMjBhbmNob3ZpZXMlMjBmaXNoJTIwbWFya2V0JTIwaWNlfGVufDF8MHx8fDE3OTIxMDAwNzB8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1500732917506-30dc38b6477f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlc2glMjBhbmNob3ZpZXMlMjBmaXNoJTIwbWFya2V0JTIwaWNlfGVufDF8MHx8fDE3OTIxMDAwNzB8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1500732917506-30dc38b6477f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlc2glMjBhbmNob3ZpZXMlMjBmaXNoJTIwbWFya2V0JTIwaWNlfGVufDF8MHx8fDE3OTIxMDAwNzB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Pescado fresco en cajas con hielo en una pescadería" loading="lazy" decoding="async">
 <figcaption>Foto de <a href="https://unsplash.com/@chuttersnap?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">CHUTTERSNAP</a> en <a href="https://unsplash.com/photos/raw-fish-lot-bmJIOogVW-w?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 

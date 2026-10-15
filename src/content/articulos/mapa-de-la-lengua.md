@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-11-11
 dateModified: 2026-11-11
 imageQuery: "woman tasting spoon kitchen"
-imageAlt: "Mujer probando comida con una cuchara en la cocina"
+imageAlt: "Mujer cocinando en su cocina"
 cover:
   url: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjB0YXN0aW5nJTIwc3Bvb24lMjBraXRjaGVufGVufDF8MHx8fDE3OTIxMDAwODB8MA&ixlib=rb-4.1.0"
-  alt: "Mujer probando comida con una cuchara en la cocina"
+  alt: "Mujer cocinando en su cocina"
   author: "Jason Briscoe"
   authorUrl: "https://unsplash.com/@jsnbrsc?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/woman-cooking-inside-kitchen-room-7MAjXGUmaPw?utm_source=teomundo&utm_medium=referral"
@@ -82,7 +82,7 @@ En 2006, un equipo con Charles Zuker y Nicholas Ryba resumió en la revista *Nat
 Lo que sí está especializado son las células. Cada tipo lleva receptores para un sabor concreto. Lo que no hay es un barrio para cada uno: esas células están repartidas por toda la lengua.
 
 <figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1606814087497-cd8c067c1d7b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3VnYXIlMjBjdWJlcyUyMHNhbHQlMjBhbmQlMjBsZW1vbiUyMG9uJTIwd29vZGVuJTIwdGFibGV8ZW58MXwwfHx8MTc5MjEwMDA4MXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1606814087497-cd8c067c1d7b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3VnYXIlMjBjdWJlcyUyMHNhbHQlMjBhbmQlMjBsZW1vbiUyMG9uJTIwd29vZGVuJTIwdGFibGV8ZW58MXwwfHx8MTc5MjEwMDA4MXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1606814087497-cd8c067c1d7b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3VnYXIlMjBjdWJlcyUyMHNhbHQlMjBhbmQlMjBsZW1vbiUyMG9uJTIwd29vZGVuJTIwdGFibGV8ZW58MXwwfHx8MTc5MjEwMDA4MXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1606814087497-cd8c067c1d7b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3VnYXIlMjBjdWJlcyUyMHNhbHQlMjBhbmQlMjBsZW1vbiUyMG9uJTIwd29vZGVuJTIwdGFibGV8ZW58MXwwfHx8MTc5MjEwMDA4MXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Azúcar, sal y limón sobre una mesa de madera" loading="lazy" decoding="async">
+<img src="https://images.unsplash.com/photo-1606814087497-cd8c067c1d7b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3VnYXIlMjBjdWJlcyUyMHNhbHQlMjBhbmQlMjBsZW1vbiUyMG9uJTIwd29vZGVuJTIwdGFibGV8ZW58MXwwfHx8MTc5MjEwMDA4MXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1606814087497-cd8c067c1d7b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3VnYXIlMjBjdWJlcyUyMHNhbHQlMjBhbmQlMjBsZW1vbiUyMG9uJTIwd29vZGVuJTIwdGFibGV8ZW58MXwwfHx8MTc5MjEwMDA4MXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1606814087497-cd8c067c1d7b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3VnYXIlMjBjdWJlcyUyMHNhbHQlMjBhbmQlMjBsZW1vbiUyMG9uJTIwd29vZGVuJTIwdGFibGV8ZW58MXwwfHx8MTc5MjEwMDA4MXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1606814087497-cd8c067c1d7b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3VnYXIlMjBjdWJlcyUyMHNhbHQlMjBhbmQlMjBsZW1vbiUyMG9uJTIwd29vZGVuJTIwdGFibGV8ZW58MXwwfHx8MTc5MjEwMDA4MXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Terrones de azúcar y galletas sobre una mesa de madera" loading="lazy" decoding="async">
 <figcaption>Foto de <a href="https://unsplash.com/@mhd_zaraei?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">mahmood alzaraei</a> en <a href="https://unsplash.com/photos/white-bread-on-brown-wooden-table-nE3jIvqywBY?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 

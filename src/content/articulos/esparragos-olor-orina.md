@@ -13,8 +13,8 @@ secondaryKeywords:
   - "cuánto dura el olor de los espárragos"
 datePublished: 2026-11-05
 dateModified: 2026-11-05
-imageQuery: "bunch of white and green asparagus on wooden cutting board"
-imageAlt: "Manojos de espárragos blancos y verdes sobre una tabla de madera"
+imageQuery: "asparagus"
+imageAlt: "Espárragos frescos"
 keyTakeaways:
   - "El olor sale del ácido asparagúsico, una sustancia que, según la Cleveland Clinic, solo tiene el espárrago y que el cuerpo convierte en compuestos de azufre volátiles."
   - "Puede notarse entre 15 y 30 minutos después de comer y durar varias horas."
@@ -65,7 +65,7 @@ Lo que más sorprende es la rapidez. La Cleveland Clinic sitúa la aparición de
 
 La curiosidad no es nueva. Benjamin Franklin ya la mencionó en una carta de 1781, citada en el propio estudio del BMJ: unos pocos tallos de espárrago bastan para dar a la orina "un olor desagradable".
 
-<!-- unsplash: wild green asparagus bunch on rustic table | Manojo de espárragos trigueros sobre una mesa rústica -->
+<!-- unsplash: asparagus plate | Plato de espárragos -->
 
 ## La nariz que no se entera
 

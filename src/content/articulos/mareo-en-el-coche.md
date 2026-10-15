@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-11-10
 dateModified: 2026-11-10
 imageQuery: "child sitting in car back seat looking out window"
-imageAlt: "Niño sentado en el asiento trasero de un coche mirando por la ventanilla"
+imageAlt: "Interior de un coche visto desde el asiento trasero"
 cover:
   url: "https://images.unsplash.com/photo-1698069466499-2b908e76ca87?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hpbGQlMjBzaXR0aW5nJTIwaW4lMjBjYXIlMjBiYWNrJTIwc2VhdCUyMGxvb2tpbmclMjBvdXQlMjB3aW5kb3d8ZW58MXwwfHx8MTc5MjEwMDA4Mnww&ixlib=rb-4.1.0"
-  alt: "Niño sentado en el asiento trasero de un coche mirando por la ventanilla"
+  alt: "Interior de un coche visto desde el asiento trasero"
   author: "Xingchen Yan"
   authorUrl: "https://unsplash.com/@xingchenyan?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/a-man-driving-a-car-in-the-dark-4bHOD9yHTNc?utm_source=teomundo&utm_medium=referral"

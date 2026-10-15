@@ -13,8 +13,8 @@ secondaryKeywords:
   - "vitamina C deportistas"
 datePublished: 2026-11-06
 dateModified: 2026-11-06
-imageQuery: "glass of orange juice and tissues on table"
-imageAlt: "Vaso de zumo de naranja junto a unos pañuelos de papel"
+imageQuery: "orange juice"
+imageAlt: "Vaso de zumo de naranja"
 keyTakeaways:
   - "Tomar vitamina C a diario no reduce el número de catarros en la población general, según la revisión Cochrane de 2013."
   - "Tomada de forma regular, acorta los catarros un poco: alrededor de un 8 % en adultos y un 14 % en niños."
@@ -71,7 +71,7 @@ Esto es lo que hace casi todo el mundo, y es justo lo que peor sale. En los ensa
 
 Algún ensayo aislado con dosis muy altas sí vio cierta mejoría, y los autores piden más estudios. Pero hoy no hay base para decir que un zumo, o un sobre efervescente, acorte el catarro que ya tienes.
 
-<!-- unsplash: runners marathon cold weather | Corredores en una carrera con ropa de abrigo en un día frío -->
+<!-- unsplash: runners winter | Corredores con ropa de abrigo -->
 
 ## Maratonianos, esquiadores y soldados en el frío
 
