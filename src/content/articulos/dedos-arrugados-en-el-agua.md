@@ -80,4 +80,4 @@ Un estudio de 2013 de la Universidad de Newcastle encontró que con los dedos ar
 
 Si alguna vez se te arrugan las yemas sin haber estado en el agua, coméntalo con tu médico, porque no es lo habitual.
 
-Hoy, en la ducha o en la bañera, fíjate en cuánto tardan en arrugarse tus dedos. Y si te interesan las reacciones que tu piel hace sola, lee [por qué se nos pone la piel de gallina](/por-que/piel-de-gallina/). Y si tus manos te dan más sorpresas, lee [por qué crujen los dedos](/por-que/por-que-crujen-los-dedos/).
+En tu próxima ducha o baño, fíjate en cuánto tardan en arrugarse tus dedos. Y si te interesan las reacciones que tu piel hace sola, lee [por qué se nos pone la piel de gallina](/por-que/piel-de-gallina/). Y si tus manos te dan más sorpresas, lee [por qué crujen los dedos](/por-que/por-que-crujen-los-dedos/).

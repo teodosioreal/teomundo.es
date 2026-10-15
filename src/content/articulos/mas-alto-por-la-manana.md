@@ -79,4 +79,4 @@ Curiosamente, los estudios con resonancia en astronautas apuntan a que no solo i
 
 Consulta con tu médico si notas que pierdes altura de forma progresiva con los años, si te encorvas cada vez más o si tienes dolor de espalda que no mejora: puede tener relación con la salud de tus huesos.
 
-Hoy, mídete al levantarte y otra vez antes de dormir, y compara. Y para otra curiosidad del cuerpo que se renueva sin que te des cuenta, lee [por qué tu estómago no se digiere a sí mismo](/en-1-minuto/estomago-se-renueva/). Más curiosidades rápidas: [los huesos de más que tiene un bebé](/en-1-minuto/cuantos-huesos-tiene-un-bebe/) y [los olores que distingue tu nariz](/en-1-minuto/cuantos-olores-distingue-la-nariz/).
+Haz la prueba: mídete al levantarte y otra vez antes de dormir, y compara. Y para otra curiosidad del cuerpo que se renueva sin que te des cuenta, lee [por qué tu estómago no se digiere a sí mismo](/en-1-minuto/estomago-se-renueva/). Más curiosidades rápidas: [los huesos de más que tiene un bebé](/en-1-minuto/cuantos-huesos-tiene-un-bebe/) y [los olores que distingue tu nariz](/en-1-minuto/cuantos-olores-distingue-la-nariz/).

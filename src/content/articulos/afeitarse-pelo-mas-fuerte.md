@@ -80,4 +80,4 @@ Por eso parece más grueso y oscuro, aunque sea exactamente el mismo pelo.
 
 Lo que sí puede cambiar el vello son las **hormonas**, la edad, la genética y algunos medicamentos. Si notas que te sale vello de repente en zonas donde antes no tenías, coméntalo con tu médico.
 
-Hoy, si te afeitas, hazlo tranquilo: el pelo no volverá con más fuerza. Y si el próximo plan es la montaña en invierno, mira [si de verdad perdemos el calor por la cabeza](/mitos/calor-por-la-cabeza/). Otros dos mitos de casa que merece la pena revisar: [si leer con poca luz estropea la vista](/mitos/leer-con-poca-luz/) y [si crujirse los dedos da artritis](/mitos/crujir-dedos-artritis/).
+Así que puedes afeitarte tranquilo: el pelo no volverá con más fuerza. Y si el próximo plan es la montaña en invierno, mira [si de verdad perdemos el calor por la cabeza](/mitos/calor-por-la-cabeza/). Otros dos mitos de casa que merece la pena revisar: [si leer con poca luz estropea la vista](/mitos/leer-con-poca-luz/) y [si crujirse los dedos da artritis](/mitos/crujir-dedos-artritis/).

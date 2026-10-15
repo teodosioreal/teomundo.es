@@ -85,4 +85,4 @@ Una de las explicaciones que se estudian es la intensidad de la luz natural, muc
 
 Consulta al oftalmólogo si ves borroso de forma persistente, si el dolor de cabeza se repite a menudo o si un niño entrecierra los ojos para ver de lejos.
 
-Hoy, si vas a leer en la cama, enciende una lámpara de lectura y prueba la regla 20-20-20. Y si te gustan estos mitos de casa, el siguiente es de los más extendidos: [¿afeitarse hace que el pelo salga más fuerte?](/mitos/afeitarse-pelo-mas-fuerte/) Otros dos mitos de toda la vida: [el del 10 % del cerebro](/mitos/mito-10-por-ciento-cerebro/) y [el del calor que se escapa por la cabeza](/mitos/calor-por-la-cabeza/).
+Si vas a leer en la cama esta noche, enciende una lámpara de lectura y prueba la regla 20-20-20. Y si te gustan estos mitos de casa, el siguiente es de los más extendidos: [¿afeitarse hace que el pelo salga más fuerte?](/mitos/afeitarse-pelo-mas-fuerte/) Otros dos mitos de toda la vida: [el del 10 % del cerebro](/mitos/mito-10-por-ciento-cerebro/) y [el del calor que se escapa por la cabeza](/mitos/calor-por-la-cabeza/).

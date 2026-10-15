@@ -85,4 +85,4 @@ Por eso conducir con mucho sueño es peligroso aunque no hayas bebido nada.
 
 Consulta con tu médico si duermes mal casi todas las noches, si te quedas dormido durante el día sin querer o si roncas mucho y te despiertas cansado.
 
-Hoy, si vas a conducir y llevas muchas horas despierto, para a descansar antes de seguir. Y si te interesan los récords del cuerpo, descubre [cuál es el músculo más fuerte](/records/musculo-mas-fuerte/). Y para seguir con récords, descubre [el hueso más pequeño del cuerpo](/records/hueso-mas-pequeno/).
+Si vas a conducir y llevas muchas horas despierto, para a descansar antes de seguir. Y si te interesan los récords del cuerpo, descubre [cuál es el músculo más fuerte](/records/musculo-mas-fuerte/). Y para seguir con récords, descubre [el hueso más pequeño del cuerpo](/records/hueso-mas-pequeno/).

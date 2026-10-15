@@ -82,4 +82,4 @@ Ojo con interpretarlo bien: el grupo 1 indica **lo seguros** que están los expe
 - Equilibra el resto del día con verdura, legumbre, fruta y pescado.
 - Si tienes **hipertensión** o enfermedad renal, consulta con tu médico cuánto puedes tomar.
 
-Hoy, si hay jamón en la mesa, disfrútalo despacio y en un plato pequeño en lugar de picar del paquete. Y si te preguntas por qué en España vivimos tantos años, lee [por qué los españoles viven tanto](/cuerpo-y-espana/esperanza-de-vida-espana/). Y si el jamón va con una copa, conviene leer también [qué le pasa a tu cuerpo con la resaca](/cuerpo-y-espana/resaca-por-que/).
+Cuando haya jamón en la mesa, disfrútalo despacio y en un plato pequeño en lugar de picar del paquete. Y si te preguntas por qué en España vivimos tantos años, lee [por qué los españoles viven tanto](/cuerpo-y-espana/esperanza-de-vida-espana/). Y si el jamón va con una copa, conviene leer también [qué le pasa a tu cuerpo con la resaca](/cuerpo-y-espana/resaca-por-que/).

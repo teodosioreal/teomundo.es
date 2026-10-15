@@ -116,4 +116,4 @@ Por supuesto, también te identifican. En España, al pedir el DNI se toman las 
 
 Y un detalle curioso: aunque tu piel se renueva sin parar, el dibujo de las yemas te acompaña toda la vida, porque sus detalles quedaron fijados antes de nacer. Si te interesa cuánto se renueva tu cuerpo, mira cuántas [células fabricas cada día](/records/celulas-que-se-renuevan/).
 
-Hoy, haz la prueba del móvil con tu índice y el de alguien de tu familia, y compara el dibujo. Y si te gustan los datos sobre cómo te formaste antes de nacer, descubre por qué [los bebés tienen casi 100 huesos más que tú](/en-1-minuto/cuantos-huesos-tiene-un-bebe/).
+Haz la prueba del móvil con tu índice y el de alguien de tu familia, y compara el dibujo. Y si te gustan los datos sobre cómo te formaste antes de nacer, descubre por qué [los bebés tienen casi 100 huesos más que tú](/en-1-minuto/cuantos-huesos-tiene-un-bebe/).

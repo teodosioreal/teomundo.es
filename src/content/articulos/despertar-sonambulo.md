@@ -83,4 +83,4 @@ El sonambulismo es más habitual en la infancia y muchos niños lo superan con e
 
 Consulta con el médico o el pediatra si los episodios son muy frecuentes, si la persona se hace daño, si sale de casa o si aparece de repente en la edad adulta.
 
-Hoy, si en casa hay un sonámbulo, revisa la escalera y las ventanas antes de acostarte. Y si te han gustado estos mitos, vuelve al primero: [¿solo usamos el 10 % del cerebro?](/mitos/mito-10-por-ciento-cerebro/) Para padres con dudas, otros dos mitos útiles: [el del azúcar y los niños](/mitos/azucar-hiperactividad-ninos/) y [el de leer con poca luz](/mitos/leer-con-poca-luz/).
+Si en casa hay un sonámbulo, revisa la escalera y las ventanas antes de acostaros. Y si te han gustado estos mitos, vuelve al primero: [¿solo usamos el 10 % del cerebro?](/mitos/mito-10-por-ciento-cerebro/) Para padres con dudas, otros dos mitos útiles: [el del azúcar y los niños](/mitos/azucar-hiperactividad-ninos/) y [el de leer con poca luz](/mitos/leer-con-poca-luz/).

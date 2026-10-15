@@ -119,4 +119,4 @@ La lista junta los grupos de riesgo que señalan los NIH y un hábito de la tabl
 
 Si marcas varias, coméntalo en tu próxima visita al centro de salud. Y pide cita sin esperar si tienes dolor de huesos, debilidad muscular sin explicación o has tenido una fractura con un golpe leve.
 
-Hoy, si el día acompaña, sal a dar un paseo corto a media mañana con los brazos al aire y apunta pescado azul en la lista de la compra de esta semana. Y para saber por qué en España se vive tanto, lee [la esperanza de vida en España](/cuerpo-y-espana/esperanza-de-vida-espana/). Para otro efecto curioso del sol en el cuerpo, mira [por qué estornudamos al mirar el sol](/por-que/estornudar-con-el-sol/).
+Si el día acompaña, sal a dar un paseo corto a media mañana con los brazos al aire, y apunta pescado azul en la lista de la compra de esta semana. Y para saber por qué en España se vive tanto, lee [la esperanza de vida en España](/cuerpo-y-espana/esperanza-de-vida-espana/). Para otro efecto curioso del sol en el cuerpo, mira [por qué estornudamos al mirar el sol](/por-que/estornudar-con-el-sol/).

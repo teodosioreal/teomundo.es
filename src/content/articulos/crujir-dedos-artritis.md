@@ -79,4 +79,4 @@ La conclusión: crujirse los dedos **no parecía causar artrosis**, ni siquiera 
 
 El sonido viene de dentro de la articulación: al separar los huesos, baja la presión del líquido que la lubrica y se forma una pequeña cavidad de gas. Te lo contamos con detalle en [por qué crujen los dedos](/por-que/por-que-crujen-los-dedos/).
 
-Hoy, si alguien te riñe por crujirte los dedos, cuéntale la historia de Donald Unger. Y si en casa hay niños, el siguiente mito te interesa: [¿el azúcar pone hiperactivos a los niños?](/mitos/azucar-hiperactividad-ninos/) Otro mito que se repite en las oficinas: [el del pelo que sale más fuerte al afeitarse](/mitos/afeitarse-pelo-mas-fuerte/).
+La próxima vez que alguien te riña por crujirte los dedos, cuéntale la historia de Donald Unger. Y si en casa hay niños, el siguiente mito te interesa: [¿el azúcar pone hiperactivos a los niños?](/mitos/azucar-hiperactividad-ninos/) Otro mito que se repite en las oficinas: [el del pelo que sale más fuerte al afeitarse](/mitos/afeitarse-pelo-mas-fuerte/).

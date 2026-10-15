@@ -84,4 +84,4 @@ Consulta con tu médico si notas palpitaciones frecuentes, [latidos](/records/la
 
 Si alguien se desploma y no respira con normalidad: llama al 112, empieza las compresiones en el centro del pecho y pide que traigan un **desfibrilador**. Estos aparatos dan una descarga que puede devolver al corazón su ritmo, y están pensados para que cualquiera pueda usarlos siguiendo sus instrucciones de voz.
 
-Hoy, fíjate dónde está el desfibrilador más cercano a tu casa o tu trabajo. Y para otra curiosidad de tu cuerpo, descubre [cuántos huesos tiene un bebé](/en-1-minuto/cuantos-huesos-tiene-un-bebe/). Más curiosidades rápidas: [tu cuerpo también emite luz](/en-1-minuto/cuerpo-humano-brilla/).
+Fíjate esta semana dónde está el desfibrilador más cercano a tu casa o tu trabajo. Y para otra curiosidad de tu cuerpo, descubre [cuántos huesos tiene un bebé](/en-1-minuto/cuantos-huesos-tiene-un-bebe/). Más curiosidades rápidas: [tu cuerpo también emite luz](/en-1-minuto/cuerpo-humano-brilla/).

@@ -92,4 +92,4 @@ Por eso un vaso de agua y lavarte los dientes al levantarte suele bastar para qu
 
 Consulta con tu médico o tu dentista si tienes la boca seca de forma continua, te cuesta tragar o hablar, o tienes caries con frecuencia: algunos medicamentos y enfermedades reducen la saliva.
 
-Hoy, bebe agua a lo largo del día y fíjate en cuántas veces se te hace la boca agua al oler comida. Y si te gustan los récords del cuerpo, conoce a [la persona más alta de la historia](/records/persona-mas-alta-del-mundo/). Otro récord diario que no notas: [la distancia que recorre un estornudo](/records/velocidad-estornudo/).
+Bebe agua a lo largo del día y fíjate en cuántas veces se te hace la boca agua al oler comida. Y si te gustan los récords del cuerpo, conoce a [la persona más alta de la historia](/records/persona-mas-alta-del-mundo/). Otro récord diario que no notas: [la distancia que recorre un estornudo](/records/velocidad-estornudo/).

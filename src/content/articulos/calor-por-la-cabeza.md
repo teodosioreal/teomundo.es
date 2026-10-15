@@ -76,6 +76,6 @@ Que el mito sea falso no quiere decir que el gorro no sirva. La cara, la cabeza 
 
 Si alguien ha estado mucho rato al frío y tiembla sin parar, está confuso o muy somnoliento, o tiene la piel muy pálida y fría, llama al 112: puede ser una hipotermia.
 
-Hoy, si sales con frío, piensa en capas y no solo en el gorro. Y como el cuerpo también necesita agua en invierno, lee [cuánta agua hay que beber al día](/mitos/cuanta-agua-beber-al-dia/). Y antes de la próxima escapada, repasa otros dos mitos: [el del pelo que sale más fuerte](/mitos/afeitarse-pelo-mas-fuerte/) y [el del corte de digestión](/mitos/corte-de-digestion/).
+La próxima vez que salgas con frío, piensa en capas y no solo en el gorro. Y como el cuerpo también necesita agua en invierno, lee [cuánta agua hay que beber al día](/mitos/cuanta-agua-beber-al-dia/). Y antes de la próxima escapada, repasa otros dos mitos: [el del pelo que sale más fuerte](/mitos/afeitarse-pelo-mas-fuerte/) y [el del corte de digestión](/mitos/corte-de-digestion/).
 
 Y si en casa te decían que no salieras con el pelo mojado, mira [si el pelo mojado te resfría de verdad](/mitos/pelo-mojado-resfriado/).

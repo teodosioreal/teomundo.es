@@ -134,4 +134,4 @@ Consulta con un profesional si notas palpitaciones, nerviosismo o insomnio que r
 
 Y si tienes síntomas de deshidratación real, como orina muy oscura y escasa, mareo o mucha sed, el problema no será el café: bebe agua y, si no mejoras, pide ayuda.
 
-Hoy, haz la cuenta de tus cafés con la tabla de arriba y comprueba en qué cifra estás. Y si te gusta desmontar frases de sobremesa, mira también si [el azúcar pone hiperactivos a los niños](/mitos/azucar-hiperactividad-ninos/).
+Haz la cuenta de tus cafés con la tabla de arriba y comprueba en qué cifra estás. Y si te gusta desmontar frases de sobremesa, mira también si [el azúcar pone hiperactivos a los niños](/mitos/azucar-hiperactividad-ninos/).

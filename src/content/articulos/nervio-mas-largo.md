@@ -136,4 +136,4 @@ Ve **a urgencias o llama al 112** si:
 
 Son señales de que pueden estar comprimidos los nervios de la parte más baja de la columna, la llamada cola de caballo, y necesitan atención inmediata. No conduzcas tú: que te lleve alguien.
 
-Hoy, si pasas muchas horas sentado, ponte una alarma para levantarte y caminar unos minutos cada hora; tu ciático lo agradecerá. Y para seguir con los récords del cuerpo, descubre [cuál es el músculo más fuerte](/records/musculo-mas-fuerte/).
+Si pasas muchas horas sentado, ponte una alarma para levantarte y caminar unos minutos cada hora; tu ciático lo agradecerá. Y para seguir con los récords del cuerpo, descubre [cuál es el músculo más fuerte](/records/musculo-mas-fuerte/).
