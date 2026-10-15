@@ -152,5 +152,5 @@ export const stickyBar = {
 // Comentários nos artigos (Cloudflare D1 + Pages Functions, pasta functions/).
 // Cada comentário fica pendente até ser aprovado em https://teomundo.es/moderar
 export const comments = {
-  active: true,
+  active: false,
 };

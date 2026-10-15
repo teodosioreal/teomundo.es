@@ -38,7 +38,7 @@
 - **Astro 7**, site estático, `trailingSlash: 'always'`. **Tailwind CSS v4** (`src/styles/global.css`, classe `.article-body`).
 - Deploy previsto: GitHub → **Cloudflare Pages** (`public/_redirects` no formato do Cloudflare). Confirme com o usuário de qual branch o site publica antes de dizer que algo "foi ao ar".
 - **Zero JavaScript por padrão.** Só há JS quando `analytics.ga4Id` (medição de cliques) ou `stickyBar.active` (botão de fechar) estão ligados, e no bloco de comentários.
-- **Comentários** (`comments.active` em `site.ts`): componente `Comments.astro` + Cloudflare Pages Functions em `functions/` (`/api/comentarios` e painel `/moderar`, login `admin` + secret `ADMIN_PASSWORD`). Banco Cloudflare D1 com binding `DB` (tabela criada sozinha). Secret opcional `IP_SALT`. Todo comentário entra como pendente. `public/_routes.json` limita as Functions a `/api/*` e `/moderar`. Teste local: `npx wrangler pages dev dist --d1 DB=teste --binding ADMIN_PASSWORD=x`.
+- **Comentários** (`comments.active` em `site.ts`, **desligado** por decisão do dono; não mencionar comentários no site enquanto estiver desligado): componente `Comments.astro` + Cloudflare Pages Functions em `functions/` (`/api/comentarios` e painel `/moderar`, login `admin` + secret `ADMIN_PASSWORD`). Banco Cloudflare D1 com binding `DB` (tabela criada sozinha). Secret opcional `IP_SALT`. Todo comentário entra como pendente. `public/_routes.json` limita as Functions a `/api/*` e `/moderar`. Teste local: `npx wrangler pages dev dist --d1 DB=teste --binding ADMIN_PASSWORD=x`.
 
 ### 5.1 Estrutura
 

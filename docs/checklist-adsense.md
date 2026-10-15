@@ -19,7 +19,7 @@
 | Página "Transparência" (opcional) | ✅ | Coberta pela /politica-editorial/ (fontes, correções, publicidade). |
 | Link visível para a Home | ✅ | Logo + breadcrumb "Inicio" em todas as páginas. |
 | Links para redes sociais (Instagram e Facebook) | ⬜ | Precisa criar os perfis e me passar os links. |
-| Comentários ativos nos artigos | 🟡 | Código pronto e testado (todos os artigos, com moderação em /moderar). Falta você criar o banco D1 e as 2 senhas na Cloudflare (passo a passo no relatório). |
+| Comentários ativos nos artigos | ➖ | Desligados por decisão do dono (15/10/2026); o Google não exige comentários. O site não mostra nem menciona comentários. O código fica guardado: para religar, `comments.active = true` em `site.ts` + banco D1 e senhas na Cloudflare. |
 | Artigos relacionados no final dos posts | ✅ | "Sigue leyendo", "Más guías de…", "Te puede interesar" e navegação anterior/seguinte. |
 
 ## Conteúdo

@@ -64,7 +64,10 @@ import { owner } from '../data/owner.mjs';
       <strong>Mensajes:</strong> si nos escribes por correo, usamos tus datos solo para responderte.
     </li>
   </ul>
-  <p>{site.name} no tiene formularios de registro ni vende datos personales. Los comentarios se guardan en los servidores de nuestro proveedor de alojamiento (Cloudflare).</p>
+  <p>
+    {site.name} no tiene formularios de registro ni vende datos personales.
+    {comments.active && ' Los comentarios se guardan en los servidores de nuestro proveedor de alojamiento (Cloudflare).'}
+  </p>
 
   <h2>Tus derechos</h2>
   <p>
