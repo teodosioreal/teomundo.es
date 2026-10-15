@@ -15,10 +15,10 @@ secondaryKeywords:
 datePublished: 2026-11-18
 dateModified: 2026-11-18
 imageQuery: "petri dish"
-imageAlt: "Placa de Petri en un laboratorio"
+imageAlt: "Placa de Petri con colonias de bacterias"
 cover:
   url: "https://images.unsplash.com/photo-1535127022272-dbe7ee35cf33?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGV0cmklMjBkaXNofGVufDF8MHx8fDE3OTIxMDM3MTV8MA&ixlib=rb-4.1.0"
-  alt: "Placa de Petri en un laboratorio"
+  alt: "Placa de Petri con colonias de bacterias"
   author: "Michael Schiffer"
   authorUrl: "https://unsplash.com/@michael_schiffer_design?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/scope-image-13UugSL9q7A?utm_source=teomundo&utm_medium=referral"
@@ -98,7 +98,7 @@ El estómago tiene tan pocas porque es muy ácido; lo explicamos en [qué pasa c
 El dato cambia incluso a lo largo del día: según el estudio, cada vez que vas al baño el contenido del colon baja entre una cuarta parte y un tercio.
 
 <figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1708436477916-f97964f3ccf1?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGVudGlsc3xlbnwxfDB8fHwxNzkyMTAzNzE1fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1708436477916-f97964f3ccf1?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGVudGlsc3xlbnwxfDB8fHwxNzkyMTAzNzE1fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1708436477916-f97964f3ccf1?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGVudGlsc3xlbnwxfDB8fHwxNzkyMTAzNzE1fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1708436477916-f97964f3ccf1?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGVudGlsc3xlbnwxfDB8fHwxNzkyMTAzNzE1fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Plato de lentejas" loading="lazy" decoding="async">
+<img src="https://images.unsplash.com/photo-1708436477916-f97964f3ccf1?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGVudGlsc3xlbnwxfDB8fHwxNzkyMTAzNzE1fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1708436477916-f97964f3ccf1?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGVudGlsc3xlbnwxfDB8fHwxNzkyMTAzNzE1fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1708436477916-f97964f3ccf1?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGVudGlsc3xlbnwxfDB8fHwxNzkyMTAzNzE1fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1708436477916-f97964f3ccf1?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGVudGlsc3xlbnwxfDB8fHwxNzkyMTAzNzE1fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Mano junto a cuencos de lentejas y otras legumbres" loading="lazy" decoding="async">
 <figcaption>Foto de <a href="https://unsplash.com/@fotoinshadows?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Monika Borys</a> en <a href="https://unsplash.com/photos/a-person-touching-a-bowl-of-lentils-on-a-table-Vznty-DJTIk?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 

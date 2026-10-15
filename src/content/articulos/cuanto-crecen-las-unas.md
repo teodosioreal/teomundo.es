@@ -15,10 +15,10 @@ secondaryKeywords:
 datePublished: 2026-11-19
 dateModified: 2026-11-19
 imageQuery: "hands nails"
-imageAlt: "Manos con las uñas al natural"
+imageAlt: "Mano de mujer con las uñas cuidadas"
 cover:
   url: "https://images.unsplash.com/photo-1630843599725-32ead7671867?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZHMlMjBuYWlsc3xlbnwxfDB8fHwxNzkyMTAzNzE2fDA&ixlib=rb-4.1.0"
-  alt: "Manos con las uñas al natural"
+  alt: "Mano de mujer con las uñas cuidadas"
   author: "Ellie Eshaghi"
   authorUrl: "https://unsplash.com/@eliiesh?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/persons-hand-with-white-manicure-DtoWpHt2_d8?utm_source=teomundo&utm_medium=referral"
@@ -87,7 +87,7 @@ También se repite mucho que crecen más en verano. Es posible, pero no hemos en
 La uña es una de tantas piezas que tu cuerpo renueva sin que lo notes, como ves en [cuántas células fabricas cada día](/records/celulas-que-se-renuevan/), y, como el pelo, lo que cortas es material sin vida ([cuántos pelos tenemos](/records/cuantos-pelos-tenemos/)).
 
 <figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1610992015732-2449b76344bc?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8ZmluZ2VybmFpbHxlbnwxfDB8fHwxNzkyMTAzNzE3fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1610992015732-2449b76344bc?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8ZmluZ2VybmFpbHxlbnwxfDB8fHwxNzkyMTAzNzE3fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1610992015732-2449b76344bc?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8ZmluZ2VybmFpbHxlbnwxfDB8fHwxNzkyMTAzNzE3fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1610992015732-2449b76344bc?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8ZmluZ2VybmFpbHxlbnwxfDB8fHwxNzkyMTAzNzE3fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Uña de una mano vista de cerca" loading="lazy" decoding="async">
+<img src="https://images.unsplash.com/photo-1610992015732-2449b76344bc?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8ZmluZ2VybmFpbHxlbnwxfDB8fHwxNzkyMTAzNzE3fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1610992015732-2449b76344bc?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8ZmluZ2VybmFpbHxlbnwxfDB8fHwxNzkyMTAzNzE3fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1610992015732-2449b76344bc?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8ZmluZ2VybmFpbHxlbnwxfDB8fHwxNzkyMTAzNzE3fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1610992015732-2449b76344bc?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8ZmluZ2VybmFpbHxlbnwxfDB8fHwxNzkyMTAzNzE3fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Manos apoyadas sobre una manta" loading="lazy" decoding="async">
 <figcaption>Foto de <a href="https://unsplash.com/@jd_chon?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Chelson Tamares</a> en <a href="https://unsplash.com/photos/persons-hand-on-white-textile-SyCC0GQi5S4?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 

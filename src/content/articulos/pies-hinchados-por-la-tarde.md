@@ -14,14 +14,8 @@ secondaryKeywords:
   - "hinchazón en una sola pierna"
 datePublished: 2026-11-14
 dateModified: 2026-11-14
-imageQuery: "shoes"
-imageAlt: "Zapatos"
-cover:
-  url: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c2hvZXN8ZW58MXwwfHx8MTc5MjEwMzcyMXww&ixlib=rb-4.1.0"
-  alt: "Zapatos"
-  author: "Ryan Waring"
-  authorUrl: "https://unsplash.com/@ryanwaring?utm_source=teomundo&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/unpaired-red-nike-sneaker-164_6wVEHfI?utm_source=teomundo&utm_medium=referral"
+imageQuery: "bare feet wooden floor"
+imageAlt: "Pies descalzos sobre un suelo de madera"
 keyTakeaways:
   - "A lo largo del día el líquido tiende a bajar y a acumularse en pies y tobillos, sobre todo si pasas horas de pie o sentado."
   - "Con calor, estar mucho de pie o caminar favorece todavía más la hinchazón."

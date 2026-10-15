@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-11-05
 dateModified: 2026-11-05
 imageQuery: "asparagus"
-imageAlt: "Espárragos frescos"
+imageAlt: "Espárragos verdes sobre una tabla de madera"
 cover:
   url: "https://images.unsplash.com/photo-1519590350802-eb212e2ea536?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YXNwYXJhZ3VzfGVufDF8MHx8fDE3OTIxMDM3MTh8MA&ixlib=rb-4.1.0"
-  alt: "Espárragos frescos"
+  alt: "Espárragos verdes sobre una tabla de madera"
   author: "Christine Siracusa"
   authorUrl: "https://unsplash.com/@christine_siracusa?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/brown-chopping-board-1xGKxpCoM5s?utm_source=teomundo&utm_medium=referral"
@@ -72,7 +72,7 @@ Lo que más sorprende es la rapidez. La Cleveland Clinic sitúa la aparición de
 La curiosidad no es nueva. Benjamin Franklin ya la mencionó en una carta de 1781, citada en el propio estudio del BMJ: unos pocos tallos de espárrago bastan para dar a la orina "un olor desagradable".
 
 <figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1624286596970-90a84003edad?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YXNwYXJhZ3VzJTIwcGxhdGV8ZW58MXwwfHx8MTc5MjEwMzcxOHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1624286596970-90a84003edad?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YXNwYXJhZ3VzJTIwcGxhdGV8ZW58MXwwfHx8MTc5MjEwMzcxOHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1624286596970-90a84003edad?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YXNwYXJhZ3VzJTIwcGxhdGV8ZW58MXwwfHx8MTc5MjEwMzcxOHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1624286596970-90a84003edad?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YXNwYXJhZ3VzJTIwcGxhdGV8ZW58MXwwfHx8MTc5MjEwMzcxOHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Plato de espárragos" loading="lazy" decoding="async">
+<img src="https://images.unsplash.com/photo-1624286596970-90a84003edad?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YXNwYXJhZ3VzJTIwcGxhdGV8ZW58MXwwfHx8MTc5MjEwMzcxOHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1624286596970-90a84003edad?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YXNwYXJhZ3VzJTIwcGxhdGV8ZW58MXwwfHx8MTc5MjEwMzcxOHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1624286596970-90a84003edad?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YXNwYXJhZ3VzJTIwcGxhdGV8ZW58MXwwfHx8MTc5MjEwMzcxOHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1624286596970-90a84003edad?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YXNwYXJhZ3VzJTIwcGxhdGV8ZW58MXwwfHx8MTc5MjEwMzcxOHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Plato de espárragos verdes con salsa" loading="lazy" decoding="async">
 <figcaption>Foto de <a href="https://unsplash.com/@grissphoto?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Max Griss</a> en <a href="https://unsplash.com/photos/green-vegetable-on-white-ceramic-plate-EgrdbjewvxI?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 
