@@ -11,7 +11,7 @@ secondaryKeywords:
   - "carne procesada OMS"
 datePublished: 2026-10-15
 dateModified: 2026-10-15
-imageQuery: "sliced iberian ham plate"
+imageQuery: "spanish ham"
 imageAlt: "Plato con lonchas de jamón ibérico cortado a cuchillo"
 keyTakeaways:
   - "La grasa del jamón ibérico de bellota es rica en ácido oleico, la misma grasa principal del aceite de oliva, gracias a la alimentación con bellotas."

@@ -11,14 +11,8 @@ secondaryKeywords:
   - "la lengua es el músculo más fuerte"
 datePublished: 2026-10-15
 dateModified: 2026-10-15
-imageQuery: "person biting apple close up"
+imageQuery: "woman eating apple"
 imageAlt: "Persona mordiendo una manzana en primer plano"
-cover:
-  url: "https://images.unsplash.com/photo-1783320712574-0764a0c7172e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwYml0aW5nJTIwYXBwbGUlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTIwODgxNzJ8MA&ixlib=rb-4.1.0"
-  alt: "Persona mordiendo una manzana en primer plano"
-  author: "atelierbyvineeth ..."
-  authorUrl: "https://unsplash.com/@atelierbyvineeth?utm_source=teomundo&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/distressed-woman-biting-her-hand-in-black-and-white-3TfqyPYWR3Q?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "No hay una sola respuesta: depende de cómo se mida la fuerza."
   - "Por su peso, el más fuerte es el masetero, el músculo principal de la masticación; en fuerza total destacan el glúteo mayor y el sóleo."

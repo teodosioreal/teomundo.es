@@ -11,7 +11,7 @@ secondaryKeywords:
   - "Sultan Kösen"
 datePublished: 2026-10-15
 dateModified: 2026-10-15
-imageQuery: "tall doorway silhouette"
+imageQuery: "tall man standing doorway"
 imageAlt: "Silueta de una persona junto a una puerta alta"
 keyTakeaways:
   - "Según Guinness, la persona más alta de la historia es el estadounidense Robert Wadlow, que llegó a medir 2,72 metros."

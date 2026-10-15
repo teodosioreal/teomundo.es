@@ -64,10 +64,7 @@ Lo que más diferencia el interior de la costa es la humedad del aire:
 | Sensación de calor | Calor intenso pero "seco" | El mismo calor se siente más |
 | Noches de verano | Refresca más por la noche | Noches más cálidas y pegajosas |
 
-<figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1748522665760-5fb038eecbdf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWVkaXRlcnJhbmVhbiUyMGJlYWNoJTIwcHJvbWVuYWRlJTIwc3BhaW58ZW58MXwwfHx8MTc5MjA4ODE3OXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1748522665760-5fb038eecbdf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWVkaXRlcnJhbmVhbiUyMGJlYWNoJTIwcHJvbWVuYWRlJTIwc3BhaW58ZW58MXwwfHx8MTc5MjA4ODE3OXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1748522665760-5fb038eecbdf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWVkaXRlcnJhbmVhbiUyMGJlYWNoJTIwcHJvbWVuYWRlJTIwc3BhaW58ZW58MXwwfHx8MTc5MjA4ODE3OXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1748522665760-5fb038eecbdf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWVkaXRlcnJhbmVhbiUyMGJlYWNoJTIwcHJvbWVuYWRlJTIwc3BhaW58ZW58MXwwfHx8MTc5MjA4ODE3OXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Paseo marítimo junto a una playa mediterránea" loading="lazy" decoding="async">
-<figcaption>Foto de <a href="https://unsplash.com/@tdponcet?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Theo</a> en <a href="https://unsplash.com/photos/beach-day-with-a-volleyball-and-beer-money-DqQhK5OftvU?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
-</figure>
+<!-- unsplash: beach promenade palm trees spain | Paseo marítimo con palmeras junto a la playa -->
 
 ## Por qué el calor de la costa agobia más
 

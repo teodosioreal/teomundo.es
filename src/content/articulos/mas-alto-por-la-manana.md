@@ -59,10 +59,7 @@ Entre cada vértebra de la columna hay un **disco intervertebral**, una especie 
 
 Multiplica ese pequeño cambio por los discos de toda la columna y tienes el centímetro o dos que pierdes al día.
 
-<figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1650578668287-09338a8c904c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YXN0cm9uYXV0JTIwc3BhY2UlMjBzdGF0aW9ufGVufDF8MHx8fDE3OTIwODgxNzF8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1650578668287-09338a8c904c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YXN0cm9uYXV0JTIwc3BhY2UlMjBzdGF0aW9ufGVufDF8MHx8fDE3OTIwODgxNzF8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1650578668287-09338a8c904c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YXN0cm9uYXV0JTIwc3BhY2UlMjBzdGF0aW9ufGVufDF8MHx8fDE3OTIwODgxNzF8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1650578668287-09338a8c904c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YXN0cm9uYXV0JTIwc3BhY2UlMjBzdGF0aW9ufGVufDF8MHx8fDE3OTIwODgxNzF8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Astronauta en una estación espacial" loading="lazy" decoding="async">
-<figcaption>Foto de <a href="https://unsplash.com/@isword?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Muha Ajjan</a> en <a href="https://unsplash.com/photos/a-clock-with-a-person-on-it--sD8NfDe2vY?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
-</figure>
+<!-- unsplash: tape measure height wall | Cinta métrica para medir la altura en la pared -->
 
 ## Los astronautas crecen
 
