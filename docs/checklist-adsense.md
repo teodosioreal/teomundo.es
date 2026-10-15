@@ -11,7 +11,7 @@
 
 | Item | Status | Observação |
 |---|---|---|
-| Menu com pelo menos 5 categorias e todas as páginas obrigatórias | 🟡 | 1 de 5 categorias (¿Por qué?). As outras 4 da pauta (Mitos, Cuerpo y España, Récords, En 1 minuto) entram no menu sozinhas ao publicar o 1º artigo de cada. |
+| Menu com pelo menos 5 categorias e todas as páginas obrigatórias | 🟡 | 2 de 5 categorias (¿Por qué?, Mitos). Faltam Cuerpo y España, Récords e En 1 minuto, que entram no menu sozinhas ao publicar o 1º artigo de cada. |
 | Página "Sobre" | ✅ | /sobre-nosotros/ |
 | Política de Privacidade (obrigatória) | ✅ | /politica-de-privacidad/ (RGPD) + /politica-de-cookies/ |
 | Página "Contato" | 🟡 | Existe (/contacto/), mas falta o **e-mail real**. Fica fora do Google até ter e-mail. |
@@ -26,8 +26,8 @@
 
 | Item | Status | Observação |
 |---|---|---|
-| Pelo menos 50 artigos publicados | 🟡 | **10 de 50.** A pauta-mestre já tem os 50 temas. |
-| Cada categoria com no mínimo 6 artigos | 🟡 | ¿Por qué?: 10 ✅ · Mitos: 0 · Cuerpo y España: 0 · Récords: 0 · En 1 minuto: 0 |
+| Pelo menos 50 artigos publicados | 🟡 | **20 de 50.** A pauta-mestre já tem os 50 temas. |
+| Cada categoria com no mínimo 6 artigos | 🟡 | ¿Por qué?: 10 ✅ · Mitos: 10 ✅ · Cuerpo y España: 0 · Récords: 0 · En 1 minuto: 0 |
 | Conteúdo 100% original e de qualidade | ✅ | Texto próprio, com fontes verificadas. |
 | Estratégia do Oceano Azul | ✅ | Nicho "curiosidades verificadas do corpo" com ângulo espanhol (siesta, cena tarde, calor). |
 | Sem erros de ortografia ou gramática | ✅ | Revisado em espanhol da Espanha. Revisar a cada artigo novo. |
@@ -59,7 +59,7 @@
 
 | Item | Status | Observação |
 |---|---|---|
-| Imagens nos artigos | ✅ | 10 de 10 artigos com capa + 1 foto no meio do texto (Unsplash, com crédito e alt em espanhol). Rodar o workflow a cada artigo novo. |
+| Imagens nos artigos | ✅ | 20 de 20 artigos com capa e foto no meio do texto (falta só a foto do meio do artigo do chiclete, que entra na próxima busca). Unsplash, com crédito e alt em espanhol, revisadas uma a uma. |
 | Dados do titular em `src/data/owner.mjs` | ⬜ | Nome, NIF/NIE, endereço, e-mail (exigência da lei espanhola LSSI). |
 
 ## Quando pedir a aprovação
