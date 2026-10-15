@@ -15,6 +15,12 @@ datePublished: 2026-11-06
 dateModified: 2026-11-06
 imageQuery: "orange juice"
 imageAlt: "Vaso de zumo de naranja"
+cover:
+  url: "https://images.unsplash.com/photo-1613478223719-2ab802602423?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8b3JhbmdlJTIwanVpY2V8ZW58MXwwfHx8MTc5MjEwMzcyMnww&ixlib=rb-4.1.0"
+  alt: "Vaso de zumo de naranja"
+  author: "Mateusz Feliksik"
+  authorUrl: "https://unsplash.com/@mateusz_feliksik?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/orange-juice-in-clear-drinking-glass-TmOGarNOGFs?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Tomar vitamina C a diario no reduce el número de catarros en la población general, según la revisión Cochrane de 2013."
   - "Tomada de forma regular, acorta los catarros un poco: alrededor de un 8 % en adultos y un 14 % en niños."
@@ -71,7 +77,10 @@ Esto es lo que hace casi todo el mundo, y es justo lo que peor sale. En los ensa
 
 Algún ensayo aislado con dosis muy altas sí vio cierta mejoría, y los autores piden más estudios. Pero hoy no hay base para decir que un zumo, o un sobre efervescente, acorte el catarro que ya tienes.
 
-<!-- unsplash: runners winter | Corredores con ropa de abrigo -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1645238426817-8c3e7d1396cf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cnVubmVycyUyMHdpbnRlcnxlbnwxfDB8fHwxNzkyMTAzNzIzfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1645238426817-8c3e7d1396cf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cnVubmVycyUyMHdpbnRlcnxlbnwxfDB8fHwxNzkyMTAzNzIzfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1645238426817-8c3e7d1396cf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cnVubmVycyUyMHdpbnRlcnxlbnwxfDB8fHwxNzkyMTAzNzIzfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1645238426817-8c3e7d1396cf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cnVubmVycyUyMHdpbnRlcnxlbnwxfDB8fHwxNzkyMTAzNzIzfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Corredores con ropa de abrigo" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@greg_rosenke?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Greg Rosenke</a> en <a href="https://unsplash.com/photos/a-group-of-people-running-down-a-dirt-road-LyORqx-3O-c?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Maratonianos, esquiadores y soldados en el frío
 

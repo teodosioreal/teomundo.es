@@ -15,6 +15,12 @@ datePublished: 2026-11-17
 dateModified: 2026-11-17
 imageQuery: "insect repellent spray arm"
 imageAlt: "Persona aplicándose repelente en el brazo"
+cover:
+  url: "https://images.unsplash.com/photo-1664815546036-f29d22dc93fc?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aW5zZWN0JTIwcmVwZWxsZW50JTIwc3ByYXklMjBhcm18ZW58MXwwfHx8MTc5MjEwMzcxOXww&ixlib=rb-4.1.0"
+  alt: "Persona aplicándose repelente en el brazo"
+  author: "Flüm France"
+  authorUrl: "https://unsplash.com/@flumfrance?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-hand-holding-a-small-black-device-VQIcTFbPmdg?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El mosquito tigre (Aedes albopictus) se detectó en España en 2004, en Cataluña, y hoy ocupa prácticamente todo el litoral mediterráneo y Baleares."
   - "A diferencia del mosquito común, pica sobre todo de día y al aire libre: terrazas, balcones y parques."
