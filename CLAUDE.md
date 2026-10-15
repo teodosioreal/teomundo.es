@@ -10,7 +10,7 @@
 ## 2. O negócio
 
 - Blog informativo em `https://teomundo.es`, público da Espanha.
-- **Nicho:** [PENDENTE: o usuário ainda vai definir]. As categorias ficam em `categories` (`src/data/site.ts`).
+- **Nicho:** "curiosidades verificadas do seu corpo no dia a dia" (leituras de ~1 minuto, sempre com fonte, ligadas à rotina espanhola). Pauta-mestre com 50 temas em 5 categorias: ¿Por qué?, Mitos, Cuerpo y España, Récords, En 1 minuto. Artigos de 300–600 palavras, com box "En resumen", FAQ e fontes. Categorias em `categories` (`src/data/site.ts`); hoje só `por-que` (pautas 1–10 publicadas).
 - **Monetização planejada:** Google AdSense (desligado até `adsense.client` ser preenchido).
 - **Prioridade do dono:** mais páginas por visita. Todo artigo dá um próximo passo claro (blocos de leitura, links internos), **sem clickbait** nem dividir artigo em páginas.
 - Afiliados, produtos ou reviews: **pergunte antes**; exigem mudar as páginas legais e identificar a publicidade (LSSI art. 20).
@@ -121,7 +121,7 @@ Use botões para **links internos** úteis, nunca para imitar anúncios nem para
 
 ## 8. Prontidão para o AdSense
 
-- [ ] Nicho e categorias definidos
+- [x] Nicho definido (curiosidades do corpo); criar as próximas categorias conforme a pauta
 - [ ] Dados reais do titular em `owner.mjs` (nome, NIF, endereço, e-mail)
 - [ ] ~20–30 artigos originais e interligados
 - [ ] Imagens (secret `UNSPLASH_ACCESS_KEY`)

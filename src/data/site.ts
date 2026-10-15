@@ -3,8 +3,8 @@
 export const site = {
   name: 'TeoMundo',
   url: 'https://teomundo.es',
-  // [PENDIENTE] Ajustar quando o nicho estiver definido.
-  description: 'Guías claras y prácticas para resolver dudas del día a día, escritas con fuentes fiables.',
+  description:
+    'Curiosidades verificadas de tu cuerpo en el día a día: por qué pasa lo que pasa, explicado en un minuto y con fuentes científicas.',
   locale: 'es_ES',
   lang: 'es-ES',
 };
@@ -30,13 +30,13 @@ export type Category = {
 //     description: '...',
 //   },
 export const categories: Record<string, Category> = {
-  salud: {
-    name: 'Salud y bienestar',
-    title: 'Guías de salud y bienestar | TeoMundo',
+  'por-que': {
+    name: '¿Por qué?',
+    title: '¿Por qué pasa? Curiosidades del cuerpo | TeoMundo',
     metaDescription:
-      'Guías claras sobre molestias cotidianas: por qué pasan, qué puedes probar en casa y cuándo conviene ir al médico.',
+      'Hipo, piel de gallina, bostezos, dedos que crujen: por qué tu cuerpo hace lo que hace, explicado en un minuto y con fuentes científicas.',
     description:
-      'Molestias de todos los días explicadas con calma: por qué pasan, qué puedes probar en casa y las señales que piden una visita al médico.',
+      'Hipo, piel de gallina, bostezos contagiosos, tripas que suenan: lo que tu cuerpo hace cada día, explicado en un minuto y con fuentes científicas.',
   },
 };
 

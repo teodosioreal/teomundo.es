@@ -1,2 +1,4 @@
 # Redirecionamentos (formato Cloudflare Pages): /caminho-antigo/ /caminho-novo/ 301
 /sitemap.xml /sitemap-index.xml 301
+/salud/ /por-que/ 301
+/salud/como-quitar-el-hipo/ /por-que/como-quitar-el-hipo/ 301

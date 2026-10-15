@@ -2,7 +2,7 @@
 title: "Cómo quitar el hipo: por qué nos da y 9 trucos"
 description: "Cómo quitar el hipo con 9 trucos sencillos, por qué nos da, cómo evitar que vuelva y cuándo el hipo persistente pide una visita al médico."
 h1: "Cómo quitar el hipo: por qué nos da y trucos que puedes probar ya"
-category: salud
+category: por-que
 primaryKeyword: "cómo quitar el hipo"
 secondaryKeywords:
   - "quitar el hipo rápido"
@@ -37,7 +37,11 @@ sources:
     url: "https://medlineplus.gov/spanish/ency/article/003068.htm"
   - title: "NHS (servicio de salud del Reino Unido): Hiccups"
     url: "https://www.nhs.uk/symptoms/hiccups/"
-related: []
+related:
+  - por-que-suenan-las-tripas
+  - estornudar-con-el-sol
+  - sacudida-al-dormirse
+next: estornudar-con-el-sol
 ---
 
 ¡Hic! Ese sonidito siempre aparece en el peor momento posible.
@@ -65,7 +69,7 @@ El diafragma está conectado a nervios muy sensibles, como el nervio frénico y 
 Estas son las causas más habituales, según [Mayo Clinic](https://www.mayoclinic.org/es/diseases-conditions/hiccups/symptoms-causes/syc-20352613):
 
 - Comer demasiado rápido o en grandes cantidades.
-- Beber refrescos con gas o cerveza.
+- Beber refrescos con gas o cerveza (el mismo gas que a veces hace [sonar las tripas](/por-que/por-que-suenan-las-tripas/)).
 - Tomar alcohol en exceso.
 - Comidas muy picantes o muy calientes.
 - Cambios bruscos de temperatura, como un helado tras un café.
@@ -229,4 +233,4 @@ Recapitulemos los puntos clave:
 
 ¿Tienes hipo ahora mismo? Coge aire, aguántalo 15 segundos y, si sigue, ve a por el vaso de agua fría. Y si conoces a alguien que siempre está con el "¡hic!", pásale este artículo.
 
-Y guárdalo en favoritos: la próxima vez que te pille, ya sabrás qué hacer.
+Y guárdalo en favoritos: la próxima vez que te pille, ya sabrás qué hacer. Mientras tanto, descubre otro reflejo curioso: [por qué estornudas al mirar el sol](/por-que/estornudar-con-el-sol/).

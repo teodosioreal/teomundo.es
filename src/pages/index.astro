@@ -34,8 +34,7 @@ const sitePages = [
   { label: 'Contacto', href: '/contacto/', text: 'Avísanos de un error o sugiérenos un tema.' },
 ];
 
-// [PENDIENTE] Ajustar title/description/h1 da home quando o nicho estiver definido.
-const title = `${site.name}: guías claras para el día a día`;
+const title = `${site.name}: curiosidades verificadas de tu cuerpo`;
 const description = site.description;
 
 const jsonLd = [
@@ -60,7 +59,7 @@ const jsonLd = [
 <BaseLayout title={title} description={description} jsonLd={jsonLd}>
   <section class="border-b border-line bg-brand-50">
     <div class="container-page py-14 sm:py-20">
-      <h1 class="max-w-3xl text-4xl font-bold sm:text-5xl">Guías claras para las dudas de todos los días</h1>
+      <h1 class="max-w-3xl text-4xl font-bold sm:text-5xl">Lo que tu cuerpo hace cada día, explicado en un minuto</h1>
       <div class="prose-width mt-6 space-y-4 text-lg text-ink">
         <p>{site.description}</p>
       </div>
