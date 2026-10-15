@@ -121,6 +121,8 @@ Use botões para **links internos** úteis, nunca para imitar anúncios nem para
 
 ## 8. Prontidão para o AdSense
 
+> **Regra do dono:** o objetivo atual é completar o checklist de aprovação do AdSense em `docs/checklist-adsense.md`. **Ao final de toda resposta**, atualize esse arquivo se algo mudou e lembre o usuário, em 2–3 linhas: (1) quantos itens faltam, (2) o próximo passo, (3) quando poderemos pedir a aprovação.
+
 - [x] Nicho definido (curiosidades do corpo); criar as próximas categorias conforme a pauta
 - [ ] Dados reais do titular em `owner.mjs` (nome, NIF, endereço, e-mail)
 - [ ] ~20–30 artigos originais e interligados
