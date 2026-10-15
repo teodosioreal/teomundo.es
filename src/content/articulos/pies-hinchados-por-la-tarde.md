@@ -15,10 +15,10 @@ secondaryKeywords:
 datePublished: 2026-11-14
 dateModified: 2026-11-14
 imageQuery: "bare feet wooden floor"
-imageAlt: "Pies descalzos sobre un suelo de madera"
+imageAlt: "Piernas y pies descalzos sobre el suelo de madera de una sauna"
 cover:
   url: "https://images.unsplash.com/photo-1759216853171-aa134e50d558?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmFyZSUyMGZlZXQlMjB3b29kZW4lMjBmbG9vcnxlbnwxfDB8fHwxNzkyMTAzNzc4fDA&ixlib=rb-4.1.0"
-  alt: "Pies descalzos sobre un suelo de madera"
+  alt: "Piernas y pies descalzos sobre el suelo de madera de una sauna"
   author: "HUUM"
   authorUrl: "https://unsplash.com/@huumsauna?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/woman-standing-next-to-a-sauna-heater-with-stones-hKxBVcRX8qU?utm_source=teomundo&utm_medium=referral"
