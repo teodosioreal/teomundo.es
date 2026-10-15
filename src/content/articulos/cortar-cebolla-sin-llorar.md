@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "cutting onion knife cutting board"
 imageAlt: "Cuchillo cortando una cebolla sobre una tabla"
+cover:
+  url: "https://images.unsplash.com/photo-1690944250252-71a40fa6fccf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y3V0dGluZyUyMG9uaW9uJTIwa25pZmUlMjBjdXR0aW5nJTIwYm9hcmR8ZW58MXwwfHx8MTc5MjA3NTMyNHww&ixlib=rb-4.1.0"
+  alt: "Cuchillo cortando una cebolla sobre una tabla"
+  author: "Meagan Stone"
+  authorUrl: "https://unsplash.com/@meaganstonephotography?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-person-chopping-onions-on-a-cutting-board-wAoExtOVzXg?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Al cortar la cebolla se rompen sus células y una enzima fabrica un gas irritante, el óxido de propanotial."
   - "Ese gas llega a tus ojos, irrita sus terminaciones nerviosas y las glándulas lagrimales producen lágrimas para limpiarlo."
@@ -69,7 +75,10 @@ No lloras de pena: es un sistema de limpieza automático.
 
 Según un científico de alimentos citado por [AARP](https://www.aarp.org/health/healthy-living/how-to-cut-onions-without-crying/), con un cuchillo romo "rompes más células" y liberas más compuestos irritantes.
 
-<!-- unsplash: spanish omelette tortilla | Tortilla de patatas recién hecha -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1639669794539-952631b44515?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3BhbmlzaCUyMG9tZWxldHRlJTIwdG9ydGlsbGF8ZW58MXwwfHx8MTc5MjA3NTMyNXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1639669794539-952631b44515?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3BhbmlzaCUyMG9tZWxldHRlJTIwdG9ydGlsbGF8ZW58MXwwfHx8MTc5MjA3NTMyNXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1639669794539-952631b44515?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3BhbmlzaCUyMG9tZWxldHRlJTIwdG9ydGlsbGF8ZW58MXwwfHx8MTc5MjA3NTMyNXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1639669794539-952631b44515?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3BhbmlzaCUyMG9tZWxldHRlJTIwdG9ydGlsbGF8ZW58MXwwfHx8MTc5MjA3NTMyNXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Tortilla de patatas recién hecha" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@blackieshoot?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">blackieshoot</a> en <a href="https://unsplash.com/photos/a-close-up-of-a-piece-of-food-on-a-plate-z4CQtd07u5k?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## La cebolla que no hace llorar
 

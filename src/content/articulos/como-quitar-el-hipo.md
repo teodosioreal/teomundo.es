@@ -15,6 +15,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "woman drinking glass of water kitchen"
 imageAlt: "Mujer bebiendo un vaso de agua en la cocina"
+cover:
+  url: "https://images.unsplash.com/photo-1756312177990-d771bfeaa030?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBkcmlua2luZyUyMGdsYXNzJTIwb2YlMjB3YXRlciUyMGtpdGNoZW58ZW58MXwwfHx8MTc5MjA3NTMyMXww&ixlib=rb-4.1.0"
+  alt: "Mujer bebiendo un vaso de agua en la cocina"
+  author: "Centre for Ageing Better"
+  authorUrl: "https://unsplash.com/@ageing_better?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-filling-a-glass-with-water-from-a-kitchen-faucet-EFr2VO8st2U?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El hipo es un espasmo involuntario del diafragma y casi siempre se va solo en unos minutos."
   - "Aguantar la respiración, el agua muy fría o una cucharadita de azúcar son trucos sencillos y sin riesgo; prueba uno y, si no funciona, pasa al siguiente."
@@ -92,7 +98,10 @@ Hay dos tipos de hipo que conviene distinguir:
 
 Si el tuyo es del primer tipo, estás de suerte. Vamos a lo que has venido a buscar.
 
-<!-- unsplash: person holding breath hand on chest | Persona aguantando la respiración con la mano en el pecho -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1769029270011-8be0623cd87b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwaG9sZGluZyUyMGJyZWF0aCUyMGhhbmQlMjBvbiUyMGNoZXN0fGVufDF8MHx8fDE3OTIwNzUzMjJ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1769029270011-8be0623cd87b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwaG9sZGluZyUyMGJyZWF0aCUyMGhhbmQlMjBvbiUyMGNoZXN0fGVufDF8MHx8fDE3OTIwNzUzMjJ8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1769029270011-8be0623cd87b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwaG9sZGluZyUyMGJyZWF0aCUyMGhhbmQlMjBvbiUyMGNoZXN0fGVufDF8MHx8fDE3OTIwNzUzMjJ8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1769029270011-8be0623cd87b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwaG9sZGluZyUyMGJyZWF0aCUyMGhhbmQlMjBvbiUyMGNoZXN0fGVufDF8MHx8fDE3OTIwNzUzMjJ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona aguantando la respiración con la mano en el pecho" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@sasun1990?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Sasun Bughdaryan</a> en <a href="https://unsplash.com/photos/woman-performing-breast-self-examination-against-a-teal-background-VQIPaW8jsUs?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Cómo quitar el hipo: 9 trucos para probar
 

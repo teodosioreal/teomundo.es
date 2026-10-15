@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "hand in swimming pool water"
 imageAlt: "Mano dentro del agua de una piscina"
+cover:
+  url: "https://images.unsplash.com/photo-1562844275-857f6e7c429e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZCUyMGluJTIwc3dpbW1pbmclMjBwb29sJTIwd2F0ZXJ8ZW58MXwwfHx8MTc5MjA3NTMyNnww&ixlib=rb-4.1.0"
+  alt: "Mano dentro del agua de una piscina"
+  author: "Fakhri Labib"
+  authorUrl: "https://unsplash.com/@fahrilabib?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-person-is-floating-in-a-pool-with-an-inflatable-raft-zlSgTORpbQ0?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Las arrugas de los dedos en el agua no son solo piel que absorbe agua: las provoca el sistema nervioso al estrechar los vasos sanguíneos bajo la piel."
   - "La prueba: en dedos con nervios dañados, las arrugas no aparecen."
@@ -52,7 +58,10 @@ La prueba más clara llegó hace casi un siglo. En los años treinta, los médic
 
 Esto es tan fiable que el test de arrugas en agua se ha usado como una forma sencilla de comprobar si los nervios de la mano funcionan bien.
 
-<!-- unsplash: wet hands holding glass | Manos mojadas sujetando un vaso -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1549372691-289fcc650e4e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2V0JTIwaGFuZHMlMjBob2xkaW5nJTIwZ2xhc3N8ZW58MXwwfHx8MTc5MjA3NTMyN3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1549372691-289fcc650e4e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2V0JTIwaGFuZHMlMjBob2xkaW5nJTIwZ2xhc3N8ZW58MXwwfHx8MTc5MjA3NTMyN3ww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1549372691-289fcc650e4e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2V0JTIwaGFuZHMlMjBob2xkaW5nJTIwZ2xhc3N8ZW58MXwwfHx8MTc5MjA3NTMyN3ww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1549372691-289fcc650e4e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2V0JTIwaGFuZHMlMjBob2xkaW5nJTIwZ2xhc3N8ZW58MXwwfHx8MTc5MjA3NTMyN3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Manos mojadas sujetando un vaso" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@kimdonkey?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Manki Kim</a> en <a href="https://unsplash.com/photos/person-holding-clear-glass-cup-with-half-filled-water-12Kb5ynfxso?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## ¿Neumáticos para mojado?
 

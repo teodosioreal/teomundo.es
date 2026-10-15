@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "hands stretching fingers desk laptop"
 imageAlt: "Manos estirando los dedos junto a un portátil"
+cover:
+  url: "https://images.unsplash.com/photo-1513530534585-c7b1394c6d51?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZHMlMjBzdHJldGNoaW5nJTIwZmluZ2VycyUyMGRlc2slMjBsYXB0b3B8ZW58MXwwfHx8MTc5MjA3NTMzNnww&ixlib=rb-4.1.0"
+  alt: "Manos estirando los dedos junto a un portátil"
+  author: "NordWood Themes"
+  authorUrl: "https://unsplash.com/@nordwood?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/person-wearing-watch-near-laptop-kRNZiGKtz48?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El crujido viene del líquido que lubrica la articulación: al separar los huesos, baja la presión y se forma una cavidad de gas."
   - "Un estudio con resonancia magnética en tiempo real (2015) vio que el ruido coincide con la formación de esa cavidad."
@@ -58,7 +64,10 @@ Lo que vieron fue que el crujido coincidía con el momento en que **se formaba**
 
 El debate no está cerrado del todo, pero esta es hoy la explicación con más apoyo.
 
-<!-- unsplash: hand joints close up | Primer plano de los nudillos de una mano -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1790259367713-4ea0722c95e7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZCUyMGpvaW50cyUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5MjA3NTMzN3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1790259367713-4ea0722c95e7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZCUyMGpvaW50cyUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5MjA3NTMzN3ww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1790259367713-4ea0722c95e7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZCUyMGpvaW50cyUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5MjA3NTMzN3ww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1790259367713-4ea0722c95e7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZCUyMGpvaW50cyUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5MjA3NTMzN3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Primer plano de los nudillos de una mano" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@gb_the_green_brand?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">GB The Green Brand</a> en <a href="https://unsplash.com/photos/bearded-man-rolling-cigarette-in-hoodie-yVrw5hrm8Ug?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Por qué no puedes repetirlo enseguida
 

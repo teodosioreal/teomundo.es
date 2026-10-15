@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "goosebumps skin arm macro"
 imageAlt: "Primer plano de la piel de un brazo con piel de gallina"
+cover:
+  url: "https://images.unsplash.com/photo-1710580889701-9fa8f2cd5927?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z29vc2VidW1wcyUyMHNraW4lMjBhcm0lMjBtYWNyb3xlbnwxfDB8fHwxNzkyMDc1MzMxfDA&ixlib=rb-4.1.0"
+  alt: "Primer plano de la piel de un brazo con piel de gallina"
+  author: "engin akyurt"
+  authorUrl: "https://unsplash.com/@enginakyurt?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-close-up-view-of-a-persons-skin-oSHy8iUzMRk?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "La piel de gallina aparece cuando se contraen los músculos diminutos unidos a cada pelo, por orden del sistema nervioso simpático."
   - "La provocan el frío y las emociones fuertes: miedo, sorpresa o una canción que te llega."
@@ -59,7 +65,10 @@ Piensa en un gato asustado o en un pájaro en invierno. Al erizar el pelo o las 
 
 Nosotros tenemos muy poco pelo, así que ninguna de las dos funciones nos sirve de mucho. La reacción se ha quedado como un recuerdo de nuestro pasado evolutivo.
 
-<!-- unsplash: person listening music headphones eyes closed | Persona escuchando música con auriculares y los ojos cerrados -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1718382341267-aef8a9e4ecef?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwbGlzdGVuaW5nJTIwbXVzaWMlMjBoZWFkcGhvbmVzJTIwZXllcyUyMGNsb3NlZHxlbnwxfDB8fHwxNzkyMDc1MzMyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1718382341267-aef8a9e4ecef?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwbGlzdGVuaW5nJTIwbXVzaWMlMjBoZWFkcGhvbmVzJTIwZXllcyUyMGNsb3NlZHxlbnwxfDB8fHwxNzkyMDc1MzMyfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1718382341267-aef8a9e4ecef?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwbGlzdGVuaW5nJTIwbXVzaWMlMjBoZWFkcGhvbmVzJTIwZXllcyUyMGNsb3NlZHxlbnwxfDB8fHwxNzkyMDc1MzMyfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1718382341267-aef8a9e4ecef?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwbGlzdGVuaW5nJTIwbXVzaWMlMjBoZWFkcGhvbmVzJTIwZXllcyUyMGNsb3NlZHxlbnwxfDB8fHwxNzkyMDc1MzMyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona escuchando música con auriculares y los ojos cerrados" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@cipriann?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Ciocan Ciprian</a> en <a href="https://unsplash.com/photos/a-man-with-headphones-on-looking-at-the-mountains-IFlTsdoU9Mo?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Por qué una canción te eriza la piel
 

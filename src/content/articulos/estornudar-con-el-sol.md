@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "woman sunlight face squinting street"
 imageAlt: "Mujer en la calle con el sol de frente en la cara"
+cover:
+  url: "https://images.unsplash.com/photo-1629711759672-fe55c5f0e22b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzdW5saWdodCUyMGZhY2UlMjBzcXVpbnRpbmclMjBzdHJlZXR8ZW58MXwwfHx8MTc5MjA3NTMyOHww&ixlib=rb-4.1.0"
+  alt: "Mujer en la calle con el sol de frente en la cara"
+  author: "iam_os"
+  authorUrl: "https://unsplash.com/@iam_os?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-in-brown-long-sleeve-shirt-BZh2kPmAtOk?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Estornudar al pasar de la sombra a una luz intensa tiene nombre: reflejo fótico del estornudo, o síndrome ACHOO."
   - "Es hereditario: se transmite de forma autosómica dominante, así que si lo tiene uno de tus padres, tienes un 50 % de probabilidades de tenerlo."
@@ -69,7 +75,10 @@ Como es hereditario, es fácil comprobarlo. Pregunta en el próximo grupo de Wha
 
 Si salen varios "sí" en la misma rama de la familia, ya sabes de dónde viene.
 
-<!-- unsplash: sunglasses car driving sunny | Gafas de sol en un coche en un día soleado -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1577803645773-f96470509666?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3VuZ2xhc3NlcyUyMGNhciUyMGRyaXZpbmclMjBzdW5ueXxlbnwxfDB8fHwxNzkyMDc1MzMwfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1577803645773-f96470509666?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3VuZ2xhc3NlcyUyMGNhciUyMGRyaXZpbmclMjBzdW5ueXxlbnwxfDB8fHwxNzkyMDc1MzMwfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1577803645773-f96470509666?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3VuZ2xhc3NlcyUyMGNhciUyMGRyaXZpbmclMjBzdW5ueXxlbnwxfDB8fHwxNzkyMDc1MzMwfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1577803645773-f96470509666?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3VuZ2xhc3NlcyUyMGNhciUyMGRyaXZpbmclMjBzdW5ueXxlbnwxfDB8fHwxNzkyMDc1MzMwfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Gafas de sol en un coche en un día soleado" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@sebcomantravel?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Sebastian Coman Travel</a> en <a href="https://unsplash.com/photos/white-framed-brown-lens-sunglasses-dtOTQYmTEs0?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Cuando conduces o haces deporte
 

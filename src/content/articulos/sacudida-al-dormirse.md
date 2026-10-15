@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "person sleeping bed night"
 imageAlt: "Persona durmiendo en la cama por la noche"
+cover:
+  url: "https://images.unsplash.com/photo-1531353826977-0941b4779a1c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc2xlZXBpbmclMjBiZWQlMjBuaWdodHxlbnwxfDB8fHwxNzkyMDc1MzQwfDA&ixlib=rb-4.1.0"
+  alt: "Persona durmiendo en la cama por la noche"
+  author: "Greg Pappas"
+  authorUrl: "https://unsplash.com/@vagabondage?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-sleeping-on-bed-under-blankets-rUc9hVE-L-E?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El salto al quedarte dormido se llama sacudida hipnagógica o mioclonía hípnica, y es muy común."
   - "No se sabe con certeza por qué ocurre; la cafeína, el estrés y el cansancio pueden hacerla más frecuente."
@@ -59,7 +65,10 @@ Lo que sí se ha observado, según la [Sleep Foundation](https://www.sleepfounda
 
 Seguro que lo has leído: "el salto es un reflejo heredado de nuestros antepasados primates, que se despertaban de golpe para no caerse del árbol". Es una historia bonita, pero **no hay pruebas** de que sea así. Es una hipótesis popular, no una explicación científica comprobada.
 
-<!-- unsplash: cup of coffee afternoon | Taza de café por la tarde -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1506619216599-9d16d0903dfd?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y3VwJTIwb2YlMjBjb2ZmZWUlMjBhZnRlcm5vb258ZW58MXwwfHx8MTc5MjA3NTM0MXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1506619216599-9d16d0903dfd?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y3VwJTIwb2YlMjBjb2ZmZWUlMjBhZnRlcm5vb258ZW58MXwwfHx8MTc5MjA3NTM0MXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1506619216599-9d16d0903dfd?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y3VwJTIwb2YlMjBjb2ZmZWUlMjBhZnRlcm5vb258ZW58MXwwfHx8MTc5MjA3NTM0MXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1506619216599-9d16d0903dfd?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y3VwJTIwb2YlMjBjb2ZmZWUlMjBhZnRlcm5vb258ZW58MXwwfHx8MTc5MjA3NTM0MXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Taza de café por la tarde" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@jckbck?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Jakub Dziubak</a> en <a href="https://unsplash.com/photos/brown-ceramic-teacup-XtUd5SiX464?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Tu checklist para una noche más tranquila
 

@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "person sitting crossed legs sofa"
 imageAlt: "Persona sentada en el sofá con las piernas cruzadas"
+cover:
+  url: "https://images.unsplash.com/photo-1509836110402-0003c4a0cd35?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc2l0dGluZyUyMGNyb3NzZWQlMjBsZWdzJTIwc29mYXxlbnwxfDB8fHwxNzkyMDc1MzMzfDA&ixlib=rb-4.1.0"
+  alt: "Persona sentada en el sofá con las piernas cruzadas"
+  author: "Duncan Shaffer"
+  authorUrl: "https://unsplash.com/@duncan_shaffer?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/man-in-gray-jacket-sitting-on-couch-kO_aq67TmBc?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Una pierna 'dormida' es una parestesia temporal: la presión mantenida sobre un nervio hace que deje de enviar bien sus señales."
   - "Las 'hormigas' aparecen cuando quitas la presión y el nervio vuelve a funcionar."
@@ -62,7 +68,10 @@ Es molesto, pero es buena señal: significa que el nervio vuelve a funcionar.
 
 Cuando te pase, cambia de postura, mueve con suavidad el pie y los dedos y **espera unos segundos antes de levantarte**: con la pierna dormida es fácil tropezar o torcerse un tobillo.
 
-<!-- unsplash: woman stretching legs floor | Mujer estirando las piernas en el suelo -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1621691211095-fe4b38f21788?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzdHJldGNoaW5nJTIwbGVncyUyMGZsb29yfGVufDF8MHx8fDE3OTIwNzUzMzR8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1621691211095-fe4b38f21788?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzdHJldGNoaW5nJTIwbGVncyUyMGZsb29yfGVufDF8MHx8fDE3OTIwNzUzMzR8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1621691211095-fe4b38f21788?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzdHJldGNoaW5nJTIwbGVncyUyMGZsb29yfGVufDF8MHx8fDE3OTIwNzUzMzR8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1621691211095-fe4b38f21788?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzdHJldGNoaW5nJTIwbGVncyUyMGZsb29yfGVufDF8MHx8fDE3OTIwNzUzMzR8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Mujer estirando las piernas en el suelo" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@photosbychalo?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Chalo Garcia</a> en <a href="https://unsplash.com/photos/woman-in-white-sports-bra-and-black-leggings-doing-yoga-_o7DFimchMg?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Hormigueo que no es normal
 

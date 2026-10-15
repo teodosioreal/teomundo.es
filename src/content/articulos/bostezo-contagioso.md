@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "person yawning"
 imageAlt: "Persona bostezando"
+cover:
+  url: "https://images.unsplash.com/photo-1618517047922-d18a5a36c109?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIweWF3bmluZ3xlbnwxfDB8fHwxNzkyMDc1MzIwfDA&ixlib=rb-4.1.0"
+  alt: "Persona bostezando"
+  author: "Sander Sammy"
+  authorUrl: "https://unsplash.com/@sammywilliams?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/man-in-white-long-sleeve-shirt-DIBwWsoshGE?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Nadie sabe con certeza para qué sirve el bostezo; una de las hipótesis más estudiadas es que ayuda a enfriar el cerebro."
   - "El bostezo se contagia más entre familiares y amigos que entre desconocidos, según estudios de observación."
@@ -56,7 +62,10 @@ El contagio es otro misterio aparte. Un estudio de observación en Italia y Mada
 
 Las autoras lo interpretaron como una señal de **empatía**: nos "conectamos" más con quien queremos.
 
-<!-- unsplash: colleagues meeting office table | Compañeros de trabajo reunidos alrededor de una mesa -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1600427652630-f97cc4db10cd?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y29sbGVhZ3VlcyUyMG1lZXRpbmclMjBvZmZpY2UlMjB0YWJsZXxlbnwxfDB8fHwxNzkyMDc1MzIwfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1600427652630-f97cc4db10cd?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y29sbGVhZ3VlcyUyMG1lZXRpbmclMjBvZmZpY2UlMjB0YWJsZXxlbnwxfDB8fHwxNzkyMDc1MzIwfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1600427652630-f97cc4db10cd?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y29sbGVhZ3VlcyUyMG1lZXRpbmclMjBvZmZpY2UlMjB0YWJsZXxlbnwxfDB8fHwxNzkyMDc1MzIwfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1600427652630-f97cc4db10cd?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y29sbGVhZ3VlcyUyMG1lZXRpbmclMjBvZmZpY2UlMjB0YWJsZXxlbnwxfDB8fHwxNzkyMDc1MzIwfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Compañeros de trabajo reunidos alrededor de una mesa" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@tiend_?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">TienDat Nguyen</a> en <a href="https://unsplash.com/photos/2-women-sitting-on-black-sofa-WY5kuE0R4-k?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## ¿Bostezar es cosa de empatía?
 

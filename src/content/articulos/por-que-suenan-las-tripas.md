@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "person hungry stomach office"
 imageAlt: "Persona con la mano en el estómago en la oficina"
+cover:
+  url: "https://images.unsplash.com/photo-1758598304204-5bec31342d05?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwaHVuZ3J5JTIwc3RvbWFjaCUyMG9mZmljZXxlbnwxfDB8fHwxNzkyMDc1MzM4fDA&ixlib=rb-4.1.0"
+  alt: "Persona con la mano en el estómago en la oficina"
+  author: "Vitaly Gariev"
+  authorUrl: "https://unsplash.com/@silverkblack?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/young-woman-winks-and-sticks-tongue-out-playfully-XDUGMtqaE2E?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El ruido de tripas (borborigmos) es el sonido de gas y líquido que el intestino y el estómago empujan con sus movimientos."
   - "Suena más con el estómago vacío, cuando el intestino hace sus contracciones de 'limpieza' entre comidas y aumenta la hormona del hambre, la grelina."
@@ -54,7 +60,10 @@ Aquí está la parte curiosa. Cuando llevas un tiempo sin comer, el intestino no
 
 Ese "barrido" lo impulsa en parte una hormona llamada **motilina**, que según [Cleveland Clinic](https://my.clevelandclinic.org/health/body/23037-motilin) ayuda a mover el contenido del estómago y del intestino en los periodos de ayuno. Con el estómago vacío no hay comida que amortigüe el sonido, así que se oye mucho más.
 
-<!-- unsplash: healthy snack fruit yogurt | Tentempié sano con fruta y yogur -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1627308595228-9d0497edbe74?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGVhbHRoeSUyMHNuYWNrJTIwZnJ1aXQlMjB5b2d1cnR8ZW58MXwwfHx8MTc5MjA3NTMzOXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1627308595228-9d0497edbe74?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGVhbHRoeSUyMHNuYWNrJTIwZnJ1aXQlMjB5b2d1cnR8ZW58MXwwfHx8MTc5MjA3NTMzOXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1627308595228-9d0497edbe74?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGVhbHRoeSUyMHNuYWNrJTIwZnJ1aXQlMjB5b2d1cnR8ZW58MXwwfHx8MTc5MjA3NTMzOXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1627308595228-9d0497edbe74?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGVhbHRoeSUyMHNuYWNrJTIwZnJ1aXQlMjB5b2d1cnR8ZW58MXwwfHx8MTc5MjA3NTMzOXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Tentempié sano con fruta y yogur" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@vickyng?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Vicky Ng</a> en <a href="https://unsplash.com/photos/sliced-fruits-on-white-ceramic-plate-uy_V12d-VXU?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Por qué con hambre suena más fuerte
 
