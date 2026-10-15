@@ -93,3 +93,5 @@ Tu checklist para sumar años como los abuelos de la plaza:
 - [ ] Ir a las revisiones de tu centro de salud.
 
 Hoy, sal a dar un paseo y llama a alguien con quien hace tiempo que no hablas. Y si el plan de esta noche es salir de fiesta, quizá te interese saber [qué le pasa a tu cuerpo con la resaca](/cuerpo-y-espana/resaca-por-que/).
+
+Y si quieres conocer los casos extremos, lee la historia de [la persona más longeva de la historia y la española que casi la alcanza](/records/persona-mas-longeva/).

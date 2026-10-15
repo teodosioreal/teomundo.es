@@ -134,3 +134,5 @@ La mayoría se curan solos en una o dos semanas con descanso y líquidos. El NHS
 Para aliviar los síntomas, tu farmacéutico te puede orientar sobre qué tomar.
 
 Al volver a casa, lávate las manos antes de tocar nada más: hace más por ti que el secador. Y si en tu familia hay más frases de este tipo, revisa también [si de verdad hay que esperar dos horas para bañarse](/mitos/corte-de-digestion/).
+
+¿Y el zumo de naranja para no resfriarte? Lo aclaramos en [si la vitamina C previene el resfriado](/mitos/vitamina-c-resfriado/).

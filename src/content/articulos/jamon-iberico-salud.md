@@ -83,3 +83,5 @@ Ojo con interpretarlo bien: el grupo 1 indica **lo seguros** que están los expe
 - Si tienes **hipertensión** o enfermedad renal, consulta con tu médico cuánto puedes tomar.
 
 Cuando haya jamón en la mesa, disfrútalo despacio y en un plato pequeño en lugar de picar del paquete. Y si te preguntas por qué en España vivimos tantos años, lee [por qué los españoles viven tanto](/cuerpo-y-espana/esperanza-de-vida-espana/). Y si el jamón va con una copa, conviene leer también [qué le pasa a tu cuerpo con la resaca](/cuerpo-y-espana/resaca-por-que/).
+
+Si lo tuyo son los boquerones en vinagre, antes lee [qué hacer para evitar el anisakis](/cuerpo-y-espana/anisakis-boquerones/).

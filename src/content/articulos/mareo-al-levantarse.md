@@ -126,3 +126,5 @@ Un mareo ocasional después de un día de calor o de estar mucho rato sentado no
 Llama al **112** si alguien se desmaya y no recupera la conciencia enseguida, o si el desmayo llega con dolor en el pecho o dificultad para respirar.
 
 La próxima vez que te despiertes de la siesta, prueba los tres tiempos: sentado, pausa y de pie junto a un apoyo. Y si al levantarte lo que notas es un hormigueo en vez de estrellas, la explicación está en [por qué se duerme una pierna](/por-que/pierna-dormida/).
+
+Si lo que te marea es el coche y no la cama, lee [por qué nos mareamos en el coche](/por-que/mareo-en-el-coche/).
