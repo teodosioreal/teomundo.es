@@ -42,7 +42,7 @@ related:
 next: azucar-hiperactividad-ninos
 ---
 
-"¡Deja de crujirte los dedos, que te va a dar artritis!". Es probablemente la advertencia que más se repite en las oficinas, justo después del sonido de unos nudillos estirándose.
+"¡Deja de crujirte los dedos, que te va a dar artritis!". Es probablemente la advertencia que más se repite en las oficinas y en las sobremesas familiares, justo después del sonido de unos nudillos estirándose.
 
 **Es un mito: los estudios no han encontrado relación entre crujirse los dedos y la artritis.** Y hay un médico que lo comprobó con su propio cuerpo durante unos 60 años.
 
@@ -79,4 +79,4 @@ La conclusión: crujirse los dedos **no parecía causar artrosis**, ni siquiera 
 
 El sonido viene de dentro de la articulación: al separar los huesos, baja la presión del líquido que la lubrica y se forma una pequeña cavidad de gas. Te lo contamos con detalle en [por qué crujen los dedos](/por-que/por-que-crujen-los-dedos/).
 
-Hoy, si alguien te riñe por crujirte los dedos, cuéntale la historia de Donald Unger. Y si en casa hay niños, el siguiente mito te interesa: [¿el azúcar pone hiperactivos a los niños?](/mitos/azucar-hiperactividad-ninos/)
+Hoy, si alguien te riñe por crujirte los dedos, cuéntale la historia de Donald Unger. Y si en casa hay niños, el siguiente mito te interesa: [¿el azúcar pone hiperactivos a los niños?](/mitos/azucar-hiperactividad-ninos/) Otro mito que se repite en las oficinas: [el del pelo que sale más fuerte al afeitarse](/mitos/afeitarse-pelo-mas-fuerte/).

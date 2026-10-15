@@ -85,4 +85,4 @@ Parte del horario español se explica por la hora oficial. Desde marzo de 1940, 
 
 Si tienes diabetes o prediabetes, consulta con tu médico o enfermera cómo ajustar los horarios de tus comidas.
 
-Hoy, mira a qué hora cenas y a qué hora te acuestas, y prueba a dejar al menos dos horas entre las dos cosas. Y ya que hablamos de relojes, lee [cómo afecta el cambio de hora a tu cuerpo](/cuerpo-y-espana/cambio-de-hora-salud/).
+Hoy, mira a qué hora cenas y a qué hora te acuestas, y prueba a dejar al menos dos horas entre las dos cosas. Y ya que hablamos de relojes, lee [cómo afecta el cambio de hora a tu cuerpo](/cuerpo-y-espana/cambio-de-hora-salud/). Y si quieres cenar mejor sin cambiar de hora, mira [qué hace la dieta mediterránea dentro de tu cuerpo](/cuerpo-y-espana/dieta-mediterranea-beneficios/) o [cómo aprovechar la siesta](/cuerpo-y-espana/beneficios-de-la-siesta/).

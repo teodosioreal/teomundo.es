@@ -42,7 +42,7 @@ related:
 next: higado-se-regenera
 ---
 
-Mientras lees esta frase, tu cuerpo está fabricando millones de células nuevas. No lo notas, no te duele y no tienes que hacer nada. Pero la cifra diaria es casi imposible de imaginar.
+Mientras lees esta frase en el metro o con el café de media mañana, tu cuerpo está fabricando millones de células nuevas. No lo notas, no te duele y no tienes que hacer nada. Pero la cifra diaria es casi imposible de imaginar.
 
 **Según un estudio del Instituto Weizmann de Ciencias (Israel), tu cuerpo renueva unos 330.000 millones de células cada día, alrededor del 1 % del total. La mayoría son células de la sangre y del intestino. Y no, el cuerpo no se renueva entero cada siete años.**
 
@@ -89,4 +89,4 @@ Que algunas neuronas duren toda la vida no significa que el cerebro no cambie: s
 
 Para que la fábrica funcione bien, tu cuerpo necesita materia prima: una alimentación variada, dormir lo suficiente y moverte. Si notas cansancio extremo o palidez, coméntalo con tu médico, porque puede haber un problema en la producción de células de la sangre, como una anemia.
 
-Hoy, mientras comes, piensa que parte de esa comida servirá para fabricar las células de mañana. Y si te gusta esta capacidad de regenerarse, descubre [el único órgano que vuelve a crecer](/records/higado-se-regenera/).
+Hoy, mientras comes, piensa que parte de esa comida servirá para fabricar las células de mañana. Y si te gusta esta capacidad de regenerarse, descubre [el único órgano que vuelve a crecer](/records/higado-se-regenera/). Más cifras sorprendentes: [la velocidad real de un estornudo](/records/velocidad-estornudo/).

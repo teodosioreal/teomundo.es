@@ -70,7 +70,7 @@ La previsión para 2040 viene del Instituto de Métricas y Evaluación de la Sal
 
 Cuando se intenta explicar la longevidad española, aparecen siempre dos costumbres:
 
-- La **dieta mediterránea**, con aceite de oliva, verdura, legumbres y pescado, que el estudio PREDIMED relacionó con menos infartos e ictus. Te lo contamos en [qué hace la dieta mediterránea dentro de tu cuerpo](/cuerpo-y-espana/dieta-mediterranea-beneficios/).
+- La **dieta mediterránea**, con [aceite de oliva](/cuerpo-y-espana/aceite-de-oliva-cerebro/), verdura, legumbres y pescado, que el estudio PREDIMED relacionó con menos infartos e ictus. Te lo contamos en [qué hace la dieta mediterránea dentro de tu cuerpo](/cuerpo-y-espana/dieta-mediterranea-beneficios/).
 - **Caminar a diario**: ir a comprar andando, dar el paseo de la tarde, vivir en pueblos y ciudades donde muchas cosas están a mano.
 
 ## Sanidad pública y vida social

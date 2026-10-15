@@ -87,4 +87,4 @@ Algunas ideas para la próxima merienda o cumple:
 | Bolsas de chuches | Fruta cortada en brochetas |
 | Zumo envasado | Fruta entera |
 
-Hoy, en la próxima merienda, fíjate en el ambiente antes de culpar al azúcar. Y si tu hijo además se levanta por las noches, lee [qué hacer con un niño sonámbulo](/mitos/despertar-sonambulo/).
+Hoy, en la próxima merienda, fíjate en el ambiente antes de culpar al azúcar. Y si tu hijo además se levanta por las noches, lee [qué hacer con un niño sonámbulo](/mitos/despertar-sonambulo/). Para la próxima merienda, repasa también [cuánta agua necesitan de verdad](/mitos/cuanta-agua-beber-al-dia/) y qué pasa [si se tragan un chicle](/mitos/tragar-chicle/).

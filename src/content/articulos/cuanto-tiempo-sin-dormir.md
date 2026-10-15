@@ -42,7 +42,7 @@ related:
 next: musculo-mas-fuerte
 ---
 
-Una noche sin dormir por un examen, un vuelo o un bebé que no para de llorar. A la mañana siguiente todo cuesta: las palabras no salen, se te olvida dónde dejaste las llaves y el café no hace efecto. Ahora imagina once días así.
+Una noche sin dormir por la selectividad, un vuelo, las fiestas del pueblo o un bebé que no para de llorar. A la mañana siguiente todo cuesta: las palabras no salen, se te olvida dónde dejaste las llaves y el café no hace efecto. Ahora imagina once días así.
 
 **El récord más famoso sin dormir es el de Randy Gardner, un estudiante estadounidense de 17 años que en 1964 estuvo 264 horas despierto, unos 11 días seguidos.** No es un reto que convenga repetir.
 
@@ -72,7 +72,7 @@ Guinness dejó de registrar récords de privación voluntaria del sueño para no
 
 ## 24 horas sin dormir se parece al alcohol
 
-En 1997, dos investigadores australianos, Drew Dawson y Kathryn Reid, publicaron en la revista *Nature* un estudio que comparaba el cansancio con el alcohol. Concluyeron que un nivel moderado de falta de sueño puede empeorar el rendimiento **tanto o más que el límite de alcohol** permitido para conducir ([Dawson y Reid](https://ideas.repec.org/a/nat/nature/v388y1997i6639d10.1038_40775.html)).
+En 1997, dos investigadores australianos, Drew Dawson y Kathryn Reid, publicaron en la revista *Nature* un estudio que comparaba el cansancio con el [alcohol](/cuerpo-y-espana/resaca-por-que/). Concluyeron que un nivel moderado de falta de sueño puede empeorar el rendimiento **tanto o más que el límite de alcohol** permitido para conducir ([Dawson y Reid](https://ideas.repec.org/a/nat/nature/v388y1997i6639d10.1038_40775.html)).
 
 | Horas despierto | Cómo afecta |
 |---|---|
@@ -85,4 +85,4 @@ Por eso conducir con mucho sueño es peligroso aunque no hayas bebido nada.
 
 Consulta con tu médico si duermes mal casi todas las noches, si te quedas dormido durante el día sin querer o si roncas mucho y te despiertas cansado.
 
-Hoy, si vas a conducir y llevas muchas horas despierto, para a descansar antes de seguir. Y si te interesan los récords del cuerpo, descubre [cuál es el músculo más fuerte](/records/musculo-mas-fuerte/).
+Hoy, si vas a conducir y llevas muchas horas despierto, para a descansar antes de seguir. Y si te interesan los récords del cuerpo, descubre [cuál es el músculo más fuerte](/records/musculo-mas-fuerte/). Y para seguir con récords, descubre [el hueso más pequeño del cuerpo](/records/hueso-mas-pequeno/).

@@ -44,7 +44,7 @@ related:
 next: dedos-arrugados-en-el-agua
 ---
 
-Llevas una hora delante del ordenador, entrelazas los dedos, estiras los brazos y... crac, crac, crac. A tu compañera de mesa le da grima. A ti te sabe a gloria.
+Lunes, nueve de la mañana, llevas una hora delante del ordenador, entrelazas los dedos, estiras los brazos y... crac, crac, crac. A tu compañera de mesa le da grima. A ti te sabe a gloria.
 
 **Los dedos crujen porque, al estirar la articulación, baja la presión del líquido que la lubrica y se forma de golpe una pequeña cavidad de gas. Ese "crac" es el sonido de la cavidad al formarse, y no causa artritis.**
 
@@ -86,4 +86,4 @@ Tu guía rápida:
 | Hinchazón o dedos que se tuercen | No es normal | Consulta al médico |
 | Crujido con dolor en rodilla, hombro o cuello | Puede tener otra causa | Consulta al médico |
 
-Hoy, cuando vayas a crujirte los dedos, cuenta cuánto tardas en poder repetirlo con el mismo dedo. Y si te gusta saber por qué tus manos hacen cosas raras, lee [por qué se arrugan los dedos en el agua](/por-que/dedos-arrugados-en-el-agua/).
+Hoy, cuando vayas a crujirte los dedos, cuenta cuánto tardas en poder repetirlo con el mismo dedo. Y si te gusta saber por qué tus manos hacen cosas raras, lee [por qué se arrugan los dedos en el agua](/por-que/dedos-arrugados-en-el-agua/). Y si después del crujido se te duerme una pierna, aquí tienes [por qué pasa](/por-que/pierna-dormida/).

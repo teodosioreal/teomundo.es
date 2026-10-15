@@ -42,7 +42,7 @@ related:
 next: corte-de-digestion
 ---
 
-"¡No te lo tragues, que se te queda pegado siete años en la tripa!". Si eras de los que acababan tragándose el chicle sin querer, seguro que pasaste algún mal rato pensando en ese chicle eterno.
+"¡No te lo tragues, que se te queda pegado siete años en la tripa!". Si eras de los que se gastaban la paga en chicles en el quiosco y acababan tragándoselos sin querer, seguro que pasaste algún mal rato pensando en ese chicle eterno.
 
 **Es un mito. Un chicle tragado no se queda siete años en el estómago: el cuerpo no digiere la goma base, pero la empuja por el intestino y la expulsa en pocos días.** Mark Larson, gastroenterólogo de [Mayo Clinic](https://newsnetwork.mayoclinic.org/?p=214461), lo resume así: el chicle "pasa sin problemas y, en general, se expulsa bastante rápido".
 
@@ -59,7 +59,10 @@ Un chicle tiene dos partes:
 
 Que algo no se digiera no significa que se quede dentro. Pasa lo mismo con la piel de algunas semillas o con parte de la fibra de las verduras: el intestino las mueve hacia delante con sus contracciones hasta que salen.
 
-<!-- unsplash: bubble gum balloon | Globo de chicle rosa -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1527879831971-d95cde68cbf8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8YnViYmxlJTIwZ3VtJTIwYmFsbG9vbnxlbnwxfDB8fHwxNzkyMDg4MTc2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1527879831971-d95cde68cbf8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8YnViYmxlJTIwZ3VtJTIwYmFsbG9vbnxlbnwxfDB8fHwxNzkyMDg4MTc2fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1527879831971-d95cde68cbf8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8YnViYmxlJTIwZ3VtJTIwYmFsbG9vbnxlbnwxfDB8fHwxNzkyMDg4MTc2fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1527879831971-d95cde68cbf8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8YnViYmxlJTIwZ3VtJTIwYmFsbG9vbnxlbnwxfDB8fHwxNzkyMDg4MTc2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Globo de chicle rosa" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@mirandco?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Karina Miranda</a> en <a href="https://unsplash.com/photos/time-lapse-photo-of-woman-making-gum-bubble-4o6dz47Q5p4?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## El viaje real del chicle
 
@@ -78,4 +81,4 @@ Son casos raros, pero merece la pena explicarles a los peques que el chicle se t
 
 Si un niño ha tragado muchos chicles y tiene dolor de barriga, vómitos o no hace caca, llévalo al médico.
 
-Hoy puedes contarle a tus hijos o sobrinos que el chicle no se queda siete años, pero que va a la papelera. Y si en casa también se respeta "la regla de las dos horas" antes del baño, lee lo que dice la ciencia sobre el [corte de digestión](/mitos/corte-de-digestion/).
+Hoy puedes contarle a tus hijos o sobrinos que el chicle no se queda siete años, pero que va a la papelera. Y si en casa también se respeta "la regla de las dos horas" antes del baño, lee lo que dice la ciencia sobre el [corte de digestión](/mitos/corte-de-digestion/). Más mitos para contar en casa: [el del 10 % del cerebro](/mitos/mito-10-por-ciento-cerebro/) y [el del azúcar en los cumpleaños](/mitos/azucar-hiperactividad-ninos/).

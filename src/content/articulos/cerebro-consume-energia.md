@@ -81,7 +81,7 @@ Si el cerebro no gasta mucho más, ¿por qué acabas agotado? Probablemente por 
 
 - **Concentración** durante muchas horas seguidas.
 - **Estrés** y nervios antes y durante la prueba.
-- **Dormir poco** los días anteriores.
+- **[Dormir poco](/records/cuanto-tiempo-sin-dormir/)** los días anteriores.
 - Estar **sentado** mucho rato y comer a deshoras.
 
 Tu plan para un día de estudio intenso:

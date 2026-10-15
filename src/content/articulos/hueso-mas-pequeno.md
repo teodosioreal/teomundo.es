@@ -42,7 +42,7 @@ related:
 next: cuanto-tiempo-sin-dormir
 ---
 
-Coge un grano de arroz y míralo de cerca. Ahora imagina un hueso de ese tamaño, con forma de herradura, trabajando sin descanso cada vez que oyes una voz, una canción o el pitido del microondas.
+Coge un grano de arroz y míralo de cerca. Ahora imagina un hueso de ese tamaño, con forma de herradura, trabajando sin descanso cada vez que oyes una voz, una canción, las campanadas de Nochevieja o el pitido del microondas.
 
 **El hueso más pequeño del cuerpo es el estribo, en el oído medio. Mide alrededor de 3 milímetros y, junto con otros dos huesecillos, hace que puedas oír.**
 
@@ -81,4 +81,4 @@ En el extremo contrario está el **fémur**, el hueso del muslo, el más largo y
 
 Si notas que oyes peor de un oído, que tienes un pitido constante o el oído taponado durante días, consulta con tu médico.
 
-Hoy, cuando escuches tu canción favorita, piensa en ese hueso del tamaño de un grano de arroz moviéndose al ritmo de la música. Y si te gustan los récords del cuerpo, el siguiente es de los más extremos: [cuánto tiempo puede estar una persona sin dormir](/records/cuanto-tiempo-sin-dormir/).
+Hoy, cuando escuches tu canción favorita, piensa en ese hueso del tamaño de un grano de arroz moviéndose al ritmo de la música. Y si te gustan los récords del cuerpo, el siguiente es de los más extremos: [cuánto tiempo puede estar una persona sin dormir](/records/cuanto-tiempo-sin-dormir/). Y para seguir con récords, mira [cuál es el músculo más fuerte](/records/musculo-mas-fuerte/) y [quién ha sido la persona más alta de la historia](/records/persona-mas-alta-del-mundo/).

@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "child measured against door frame"
 imageAlt: "Niño midiéndose contra el marco de una puerta"
+cover:
+  url: "https://images.unsplash.com/photo-1772269226084-e935478b9e2f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hpbGQlMjBtZWFzdXJlZCUyMGFnYWluc3QlMjBkb29yJTIwZnJhbWV8ZW58MXwwfHx8MTc5MjA4ODE3MHww&ixlib=rb-4.1.0"
+  alt: "Niño midiéndose contra el marco de una puerta"
+  author: "Luanda Bauma Primo"
+  authorUrl: "https://unsplash.com/@ramiro1?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-young-child-stands-in-a-doorway-c_p9di8KdNM?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es verdad: la mayoría de las personas es algo más alta al levantarse que al acostarse."
   - "Durante el día, el peso del cuerpo comprime los discos de la columna, que pierden líquido; por la noche, tumbado, lo recuperan."
@@ -53,7 +59,10 @@ Entre cada vértebra de la columna hay un **disco intervertebral**, una especie 
 
 Multiplica ese pequeño cambio por los discos de toda la columna y tienes el centímetro o dos que pierdes al día.
 
-<!-- unsplash: astronaut space station | Astronauta en una estación espacial -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1716698286313-9a2349d41110?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGFwZSUyMG1lYXN1cmUlMjBoZWlnaHQlMjB3YWxsfGVufDF8MHx8fDE3OTIwODgzMTB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1716698286313-9a2349d41110?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGFwZSUyMG1lYXN1cmUlMjBoZWlnaHQlMjB3YWxsfGVufDF8MHx8fDE3OTIwODgzMTB8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1716698286313-9a2349d41110?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGFwZSUyMG1lYXN1cmUlMjBoZWlnaHQlMjB3YWxsfGVufDF8MHx8fDE3OTIwODgzMTB8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1716698286313-9a2349d41110?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGFwZSUyMG1lYXN1cmUlMjBoZWlnaHQlMjB3YWxsfGVufDF8MHx8fDE3OTIwODgzMTB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Cinta métrica para medir la altura en la pared" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@mista_j?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">josh A. D.</a> en <a href="https://unsplash.com/photos/a-person-holding-a-tape-measure-in-their-hand-wTtBtw80erg?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Los astronautas crecen
 
@@ -70,4 +79,4 @@ Curiosamente, los estudios con resonancia en astronautas apuntan a que no solo i
 
 Consulta con tu médico si notas que pierdes altura de forma progresiva con los años, si te encorvas cada vez más o si tienes dolor de espalda que no mejora: puede tener relación con la salud de tus huesos.
 
-Hoy, mídete al levantarte y otra vez antes de dormir, y compara. Y para otra curiosidad del cuerpo que se renueva sin que te des cuenta, lee [por qué tu estómago no se digiere a sí mismo](/en-1-minuto/estomago-se-renueva/).
+Hoy, mídete al levantarte y otra vez antes de dormir, y compara. Y para otra curiosidad del cuerpo que se renueva sin que te des cuenta, lee [por qué tu estómago no se digiere a sí mismo](/en-1-minuto/estomago-se-renueva/). Más curiosidades rápidas: [los huesos de más que tiene un bebé](/en-1-minuto/cuantos-huesos-tiene-un-bebe/) y [los olores que distingue tu nariz](/en-1-minuto/cuantos-olores-distingue-la-nariz/).

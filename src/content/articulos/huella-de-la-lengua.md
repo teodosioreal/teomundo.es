@@ -42,7 +42,7 @@ related:
 next: electricidad-del-corazon
 ---
 
-Seguro que lo has visto en redes: "Tu lengua es tan única como tu huella dactilar". Suena a dato curioso perfecto para soltar en una cena. Y tiene algo de verdad, aunque menos de lo que parece.
+Seguro que lo has visto en redes: "Tu lengua es tan única como tu huella dactilar". Suena a dato curioso perfecto para soltar en una cena con amigos o en la sobremesa del domingo. Y tiene algo de verdad, aunque menos de lo que parece.
 
 **La forma y la textura de la lengua varían de una persona a otra, y algunos investigadores la han estudiado como forma de identificación. Pero son estudios preliminares, con pocas personas, y en la práctica no se usa como las huellas dactilares.**
 
@@ -82,4 +82,4 @@ Aunque no sirva para identificarte, la lengua sí puede dar pistas. Consulta con
 - Dolor, ardor o un bulto en la lengua.
 - Cambios de color que duran mucho tiempo.
 
-Hoy, mírate la lengua en el espejo con buena luz y fíjate en cómo es la tuya. Y si te gustan las curiosidades del cuerpo, descubre por qué [tu corazón tiene su propia electricidad](/en-1-minuto/electricidad-del-corazon/).
+Hoy, mírate la lengua en el espejo con buena luz y fíjate en cómo es la tuya. Y si te gustan las curiosidades del cuerpo, descubre por qué [tu corazón tiene su propia electricidad](/en-1-minuto/electricidad-del-corazon/). Más curiosidades de tu cara: [si los ojos dejan de crecer](/en-1-minuto/los-ojos-crecen/) y [cuántos olores distingue tu nariz](/en-1-minuto/cuantos-olores-distingue-la-nariz/).

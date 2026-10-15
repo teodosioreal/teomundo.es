@@ -42,7 +42,7 @@ related:
 next: mito-10-por-ciento-cerebro
 ---
 
-Son las dos de la madrugada y oyes pasos en el pasillo. Es tu hijo, con los ojos abiertos, caminando hacia la cocina como si nada. Te quedas paralizado: ¿le despiertas? ¿Y si le pasa algo?
+Son las dos de la madrugada y oyes pasos en el pasillo. Es tu hijo, en pijama, con los ojos abiertos, caminando hacia la cocina como si nada. Te quedas paralizado: ¿le despiertas? ¿Y si le pasa algo?
 
 **Despertar a un sonámbulo no es peligroso para su salud: no le provoca un infarto ni un daño en el cerebro. Lo que sí puede pasar es que se despierte confuso o asustado. Por eso lo mejor es guiarle con calma de vuelta a la cama.**
 
@@ -83,4 +83,4 @@ El sonambulismo es más habitual en la infancia y muchos niños lo superan con e
 
 Consulta con el médico o el pediatra si los episodios son muy frecuentes, si la persona se hace daño, si sale de casa o si aparece de repente en la edad adulta.
 
-Hoy, si en casa hay un sonámbulo, revisa la escalera y las ventanas antes de acostarte. Y si te han gustado estos mitos, vuelve al primero: [¿solo usamos el 10 % del cerebro?](/mitos/mito-10-por-ciento-cerebro/)
+Hoy, si en casa hay un sonámbulo, revisa la escalera y las ventanas antes de acostarte. Y si te han gustado estos mitos, vuelve al primero: [¿solo usamos el 10 % del cerebro?](/mitos/mito-10-por-ciento-cerebro/) Para padres con dudas, otros dos mitos útiles: [el del azúcar y los niños](/mitos/azucar-hiperactividad-ninos/) y [el de leer con poca luz](/mitos/leer-con-poca-luz/).

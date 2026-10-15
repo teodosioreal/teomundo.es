@@ -33,6 +33,8 @@ faq:
 sources:
   - title: "NINDS (NIH), vía BrainFacts.org: Paresthesia"
     url: "https://www.brainfacts.org/diseases-and-disorders/neurological-disorders-az/diseases-a-to-z-from-ninds/paresthesia"
+  - title: "NHS: Pins and needles"
+    url: "https://www.nhs.uk/conditions/pins-and-needles/"
 related:
   - sacudida-al-dormirse
   - por-que-crujen-los-dedos
@@ -40,7 +42,7 @@ related:
 next: por-que-crujen-los-dedos
 ---
 
-Llevas un rato sentado en el sofá con las piernas cruzadas, o en el baño mirando el móvil más de la cuenta. Te levantas y la pierna no responde: está como de corcho. Un segundo después llegan las agujas.
+Llevas un rato sentado en el sofá con las piernas cruzadas viendo el partido, o en el baño mirando el móvil más de la cuenta. Te levantas y la pierna no responde: está como de corcho. Un segundo después llegan las agujas.
 
 **Cuando se duerme una pierna, lo que pasa es que la presión mantenida aplasta un nervio y este deja de enviar bien sus señales. Al cambiar de postura, el nervio se recupera y aparecen las "hormigas". Los médicos lo llaman parestesia temporal, y casi siempre es inofensiva.**
 
@@ -84,4 +86,4 @@ La parestesia que se repite o no se va es otra historia. El NINDS explica que el
 
 Si el hormigueo aparece de repente en un lado del cuerpo, junto con debilidad en la cara, el brazo o la pierna, o dificultad para hablar, llama al 112: pueden ser señales de un ictus.
 
-Hoy, si vas a pasar la tarde en el sofá, pon una alarma cada 30 minutos para cambiar de postura. Y si ya estás estirándote, quizá te preguntes [por qué crujen los dedos](/por-que/por-que-crujen-los-dedos/).
+Hoy, si vas a pasar la tarde en el sofá, pon una alarma cada 30 minutos para cambiar de postura. Y si ya estás estirándote, quizá te preguntes [por qué crujen los dedos](/por-que/por-que-crujen-los-dedos/). Y si la siguiente sorpresa llega al acostarte, lee [por qué das un salto al dormirte](/por-que/sacudida-al-dormirse/) o [por qué se arrugan los dedos en el agua](/por-que/dedos-arrugados-en-el-agua/).

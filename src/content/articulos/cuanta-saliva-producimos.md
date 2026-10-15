@@ -82,7 +82,7 @@ La saliva es casi toda agua, pero lleva sustancias muy útiles:
 - **Empieza la digestión:** contiene enzimas que empiezan a descomponer el almidón del pan, el arroz o las patatas mientras masticas.
 - **Ayuda a tragar:** moja la comida y la convierte en una bola fácil de tragar.
 - **Protege los dientes:** arrastra restos de comida y ayuda a neutralizar los ácidos que causan caries.
-- **Te deja saborear:** los sabores tienen que disolverse para que la lengua los note.
+- **Te deja saborear:** los sabores tienen que disolverse para que la [lengua](/en-1-minuto/huella-de-la-lengua/) los note.
 
 ## Por qué tienes mal aliento al despertar
 
@@ -92,4 +92,4 @@ Por eso un vaso de agua y lavarte los dientes al levantarte suele bastar para qu
 
 Consulta con tu médico o tu dentista si tienes la boca seca de forma continua, te cuesta tragar o hablar, o tienes caries con frecuencia: algunos medicamentos y enfermedades reducen la saliva.
 
-Hoy, bebe agua a lo largo del día y fíjate en cuántas veces se te hace la boca agua al oler comida. Y si te gustan los récords del cuerpo, conoce a [la persona más alta de la historia](/records/persona-mas-alta-del-mundo/).
+Hoy, bebe agua a lo largo del día y fíjate en cuántas veces se te hace la boca agua al oler comida. Y si te gustan los récords del cuerpo, conoce a [la persona más alta de la historia](/records/persona-mas-alta-del-mundo/). Otro récord diario que no notas: [la distancia que recorre un estornudo](/records/velocidad-estornudo/).

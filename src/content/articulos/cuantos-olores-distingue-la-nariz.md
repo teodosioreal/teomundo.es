@@ -83,4 +83,4 @@ Es un camino muy corto, y por eso un olor puede despertar un recuerdo intenso an
 
 Consulta con tu médico si pierdes el olfato de repente o poco a poco, sin un resfriado que lo explique, o si dura más de unas semanas.
 
-Hoy, antes del primer sorbo de café, cierra los ojos y huélelo con calma. Y si te gustan estas curiosidades rápidas, descubre por qué [eres más alto por la mañana que por la noche](/en-1-minuto/mas-alto-por-la-manana/).
+Hoy, antes del primer sorbo de café, cierra los ojos y huélelo con calma. Y si te gustan estas curiosidades rápidas, descubre por qué [eres más alto por la mañana que por la noche](/en-1-minuto/mas-alto-por-la-manana/). Más curiosidades de tu cabeza: [si tu lengua es única](/en-1-minuto/huella-de-la-lengua/) y [cuánta energía gasta tu cerebro](/en-1-minuto/cerebro-consume-energia/).

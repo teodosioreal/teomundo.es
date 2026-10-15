@@ -42,7 +42,7 @@ related:
 next: cuerpo-humano-brilla
 ---
 
-Coges en brazos a un recién nacido y te sorprende lo blandito que es. No solo por la piel: también por dentro. Ese cuerpecito tiene muchos más huesos que el tuyo.
+Primera visita al hospital para conocer al sobrino. Coges en brazos al recién nacido y te sorprende lo blandito que es. No solo por la piel: también por dentro. Ese cuerpecito tiene muchos más huesos que el tuyo.
 
 **Un bebé nace con unos 270 a 300 huesos y piezas de cartílago, mientras que un adulto tiene 206. La diferencia se debe a que muchos de esos huesos se van fusionando con los años.**
 
@@ -81,6 +81,6 @@ La fontanela anterior, la más grande, en la parte de arriba de la cabeza, suele
 
 La fusión de los huesos no acaba en la infancia: continúa durante la adolescencia y, en algunas zonas, hasta los primeros años de la edad adulta. Por eso los huesos de los niños, más flexibles, a veces se doblan en vez de romperse del todo.
 
-Consulta con el pediatra si la fontanela del bebé está muy hundida (puede ser señal de deshidratación) o muy abultada y tensa, sobre todo si hay fiebre, vómitos o el bebé está muy irritable o adormilado. En ese caso, acude a urgencias.
+Consulta con el pediatra si la fontanela del bebé está muy hundida (puede ser señal de [deshidratación](/mitos/cuanta-agua-beber-al-dia/)) o muy abultada y tensa, sobre todo si hay fiebre, vómitos o el bebé está muy irritable o adormilado. En ese caso, acude a urgencias.
 
-Hoy, si tienes un bebé cerca, toca con suavidad la parte de arriba de su cabeza y notarás la fontanela. Y para otra curiosidad que no puedes ver a simple vista, descubre por qué [tu cuerpo brilla en la oscuridad](/en-1-minuto/cuerpo-humano-brilla/).
+Hoy, si tienes un bebé cerca, toca con suavidad la parte de arriba de su cabeza y notarás la fontanela. Y para otra curiosidad que no puedes ver a simple vista, descubre por qué [tu cuerpo brilla en la oscuridad](/en-1-minuto/cuerpo-humano-brilla/). Y si te sorprenden los bebés, descubre también [por qué parecen tener los ojos enormes](/en-1-minuto/los-ojos-crecen/).

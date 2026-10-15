@@ -33,6 +33,8 @@ faq:
 sources:
   - title: "Scientific American: Do People Only Use 10 Percent of Their Brains?"
     url: "https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/"
+  - title: "The Psychologist (British Psychological Society), Christian Jarrett: Great myths of the brain: We only use 10 per cent"
+    url: "https://thepsychologist.bps.org.uk/great-myths-brain-we-only-use-10-cent"
 related:
   - tragar-chicle
   - leer-con-poca-luz
@@ -40,7 +42,7 @@ related:
 next: tragar-chicle
 ---
 
-En la película *Lucy*, Scarlett Johansson toma una droga que le permite usar el 100 % de su cerebro y acaba moviendo objetos con la mente. Una gran idea para el cine. Un desastre como neurología.
+En la película *Lucy*, Scarlett Johansson toma una droga que le permite usar el 100 % de su cerebro y acaba moviendo objetos con la mente. Una gran idea para el cine. Un desastre como neurología. Y, sin embargo, la frase del 10 % sigue saliendo en charlas de bar y en grupos de WhatsApp.
 
 **Es un mito: no usamos solo el 10 % del cerebro. Los escáneres muestran que usamos prácticamente todas sus zonas a lo largo del día, aunque no todas trabajen a la vez.** Barry Gordon, neurólogo de la Universidad Johns Hopkins, llegó a decir en [Scientific American](https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/) que la idea es "tan errónea que casi da risa".
 
@@ -77,4 +79,4 @@ Este último dato es clave. Un órgano tan caro de mantener no habría sobrevivi
 
 Lo que sí sabe la ciencia es que el cerebro cambia con lo que aprendes: aprender un idioma o un instrumento refuerza conexiones entre neuronas. No despiertas una parte dormida; entrenas la que ya usas.
 
-Hoy, cuando alguien te diga lo del 10 %, ya tienes tres argumentos para responder. Y si te gustan estos mitos de toda la vida, el siguiente es otro clásico: [¿el chicle se queda siete años en el estómago?](/mitos/tragar-chicle/)
+Hoy, cuando alguien te diga lo del 10 %, ya tienes tres argumentos para responder. Y si te gustan estos mitos de toda la vida, el siguiente es otro clásico: [¿el chicle se queda siete años en el estómago?](/mitos/tragar-chicle/) Y si estudias con el móvil en la cama, lee [si leer con poca luz estropea la vista](/mitos/leer-con-poca-luz/).

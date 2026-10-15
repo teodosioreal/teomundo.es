@@ -89,4 +89,4 @@ Las **personas mayores** merecen una atención especial, porque con la edad la s
 
 Busca atención médica si hay confusión, mareo intenso, si alguien no orina en muchas horas o si un bebé o una persona mayor está muy decaído.
 
-Hoy, en vez de contar vasos, fíjate en el color de tu orina y añade una pieza de fruta a la merienda. Y para seguir con los mitos de toda la vida, descubre si [crujirse los dedos da artritis](/mitos/crujir-dedos-artritis/).
+Hoy, en vez de contar vasos, fíjate en el color de tu orina y añade una pieza de fruta a la merienda. Y para seguir con los mitos de toda la vida, descubre si [crujirse los dedos da artritis](/mitos/crujir-dedos-artritis/). Y en pleno agosto, conviene leer también [qué hay de cierto en el corte de digestión](/mitos/corte-de-digestion/).

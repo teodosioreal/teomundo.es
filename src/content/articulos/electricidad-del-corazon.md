@@ -42,7 +42,7 @@ related:
 next: cuantos-huesos-tiene-un-bebe
 ---
 
-Cada vez que tu corazón late, una pequeña chispa eléctrica recorre sus paredes. No la ves ni la notas, pero sin ella no habría latido. Y lo más curioso: esa chispa no la manda el cerebro, la fabrica el propio corazón.
+Mientras subes la cuesta hacia casa o esperas el autobús, cada vez que tu corazón late, una pequeña chispa eléctrica recorre sus paredes. No la ves ni la notas, pero sin ella no habría latido. Y lo más curioso: esa chispa no la manda el cerebro, la fabrica el propio corazón.
 
 **El corazón tiene su propio sistema eléctrico. Un grupo de células llamado nódulo sinusal genera los impulsos que marcan cada latido, como un marcapasos natural. El electrocardiograma registra esa electricidad.**
 
@@ -67,7 +67,10 @@ El corazón no necesita una orden del cerebro para latir: su marcapasos funciona
 
 El **electrocardiograma** (ECG) es una prueba sencilla e indolora. Se colocan unos electrodos en el pecho, los brazos y las piernas, y una máquina dibuja la actividad eléctrica del corazón como una línea con picos ([Cedars-Sinai](https://www.cedars-sinai.org/health-topics/anatomy-and-function-of-the-electrical-system)). Esa línea permite ver si el ritmo es regular y si la señal recorre el corazón como debe.
 
-<!-- unsplash: automated external defibrillator AED box | Desfibrilador colgado en la pared de un lugar público -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1617257484989-9f8ab411c362?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YXV0b21hdGVkJTIwZXh0ZXJuYWwlMjBkZWZpYnJpbGxhdG9yJTIwQUVEJTIwYm94fGVufDF8MHx8fDE3OTIwODgxNjl8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1617257484989-9f8ab411c362?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YXV0b21hdGVkJTIwZXh0ZXJuYWwlMjBkZWZpYnJpbGxhdG9yJTIwQUVEJTIwYm94fGVufDF8MHx8fDE3OTIwODgxNjl8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1617257484989-9f8ab411c362?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YXV0b21hdGVkJTIwZXh0ZXJuYWwlMjBkZWZpYnJpbGxhdG9yJTIwQUVEJTIwYm94fGVufDF8MHx8fDE3OTIwODgxNjl8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1617257484989-9f8ab411c362?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YXV0b21hdGVkJTIwZXh0ZXJuYWwlMjBkZWZpYnJpbGxhdG9yJTIwQUVEJTIwYm94fGVufDF8MHx8fDE3OTIwODgxNjl8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Desfibrilador colgado en la pared de un lugar público" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@partrickl?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">P. L.</a> en <a href="https://unsplash.com/photos/red-and-white-box-on-white-table-FfJJD6SCcvs?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Cuando el sistema falla
 
@@ -77,8 +80,8 @@ Si el nódulo sinusal se vuelve lento, si el camino de la señal se bloquea o si
 - Mareos o desmayos.
 - Falta de aire.
 
-Consulta con tu médico si notas palpitaciones frecuentes, latidos irregulares o mareos. Llama al 112 si hay dolor en el pecho, desmayo o mucha falta de aire.
+Consulta con tu médico si notas palpitaciones frecuentes, [latidos](/records/latidos-del-corazon-en-una-vida/) irregulares o mareos. Llama al 112 si hay dolor en el pecho, desmayo o mucha falta de aire.
 
 Si alguien se desploma y no respira con normalidad: llama al 112, empieza las compresiones en el centro del pecho y pide que traigan un **desfibrilador**. Estos aparatos dan una descarga que puede devolver al corazón su ritmo, y están pensados para que cualquiera pueda usarlos siguiendo sus instrucciones de voz.
 
-Hoy, fíjate dónde está el desfibrilador más cercano a tu casa o tu trabajo. Y para otra curiosidad de tu cuerpo, descubre [cuántos huesos tiene un bebé](/en-1-minuto/cuantos-huesos-tiene-un-bebe/).
+Hoy, fíjate dónde está el desfibrilador más cercano a tu casa o tu trabajo. Y para otra curiosidad de tu cuerpo, descubre [cuántos huesos tiene un bebé](/en-1-minuto/cuantos-huesos-tiene-un-bebe/). Más curiosidades rápidas: [tu cuerpo también emite luz](/en-1-minuto/cuerpo-humano-brilla/).

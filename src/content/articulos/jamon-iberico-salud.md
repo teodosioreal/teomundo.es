@@ -11,8 +11,14 @@ secondaryKeywords:
   - "carne procesada OMS"
 datePublished: 2026-10-15
 dateModified: 2026-10-15
-imageQuery: "sliced iberian ham plate"
+imageQuery: "spanish ham"
 imageAlt: "Plato con lonchas de jamón ibérico cortado a cuchillo"
+cover:
+  url: "https://images.unsplash.com/photo-1656423739016-5de747b2c4fb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3BhbmlzaCUyMGhhbXxlbnwxfDB8fHwxNzkyMDg4MzA5fDA&ixlib=rb-4.1.0"
+  alt: "Plato con lonchas de jamón ibérico cortado a cuchillo"
+  author: "CHUTTERSNAP"
+  authorUrl: "https://unsplash.com/@chuttersnap?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-large-fish-on-a-cutting-board-DVdaXTL34gQ?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "La grasa del jamón ibérico de bellota es rica en ácido oleico, la misma grasa principal del aceite de oliva, gracias a la alimentación con bellotas."
   - "Pero el jamón es carne procesada y lleva mucha sal: la OMS clasifica la carne procesada como cancerígena para los humanos (grupo 1)."
@@ -42,7 +48,7 @@ Navidad, una boda, el aperitivo del domingo. En España, el jamón ibérico es c
 
 ## La grasa de la bellota
 
-Los cerdos ibéricos de bellota pasan la última etapa de su vida en la dehesa, comiendo bellotas y pasto. Esa alimentación cambia su grasa: se vuelve más rica en **ácido oleico**, la grasa monoinsaturada que también abunda en el aceite de oliva.
+Los cerdos ibéricos de bellota pasan la última etapa de su vida en la dehesa, comiendo bellotas y pasto. Esa alimentación cambia su grasa: se vuelve más rica en **ácido oleico**, la grasa monoinsaturada que también abunda en el [aceite de oliva](/cuerpo-y-espana/aceite-de-oliva-cerebro/).
 
 Según un estudio citado por [Consumer](https://www.consumer.es/alimentacion/el-jamon-iberico-de-bellota-resulta-beneficioso-para-la-salud-cardiovascular.html), el ácido oleico puede llegar a cerca del 59 % de la grasa del jamón ibérico de bellota. Por eso se le compara con el aceite de oliva.
 
@@ -76,4 +82,4 @@ Ojo con interpretarlo bien: el grupo 1 indica **lo seguros** que están los expe
 - Equilibra el resto del día con verdura, legumbre, fruta y pescado.
 - Si tienes **hipertensión** o enfermedad renal, consulta con tu médico cuánto puedes tomar.
 
-Hoy, si hay jamón en la mesa, disfrútalo despacio y en un plato pequeño en lugar de picar del paquete. Y si te preguntas por qué en España vivimos tantos años, lee [por qué los españoles viven tanto](/cuerpo-y-espana/esperanza-de-vida-espana/).
+Hoy, si hay jamón en la mesa, disfrútalo despacio y en un plato pequeño en lugar de picar del paquete. Y si te preguntas por qué en España vivimos tantos años, lee [por qué los españoles viven tanto](/cuerpo-y-espana/esperanza-de-vida-espana/). Y si el jamón va con una copa, conviene leer también [qué le pasa a tu cuerpo con la resaca](/cuerpo-y-espana/resaca-por-que/).

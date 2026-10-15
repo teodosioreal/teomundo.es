@@ -33,6 +33,8 @@ faq:
 sources:
   - title: "Sleep Foundation: Hypnic Jerks"
     url: "https://www.sleepfoundation.org/parasomnias/hypnic-jerk"
+  - title: "NHS Scotland, Right Decision Service: Hypnic jerk"
+    url: "https://rightdecisions.scot.nhs.uk/borders-ref-help-toolkit/neurology/sleep-symptoms/hypnic-jerk"
 related:
   - bostezo-contagioso
   - pierna-dormida
@@ -40,7 +42,7 @@ related:
 next: pierna-dormida
 ---
 
-Estás en la cama, a punto de caer rendido, y de repente todo tu cuerpo da un bote. A veces con la sensación de pisar en falso un escalón que no existe. Te despiertas con el corazón acelerado y, si duermes acompañado, con una mirada de "¿qué ha sido eso?".
+Estás en la cama, o en el sofá en plena siesta, a punto de caer rendido, y de repente todo tu cuerpo da un bote. A veces con la sensación de pisar en falso un escalón que no existe. Te despiertas con el corazón acelerado y, si duermes acompañado, con una mirada de "¿qué ha sido eso?".
 
 **Ese salto se llama sacudida hipnagógica o mioclonía hípnica: una contracción muscular repentina e involuntaria que aparece justo cuando pasas de estar despierto a estar dormido. Es muy común y, por sí sola, no es motivo de preocupación.**
 
@@ -58,7 +60,7 @@ Lo que sí se ha observado, según la [Sleep Foundation](https://www.sleepfounda
 
 - **Cafeína o nicotina** en exceso, o cerca de la hora de dormir.
 - **Estrés y ansiedad**, que dificultan la transición al sueño.
-- **Cansancio acumulado** o falta de sueño.
+- **Cansancio acumulado** o [falta de sueño](/records/cuanto-tiempo-sin-dormir/).
 - **Ejercicio intenso** a última hora del día.
 
 ## El mito del mono que se cae del árbol
@@ -86,4 +88,4 @@ Cada "sí" es algo que puedes probar a cambiar durante una semana para ver si no
 
 Consulta con tu médico si los saltos son tan frecuentes que te impiden conciliar el sueño, si aparecen también cuando ya estás dormido profundamente o durante el día, o si vienen acompañados de otros síntomas, como hormigueo en las piernas o movimientos que no puedes controlar.
 
-Esta noche, prueba a dejar el último café antes de media tarde y a apagar el móvil un rato antes de acostarte. Y si alguna vez te despiertas con una pierna "muerta", aquí tienes [por qué se duermen las piernas](/por-que/pierna-dormida/).
+Esta noche, prueba a dejar el último café antes de media tarde y a apagar el móvil un rato antes de acostarte. Y si alguna vez te despiertas con una pierna "muerta", aquí tienes [por qué se duermen las piernas](/por-que/pierna-dormida/). Y si a esas horas no paras de bostezar, lee [por qué el bostezo es contagioso](/por-que/bostezo-contagioso/).

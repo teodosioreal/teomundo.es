@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "person sunglasses glass of water morning"
 imageAlt: "Persona con gafas de sol y un vaso de agua por la mañana"
+cover:
+  url: "https://images.unsplash.com/photo-1502767089025-6572583495f9?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3VuZ2xhc3NlcyUyMGdsYXNzJTIwb2YlMjB3YXRlciUyMG1vcm5pbmd8ZW58MXwwfHx8MTc5MjA4ODE3NXww&ixlib=rb-4.1.0"
+  alt: "Persona con gafas de sol y un vaso de agua por la mañana"
+  author: "Joseph Greve"
+  authorUrl: "https://unsplash.com/@lime517?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/selective-focus-of-black-framed-clubmaster-dPw0N01onxE?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "La resaca es la suma de varios efectos del alcohol: deshidratación, mal sueño, irritación del estómago, inflamación y el acetaldehído, un producto tóxico de su digestión."
   - "Los síntomas son peores cuando el alcohol en sangre vuelve a cero y pueden durar 24 horas o más."
@@ -27,6 +33,8 @@ faq:
 sources:
   - title: "NIAAA (National Institutes of Health): Hangovers"
     url: "https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/hangovers"
+  - title: "Mayo Clinic: Hangovers, Symptoms and causes"
+    url: "https://www.mayoclinic.org/diseases-conditions/hangovers/symptoms-causes/syc-20373012"
 related:
   - jamon-iberico-salud
   - beneficios-de-la-siesta
@@ -40,7 +48,7 @@ Las Fallas, San Fermín, la Feria de Abril o simplemente el cumpleaños de un am
 
 ## El culpable con nombre raro: acetaldehído
 
-Cuando el hígado procesa el alcohol, lo convierte primero en **acetaldehído**, una sustancia tóxica de vida corta, y después en otras más inofensivas. Según el Instituto Nacional sobre el Abuso del Alcohol y el Alcoholismo de EE. UU. ([NIAAA](https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/hangovers)), el acetaldehído se relaciona con inflamación en varios órganos.
+Cuando el [hígado](/records/higado-se-regenera/) procesa el alcohol, lo convierte primero en **acetaldehído**, una sustancia tóxica de vida corta, y después en otras más inofensivas. Según el Instituto Nacional sobre el Abuso del Alcohol y el Alcoholismo de EE. UU. ([NIAAA](https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/hangovers)), el acetaldehído se relaciona con inflamación en varios órganos.
 
 ## No es solo deshidratación
 
@@ -60,10 +68,13 @@ Los síntomas son peores cuando el alcohol en sangre vuelve a cero, y pueden dur
 
 - **"Un vino o una cerveza por la mañana la cura".** Falso: solo la retrasa, porque vuelves a subir el alcohol en sangre.
 - **"Un café bien cargado y como nuevo".** Puede despejarte un poco, pero no acelera la eliminación del alcohol.
-- **"Sudarla en el gimnasio".** Con el cuerpo ya deshidratado, el ejercicio intenso no es buena idea.
+- **"Sudarla en el gimnasio".** Con el cuerpo ya [deshidratado](/mitos/cuanta-agua-beber-al-dia/), el ejercicio intenso no es buena idea.
 - **"Pastillas o bebidas 'antirresaca'".** No hay pruebas sólidas de que ningún producto la haga desaparecer.
 
-<!-- unsplash: toast broth breakfast table | Desayuno sencillo con tostadas y una taza -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1536511657325-a3f3226b3bbe?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dG9hc3QlMjBicm90aCUyMGJyZWFrZmFzdCUyMHRhYmxlfGVufDF8MHx8fDE3OTIwODgxNzV8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1536511657325-a3f3226b3bbe?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dG9hc3QlMjBicm90aCUyMGJyZWFrZmFzdCUyMHRhYmxlfGVufDF8MHx8fDE3OTIwODgxNzV8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1536511657325-a3f3226b3bbe?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dG9hc3QlMjBicm90aCUyMGJyZWFrZmFzdCUyMHRhYmxlfGVufDF8MHx8fDE3OTIwODgxNzV8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1536511657325-a3f3226b3bbe?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dG9hc3QlMjBicm90aCUyMGJyZWFrZmFzdCUyMHRhYmxlfGVufDF8MHx8fDE3OTIwODgxNzV8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Desayuno sencillo con tostadas y una taza" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@pundalex?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Lex Sirikiat</a> en <a href="https://unsplash.com/photos/oatmeal-with-banana-and-bread-with-butter-on-top-nV19ucDBbs8?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Lo que sí ayuda a pasarla
 

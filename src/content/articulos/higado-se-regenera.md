@@ -42,7 +42,7 @@ related:
 next: cuanta-saliva-producimos
 ---
 
-En el mito griego, Prometeo robó el fuego a los dioses y fue castigado: cada día un águila le comía el hígado y cada noche le volvía a crecer. Es curioso que, de todos los órganos, eligieran precisamente ese.
+En el mito griego, Prometeo robó el fuego a los dioses y fue castigado: cada día un águila le comía el hígado y cada noche le volvía a crecer. Es curioso que, de todos los órganos, eligieran precisamente ese. Y aún más curioso que hoy, en los hospitales españoles, se trasplanten trozos de hígado de una persona viva a otra.
 
 **El hígado es el órgano interno con mayor capacidad de regenerarse. Si se quita una parte, el resto crece hasta recuperar gran parte de su tamaño. Gracias a eso, una persona viva puede donar parte de su hígado. Pero tiene límites: el daño repetido acaba en cirrosis, una cicatriz que no desaparece.**
 
@@ -75,7 +75,7 @@ España es referente mundial en trasplantes. Según la Organización Nacional de
 
 ## El límite: la cirrosis
 
-La regeneración no es infinita. Cuando el hígado sufre un daño **repetido durante años**, por alcohol, por acumulación de grasa o por virus como los de la hepatitis, se forma tejido cicatricial. Si esa cicatriz se extiende, aparece la **cirrosis**, que ya no se revierte.
+La regeneración no es infinita. Cuando el hígado sufre un daño **repetido durante años**, por [alcohol](/cuerpo-y-espana/resaca-por-que/), por acumulación de grasa o por virus como los de la hepatitis, se forma tejido cicatricial. Si esa cicatriz se extiende, aparece la **cirrosis**, que ya no se revierte.
 
 Cómo ayudar a tu hígado:
 
@@ -86,4 +86,4 @@ Cómo ayudar a tu hígado:
 
 Consulta con tu médico si notas la piel o los ojos amarillentos, orina muy oscura, picor intenso en todo el cuerpo o hinchazón de la barriga.
 
-Hoy, si quieres hacer algo grande, infórmate sobre cómo hacerte donante de órganos en la web de la ONT y cuéntaselo a tu familia. Y si te interesan las cifras del cuerpo, descubre [cuánta saliva produces en toda tu vida](/records/cuanta-saliva-producimos/).
+Hoy, si quieres hacer algo grande, infórmate sobre cómo hacerte donante de órganos en la web de la ONT y cuéntaselo a tu familia. Y si te interesan las cifras del cuerpo, descubre [cuánta saliva produces en toda tu vida](/records/cuanta-saliva-producimos/). Y si te interesa cómo se renueva el cuerpo, lee [cuántas células nuevas fabricas cada día](/records/celulas-que-se-renuevan/).

@@ -42,7 +42,7 @@ related:
 next: piel-de-gallina
 ---
 
-Una tarde de agosto en la piscina, o una hora en el mar con los niños. Sales del agua y tus dedos parecen pasas. De pequeño te dijeron que era porque la piel "se empapa".
+Una tarde de agosto en la piscina municipal, o una hora en el mar con los niños en Benidorm o en la Costa Brava. Sales del agua y tus dedos parecen pasas. De pequeño te dijeron que era porque la piel "se empapa".
 
 **En realidad, los dedos se arrugan en el agua porque tu sistema nervioso estrecha los vasos sanguíneos que hay justo debajo de la piel de las yemas. Al perder volumen, la piel se pliega. No es solo agua: es una reacción activa de tu cuerpo.**
 
@@ -50,7 +50,7 @@ Una tarde de agosto en la piscina, o una hora en el mar con los niños. Sales de
 
 La explicación de la "esponja" tiene sentido a primera vista, pero no encaja con todo. Si fuera solo agua, se arrugaría la piel de todo el cuerpo por igual, y no pasa.
 
-Lo que ocurre es que, tras un rato en remojo, el **sistema nervioso simpático** (el mismo que controla el sudor o la piel de gallina) da la orden de contraer los pequeños vasos sanguíneos de las yemas. Con menos sangre debajo, la superficie se queda "grande" para lo que cubre y se arruga, como una sábana sobre un colchón que se deshincha.
+Lo que ocurre es que, tras un rato en remojo, el **sistema nervioso simpático** (el mismo que controla el sudor o la piel de gallina) da la orden de contraer los pequeños [vasos sanguíneos](/records/longitud-vasos-sanguineos/) de las yemas. Con menos sangre debajo, la superficie se queda "grande" para lo que cubre y se arruga, como una sábana sobre un colchón que se deshincha.
 
 ## La pista que dieron los nervios dañados
 
@@ -80,4 +80,4 @@ Un estudio de 2013 de la Universidad de Newcastle encontró que con los dedos ar
 
 Si alguna vez se te arrugan las yemas sin haber estado en el agua, coméntalo con tu médico, porque no es lo habitual.
 
-Hoy, en la ducha o en la bañera, fíjate en cuánto tardan en arrugarse tus dedos. Y si te interesan las reacciones que tu piel hace sola, lee [por qué se nos pone la piel de gallina](/por-que/piel-de-gallina/).
+Hoy, en la ducha o en la bañera, fíjate en cuánto tardan en arrugarse tus dedos. Y si te interesan las reacciones que tu piel hace sola, lee [por qué se nos pone la piel de gallina](/por-que/piel-de-gallina/). Y si tus manos te dan más sorpresas, lee [por qué crujen los dedos](/por-que/por-que-crujen-los-dedos/).

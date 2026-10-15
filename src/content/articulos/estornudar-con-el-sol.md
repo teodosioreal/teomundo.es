@@ -33,6 +33,8 @@ faq:
 sources:
   - title: "NCBI MedGen (NIH): Autosomal dominant compelling helio-ophthalmic outburst syndrome"
     url: "https://www.ncbi.nlm.nih.gov/medgen/C1863416"
+  - title: "Scientific American: Looking at the Sun Can Trigger a Sneeze"
+    url: "https://www.scientificamerican.com/article/looking-at-the-sun-can-trigger-a-sneeze/"
 related:
   - como-quitar-el-hipo
   - bostezo-contagioso

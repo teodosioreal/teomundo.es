@@ -42,7 +42,7 @@ related:
 next: cerebro-consume-energia
 ---
 
-Apagas todas las luces de la habitación, bajas la persiana y te quedas a oscuras. No ves nada. Pero, en ese mismo momento, tu cuerpo está emitiendo luz. Muy poquita, eso sí.
+Apagas todas las luces de la habitación, bajas la persiana hasta abajo, como en cualquier casa española en verano, y te quedas a oscuras. No ves nada. Pero, en ese mismo momento, tu cuerpo está emitiendo luz. Muy poquita, eso sí.
 
 **Es verdad: el cuerpo humano emite una luz muy débil. En 2009, un equipo japonés la fotografió con cámaras ultrasensibles. Es unas mil veces más débil de lo que el ojo puede ver, y está relacionada con el metabolismo, no con ningún aura.**
 
@@ -85,4 +85,4 @@ En internet abundan quienes venden "lecturas del aura" o fotos que supuestamente
 
 Una regla útil: si alguien te promete leer o "limpiar" tu aura a cambio de dinero, no hay ciencia detrás.
 
-Hoy, cuando apagues la luz para dormir, piensa que estás brillando un poquito. Y si te gustan estas curiosidades, descubre por qué [tu cerebro gasta el 20 % de tu energía](/en-1-minuto/cerebro-consume-energia/).
+Hoy, cuando apagues la luz para dormir, piensa que estás brillando un poquito. Y si te gustan estas curiosidades, descubre por qué [tu cerebro gasta el 20 % de tu energía](/en-1-minuto/cerebro-consume-energia/). Otras cosas que tu cuerpo hace sin que lo veas: [la electricidad de tu corazón](/en-1-minuto/electricidad-del-corazon/) y [los olores que distingue tu nariz](/en-1-minuto/cuantos-olores-distingue-la-nariz/).

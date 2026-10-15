@@ -42,7 +42,7 @@ related:
 next: afeitarse-pelo-mas-fuerte
 ---
 
-"¡Enciende la luz, que te vas a quedar ciego!". Lo oíste de pequeño cuando leías con la linterna debajo de las sábanas, y quizá lo repites ahora cuando ves a alguien con el móvil a oscuras en la cama.
+"¡Enciende la luz, que te vas a quedar ciego!". Lo oíste de pequeño cuando leías con la linterna debajo de las sábanas, y quizá lo repites ahora cuando ves a alguien con el móvil a oscuras en la cama o en el sofá a la hora de la siesta.
 
 **Es un mito: leer con poca luz no estropea la vista. Cansa los ojos y puede dar dolor de cabeza, pero no causa un daño permanente.** La Academia Americana de Oftalmología ([AAO](https://www.aao.org/eye-health/tips-prevention/common-eye-vision-myths-facts)) lo incluye en su lista de mitos sobre los ojos.
 
@@ -64,7 +64,7 @@ Una buena luz no protege los ojos de un daño, pero sí hace que leer sea **más
 
 ## Lo que sí influye en la miopía
 
-Aquí hay un dato que sí conviene conocer. Varios estudios relacionan pasar **más tiempo al aire libre** en la infancia con un menor riesgo de miopía. Un análisis de estudios con unos 10.400 niños, presentado en el congreso de la AAO en 2011, calculó que por cada hora semanal más al aire libre, el riesgo de miopía bajaba en torno a un 2 % ([HealthDay](https://healthday.com/health-news/child-health/outdoor-time-may-reduce-nearsightedness-in-children-658092.html)).
+Aquí hay un dato que sí conviene conocer. Varios estudios relacionan pasar **más tiempo al aire libre** en la infancia con un menor riesgo de [miopía](/en-1-minuto/los-ojos-crecen/). Un análisis de estudios con unos 10.400 niños, presentado en el congreso de la AAO en 2011, calculó que por cada hora semanal más al aire libre, el riesgo de miopía bajaba en torno a un 2 % ([HealthDay](https://healthday.com/health-news/child-health/outdoor-time-may-reduce-nearsightedness-in-children-658092.html)).
 
 Una de las explicaciones que se estudian es la intensidad de la luz natural, mucho mayor que la de cualquier habitación.
 
@@ -85,4 +85,4 @@ Una de las explicaciones que se estudian es la intensidad de la luz natural, muc
 
 Consulta al oftalmólogo si ves borroso de forma persistente, si el dolor de cabeza se repite a menudo o si un niño entrecierra los ojos para ver de lejos.
 
-Hoy, si vas a leer en la cama, enciende una lámpara de lectura y prueba la regla 20-20-20. Y si te gustan estos mitos de casa, el siguiente es de los más extendidos: [¿afeitarse hace que el pelo salga más fuerte?](/mitos/afeitarse-pelo-mas-fuerte/)
+Hoy, si vas a leer en la cama, enciende una lámpara de lectura y prueba la regla 20-20-20. Y si te gustan estos mitos de casa, el siguiente es de los más extendidos: [¿afeitarse hace que el pelo salga más fuerte?](/mitos/afeitarse-pelo-mas-fuerte/) Otros dos mitos de toda la vida: [el del 10 % del cerebro](/mitos/mito-10-por-ciento-cerebro/) y [el del calor que se escapa por la cabeza](/mitos/calor-por-la-cabeza/).
