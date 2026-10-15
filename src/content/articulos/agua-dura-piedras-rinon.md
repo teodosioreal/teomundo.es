@@ -15,6 +15,12 @@ datePublished: 2026-11-12
 dateModified: 2026-11-12
 imageQuery: "kitchen tap water glass limescale"
 imageAlt: "Vaso de agua bajo un grifo de cocina"
+cover:
+  url: "https://images.unsplash.com/photo-1743333601396-9fc5cf8ec344?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8a2l0Y2hlbiUyMHRhcCUyMHdhdGVyJTIwZ2xhc3MlMjBsaW1lc2NhbGV8ZW58MXwwfHx8MTc5MjEwMDA2OHww&ixlib=rb-4.1.0"
+  alt: "Vaso de agua bajo un grifo de cocina"
+  author: "Daniele Romanello"
+  authorUrl: "https://unsplash.com/@dannythekid?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/water-is-being-poured-into-a-glass-7RFBmmk7jHc?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El agua dura lleva mucho calcio y magnesio disueltos. Deja cal en el hervidor y la mampara, pero la OMS no ha fijado ningún límite de dureza por motivos de salud."
   - "Los estudios sobre dureza del agua y cálculos renales dan resultados dispares; una revisión de 2020 apunta incluso a que el agua dura podría ayudar a quien forma cálculos de calcio."

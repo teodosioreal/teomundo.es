@@ -15,6 +15,12 @@ datePublished: 2026-11-13
 dateModified: 2026-11-13
 imageQuery: "woman brushing long hair hairbrush"
 imageAlt: "Mujer cepillándose el pelo largo"
+cover:
+  url: "https://images.unsplash.com/photo-1747398690600-ffe8ecda9df1?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBicnVzaGluZyUyMGxvbmclMjBoYWlyJTIwaGFpcmJydXNofGVufDF8MHx8fDE3OTIxMDAwNzZ8MA&ixlib=rb-4.1.0"
+  alt: "Mujer cepillándose el pelo largo"
+  author: "Mariia Horobets"
+  authorUrl: "https://unsplash.com/@mashuncell?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-hand-combs-long-brown-hair-RWd48SbHYLk?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Tu cuerpo tiene unos 5 millones de folículos pilosos; más de 100.000 están en la cabeza."
   - "Los humanos tenemos una densidad de folículos parecida a la de los chimpancés. La diferencia es que casi todos nuestros pelos son vello: finos, cortos y claros."
@@ -80,7 +86,10 @@ El color depende de dos pigmentos. Según la Biblioteca Nacional de Medicina de 
 
 Por eso muchos niños rubios llegan a la adolescencia con el pelo más oscuro: los cambios hormonales de la pubertad podrían activar la producción de pigmento. Y las canas salen cuando el folículo deja de fabricar melanina.
 
-<!-- unsplash: hair strands on comb close up | Pelos enredados en un peine visto de cerca -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1602549179763-ce6c9df961b7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFpciUyMHN0cmFuZHMlMjBvbiUyMGNvbWIlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTIxMDAwNzd8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1602549179763-ce6c9df961b7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFpciUyMHN0cmFuZHMlMjBvbiUyMGNvbWIlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTIxMDAwNzd8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1602549179763-ce6c9df961b7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFpciUyMHN0cmFuZHMlMjBvbiUyMGNvbWIlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTIxMDAwNzd8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1602549179763-ce6c9df961b7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFpciUyMHN0cmFuZHMlMjBvbiUyMGNvbWIlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTIxMDAwNzd8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Pelos enredados en un peine visto de cerca" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@taylor_smith?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Taylor Smith</a> en <a href="https://unsplash.com/photos/brown-hair-on-white-textile-zz-UAKRabJs?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Entre 50 y 100 pelos al día por el desagüe
 

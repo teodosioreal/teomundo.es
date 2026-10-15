@@ -15,6 +15,12 @@ datePublished: 2026-11-10
 dateModified: 2026-11-10
 imageQuery: "child sitting in car back seat looking out window"
 imageAlt: "Niño sentado en el asiento trasero de un coche mirando por la ventanilla"
+cover:
+  url: "https://images.unsplash.com/photo-1698069466499-2b908e76ca87?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hpbGQlMjBzaXR0aW5nJTIwaW4lMjBjYXIlMjBiYWNrJTIwc2VhdCUyMGxvb2tpbmclMjBvdXQlMjB3aW5kb3d8ZW58MXwwfHx8MTc5MjEwMDA4Mnww&ixlib=rb-4.1.0"
+  alt: "Niño sentado en el asiento trasero de un coche mirando por la ventanilla"
+  author: "Xingchen Yan"
+  authorUrl: "https://unsplash.com/@xingchenyan?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-man-driving-a-car-in-the-dark-4bHOD9yHTNc?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El mareo en el coche, o cinetosis, nace de un desacuerdo: el oído interno nota el movimiento y los ojos, fijos en un libro o en el móvil, dicen que estás quieto."
   - "Los niños son los más afectados: según los CDC, los menores de 2 años casi nunca lo sufren y el pico llega entre los 7 y los 12."
@@ -67,7 +73,10 @@ Por eso los CDC recomiendan evitar leer y recorrer objetos con la mirada, una me
 
 Eso sí, el NHS aconseja no seguir con la mirada lo que pasa deprisa, como otros coches u olas. Lo que ayuda es un punto lejano y estable.
 
-<!-- unsplash: winding mountain road seen from inside a car | Carretera de montaña con curvas vista desde el interior de un coche -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1729598236444-f2db502a0f46?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2luZGluZyUyMG1vdW50YWluJTIwcm9hZCUyMHNlZW4lMjBmcm9tJTIwaW5zaWRlJTIwYSUyMGNhcnxlbnwxfDB8fHwxNzkyMTAwMDgzfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1729598236444-f2db502a0f46?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2luZGluZyUyMG1vdW50YWluJTIwcm9hZCUyMHNlZW4lMjBmcm9tJTIwaW5zaWRlJTIwYSUyMGNhcnxlbnwxfDB8fHwxNzkyMTAwMDgzfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1729598236444-f2db502a0f46?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2luZGluZyUyMG1vdW50YWluJTIwcm9hZCUyMHNlZW4lMjBmcm9tJTIwaW5zaWRlJTIwYSUyMGNhcnxlbnwxfDB8fHwxNzkyMTAwMDgzfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1729598236444-f2db502a0f46?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2luZGluZyUyMG1vdW50YWluJTIwcm9hZCUyMHNlZW4lMjBmcm9tJTIwaW5zaWRlJTIwYSUyMGNhcnxlbnwxfDB8fHwxNzkyMTAwMDgzfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Carretera de montaña con curvas vista desde el interior de un coche" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@eugene_rus?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Evgeny Matveev</a> en <a href="https://unsplash.com/photos/a-view-from-inside-a-car-of-a-mountain-range-ub5qkG7oQ2o?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## ¿Por qué el conductor no se marea?
 

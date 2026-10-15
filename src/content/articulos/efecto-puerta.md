@@ -15,6 +15,12 @@ datePublished: 2026-11-15
 dateModified: 2026-11-15
 imageQuery: "person standing in kitchen doorway thinking"
 imageAlt: "Persona parada en la puerta de la cocina con gesto de duda"
+cover:
+  url: "https://images.unsplash.com/photo-1773098587057-eea07f18aa8b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3RhbmRpbmclMjBpbiUyMGtpdGNoZW4lMjBkb29yd2F5JTIwdGhpbmtpbmd8ZW58MXwwfHx8MTc5MjEwMDA3OHww&ixlib=rb-4.1.0"
+  alt: "Persona parada en la puerta de la cocina con gesto de duda"
+  author: "Franco Debartolo"
+  authorUrl: "https://unsplash.com/@francotheshooter?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/sunlight-streams-into-a-cozy-dining-area-and-kitchen-hmQb0J_vxzw?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Cruzar una puerta puede funcionar como un corte entre dos escenas de memoria, y lo que planeaste en la anterior cuesta más de recuperar."
   - "El efecto se ha medido en el laboratorio, pero no aparece siempre: en un estudio de 2021 solo surgió cuando la mente iba cargada con otra tarea."
@@ -73,7 +79,10 @@ El resultado fue matizado. Con la mente libre, cruzar una puerta virtual no empe
 
 Los autores concluyen que el efecto es más matizado de lo que se creía y apuntan a la memoria de trabajo: cuando va saturada, cualquier cambio de escena pesa más. Encaja con la vida real: no suele pasarte cuando vas concentrado, sino cuando cruzas el pasillo pensando en el último mensaje del móvil.
 
-<!-- unsplash: person holding smartphone walking in apartment hallway | Persona caminando por el pasillo de casa mientras mira el móvil -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1533864940958-e627c819cb82?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwaG9sZGluZyUyMHNtYXJ0cGhvbmUlMjB3YWxraW5nJTIwaW4lMjBhcGFydG1lbnQlMjBoYWxsd2F5fGVufDF8MHx8fDE3OTIxMDAwNzl8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1533864940958-e627c819cb82?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwaG9sZGluZyUyMHNtYXJ0cGhvbmUlMjB3YWxraW5nJTIwaW4lMjBhcGFydG1lbnQlMjBoYWxsd2F5fGVufDF8MHx8fDE3OTIxMDAwNzl8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1533864940958-e627c819cb82?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwaG9sZGluZyUyMHNtYXJ0cGhvbmUlMjB3YWxraW5nJTIwaW4lMjBhcGFydG1lbnQlMjBoYWxsd2F5fGVufDF8MHx8fDE3OTIxMDAwNzl8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1533864940958-e627c819cb82?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwaG9sZGluZyUyMHNtYXJ0cGhvbmUlMjB3YWxraW5nJTIwaW4lMjBhcGFydG1lbnQlMjBoYWxsd2F5fGVufDF8MHx8fDE3OTIxMDAwNzl8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona caminando por el pasillo de casa mientras mira el móvil" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@christianchen?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Christian Chen</a> en <a href="https://unsplash.com/photos/green-plants-in-brown-pot-on-table-_onTBzx4lUs?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Por qué a veces sirve volver sobre tus pasos
 

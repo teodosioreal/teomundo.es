@@ -15,6 +15,12 @@ datePublished: 2026-11-17
 dateModified: 2026-11-17
 imageQuery: "mosquito on human skin macro"
 imageAlt: "Mosquito posado sobre la piel de un brazo, visto de cerca"
+cover:
+  url: "https://images.unsplash.com/photo-1768396566995-4d9df7f1a9ed?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bW9zcXVpdG8lMjBvbiUyMGh1bWFuJTIwc2tpbiUyMG1hY3JvfGVufDF8MHx8fDE3OTIxMDAwODR8MA&ixlib=rb-4.1.0"
+  alt: "Mosquito posado sobre la piel de un brazo, visto de cerca"
+  author: "Stefan Gustafsson"
+  authorUrl: "https://unsplash.com/@aakestefan?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/sweaty-back-with-two-small-scars--gI5mqy8od8?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El mosquito tigre (Aedes albopictus) se detectó en España en 2004, en Cataluña, y hoy ocupa prácticamente todo el litoral mediterráneo y Baleares."
   - "A diferencia del mosquito común, pica sobre todo de día y al aire libre: terrazas, balcones y parques."
@@ -75,7 +81,10 @@ Los resultados, resumidos por los [Institutos Nacionales de Salud de EE. UU.](ht
 
 Dos matices honestos. El experimento se hizo con *Aedes aegypti*, no con el tigre, aunque son parientes cercanos. Y muestra una asociación, no una causa demostrada: un voluntario con niveles altos de todos esos ácidos apenas atraía mosquitos.
 
-<!-- unsplash: tiger mosquito striped legs close up | Mosquito tigre con patas rayadas en blanco y negro, visto de cerca -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1707943768453-7850f916ebde?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGlnZXIlMjBtb3NxdWl0byUyMHN0cmlwZWQlMjBsZWdzJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzkyMTAwMDg1fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1707943768453-7850f916ebde?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGlnZXIlMjBtb3NxdWl0byUyMHN0cmlwZWQlMjBsZWdzJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzkyMTAwMDg1fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1707943768453-7850f916ebde?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGlnZXIlMjBtb3NxdWl0byUyMHN0cmlwZWQlMjBsZWdzJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzkyMTAwMDg1fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1707943768453-7850f916ebde?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGlnZXIlMjBtb3NxdWl0byUyMHN0cmlwZWQlMjBsZWdzJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzkyMTAwMDg1fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Mosquito tigre con patas rayadas en blanco y negro, visto de cerca" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@niaid?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">National Institute of Allergy and Infectious Diseases</a> en <a href="https://unsplash.com/photos/a-close-up-of-a-mosquito-on-a-humans-skin-Z2pq_4mj6BI?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Sangre dulce y vitamina B: lo que no sirve
 

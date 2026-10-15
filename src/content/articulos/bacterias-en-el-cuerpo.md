@@ -16,6 +16,12 @@ datePublished: 2026-11-18
 dateModified: 2026-11-18
 imageQuery: "bacteria under microscope colorful micrograph"
 imageAlt: "Imagen de microscopio con bacterias de colores"
+cover:
+  url: "https://images.unsplash.com/photo-1707079918041-2f7ae196b5eb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmFjdGVyaWElMjB1bmRlciUyMG1pY3Jvc2NvcGUlMjBjb2xvcmZ1bCUyMG1pY3JvZ3JhcGh8ZW58MXwwfHx8MTc5MjEwMDA3MXww&ixlib=rb-4.1.0"
+  alt: "Imagen de microscopio con bacterias de colores"
+  author: "National Institute of Allergy and Infectious Diseases"
+  authorUrl: "https://unsplash.com/@niaid?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-close-up-of-an-orange-and-blue-substance-nC6ZdM-WeCY?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "La cifra de 10 bacterias por cada célula humana salió de un cálculo aproximado de los años 70 y se repitió durante décadas."
   - "Un cálculo de 2016 (Sender, Fuchs y Milo) estima unos 38 billones de bacterias frente a unos 30 billones de células humanas: una proporción cercana a 1 a 1."
@@ -91,7 +97,10 @@ El estómago tiene tan pocas porque es muy ácido; lo explicamos en [qué pasa c
 
 El dato cambia incluso a lo largo del día: según el estudio, cada vez que vas al baño el contenido del colon baja entre una cuarta parte y un tercio.
 
-<!-- unsplash: bowl of lentils and chickpeas on kitchen table | Cuenco de lentejas y garbanzos sobre la mesa de la cocina -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1617880042824-b6fb79583eb4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Ym93bCUyMG9mJTIwbGVudGlscyUyMGFuZCUyMGNoaWNrcGVhcyUyMG9uJTIwa2l0Y2hlbiUyMHRhYmxlfGVufDF8MHx8fDE3OTIxMDAwNzJ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1617880042824-b6fb79583eb4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Ym93bCUyMG9mJTIwbGVudGlscyUyMGFuZCUyMGNoaWNrcGVhcyUyMG9uJTIwa2l0Y2hlbiUyMHRhYmxlfGVufDF8MHx8fDE3OTIxMDAwNzJ8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1617880042824-b6fb79583eb4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Ym93bCUyMG9mJTIwbGVudGlscyUyMGFuZCUyMGNoaWNrcGVhcyUyMG9uJTIwa2l0Y2hlbiUyMHRhYmxlfGVufDF8MHx8fDE3OTIxMDAwNzJ8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1617880042824-b6fb79583eb4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Ym93bCUyMG9mJTIwbGVudGlscyUyMGFuZCUyMGNoaWNrcGVhcyUyMG9uJTIwa2l0Y2hlbiUyMHRhYmxlfGVufDF8MHx8fDE3OTIxMDAwNzJ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Cuenco de lentejas y garbanzos sobre la mesa de la cocina" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@mathias_elle_photography?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Mathias Elle</a> en <a href="https://unsplash.com/photos/white-and-brown-ceramic-bowl-on-brown-wooden-table-7kEHz-SyXS0?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Pocas en número, mucho trabajo
 

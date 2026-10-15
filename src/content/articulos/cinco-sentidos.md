@@ -15,6 +15,12 @@ datePublished: 2026-11-16
 dateModified: 2026-11-16
 imageQuery: "person eyes closed touching nose with finger"
 imageAlt: "Persona con los ojos cerrados tocándose la punta de la nariz con el dedo"
+cover:
+  url: "https://images.unsplash.com/photo-1761931379807-a22a5c0ec911?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwZXllcyUyMGNsb3NlZCUyMHRvdWNoaW5nJTIwbm9zZSUyMHdpdGglMjBmaW5nZXJ8ZW58MXwwfHx8MTc5MjEwMDA3M3ww&ixlib=rb-4.1.0"
+  alt: "Persona con los ojos cerrados tocándose la punta de la nariz con el dedo"
+  author: "Juan Miranda Ferris"
+  authorUrl: "https://unsplash.com/@juanmirandaferris?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/close-up-of-a-persons-face-with-hand-covering-eye-SwTXaZDkKRU?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Decir que tenemos solo cinco sentidos es un mito: la lista viene de Aristóteles y se quedó corta."
   - "El equilibrio, que depende del oído interno, y la propiocepción, que te dice dónde están tus brazos y piernas, son sentidos con receptores propios."
@@ -78,7 +84,10 @@ En 2016, los Institutos Nacionales de Salud de Estados Unidos publicaron en el *
 
 Eso sí, notaban el dolor, el picor y la temperatura con normalidad: era un sentido aparte.
 
-<!-- unsplash: woman standing with eyes closed arms outstretched | Mujer de pie con los ojos cerrados y los brazos extendidos -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1658829863510-671fb6810ec3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzdGFuZGluZyUyMHdpdGglMjBleWVzJTIwY2xvc2VkJTIwYXJtcyUyMG91dHN0cmV0Y2hlZHxlbnwxfDB8fHwxNzkyMTAwMDc0fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1658829863510-671fb6810ec3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzdGFuZGluZyUyMHdpdGglMjBleWVzJTIwY2xvc2VkJTIwYXJtcyUyMG91dHN0cmV0Y2hlZHxlbnwxfDB8fHwxNzkyMTAwMDc0fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1658829863510-671fb6810ec3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzdGFuZGluZyUyMHdpdGglMjBleWVzJTIwY2xvc2VkJTIwYXJtcyUyMG91dHN0cmV0Y2hlZHxlbnwxfDB8fHwxNzkyMTAwMDc0fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1658829863510-671fb6810ec3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzdGFuZGluZyUyMHdpdGglMjBleWVzJTIwY2xvc2VkJTIwYXJtcyUyMG91dHN0cmV0Y2hlZHxlbnwxfDB8fHwxNzkyMTAwMDc0fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Mujer de pie con los ojos cerrados y los brazos extendidos" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@chrisyangchrisfilm?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Chris Yang</a> en <a href="https://unsplash.com/photos/a-person-with-the-arms-out--SxIbNqvYKs?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ### La prueba de la nariz con los ojos cerrados
 
