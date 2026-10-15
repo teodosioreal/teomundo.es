@@ -113,7 +113,7 @@ Use botões para **links internos** úteis, nunca para imitar anúncios nem para
 
 - Tom de editor experiente e honesto falando com um adulto inteligente. Trate o leitor por "tú". Frases curtas, parágrafos de 1–3 frases.
 - **Proibido:** seções "Introducción", "Conclusión", "Resumen final", "En conclusión"; divisórias `---` entre seções; frases de IA ("En el mundo actual", "En este artículo veremos", "Sumerjámonos", "Es importante destacar que", "Cuando se trata de…", "No busques más"); palavras vazias ("revolucionario", "potenciar", "desbloquear", "sin fisuras"); excesso de travessões.
-- **Obrigatório:** subtítulos naturais e específicos; **nenhum H2 repetido entre artigos** (`grep -h "^## " src/content/articulos/*.md | sort | uniq -d` deve vir vazio); estrutura própria por artigo; resposta direta em negrito nas primeiras ~100 palavras; **uma ferramenta prática própria** (checklist, tabela, plano, passo a passo); fechamento com uma ação para hoje + 1–2 links internos.
+- **Obrigatório:** subtítulos naturais e específicos; **nenhum H2 repetido entre artigos** (`grep -h "^## " src/content/articulos/*.md | sort | uniq -d` deve vir vazio); estrutura própria por artigo; resposta direta em negrito nas primeiras ~100 palavras; **uma ferramenta prática própria** (checklist, tabela, plano, passo a passo); fechamento com uma ação para hoje + 1–2 links internos (varie a abertura dessa frase; não comece sempre com "Hoy," para não parecer molde).
 - Antes de escrever um artigo novo, mostre ao usuário: keyword principal + 5–10 secundárias, intenção de busca, ângulo diferencial e outline H2/H3. **Aguarde aprovação** (a menos que ele diga "pode escrever direto").
 
 ## 7. Fluxo de trabalho
