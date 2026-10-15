@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-10-24
 dateModified: 2026-10-24
 imageQuery: "woman holding lower back"
-imageAlt: "Hombre con la mano en la zona lumbar por dolor de espalda"
+imageAlt: "Mujer con las manos en la zona lumbar por dolor de espalda"
 cover:
   url: "https://images.unsplash.com/photo-1628282927926-e34b358864fb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBob2xkaW5nJTIwbG93ZXIlMjBiYWNrfGVufDF8MHx8fDE3OTIwOTQwMTV8MA&ixlib=rb-4.1.0"
-  alt: "Hombre con la mano en la zona lumbar por dolor de espalda"
+  alt: "Mujer con las manos en la zona lumbar por dolor de espalda"
   author: "Sasun Bughdaryan"
   authorUrl: "https://unsplash.com/@sasun1990?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/woman-in-white-denim-shorts-X4gd4Lg8OwY?utm_source=teomundo&utm_medium=referral"
