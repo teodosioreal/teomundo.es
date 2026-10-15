@@ -12,10 +12,10 @@ secondaryKeywords:
 datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "tall man standing doorway"
-imageAlt: "Silueta de una persona junto a una puerta alta"
+imageAlt: "Persona de pie en el umbral de una puerta iluminada"
 cover:
   url: "https://images.unsplash.com/photo-1573854612183-873dd713cc8b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGFsbCUyMG1hbiUyMHN0YW5kaW5nJTIwZG9vcndheXxlbnwxfDB8fHwxNzkyMDg4MzEyfDA&ixlib=rb-4.1.0"
-  alt: "Silueta de una persona junto a una puerta alta"
+  alt: "Persona de pie en el umbral de una puerta iluminada"
   author: "Milo Bauman"
   authorUrl: "https://unsplash.com/@mjearlb?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/unknown-person-standing-indoors-SvEzuw2cy3s?utm_source=teomundo&utm_medium=referral"

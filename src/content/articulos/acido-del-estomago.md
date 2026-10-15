@@ -70,7 +70,6 @@ Un estudio de la Universidad de Duke (EE. UU.) metió monedas en un ácido de la
 
 Al reaccionar, el zinc puede irritar el estómago e incluso causar una úlcera. Por eso una moneda que se queda dentro varios días no es inofensiva.
 
-<!-- unsplash: button battery coin cell | Pila de botón sobre una mesa -->
 
 ## Si un niño se traga algo
 

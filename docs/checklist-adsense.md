@@ -61,7 +61,7 @@
 
 | Item | Status | Observação |
 |---|---|---|
-| Imagens nos artigos | 🟡 | 43 de 50 artigos com capa (fotos revisadas uma a uma). Faltam 7 capas e 9 fotos do meio do texto: 1 última rodada (limite de ~25 fotos/hora da chave gratuita do Unsplash). |
+| Imagens nos artigos | ✅ | **50 de 50 artigos com capa** e fotos no meio do texto, todas revisadas uma a uma (sem marcas, tabaco, álcool em destaque ou cenas fora do tema) e com texto alternativo em espanhol. |
 | Dados do titular em `src/data/owner.mjs` | ✅ | Titular fora da Espanha (Brasil): marca TeoMundo + país + e-mail, sem nome pessoal (decisão do dono). Se um dia abrir CNPJ, colocar a razão social. |
 
 ## Quando pedir a aprovação

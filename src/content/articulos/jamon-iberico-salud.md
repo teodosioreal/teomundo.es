@@ -12,10 +12,10 @@ secondaryKeywords:
 datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "spanish ham"
-imageAlt: "Plato con lonchas de jamón ibérico cortado a cuchillo"
+imageAlt: "Pata de jamón en su soporte junto a un plato de embutidos"
 cover:
   url: "https://images.unsplash.com/photo-1656423739016-5de747b2c4fb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3BhbmlzaCUyMGhhbXxlbnwxfDB8fHwxNzkyMDg4MzA5fDA&ixlib=rb-4.1.0"
-  alt: "Plato con lonchas de jamón ibérico cortado a cuchillo"
+  alt: "Pata de jamón en su soporte junto a un plato de embutidos"
   author: "CHUTTERSNAP"
   authorUrl: "https://unsplash.com/@chuttersnap?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/a-large-fish-on-a-cutting-board-DVdaXTL34gQ?utm_source=teomundo&utm_medium=referral"

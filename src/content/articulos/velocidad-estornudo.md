@@ -12,10 +12,10 @@ secondaryKeywords:
 datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "person sneezing into elbow"
-imageAlt: "Persona estornudando en el codo"
+imageAlt: "Hombre estornudando y tapándose con las manos"
 cover:
   url: "https://images.unsplash.com/photo-1626697556342-2310dbc55428?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc25lZXppbmclMjBpbnRvJTIwZWxib3d8ZW58MXwwfHx8MTc5MjA4ODE3N3ww&ixlib=rb-4.1.0"
-  alt: "Persona estornudando en el codo"
+  alt: "Hombre estornudando y tapándose con las manos"
   author: "Towfiqu barbhuiya"
   authorUrl: "https://unsplash.com/@towfiqu999999?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/man-in-brown-sweater-wearing-black-framed-eyeglasses--jthScuVWT0?utm_source=teomundo&utm_medium=referral"

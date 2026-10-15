@@ -12,10 +12,10 @@ secondaryKeywords:
 datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "person sunglasses glass of water morning"
-imageAlt: "Persona con gafas de sol y un vaso de agua por la mañana"
+imageAlt: "Gafas de sol junto al borde de una piscina"
 cover:
   url: "https://images.unsplash.com/photo-1502767089025-6572583495f9?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3VuZ2xhc3NlcyUyMGdsYXNzJTIwb2YlMjB3YXRlciUyMG1vcm5pbmd8ZW58MXwwfHx8MTc5MjA4ODE3NXww&ixlib=rb-4.1.0"
-  alt: "Persona con gafas de sol y un vaso de agua por la mañana"
+  alt: "Gafas de sol junto al borde de una piscina"
   author: "Joseph Greve"
   authorUrl: "https://unsplash.com/@lime517?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/selective-focus-of-black-framed-clubmaster-dPw0N01onxE?utm_source=teomundo&utm_medium=referral"

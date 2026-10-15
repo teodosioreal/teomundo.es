@@ -12,10 +12,10 @@ secondaryKeywords:
 datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "child measured against door frame"
-imageAlt: "Niño midiéndose contra el marco de una puerta"
+imageAlt: "Niño apoyado en el marco de una puerta"
 cover:
   url: "https://images.unsplash.com/photo-1772269226084-e935478b9e2f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hpbGQlMjBtZWFzdXJlZCUyMGFnYWluc3QlMjBkb29yJTIwZnJhbWV8ZW58MXwwfHx8MTc5MjA4ODE3MHww&ixlib=rb-4.1.0"
-  alt: "Niño midiéndose contra el marco de una puerta"
+  alt: "Niño apoyado en el marco de una puerta"
   author: "Luanda Bauma Primo"
   authorUrl: "https://unsplash.com/@ramiro1?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/a-young-child-stands-in-a-doorway-c_p9di8KdNM?utm_source=teomundo&utm_medium=referral"
