@@ -77,7 +77,10 @@ Y una anécdota del propio estudio: dos de los tres tipos de arqueas (otros micr
 
 Si te sorprende cuánta vida cabe en tu piel, recuerda que es el [órgano más grande del cuerpo](/records/organo-mas-grande/) y que se renueva sin parar.
 
-<!-- unsplash: cotton swabs | Bastoncillos de algodón -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1655313719608-89e5d21a74d2?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y290dG9uJTIwc3dhYnN8ZW58MXwwfHx8MTc5MjA5NjQ1NXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1655313719608-89e5d21a74d2?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y290dG9uJTIwc3dhYnN8ZW58MXwwfHx8MTc5MjA5NjQ1NXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1655313719608-89e5d21a74d2?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y290dG9uJTIwc3dhYnN8ZW58MXwwfHx8MTc5MjA5NjQ1NXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1655313719608-89e5d21a74d2?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y290dG9uJTIwc3dhYnN8ZW58MXwwfHx8MTc5MjA5NjQ1NXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Bastoncillos de algodón" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@etactics?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Etactics Inc</a> en <a href="https://unsplash.com/photos/a-close-up-of-a-plant-QkwTbJLT9Bs?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## La pelusa del ombligo tiene explicación
 

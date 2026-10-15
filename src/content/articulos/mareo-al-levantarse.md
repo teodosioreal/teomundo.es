@@ -82,7 +82,10 @@ Las "estrellas" y los puntos negros son la forma en que tú percibes ese bajón 
 
 No es raro. MedlinePlus, el servicio de información de la Biblioteca Nacional de Medicina de EE. UU., calcula que la hipotensión ortostática afecta a **alrededor del 6 % de la población**, y a bastante más gente entre las personas mayores. Muchas personas que la tienen ni siquiera notan síntomas.
 
-<!-- unsplash: glass of water | Vaso de agua -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1624948465027-6f9b51067557?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHdhdGVyfGVufDF8MHx8fDE3OTIwOTY0NTZ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1624948465027-6f9b51067557?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHdhdGVyfGVufDF8MHx8fDE3OTIwOTY0NTZ8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1624948465027-6f9b51067557?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHdhdGVyfGVufDF8MHx8fDE3OTIwOTY0NTZ8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1624948465027-6f9b51067557?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHdhdGVyfGVufDF8MHx8fDE3OTIwOTY0NTZ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Vaso de agua" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@enginakyurt?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">engin akyurt</a> en <a href="https://unsplash.com/photos/person-holding-clear-drinking-glass-PCpoG06fcUI?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Por qué te pasa más al salir de la siesta en agosto
 

@@ -15,6 +15,12 @@ datePublished: 2026-10-27
 dateModified: 2026-10-27
 imageQuery: "carrots"
 imageAlt: "Zanahorias frescas"
+cover:
+  url: "https://images.unsplash.com/photo-1633380110125-f6e685676160?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2Fycm90c3xlbnwxfDB8fHwxNzkyMDk2NDU3fDA&ixlib=rb-4.1.0"
+  alt: "Zanahorias frescas"
+  author: "Nick Fewings"
+  authorUrl: "https://unsplash.com/@jannerboy62?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-pile-of-carrots-with-green-tops-and-leaves-IZq1FV87qpM?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Las zanahorias tienen betacaroteno, que el cuerpo convierte en vitamina A, imprescindible para la retina."
   - "La falta de vitamina A causa ceguera nocturna, pero si ya tomas la suficiente, comer más zanahorias no mejora la vista ni te libra de las gafas."
