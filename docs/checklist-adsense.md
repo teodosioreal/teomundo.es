@@ -62,7 +62,7 @@
 
 | Item | Status | Observação |
 |---|---|---|
-| Imagens nos artigos | ✅ | **50 de 50 artigos com capa** e fotos no meio do texto, todas revisadas uma a uma (sem marcas, tabaco, álcool em destaque ou cenas fora do tema) e com texto alternativo em espanhol. |
+| Imagens nos artigos | ✅ | **85 de 85 artigos com capa** (incluindo os agendados) e fotos no meio do texto, todas revisadas uma a uma (sem marcas, tabaco, álcool em destaque ou cenas fora do tema) e com texto alternativo em espanhol. |
 | Dados do titular em `src/data/owner.mjs` | ✅ | Titular fora da Espanha (Brasil): marca TeoMundo + país + e-mail, sem nome pessoal (decisão do dono). Se um dia abrir CNPJ, colocar a razão social. |
 
 ## Quando pedir a aprovação
