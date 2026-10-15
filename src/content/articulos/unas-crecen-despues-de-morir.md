@@ -110,3 +110,5 @@ Ya que estamos, comprueba cuánto sabes de cómo crecen tus uñas mientras vives
 Con unos 3,5 mm al mes, una uña de la mano tarda varios meses en renovarse entera. Es una de tantas partes del cuerpo que se renuevan sin que te des cuenta, como ves en [cuántas células fabricas cada día](/records/celulas-que-se-renuevan/).
 
 Si este fin de semana sale el tema en la sobremesa familiar, ya tienes la explicación: no es crecimiento, es piel que pierde agua. Y si te gustan estos mitos con larga vida, lee también si de verdad [hay que beber dos litros de agua al día](/mitos/cuanta-agua-beber-al-dia/).
+
+¿Y a qué ritmo crecen las uñas en vida? Lo medimos en [cuánto crecen las uñas de las manos y de los pies](/en-1-minuto/cuanto-crecen-las-unas/).

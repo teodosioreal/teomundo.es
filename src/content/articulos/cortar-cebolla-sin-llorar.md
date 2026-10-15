@@ -87,3 +87,5 @@ Las cebollas no son todas iguales. La Universidad de Texas A&M explica que las c
 Además, el propio estudio de 2002 abrió la puerta a cultivar cebollas que hagan llorar menos, reduciendo esa enzima.
 
 Antes de hacer la cena, mete la cebolla un rato en la nevera y afila el cuchillo. Y si mientras cocinas te suenan las tripas, aquí tienes [por qué rugen las tripas cuando tienes hambre](/por-que/por-que-suenan-las-tripas/). Y para otras reacciones automáticas de tu cuerpo, lee [por qué se pone la piel de gallina](/por-que/piel-de-gallina/) y [por qué estornudas con el sol](/por-que/estornudar-con-el-sol/).
+
+Otro alimento con un efecto químico curioso en el cuerpo es el espárrago: descubre [por qué los espárragos hacen oler la orina](/por-que/esparragos-olor-orina/).

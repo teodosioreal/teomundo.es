@@ -128,3 +128,5 @@ Que tu ombligo esté lleno de bacterias no significa que esté sucio. Toda la pi
 El estudio también dejó claro que cada ombligo es un mundo: el tuyo no se parece al de tu pareja ni al de tu compañero de piso. Algo parecido pasa con otras partes del cuerpo, como explicamos en [¿tu lengua es tan única como tu huella dactilar?](/en-1-minuto/huella-de-la-lengua/).
 
 Esta noche, cuando salgas de la ducha, dedica diez segundos a secarte bien el ombligo con la esquina de la toalla. Y si te has quedado con ganas de más rarezas de tu cuerpo, descubre por qué [tu cuerpo brilla en la oscuridad](/en-1-minuto/cuerpo-humano-brilla/) o [cuántos olores distingue tu nariz](/en-1-minuto/cuantos-olores-distingue-la-nariz/).
+
+Y si te preguntas cuántas bacterias llevas en total, la cuenta está en [¿tienes más bacterias que células?](/records/bacterias-en-el-cuerpo/).

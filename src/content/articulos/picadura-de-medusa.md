@@ -116,3 +116,5 @@ Ve a urgencias si, tras la picadura, aparecen náuseas, vómitos, mareos, calamb
 Llama al 112 sin esperar si hay dificultad para respirar, dolor en el pecho, convulsiones, hinchazón intensa o pérdida de conocimiento. El NHS también aconseja consultar si la picadura está en la boca, la garganta o cerca de los ojos, o si el dolor fuerte no se va.
 
 Antes de tu próxima escapada a la playa, guarda en el móvil los cinco pasos de arriba y mete en la bolsa unas pinzas y una tarjeta vieja. Y ya que vas a pasar horas al sol, mira cuánta [vitamina D fabricas en España](/cuerpo-y-espana/vitamina-d-en-espana/) o por qué se te [arrugan los dedos en el agua](/por-que/dedos-arrugados-en-el-agua/).
+
+En la terraza, el que pica es otro: descubre [por qué el mosquito tigre te pica a ti y no a otros](/cuerpo-y-espana/mosquito-tigre-picaduras/).

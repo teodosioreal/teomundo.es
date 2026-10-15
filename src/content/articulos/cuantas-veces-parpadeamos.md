@@ -121,3 +121,5 @@ El ojo seco de oficina suele mejorar con estos cambios. Según el NHS, conviene 
 Y acude a urgencias si pierdes visión, ves destellos o líneas onduladas, te duele mucho mirar la luz, te has dado un golpe en el ojo o tienes algo clavado.
 
 Un truco para tu próxima jornada: pon una alarma en el móvil cada 20 minutos y, cuando suene, mira por la ventana 20 segundos y parpadea despacio. Si te quedas con ganas de más curiosidades sobre tus ojos, descubre [si los ojos dejan de crecer](/en-1-minuto/los-ojos-crecen/) o cuántas veces [late tu corazón a lo largo de la vida](/records/latidos-del-corazon-en-una-vida/).
+
+Y entre parpadeo y parpadeo, tu ojo hace algo todavía más raro: descubre [por qué tus ojos ven al revés](/en-1-minuto/ojos-ven-al-reves/).

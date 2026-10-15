@@ -119,3 +119,5 @@ El déjà vu breve y aislado no necesita consulta. Habla con tu médico de cabec
 La Academia Estadounidense de Neurología recuerda que contarlo pronto permite un diagnóstico más temprano. Si una persona tiene una convulsión que no cede o no recupera la conciencia, llama al **112**.
 
 Si esta semana te viene un déjà vu, fíjate en dónde estás y en qué te recuerda la forma del lugar: puede que encuentres la escena olvidada. Y si te interesan los fallos curiosos del cerebro al borde del sueño, sigue con [la sacudida al dormirse](/por-que/sacudida-al-dormirse/).
+
+Otro despiste del cerebro que todos conocemos: entrar en una habitación y no saber a qué ibas. Lo explicamos en [el efecto puerta](/por-que/efecto-puerta/).
