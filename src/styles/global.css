@@ -1,0 +1,140 @@
+@import 'tailwindcss';
+
+@theme {
+  /* Azul noche + coral (identidade TeoMundo) */
+  --color-brand-50: #f0f4f9;
+  --color-brand-100: #d9e3ef;
+  --color-brand-600: #2d5a8c;
+  --color-brand-700: #234a75;
+  --color-brand-900: #1e3a5f;
+  --color-ink: #1d2433;
+  --color-muted: #566070;
+  --color-line: #e3e7ec;
+  --color-paper: #ffffff;
+  --color-soft: #f6f8fa;
+  /* Destaque único, só para chamadas e botões */
+  --color-accent: #b9531f;
+  --color-accent-hover: #93401a;
+
+  --font-sans: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --font-serif: Charter, 'Bitstream Charter', 'Sitka Text', Cambria, Georgia, serif;
+}
+
+@layer base {
+  html {
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    @apply bg-paper font-sans text-ink antialiased;
+    font-size: 1.125rem;
+    line-height: 1.7;
+  }
+  h1,
+  h2,
+  h3 {
+    @apply font-serif text-brand-900;
+    line-height: 1.25;
+    text-wrap: balance;
+  }
+  a {
+    @apply text-brand-700 underline decoration-brand-100 underline-offset-4 transition-colors hover:decoration-brand-600;
+  }
+  :focus-visible {
+    outline: 3px solid var(--color-brand-600);
+    outline-offset: 2px;
+  }
+}
+
+@layer components {
+  .container-page {
+    @apply mx-auto w-full max-w-6xl px-4 sm:px-6;
+  }
+  .prose-width {
+    max-width: 68ch;
+  }
+}
+
+/* Article body (Markdown) */
+@layer components {
+  .article-body h2 {
+    @apply mb-4 mt-12 scroll-mt-6 text-3xl font-bold;
+  }
+  .article-body h3 {
+    @apply mb-3 mt-8 scroll-mt-6 text-2xl font-bold;
+  }
+  .article-body p {
+    @apply mb-5;
+  }
+  .article-body ul {
+    @apply mb-5 list-disc space-y-2 pl-6;
+  }
+  .article-body ol {
+    @apply mb-5 list-decimal space-y-2 pl-6;
+  }
+  .article-body strong {
+    @apply font-semibold text-ink;
+  }
+  .article-body blockquote {
+    @apply my-6 border-l-4 border-brand-600 bg-brand-50 px-5 py-4;
+  }
+  .article-body table {
+    @apply my-6 block w-full overflow-x-auto text-base;
+  }
+  .article-body th,
+  .article-body td {
+    @apply border border-line px-3 py-2 text-left align-top;
+  }
+  .article-body th {
+    @apply bg-soft font-semibold;
+  }
+  .article-body .soft-cta {
+    @apply my-6 rounded-xl border border-line bg-soft p-5;
+  }
+}
+
+/* Botão de leitura (bloco "Te puede interesar"): título do artigo como botão largo. */
+@layer components {
+  .boton-lectura {
+    @apply flex w-full items-center justify-between gap-3 rounded-lg bg-brand-700 px-5 py-3 font-semibold leading-snug text-white no-underline transition-colors hover:bg-brand-900;
+  }
+}
+
+/*
+  Botões no corpo do artigo (ideia do plugin "Gerador de Botões HTML"). Uso no Markdown:
+
+  <div class="botones">
+    <p>Texto opcional antes dos botões</p>
+    <a class="boton" href="/categoria/slug/">Texto do botão</a>
+    <a class="boton boton--secundario" href="/outra/">Outro botão</a>
+  </div>
+*/
+@layer components {
+  .article-body .botones {
+    @apply my-8 rounded-xl border border-line bg-soft p-5 text-center;
+  }
+  .article-body .botones p {
+    @apply mb-3 font-semibold text-ink;
+  }
+  .article-body .boton {
+    @apply mx-auto my-3 block w-full max-w-md rounded-lg bg-accent px-6 py-3.5 text-center text-lg font-bold text-white no-underline transition-colors hover:bg-accent-hover;
+  }
+  .article-body .boton--secundario {
+    @apply bg-brand-700 hover:bg-brand-900;
+  }
+}
+
+@layer components {
+  .article-figure {
+    @apply my-10;
+  }
+  .article-figure img {
+    @apply aspect-video w-full rounded-xl bg-soft object-cover;
+  }
+  .article-figure figcaption {
+    @apply mt-2 text-xs text-muted;
+  }
+  .article-figure figcaption a {
+    @apply text-muted;
+  }
+}

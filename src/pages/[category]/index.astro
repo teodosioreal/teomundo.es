@@ -1,0 +1,51 @@
+---
+import { getPublishedArticles } from '../../lib/articles';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { site, categories } from '../../data/site';
+
+export async function getStaticPaths() {
+  const published = await getPublishedArticles();
+  // Only categories with at least one live article get a page.
+  return Object.keys(categories)
+    .filter((category) => published.some((a) => a.data.category === category))
+    .map((category) => ({ params: { category } }));
+}
+
+const slug = Astro.params.category as string;
+const category = categories[slug]!;
+const articles = (await getPublishedArticles()).filter(({ data }) => data.category === slug).sort(
+  (a, b) => b.data.datePublished.getTime() - a.data.datePublished.getTime() || a.data.h1.localeCompare(b.data.h1),
+);
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Inicio', item: `${site.url}/` },
+      { '@type': 'ListItem', position: 2, name: category.name, item: `${site.url}/${slug}/` },
+    ],
+  },
+];
+---
+
+<BaseLayout
+  title={category.title}
+  description={category.metaDescription}
+  jsonLd={jsonLd}
+>
+  <section class="border-b border-line bg-brand-50">
+    <div class="container-page py-12">
+      <h1 class="text-4xl font-bold">{category.name}</h1>
+      <p class="prose-width mt-4">{category.description}</p>
+    </div>
+  </section>
+  <section class="container-page py-12">
+    <ul class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      {
+        articles.map((a) => <ArticleCard article={a} level="h2" track="categoria" />)
+      }
+    </ul>
+  </section>
+</BaseLayout>

@@ -1,0 +1,30 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  articles: CollectionEntry<'articles'>[];
+}
+// Bloco "Te puede interesar" com até 3 botões de leitura (ideia do plugin "Conteúdo Relacionado com botão").
+// É renderizado depois do corpo do artigo; integrations/also-read.mjs o move para antes de um H2 do meio do texto.
+const { articles } = Astro.props;
+---
+
+{
+  articles.length > 0 && (
+    <aside data-also-read class="my-10 rounded-xl border border-brand-100 bg-brand-50 p-5" aria-labelledby="te-puede-interesar">
+      <p id="te-puede-interesar" class="text-sm font-semibold uppercase tracking-wider text-brand-700">
+        Te puede interesar
+      </p>
+      <ul class="mt-3 !mb-0 !list-none space-y-3 !pl-0">
+        {articles.map((a) => (
+          <li>
+            <a href={`/${a.data.category}/${a.id}/`} data-clic="te-puede-interesar" class="boton-lectura">
+              <span>{a.data.h1}</span>
+              <span aria-hidden="true">→</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </aside>
+  )
+}

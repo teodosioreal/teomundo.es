@@ -1,0 +1,14 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { site } from '../data/site';
+---
+
+<BaseLayout title={`Página no encontrada | ${site.name}`} description="La página que buscas no existe o ha cambiado de dirección." noindex>
+  <section class="container-page py-20">
+    <h1 class="text-4xl font-bold">Página no encontrada</h1>
+    <p class="prose-width mt-4">
+      Puede que la página haya cambiado de dirección o ya no exista. Vuelve a la <a href="/">página de inicio</a> para ver
+      todas nuestras guías.
+    </p>
+  </section>
+</BaseLayout>

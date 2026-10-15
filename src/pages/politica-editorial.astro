@@ -1,0 +1,55 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { site, standards, promises, adsense } from '../data/site';
+---
+
+<PageLayout
+  title={`Política editorial | ${site.name}`}
+  description={`Cómo investigamos, escribimos, actualizamos y corregimos las guías de ${site.name}.`}
+  h1="Política editorial"
+>
+  <p>Esta página explica cómo se crea cada guía de {site.name} y qué puedes esperar de nosotros.</p>
+
+  <h2>Nuestros principios</h2>
+  <ul>
+    {
+      standards.map((s) => (
+        <li>
+          <strong>{s.name}:</strong> {s.text}
+        </li>
+      ))
+    }
+  </ul>
+
+  <h2>Lo que nunca hacemos</h2>
+  <ul>
+    {promises.map((p) => <li>{p}</li>)}
+  </ul>
+
+  <h2>Fuentes</h2>
+  <p>
+    Preferimos fuentes primarias y oficiales: organismos públicos, instituciones reconocidas y estudios publicados. Las
+    enlazamos al final de cada guía para que puedas comprobarlas.
+  </p>
+
+  <h2>Actualizaciones y correcciones</h2>
+  <p>
+    Cada guía muestra su fecha de publicación y, cuando la revisamos de verdad, la fecha de actualización. Si encuentras
+    un error, <a href="/contacto/">escríbenos</a>: lo revisamos y, si lo confirmamos, lo corregimos.
+  </p>
+
+  <h2>Publicidad</h2>
+  {
+    adsense.client ? (
+      <p>
+        {site.name} se financia con anuncios de Google AdSense. Los anuncios están separados del contenido y no influyen
+        en lo que escribimos. No aceptamos dinero para publicar ni para cambiar una guía.
+      </p>
+    ) : (
+      <p>
+        Por ahora {site.name} no muestra publicidad. Si en el futuro la incluimos, estará claramente separada del contenido
+        y no influirá en lo que escribimos.
+      </p>
+    )
+  }
+</PageLayout>

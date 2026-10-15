@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://teomundo.es/sitemap-index.xml

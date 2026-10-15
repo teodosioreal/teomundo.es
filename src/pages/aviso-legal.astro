@@ -1,0 +1,53 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { site } from '../data/site';
+import { owner } from '../data/owner.mjs';
+---
+
+<PageLayout
+  title={`Aviso legal | ${site.name}`}
+  description={`Datos del titular de ${site.name} y condiciones de uso del sitio web.`}
+  h1="Aviso legal"
+>
+  <h2>Datos del titular</h2>
+  <p>
+    En cumplimiento del artículo 10 de la Ley 34/2002, de servicios de la sociedad de la información y de comercio
+    electrónico (LSSI-CE), se informa de los datos del titular de este sitio web:
+  </p>
+  <ul>
+    {owner.name && <li><strong>Titular:</strong> {owner.name}</li>}
+    {owner.taxId && <li><strong>NIF:</strong> {owner.taxId}</li>}
+    {owner.address && <li><strong>Domicilio:</strong> {owner.address}</li>}
+    {owner.contactEmail && <li><strong>Correo electrónico:</strong> <a href={`mailto:${owner.contactEmail}`}>{owner.contactEmail}</a></li>}
+    <li><strong>Sitio web:</strong> {site.url.replace('https://', '')}</li>
+  </ul>
+
+  <h2>Uso del sitio</h2>
+  <p>
+    El acceso a {site.name} es gratuito y no exige registro. Al usarlo te comprometes a hacerlo de forma lícita y a no
+    dañar el sitio ni a otros usuarios.
+  </p>
+
+  <h2>Contenido</h2>
+  <p>
+    Las guías tienen carácter informativo y general. Trabajamos para que sean correctas y estén al día, pero no
+    sustituyen el consejo de un profesional para tu caso concreto.
+  </p>
+
+  <h2>Propiedad intelectual</h2>
+  <p>
+    Los textos y el diseño de {site.name} pertenecen a su titular, salvo que se indique otra cosa. Las fotografías llevan
+    el crédito de su autor y su fuente. Puedes citar fragmentos breves con un enlace a la página original.
+  </p>
+
+  <h2>Enlaces a otros sitios</h2>
+  <p>
+    Enlazamos fuentes y sitios de terceros para que puedas ampliar la información. No controlamos su contenido ni somos
+    responsables de él.
+  </p>
+
+  <h2>Legislación aplicable</h2>
+  <p>
+    Este aviso legal se rige por {owner.jurisdiction ?? 'la legislación española'}.
+  </p>
+</PageLayout>

@@ -1,0 +1,68 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { site, adsense, analytics } from '../data/site';
+import { owner } from '../data/owner.mjs';
+---
+
+<PageLayout
+  title={`Política de privacidad | ${site.name}`}
+  description={`Qué datos personales se tratan al visitar ${site.name}, para qué y cómo ejercer tus derechos.`}
+  h1="Política de privacidad"
+>
+  <p>
+    Esta política explica qué datos personales se tratan cuando visitas {site.name}, de acuerdo con el Reglamento
+    General de Protección de Datos (RGPD) y la Ley Orgánica 3/2018 (LOPDGDD).
+  </p>
+
+  <h2>Responsable del tratamiento</h2>
+  <p>
+    {owner.name ? `El responsable es ${owner.name}` : `El responsable es el titular de ${site.name}`}
+    {owner.contactEmail && (
+      <>
+        , con quien puedes contactar en <a href={`mailto:${owner.contactEmail}`}>{owner.contactEmail}</a>
+      </>
+    )}. Encontrarás sus datos completos en el <a href="/aviso-legal/">aviso legal</a>.
+  </p>
+
+  <h2>Qué datos se tratan</h2>
+  <ul>
+    <li>
+      <strong>Datos técnicos de la visita:</strong> nuestro proveedor de alojamiento registra datos como la dirección IP
+      y el navegador para servir las páginas y proteger el sitio.
+    </li>
+    <li>
+      <strong>Imágenes:</strong> muchas fotos se cargan desde Unsplash, que recibe tu dirección IP al mostrarlas.
+    </li>
+    {
+      analytics.ga4Id && (
+        <li>
+          <strong>Estadísticas:</strong> usamos Google Analytics para saber qué páginas se leen y qué enlaces se usan,
+          solo si lo aceptas en el aviso de cookies.
+        </li>
+      )
+    }
+    {
+      adsense.client && (
+        <li>
+          <strong>Publicidad:</strong> Google AdSense muestra anuncios y puede usar cookies para personalizarlos, solo si
+          lo aceptas en el aviso de cookies. Puedes gestionar la personalización en{' '}
+          <a href="https://adssettings.google.com/" rel="noopener" target="_blank">la configuración de anuncios de Google</a>.
+        </li>
+      )
+    }
+    <li>
+      <strong>Mensajes:</strong> si nos escribes por correo, usamos tus datos solo para responderte.
+    </li>
+  </ul>
+  <p>{site.name} no tiene formularios de registro ni vende datos personales.</p>
+
+  <h2>Tus derechos</h2>
+  <p>
+    Puedes pedir acceso, rectificación, supresión, oposición, limitación y portabilidad de tus datos escribiendo al
+    responsable. Si crees que no hemos atendido bien tu solicitud, puedes reclamar ante la{' '}
+    <a href="https://www.aepd.es/" rel="noopener" target="_blank">Agencia Española de Protección de Datos</a>.
+  </p>
+
+  <h2>Cookies</h2>
+  <p>Consulta nuestra <a href="/politica-de-cookies/">política de cookies</a>.</p>
+</PageLayout>

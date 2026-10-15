@@ -1,0 +1,25 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import ArticleCard from './ArticleCard.astro';
+
+interface Props {
+  articles: CollectionEntry<'articles'>[];
+  categoryName: string;
+}
+const { articles, categoryName } = Astro.props;
+---
+
+{
+  articles.length > 0 && (
+    <section class="mt-12" aria-labelledby="related-title">
+      <h2 id="related-title" class="mb-4 text-2xl font-bold">
+        Más guías de {categoryName}
+      </h2>
+      <ul class="grid gap-6 sm:grid-cols-2">
+        {articles.map((a) => (
+          <ArticleCard article={a} level="h3" track="mas-guias" />
+        ))}
+      </ul>
+    </section>
+  )
+}

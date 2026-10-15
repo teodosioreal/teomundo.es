@@ -1,0 +1,50 @@
+---
+// Barra fixa com um link (configurada em stickyBar, src/data/site.ts).
+// Versão discreta do plugin "Responsive Button": aparece sem atraso, não cobre o conteúdo
+// por trás de um atraso surpresa, tem botão de fechar e fica fechada pelo resto da visita.
+import { stickyBar } from '../data/site';
+
+const path = Astro.url.pathname;
+const show = stickyBar.active && !stickyBar.exclude.includes(path) && stickyBar.href !== path;
+---
+
+{
+  show && (
+    <>
+    {/* Espaço reservado para a barra não cobrir o rodapé. */}
+    {stickyBar.position === 'bottom' && <div aria-hidden="true" class="h-14" />}
+    <div
+      id="barra-fija"
+      class:list={[
+        'fixed inset-x-0 z-40 border-line bg-brand-900 text-white shadow-lg',
+        stickyBar.position === 'top' ? 'top-0 border-b' : 'bottom-0 border-t',
+      ]}
+    >
+      <div class="container-page flex items-center justify-between gap-3 py-2">
+        <a href={stickyBar.href} data-clic="barra-fija" class="flex-1 py-1 text-center font-semibold text-white no-underline hover:underline">
+          {stickyBar.text}
+        </a>
+        <button type="button" id="barra-fija-cerrar" class="rounded px-2 text-2xl leading-none text-white/80 hover:text-white" aria-label="Cerrar">
+          ×
+        </button>
+      </div>
+      <script is:inline>
+        (() => {
+          const bar = document.getElementById('barra-fija');
+          let closed = false;
+          try {
+            closed = sessionStorage.getItem('barra-fija') === 'cerrada';
+          } catch {}
+          if (closed) bar.remove();
+          document.getElementById('barra-fija-cerrar')?.addEventListener('click', () => {
+            bar.remove();
+            try {
+              sessionStorage.setItem('barra-fija', 'cerrada');
+            } catch {}
+          });
+        })();
+      </script>
+    </div>
+    </>
+  )
+}

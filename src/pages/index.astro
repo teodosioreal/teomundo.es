@@ -1,0 +1,180 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getPublishedArticles } from '../lib/articles';
+import { site, categories, standards, promises } from '../data/site';
+import ArticleCard from '../components/ArticleCard.astro';
+
+const all = (await getPublishedArticles()).sort(
+  (a, b) => b.data.datePublished.getTime() - a.data.datePublished.getTime() || a.data.h1.localeCompare(b.data.h1),
+);
+
+// "Empieza aquí": as 3 guias mais recentes, de categorias diferentes quando possível.
+const featured: typeof all = [];
+for (const a of all) {
+  if (featured.length === 3) break;
+  if (!featured.some((f) => f.data.category === a.data.category)) featured.push(a);
+}
+for (const a of all) {
+  if (featured.length === 3) break;
+  if (!featured.includes(a)) featured.push(a);
+}
+
+// Uma prateleira por categoria com artigo publicado (até 6 guias, as mais recentes).
+const shelves = Object.entries(categories)
+  .map(([slug, c]) => {
+    const articles = all.filter((a) => a.data.category === slug);
+    return { slug, ...c, total: articles.length, articles: articles.slice(0, 6) };
+  })
+  .filter((s) => s.total > 0);
+
+const sitePages = [
+  { label: 'Sobre nosotros', href: '/sobre-nosotros/', text: 'Quiénes somos y de qué escribimos.' },
+  { label: 'Política editorial', href: '/politica-editorial/', text: 'Nuestras fuentes, cómo escribimos y cómo corregimos errores.' },
+  { label: 'Política de privacidad', href: '/politica-de-privacidad/', text: 'Qué datos se recogen y qué puedes hacer.' },
+  { label: 'Contacto', href: '/contacto/', text: 'Avísanos de un error o sugiérenos un tema.' },
+];
+
+// [PENDIENTE] Ajustar title/description/h1 da home quando o nicho estiver definido.
+const title = `${site.name}: guías claras para el día a día`;
+const description = site.description;
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: site.name,
+    url: `${site.url}/`,
+    description,
+    inLanguage: site.lang,
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: site.name,
+    url: `${site.url}/`,
+    logo: `${site.url}/favicon-512x512.png`,
+  },
+];
+---
+
+<BaseLayout title={title} description={description} jsonLd={jsonLd}>
+  <section class="border-b border-line bg-brand-50">
+    <div class="container-page py-14 sm:py-20">
+      <h1 class="max-w-3xl text-4xl font-bold sm:text-5xl">Guías claras para las dudas de todos los días</h1>
+      <div class="prose-width mt-6 space-y-4 text-lg text-ink">
+        <p>{site.description}</p>
+      </div>
+      {
+        shelves.length > 0 && (
+          <nav aria-label="Temas" class="mt-8">
+            <p class="text-sm font-semibold text-muted">Ir a un tema:</p>
+            <ul class="mt-3 flex flex-wrap gap-3">
+              {shelves.map((s) => (
+                <li>
+                  <a
+                    href={`/${s.slug}/`}
+                    class="inline-flex rounded-full border border-brand-700 bg-paper px-4 py-2 text-base font-semibold text-brand-700 no-underline hover:bg-brand-100"
+                  >
+                    {s.name}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </nav>
+        )
+      }
+    </div>
+  </section>
+
+  {
+    all.length === 0 ? (
+      <section class="container-page py-14">
+        <h2 class="text-3xl font-bold">Muy pronto</h2>
+        <p class="prose-width mt-3 text-muted">Estamos preparando las primeras guías.</p>
+      </section>
+    ) : (
+      <section class="container-page py-14" aria-labelledby="empieza-aqui">
+        <h2 id="empieza-aqui" class="text-3xl font-bold">Empieza aquí</h2>
+        <ul class="mt-8 grid gap-6 lg:grid-cols-3">
+          {featured.map((a) => (
+            <ArticleCard article={a} featured track="inicio-destacadas" />
+          ))}
+        </ul>
+      </section>
+    )
+  }
+
+  {
+    shelves.map((shelf, i) => (
+      <section class:list={['border-t border-line', i % 2 === 0 && 'bg-soft']} aria-labelledby={`tema-${i}`}>
+        <div class="container-page py-14">
+          <div class="flex flex-wrap items-end justify-between gap-4">
+            <h2 id={`tema-${i}`} class="text-3xl font-bold">
+              {shelf.name}
+            </h2>
+            <a href={`/${shelf.slug}/`} class="text-base font-semibold">
+              Ver {shelf.total === 1 ? 'la guía' : `las ${shelf.total} guías`} →
+            </a>
+          </div>
+          <p class="prose-width mt-3 text-muted">{shelf.description}</p>
+          <ul class="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+            {shelf.articles.map((a) => (
+              <ArticleCard article={a} track="inicio-tema" />
+            ))}
+          </ul>
+        </div>
+      </section>
+    ))
+  }
+
+  <section class="border-t border-line" aria-labelledby="como-escribimos">
+    <div class="container-page py-14">
+      <h2 id="como-escribimos" class="text-3xl font-bold">Cómo escribimos nuestras guías</h2>
+      <ul class="mt-8 grid gap-4 sm:grid-cols-2">
+        {
+          standards.map((s) => (
+            <li class="rounded-xl border border-line bg-paper p-6">
+              <h3 class="text-xl font-bold">{s.name}</h3>
+              <p class="mt-2 text-base text-muted">{s.text}</p>
+            </li>
+          ))
+        }
+      </ul>
+      <h3 class="mt-10 text-2xl font-bold">Nuestro compromiso</h3>
+      <ul class="mt-4 space-y-3">
+        {
+          promises.map((p) => (
+            <li class="flex gap-3">
+              <svg aria-hidden="true" class="mt-1.5 h-5 w-5 flex-none text-brand-600" viewBox="0 0 20 20" fill="currentColor">
+                <path
+                  fill-rule="evenodd"
+                  d="M16.7 5.3a1 1 0 0 1 0 1.4l-8 8a1 1 0 0 1-1.4 0l-4-4a1 1 0 1 1 1.4-1.4L8 12.6l7.3-7.3a1 1 0 0 1 1.4 0Z"
+                  clip-rule="evenodd"
+                />
+              </svg>
+              <span>{p}</span>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </section>
+
+  <section class="border-t border-line bg-soft" aria-labelledby="sobre-el-sitio">
+    <div class="container-page py-14">
+      <h2 id="sobre-el-sitio" class="text-3xl font-bold">Sobre este sitio</h2>
+      <ul class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+        {
+          sitePages.map((p) => (
+            <li class="rounded-xl border border-line bg-paper p-5">
+              <a href={p.href} class="font-serif text-lg font-bold text-brand-900 no-underline hover:text-brand-700">
+                {p.label}
+              </a>
+              <p class="mt-1 text-base text-muted">{p.text}</p>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </section>
+</BaseLayout>

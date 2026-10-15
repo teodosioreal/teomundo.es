@@ -1,0 +1,2 @@
+# Redirecionamentos (formato Cloudflare Pages): /caminho-antigo/ /caminho-novo/ 301
+/sitemap.xml /sitemap-index.xml 301

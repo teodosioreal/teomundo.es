@@ -1,0 +1,58 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { site, adsense, analytics } from '../data/site';
+---
+
+<PageLayout
+  title={`Política de cookies | ${site.name}`}
+  description={`Qué cookies usa ${site.name} y cómo puedes gestionarlas.`}
+  h1="Política de cookies"
+>
+  <p>
+    Las cookies son pequeños archivos que un sitio web guarda en tu navegador. Esta página explica cuáles usa{' '}
+    {site.name}.
+  </p>
+
+  {
+    !adsense.client && !analytics.ga4Id ? (
+      <>
+        <h2>Cookies que usamos</h2>
+        <p>
+          Ahora mismo {site.name} no usa cookies de análisis ni de publicidad. Si en algún momento las incorporamos, te
+          pediremos permiso antes y actualizaremos esta página.
+        </p>
+      </>
+    ) : (
+      <>
+        <h2>Cookies que usamos</h2>
+        <ul>
+          {analytics.ga4Id && (
+            <li>
+              <strong>Análisis (Google Analytics):</strong> nos ayudan a saber qué páginas se leen. Solo se activan si las
+              aceptas.
+            </li>
+          )}
+          {adsense.client && (
+            <li>
+              <strong>Publicidad (Google AdSense):</strong> permiten mostrar y medir anuncios, y personalizarlos si lo
+              aceptas.
+            </li>
+          )}
+        </ul>
+        <p>
+          Puedes saber cómo usa Google la información en{' '}
+          <a href="https://policies.google.com/technologies/partner-sites" rel="noopener" target="_blank">
+            esta página de Google
+          </a>
+          .
+        </p>
+      </>
+    )
+  }
+
+  <h2>Cómo gestionarlas</h2>
+  <p>
+    Puedes borrar o bloquear las cookies desde la configuración de tu navegador. Si las bloqueas, el sitio seguirá
+    funcionando.
+  </p>
+</PageLayout>

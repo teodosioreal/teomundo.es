@@ -1,0 +1,30 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { site } from '../data/site';
+import { owner } from '../data/owner.mjs';
+---
+
+<PageLayout
+  title={`Contacto | ${site.name}`}
+  description={`Cómo escribir al equipo de ${site.name} para avisar de un error, sugerir un tema o ejercer tus derechos.`}
+  h1="Contacto"
+  updated={false}
+  pageType="ContactPage"
+>
+  {
+    owner.contactEmail ? (
+      <p>
+        Escríbenos a <a href={`mailto:${owner.contactEmail}`}>{owner.contactEmail}</a>. Intentamos responder a todos los
+        mensajes.
+      </p>
+    ) : (
+      <p>Muy pronto publicaremos aquí nuestra dirección de contacto.</p>
+    )
+  }
+  <h2>Para qué puedes escribirnos</h2>
+  <ul>
+    <li>Avisar de un error en una guía (indica la página y qué está mal).</li>
+    <li>Sugerir un tema que te gustaría que tratáramos.</li>
+    <li>Ejercer tus derechos sobre tus datos personales.</li>
+  </ul>
+</PageLayout>

@@ -1,0 +1,41 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { site } from '../data/site';
+import { owner } from '../data/owner.mjs';
+---
+
+<PageLayout
+  title={`Sobre nosotros | ${site.name}`}
+  description={`Quiénes somos, de qué escribimos y cómo trabajamos en ${site.name}.`}
+  h1={`Sobre ${site.name}`}
+  updated={false}
+  pageType="AboutPage"
+>
+  <p>
+    {site.name} es un sitio web independiente que publica guías claras y prácticas, pensadas para que encuentres una
+    respuesta útil sin tener que leer diez páginas distintas.
+  </p>
+
+  <h2>Quién está detrás</h2>
+  {
+    owner.name ? (
+      <p>
+        {site.name} es un proyecto de {owner.name}. Las guías las investiga, escribe y revisa el equipo editorial de{' '}
+        {site.name}.
+      </p>
+    ) : (
+      <p>Las guías las investiga, escribe y revisa el equipo editorial de {site.name}.</p>
+    )
+  }
+
+  <h2>Cómo trabajamos</h2>
+  <p>
+    Nos basamos en fuentes fiables y las enlazamos en cada guía. Si los datos sobre un tema son limitados, lo decimos.
+    Puedes leer todos los detalles en nuestra <a href="/politica-editorial/">política editorial</a>.
+  </p>
+
+  <h2>Escríbenos</h2>
+  <p>
+    ¿Has visto un error o quieres que tratemos un tema? Visita nuestra <a href="/contacto/">página de contacto</a>.
+  </p>
+</PageLayout>
