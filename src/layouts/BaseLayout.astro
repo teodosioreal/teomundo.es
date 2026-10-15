@@ -51,6 +51,32 @@ const image = ogImage ?? `${site.url}/favicon-512x512.png`;
     {jsonLd.map((data) => <script type="application/ld+json" set:html={JSON.stringify(data)} />)}
 
     {
+      (adsense.client || analytics.ga4Id) && (
+        // Modo de consentimento do Google: na UE, Reino Unido e Suíça tudo começa negado
+        // até o visitante aceitar no aviso de cookies (CMP do Google, AdSense → Privacidade e mensagens).
+        <script is:inline>
+          window.dataLayer = window.dataLayer || [];
+          function gtag() {
+            dataLayer.push(arguments);
+          }
+          gtag('consent', 'default', {
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied',
+            analytics_storage: 'denied',
+            wait_for_update: 500,
+            region: ['AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR', 'HU', 'IE', 'IT', 'LV', 'LT', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK', 'SI', 'ES', 'SE', 'IS', 'LI', 'NO', 'GB', 'CH'],
+          });
+          gtag('consent', 'default', {
+            ad_storage: 'granted',
+            ad_user_data: 'granted',
+            ad_personalization: 'granted',
+            analytics_storage: 'granted',
+          });
+        </script>
+      )
+    }
+    {
       adsense.client && (
         <script
           is:inline
@@ -66,9 +92,11 @@ const image = ogImage ?? `${site.url}/favicon-512x512.png`;
           <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${analytics.ga4Id}`} />
           <script is:inline define:vars={{ id: analytics.ga4Id }}>
             window.dataLayer = window.dataLayer || [];
-            function gtag() {
-              dataLayer.push(arguments);
-            }
+            window.gtag =
+              window.gtag ||
+              function () {
+                dataLayer.push(arguments);
+              };
             gtag('js', new Date());
             gtag('config', id);
             // Cliques nos blocos de leitura relacionada (data-clic="nome-do-bloco").

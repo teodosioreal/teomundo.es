@@ -134,7 +134,7 @@ export const searchConsole: { verification: string | null } = {
 // Com um ID do Google Analytics 4 (ex.: 'G-XXXXXXXXXX'), cada clique vira o evento "clic_relacionado".
 // null = desligado (nenhum script de analytics é carregado).
 export const analytics: { ga4Id: string | null } = {
-  ga4Id: null,
+  ga4Id: 'G-3LMJL02K9S',
 };
 
 // Barra fixa com um link (ideia do plugin "Responsive Button"). Desligada por padrão.
