@@ -15,6 +15,12 @@ datePublished: 2026-10-22
 dateModified: 2026-10-22
 imageQuery: "espresso cup saucer table"
 imageAlt: "Taza de café solo sobre una mesa"
+cover:
+  url: "https://images.unsplash.com/photo-1610889556528-9a770e32642f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZXNwcmVzc28lMjBjdXAlMjBzYXVjZXIlMjB0YWJsZXxlbnwxfDB8fHwxNzkyMDkzOTYwfDA&ixlib=rb-4.1.0"
+  alt: "Taza de café solo sobre una mesa"
+  author: "Adi Goldstein"
+  authorUrl: "https://unsplash.com/@adigold1?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/clear-glass-cup-on-saucer-xKS-1DP4g7A?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "La cafeína tiene un efecto diurético leve, pero el agua del propio café lo compensa a las dosis habituales."
   - "En un estudio con 50 hombres acostumbrados al café, cuatro tazas al día hidrataron igual que la misma cantidad de agua."

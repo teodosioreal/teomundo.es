@@ -138,3 +138,8 @@ ruido-y-salud | cover | busy city street at night with scooters and cafe terrace
 ruido-y-salud | inline 1 | bedroom window at night with city lights | https://unsplash.com/photos/kuala-lumpur-skyline-from-hotel-room-gl5a7zrkE-I | A view of the Kuala Lumpur skyline at night from a hotel room
 vitamina-d-en-espana | cover | elderly man sitting on bench sunny town square | https://unsplash.com/photos/people-in-town-square-with-buildings-9BIqGYtIj-c | People in a town square with white buildings and palm trees
 vitamina-d-en-espana | inline 1 | grilled sardines on a plate | https://unsplash.com/photos/grilled-fish-with-vegetable-salad-on-white-ceramic-plate-N8-bMqUMS8g | grilled fish with vegetable salad on white ceramic plate
+cafe-deshidrata | cover | espresso cup saucer table | https://unsplash.com/photos/clear-glass-cup-on-saucer-xKS-1DP4g7A | clear glass cup on saucer
+dolor-de-cabeza-por-helado | inline 1 | ice cream cones gelato shop | https://unsplash.com/photos/assorted-flavors-of-gelato-in-metal-containers-1Nn5lkpO7gY | Assorted flavors of gelato in metal containers
+huellas-dactilares-gemelos | cover | fingerprint close up | https://unsplash.com/photos/glowing-fingerprint-on-circular-scanner-SRFG7iwktDk | A glowing fingerprint on a dark circular scanner surface with concentric lines
+huellas-dactilares-gemelos | inline 1 | twin sisters children | https://unsplash.com/photos/a-couple-of-girls-posing-for-the-camera-zDz8DhMazt8 | a couple of girls posing for the camera
+nervio-mas-largo | cover | man back pain | https://unsplash.com/photos/a-person-with-a-light-in-their-head-Q4VHSPAdCKU | a person with a light in their head
