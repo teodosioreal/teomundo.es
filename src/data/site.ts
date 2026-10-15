@@ -29,7 +29,16 @@ export type Category = {
 //     metaDescription: '...',
 //     description: '...',
 //   },
-export const categories: Record<string, Category> = {};
+export const categories: Record<string, Category> = {
+  salud: {
+    name: 'Salud y bienestar',
+    title: 'Guías de salud y bienestar | TeoMundo',
+    metaDescription:
+      'Guías claras sobre molestias cotidianas: por qué pasan, qué puedes probar en casa y cuándo conviene ir al médico.',
+    description:
+      'Molestias de todos los días explicadas con calma: por qué pasan, qué puedes probar en casa y las señales que piden una visita al médico.',
+  },
+};
 
 export const author = {
   name: 'Equipo editorial de TeoMundo',
@@ -74,7 +83,7 @@ export const promises = [
 // Aviso que aparece no rodapé de todas as páginas. null = sem aviso.
 // Para nichos sensíveis (saúde, finanças, direito), escreva aqui o aviso adequado.
 export const footerNotice: string | null =
-  'El contenido de este sitio es solo informativo y no sustituye el consejo de un profesional.';
+  'El contenido de este sitio es solo informativo y no sustituye el consejo, el diagnóstico ni el tratamiento de un profesional sanitario. Ante cualquier duda sobre tu salud, consulta a tu médico.';
 
 // Publicidade (Google AdSense). null = desligado: nenhum script de anúncio e nenhum ads.txt.
 // Quando aprovar, coloque o ID de editor (ex.: 'ca-pub-0000000000000000').
