@@ -87,3 +87,5 @@ La parestesia que se repite o no se va es otra historia. El NINDS explica que el
 Si el hormigueo aparece de repente en un lado del cuerpo, junto con debilidad en la cara, el brazo o la pierna, o dificultad para hablar, llama al 112: pueden ser señales de un ictus.
 
 Hoy, si vas a pasar la tarde en el sofá, pon una alarma cada 30 minutos para cambiar de postura. Y si ya estás estirándote, quizá te preguntes [por qué crujen los dedos](/por-que/por-que-crujen-los-dedos/). Y si la siguiente sorpresa llega al acostarte, lee [por qué das un salto al dormirte](/por-que/sacudida-al-dormirse/) o [por qué se arrugan los dedos en el agua](/por-que/dedos-arrugados-en-el-agua/).
+
+Ese hormigueo tiene mucho que ver con los nervios de la pierna, y uno de ellos es un récord: [el nervio más largo del cuerpo](/records/nervio-mas-largo/).
