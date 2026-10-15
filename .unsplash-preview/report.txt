@@ -143,3 +143,4 @@ dolor-de-cabeza-por-helado | inline 1 | ice cream cones gelato shop | https://un
 huellas-dactilares-gemelos | cover | fingerprint close up | https://unsplash.com/photos/glowing-fingerprint-on-circular-scanner-SRFG7iwktDk | A glowing fingerprint on a dark circular scanner surface with concentric lines
 huellas-dactilares-gemelos | inline 1 | twin sisters children | https://unsplash.com/photos/a-couple-of-girls-posing-for-the-camera-zDz8DhMazt8 | a couple of girls posing for the camera
 nervio-mas-largo | cover | man back pain | https://unsplash.com/photos/a-person-with-a-light-in-their-head-Q4VHSPAdCKU | a person with a light in their head
+nervio-mas-largo | cover | woman holding lower back | https://unsplash.com/photos/woman-in-white-denim-shorts-X4gd4Lg8OwY | woman in white denim shorts
