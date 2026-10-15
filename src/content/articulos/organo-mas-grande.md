@@ -15,6 +15,12 @@ datePublished: 2026-10-19
 dateModified: 2026-10-19
 imageQuery: "woman applying sunscreen arm beach"
 imageAlt: "Mujer extendiéndose crema solar en el brazo en la playa"
+cover:
+  url: "https://images.unsplash.com/photo-1724501468528-f3a4dd7769db?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBhcHBseWluZyUyMHN1bnNjcmVlbiUyMGFybSUyMGJlYWNofGVufDF8MHx8fDE3OTIwOTM4Njh8MA&ixlib=rb-4.1.0"
+  alt: "Mujer extendiéndose crema solar en el brazo en la playa"
+  author: "Didier VEILLON"
+  authorUrl: "https://unsplash.com/@didpics?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-woman-in-a-hat-leaning-against-a-palm-tree-SBz7b22PdPg?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El órgano más grande del cuerpo humano es la piel: en un adulto de unos 70 kilos cubre entre 1,5 y 2 metros cuadrados y pesa alrededor de 3,8 kilos, según Guinness World Records."
   - "Por dentro, el récord es del hígado, con aproximadamente 1,5 kilos en ese mismo adulto."
@@ -71,7 +77,10 @@ Además de ser el más pesado por dentro, tiene una capacidad poco común para r
 
 Ojo con no confundir tamaño y longitud. El intestino o la red de vasos sanguíneos ocupan muchísimos metros si se estiran, pero no son un órgano único que se pese como el hígado. Si te pica la curiosidad, mira [cuánto medirían tus vasos sanguíneos puestos en fila](/records/longitud-vasos-sanguineos/).
 
-<!-- unsplash: human skin close up texture hand | Primer plano de la piel del dorso de una mano -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1541752857837-f8a0154fd092?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aHVtYW4lMjBza2luJTIwY2xvc2UlMjB1cCUyMHRleHR1cmUlMjBoYW5kfGVufDF8MHx8fDE3OTIwOTM4Njl8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1541752857837-f8a0154fd092?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aHVtYW4lMjBza2luJTIwY2xvc2UlMjB1cCUyMHRleHR1cmUlMjBoYW5kfGVufDF8MHx8fDE3OTIwOTM4Njl8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1541752857837-f8a0154fd092?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aHVtYW4lMjBza2luJTIwY2xvc2UlMjB1cCUyMHRleHR1cmUlMjBoYW5kfGVufDF8MHx8fDE3OTIwOTM4Njl8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1541752857837-f8a0154fd092?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aHVtYW4lMjBza2luJTIwY2xvc2UlMjB1cCUyMHRleHR1cmUlMjBoYW5kfGVufDF8MHx8fDE3OTIwOTM4Njl8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Primer plano de la piel del dorso de una mano" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@olga_o?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Olga Thelavart</a> en <a href="https://unsplash.com/photos/a-close-up-of-a-persons-back-with-brown-spots-k4ManxEQAnE?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## ¿Y el intersticio, el "órgano nuevo"?
 

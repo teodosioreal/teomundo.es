@@ -15,6 +15,12 @@ datePublished: 2026-10-24
 dateModified: 2026-10-24
 imageQuery: "man holding lower back pain office chair"
 imageAlt: "Hombre sentado en una silla de oficina con la mano en la zona lumbar"
+cover:
+  url: "https://images.unsplash.com/photo-1588374919040-cc521ccfa2f8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWFuJTIwaG9sZGluZyUyMGxvd2VyJTIwYmFjayUyMHBhaW4lMjBvZmZpY2UlMjBjaGFpcnxlbnwxfDB8fHwxNzkyMDkzODY2fDA&ixlib=rb-4.1.0"
+  alt: "Hombre sentado en una silla de oficina con la mano en la zona lumbar"
+  author: "Joel Timothy"
+  authorUrl: "https://unsplash.com/@toeljimothy?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/person-in-black-long-sleeve-shirt-and-white-pants-standing-beside-brown-wooden-armchair-xgTVkBW_A-0?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El nervio ciático es el más largo y el más grueso del cuerpo: nace en la zona lumbar, cruza el glúteo, baja por detrás del muslo y sus ramas llegan hasta el pie."
   - "Algunas neuronas motoras tienen una prolongación que va de la médula espinal al dedo gordo del pie: Guinness habla de unos 1,3 metros."
@@ -70,7 +76,10 @@ Además recoge la sensibilidad de la mayor parte de la extremidad inferior. Cuan
 
 Por eso, si el ciático se ve presionado, lo notas en la pierna: dolor, hormigueo o adormecimiento. Se parece a lo que ocurre cuando cruzas las piernas demasiado tiempo, como contamos en [por qué se duermen las piernas](/por-que/pierna-dormida/).
 
-<!-- unsplash: person stretching hamstring park morning | Persona estirando la parte posterior de la pierna en un parque -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1600026453194-11ae289732b8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3RyZXRjaGluZyUyMGhhbXN0cmluZyUyMHBhcmslMjBtb3JuaW5nfGVufDF8MHx8fDE3OTIwOTM4Njd8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1600026453194-11ae289732b8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3RyZXRjaGluZyUyMGhhbXN0cmluZyUyMHBhcmslMjBtb3JuaW5nfGVufDF8MHx8fDE3OTIwOTM4Njd8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1600026453194-11ae289732b8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3RyZXRjaGluZyUyMGhhbXN0cmluZyUyMHBhcmslMjBtb3JuaW5nfGVufDF8MHx8fDE3OTIwOTM4Njd8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1600026453194-11ae289732b8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3RyZXRjaGluZyUyMGhhbXN0cmluZyUyMHBhcmslMjBtb3JuaW5nfGVufDF8MHx8fDE3OTIwOTM4Njd8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona estirando la parte posterior de la pierna en un parque" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@demoya?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Michael DeMoya</a> en <a href="https://unsplash.com/photos/man-in-white-tank-top-and-black-shorts-doing-push-up-during-daytime-dZW-IiWXFek?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Una sola célula de más de un metro
 

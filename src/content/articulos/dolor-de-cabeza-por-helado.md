@@ -15,6 +15,12 @@ datePublished: 2026-10-21
 dateModified: 2026-10-21
 imageQuery: "woman eating ice cream cone summer street grimace"
 imageAlt: "Mujer comiendo un helado en la calle en verano con gesto de molestia"
+cover:
+  url: "https://images.unsplash.com/photo-1535479904932-6efdeabe3212?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBlYXRpbmclMjBpY2UlMjBjcmVhbSUyMGNvbmUlMjBzdW1tZXIlMjBzdHJlZXQlMjBncmltYWNlfGVufDF8MHx8fDE3OTIwOTM4NjJ8MA&ixlib=rb-4.1.0"
+  alt: "Mujer comiendo un helado en la calle en verano con gesto de molestia"
+  author: "Parker Johnson"
+  authorUrl: "https://unsplash.com/@pkripperprivate?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-holding-ice-cream-cone-_G1bOBS7gE8?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El dolor de cabeza por helado es una cefalea reconocida en la Clasificación Internacional de Cefaleas (ICHD-3), con código 4.5.2."
   - "Lo dispara el frío en el paladar o en la garganta, y el cerebro sitúa el dolor en la frente o las sienes por la vía del nervio trigémino."
@@ -69,7 +75,10 @@ En 2012, un equipo con investigadores de Harvard y de la Universidad Nacional de
 
 Según el [resumen difundido por la American Physiological Society](https://sciencedaily.com/releases/2012/04/120422231742.htm), la arteria cerebral anterior se dilataba de forma rápida justo cuando aparecía el dolor y se volvía a estrechar cuando cedía. Era un resumen de congreso, no un artículo completo, así que conviene tomarlo como una pista y no como la explicación definitiva.
 
-<!-- unsplash: lemon granita cup summer terrace | Vaso de granizado de limón en una terraza de verano -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1790361317451-c4ab8d75daa6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGVtb24lMjBncmFuaXRhJTIwY3VwJTIwc3VtbWVyJTIwdGVycmFjZXxlbnwxfDB8fHwxNzkyMDkzODYzfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1790361317451-c4ab8d75daa6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGVtb24lMjBncmFuaXRhJTIwY3VwJTIwc3VtbWVyJTIwdGVycmFjZXxlbnwxfDB8fHwxNzkyMDkzODYzfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1790361317451-c4ab8d75daa6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGVtb24lMjBncmFuaXRhJTIwY3VwJTIwc3VtbWVyJTIwdGVycmFjZXxlbnwxfDB8fHwxNzkyMDkzODYzfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1790361317451-c4ab8d75daa6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGVtb24lMjBncmFuaXRhJTIwY3VwJTIwc3VtbWVyJTIwdGVycmFjZXxlbnwxfDB8fHwxNzkyMDkzODYzfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Vaso de granizado de limón en una terraza de verano" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@arlindphotography?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Arlind Photography</a> en <a href="https://unsplash.com/photos/lemon-tree-by-white-wooden-staircase-ipATdco6lUE?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## El nervio que confunde el lugar del dolor
 

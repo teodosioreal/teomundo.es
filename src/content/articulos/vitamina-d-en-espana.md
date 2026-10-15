@@ -15,6 +15,12 @@ datePublished: 2026-10-18
 dateModified: 2026-10-18
 imageQuery: "elderly man sitting on bench sunny town square"
 imageAlt: "Hombre mayor sentado en un banco al sol en una plaza"
+cover:
+  url: "https://images.unsplash.com/photo-1788715825787-046d622f6657?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWxkZXJseSUyMG1hbiUyMHNpdHRpbmclMjBvbiUyMGJlbmNoJTIwc3VubnklMjB0b3duJTIwc3F1YXJlfGVufDF8MHx8fDE3OTIwOTM4NzZ8MA&ixlib=rb-4.1.0"
+  alt: "Hombre mayor sentado en un banco al sol en una plaza"
+  author: "Jose Manuel Esp"
+  authorUrl: "https://unsplash.com/@jmespiga?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/people-in-town-square-with-buildings-9BIqGYtIj-c?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Un estudio publicado en 2011 con adultos de Asturias y de Pizarra (Málaga) concluyó que un tercio de la población española podría estar en riesgo de déficit de vitamina D."
   - "En invierno el sol va bajo: en Madrid, el índice UV máximo medio de diciembre ronda 1,3, frente a 9 en julio, y la piel fabrica mucho menos vitamina D."
@@ -75,7 +81,10 @@ Según los [NIH estadounidenses](https://ods.od.nih.gov/factsheets/VitaminD-Heal
 
 **El protector solar.** Los NIH señalan que un protector con FPS 8 o más parece bloquear los rayos que fabrican vitamina D, aunque en la práctica casi todos nos ponemos menos crema de la necesaria. Aun así, la recomendación no es dejar de usarlo: la radiación ultravioleta causa cáncer de piel.
 
-<!-- unsplash: grilled sardines on a plate | Sardinas a la plancha en un plato -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1600699899970-b1c9fadd8f9e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3JpbGxlZCUyMHNhcmRpbmVzJTIwb24lMjBhJTIwcGxhdGV8ZW58MXwwfHx8MTc5MjA5Mzg3N3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1600699899970-b1c9fadd8f9e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3JpbGxlZCUyMHNhcmRpbmVzJTIwb24lMjBhJTIwcGxhdGV8ZW58MXwwfHx8MTc5MjA5Mzg3N3ww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1600699899970-b1c9fadd8f9e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3JpbGxlZCUyMHNhcmRpbmVzJTIwb24lMjBhJTIwcGxhdGV8ZW58MXwwfHx8MTc5MjA5Mzg3N3ww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1600699899970-b1c9fadd8f9e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3JpbGxlZCUyMHNhcmRpbmVzJTIwb24lMjBhJTIwcGxhdGV8ZW58MXwwfHx8MTc5MjA5Mzg3N3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Sardinas a la plancha en un plato" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@alex_wsul?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Alex Teixeira</a> en <a href="https://unsplash.com/photos/grilled-fish-with-vegetable-salad-on-white-ceramic-plate-N8-bMqUMS8g?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Dónde está en tu plato
 

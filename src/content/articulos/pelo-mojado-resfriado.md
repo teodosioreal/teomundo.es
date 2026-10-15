@@ -15,6 +15,12 @@ datePublished: 2026-10-17
 dateModified: 2026-10-17
 imageQuery: "woman wet hair towel morning home"
 imageAlt: "Mujer secándose el pelo mojado con una toalla en casa"
+cover:
+  url: "https://images.unsplash.com/photo-1775642545921-419454430362?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3ZXQlMjBoYWlyJTIwdG93ZWwlMjBtb3JuaW5nJTIwaG9tZXxlbnwxfDB8fHwxNzkyMDkzODcwfDA&ixlib=rb-4.1.0"
+  alt: "Mujer secándose el pelo mojado con una toalla en casa"
+  author: "Christian Agbede"
+  authorUrl: "https://unsplash.com/@chriscreations__?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-in-bathrobe-adjusts-towel-on-head-in-mirror-8tdLETcs4L0?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Un resfriado lo causa un virus, sobre todo los rinovirus. Sin virus, el pelo mojado no te resfría."
   - "Hay un matiz: enfriarte podría ayudar a que aparezcan síntomas si ya llevabas el virus encima, según un estudio de la Universidad de Cardiff."
@@ -85,7 +91,10 @@ Para la próxima sobremesa familiar:
 
 Si te preguntas por qué el gorro sí se nota aunque no sea la clave, lo explicamos en [el mito del calor que se pierde por la cabeza](/mitos/calor-por-la-cabeza/).
 
-<!-- unsplash: people crowded bus winter coats | Personas abrigadas dentro de un autobús lleno en invierno -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1713622401691-a7af05553d10?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVvcGxlJTIwY3Jvd2RlZCUyMGJ1cyUyMHdpbnRlciUyMGNvYXRzfGVufDF8MHx8fDE3OTIwOTM4NzF8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1713622401691-a7af05553d10?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVvcGxlJTIwY3Jvd2RlZCUyMGJ1cyUyMHdpbnRlciUyMGNvYXRzfGVufDF8MHx8fDE3OTIwOTM4NzF8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1713622401691-a7af05553d10?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVvcGxlJTIwY3Jvd2RlZCUyMGJ1cyUyMHdpbnRlciUyMGNvYXRzfGVufDF8MHx8fDE3OTIwOTM4NzF8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1713622401691-a7af05553d10?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVvcGxlJTIwY3Jvd2RlZCUyMGJ1cyUyMHdpbnRlciUyMGNvYXRzfGVufDF8MHx8fDE3OTIwOTM4NzF8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Personas abrigadas dentro de un autobús lleno en invierno" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@helloimnik?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Nik</a> en <a href="https://unsplash.com/photos/a-group-of-people-riding-on-a-bus-QJWX5NQMd7g?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Por qué los catarros llegan con el frío
 

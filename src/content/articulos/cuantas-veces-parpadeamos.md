@@ -15,6 +15,12 @@ datePublished: 2026-10-20
 dateModified: 2026-10-20
 imageQuery: "woman tired eyes laptop screen night office"
 imageAlt: "Mujer con los ojos cansados delante de la pantalla de un portátil"
+cover:
+  url: "https://images.unsplash.com/photo-1736974634986-9e42e1144637?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjB0aXJlZCUyMGV5ZXMlMjBsYXB0b3AlMjBzY3JlZW4lMjBuaWdodCUyMG9mZmljZXxlbnwxfDB8fHwxNzkyMDkzODU4fDA&ixlib=rb-4.1.0"
+  alt: "Mujer con los ojos cansados delante de la pantalla de un portátil"
+  author: "Vadim Bogulov"
+  authorUrl: "https://unsplash.com/@franku84?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-woman-sitting-in-front-of-a-laptop-computer-J_T9RyiWk4E?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Parpadeamos unas 15 a 20 veces por minuto: si estás despierto 16 horas, salen entre 14.000 y 19.000 parpadeos al día."
   - "Cada parpadeo extiende la lágrima sobre el ojo y evita que la córnea se seque."
@@ -82,7 +88,10 @@ La AAO advierte que el ritmo de parpadeo [puede reducirse a la mitad](https://ww
 
 Hay un segundo problema: los **parpadeos incompletos**. Esa misma revisión explica que el uso de pantallas aumenta los parpadeos en los que el párpado no llega a bajar del todo. La parte inferior de la córnea queda sin repasar y se seca antes.
 
-<!-- unsplash: person looking out window resting eyes office | Persona mirando por la ventana para descansar la vista en la oficina -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1603136324205-01cdebce04ab?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwbG9va2luZyUyMG91dCUyMHdpbmRvdyUyMHJlc3RpbmclMjBleWVzJTIwb2ZmaWNlfGVufDF8MHx8fDE3OTIwOTM4NjB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1603136324205-01cdebce04ab?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwbG9va2luZyUyMG91dCUyMHdpbmRvdyUyMHJlc3RpbmclMjBleWVzJTIwb2ZmaWNlfGVufDF8MHx8fDE3OTIwOTM4NjB8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1603136324205-01cdebce04ab?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwbG9va2luZyUyMG91dCUyMHdpbmRvdyUyMHJlc3RpbmclMjBleWVzJTIwb2ZmaWNlfGVufDF8MHx8fDE3OTIwOTM4NjB8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1603136324205-01cdebce04ab?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwbG9va2luZyUyMG91dCUyMHdpbmRvdyUyMHJlc3RpbmclMjBleWVzJTIwb2ZmaWNlfGVufDF8MHx8fDE3OTIwOTM4NjB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona mirando por la ventana para descansar la vista en la oficina" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@adbullahx?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">abdullah ali</a> en <a href="https://unsplash.com/photos/man-in-black-jacket-looking-out-the-window-rJ5xWkt0eDQ?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 Si a eso le sumas el aire acondicionado o la calefacción de la oficina, el resultado es conocido: ojos rojos, picor, sensación de arenilla, visión que se emborrona al final de la jornada y, a veces, ojos que lloran más de la cuenta. Paradójicamente, el ojo seco puede provocar lagrimeo.
 

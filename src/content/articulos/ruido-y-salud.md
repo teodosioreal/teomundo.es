@@ -15,6 +15,12 @@ datePublished: 2026-10-23
 dateModified: 2026-10-23
 imageQuery: "busy city street at night with scooters and cafe terraces"
 imageAlt: "Calle de ciudad de noche con terrazas llenas y motos aparcadas"
+cover:
+  url: "https://images.unsplash.com/photo-1765755405946-cbaa531fdd51?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YnVzeSUyMGNpdHklMjBzdHJlZXQlMjBhdCUyMG5pZ2h0JTIwd2l0aCUyMHNjb290ZXJzJTIwYW5kJTIwY2FmZSUyMHRlcnJhY2VzfGVufDF8MHx8fDE3OTIwOTM4NzN8MA&ixlib=rb-4.1.0"
+  alt: "Calle de ciudad de noche con terrazas llenas y motos aparcadas"
+  author: "Far Chinberdiev"
+  authorUrl: "https://unsplash.com/@fardevio?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/street-view-of-a-restaurant-with-outdoor-seating-at-night-yytfo1BzKFA?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "La Agencia Europea de Medio Ambiente calcula que más de 1 de cada 5 europeos está expuesto a niveles dañinos de ruido del transporte, sobre todo del tráfico."
   - "Aunque no te despiertes, el ruido nocturno activa la respuesta de estrés, fragmenta el sueño y se asocia a hipertensión e infarto."
@@ -65,7 +71,10 @@ Mientras duermes, tu tensión arterial debería bajar. Los autores explican que 
 
 La revisión también recoge estudios que asocian el ruido del tráfico con el infarto de miocardio. Asociación no es causa directa en cada persona, pero la señal se repite en varios países. Otro factor que exige al corazón lo contamos en [lo que el calor del verano le hace a tu corazón](/cuerpo-y-espana/calor-y-corazon/).
 
-<!-- unsplash: bedroom window at night with city lights | Ventana de un dormitorio de noche con las luces de la ciudad -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1788927796219-35f6c27e6422?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmVkcm9vbSUyMHdpbmRvdyUyMGF0JTIwbmlnaHQlMjB3aXRoJTIwY2l0eSUyMGxpZ2h0c3xlbnwxfDB8fHwxNzkyMDkzODc0fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1788927796219-35f6c27e6422?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmVkcm9vbSUyMHdpbmRvdyUyMGF0JTIwbmlnaHQlMjB3aXRoJTIwY2l0eSUyMGxpZ2h0c3xlbnwxfDB8fHwxNzkyMDkzODc0fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1788927796219-35f6c27e6422?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmVkcm9vbSUyMHdpbmRvdyUyMGF0JTIwbmlnaHQlMjB3aXRoJTIwY2l0eSUyMGxpZ2h0c3xlbnwxfDB8fHwxNzkyMDkzODc0fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1788927796219-35f6c27e6422?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmVkcm9vbSUyMHdpbmRvdyUyMGF0JTIwbmlnaHQlMjB3aXRoJTIwY2l0eSUyMGxpZ2h0c3xlbnwxfDB8fHwxNzkyMDkzODc0fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Ventana de un dormitorio de noche con las luces de la ciudad" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@chonky_films?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Vincent Yap</a> en <a href="https://unsplash.com/photos/kuala-lumpur-skyline-from-hotel-room-gl5a7zrkE-I?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Qué dicen los datos de Europa y de España
 
