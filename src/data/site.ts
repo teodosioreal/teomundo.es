@@ -133,6 +133,13 @@ export const searchConsole: { verification: string | null } = {
 // Medição de cliques nos blocos de leitura relacionada (ideia do plugin "Conteúdo Relacionado").
 // Com um ID do Google Analytics 4 (ex.: 'G-XXXXXXXXXX'), cada clique vira o evento "clic_relacionado".
 // null = desligado (nenhum script de analytics é carregado).
+// Google Tag Manager (ex.: 'GTM-XXXXXXX'). null = desligado.
+// Não configure o GA4 dentro do GTM: ele já está instalado direto (analytics.ga4Id) e contaria em dobro.
+// Tags dentro do GTM (pixel do Facebook etc.) precisam respeitar o consentimento (Configurações de consentimento da tag).
+export const tagManager: { id: string | null } = {
+  id: null,
+};
+
 export const analytics: { ga4Id: string | null } = {
   ga4Id: 'G-3LMJL02K9S',
 };
