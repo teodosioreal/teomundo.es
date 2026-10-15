@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "elderly people talking park bench spain"
 imageAlt: "Personas mayores conversando en un banco de una plaza"
+cover:
+  url: "https://images.unsplash.com/photo-1665586145717-e19f064950bf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWxkZXJseSUyMHBlb3BsZSUyMHRhbGtpbmclMjBwYXJrJTIwYmVuY2glMjBzcGFpbnxlbnwxfDB8fHwxNzkyMDg1NTk3fDA&ixlib=rb-4.1.0"
+  alt: "Personas mayores conversando en un banco de una plaza"
+  author: "Stephanie Barbour"
+  authorUrl: "https://unsplash.com/@my_perspective?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-couple-sitting-on-a-bench-T3WIvhGcXHc?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "En 2024, la esperanza de vida al nacer en España llegó a 84,01 años: 81,38 en los hombres y 86,53 en las mujeres, según el INE."
   - "Un estudio publicado en The Lancet en 2018 proyectó que España podría tener la esperanza de vida más alta del mundo en 2040."
@@ -55,7 +61,10 @@ Los datos de 2024 proceden de los indicadores demográficos del INE ([BBVA Mi Ju
 
 La previsión para 2040 viene del Instituto de Métricas y Evaluación de la Salud (IHME), que en 2018 situó a España por delante de Japón, aunque por muy poco ([World Economic Forum](https://weforum.org/agenda/2018/10/spain-is-about-to-overtake-japan-in-life-expectancy)). Es una proyección: depende de cómo evolucionen los hábitos de salud.
 
-<!-- unsplash: elderly couple walking street | Pareja de personas mayores paseando por la calle -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1634059603867-611be5a35c3e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWxkZXJseSUyMGNvdXBsZSUyMHdhbGtpbmclMjBzdHJlZXR8ZW58MXwwfHx8MTc5MjA4NTU5OHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1634059603867-611be5a35c3e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWxkZXJseSUyMGNvdXBsZSUyMHdhbGtpbmclMjBzdHJlZXR8ZW58MXwwfHx8MTc5MjA4NTU5OHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1634059603867-611be5a35c3e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWxkZXJseSUyMGNvdXBsZSUyMHdhbGtpbmclMjBzdHJlZXR8ZW58MXwwfHx8MTc5MjA4NTU5OHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1634059603867-611be5a35c3e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWxkZXJseSUyMGNvdXBsZSUyMHdhbGtpbmclMjBzdHJlZXR8ZW58MXwwfHx8MTc5MjA4NTU5OHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Pareja de personas mayores paseando por la calle" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@rafal_ziolek?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Rafał Ziółek</a> en <a href="https://unsplash.com/photos/a-man-and-a-woman-walking-down-a-sidewalk-j1m1ldTnqJE?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## La dieta y el paseo
 

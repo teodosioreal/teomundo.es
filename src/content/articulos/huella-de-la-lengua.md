@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "person sticking tongue out funny"
 imageAlt: "Persona sacando la lengua de forma divertida"
+cover:
+  url: "https://images.unsplash.com/photo-1725588003428-491d56d2f91b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3RpY2tpbmclMjB0b25ndWUlMjBvdXQlMjBmdW5ueXxlbnwxfDB8fHwxNzkyMDg1NjAzfDA&ixlib=rb-4.1.0"
+  alt: "Persona sacando la lengua de forma divertida"
+  author: "Bianca Mallia"
+  authorUrl: "https://unsplash.com/@biancaphotography?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-woman-sticking-her-tongue-out-with-her-eyes-closed-wDbnOlaWm7w?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "La forma y la textura de la lengua varían de una persona a otra, y algunos investigadores las han estudiado como forma de identificación."
   - "Los estudios más citados, de la Universidad Politécnica de Hong Kong, son pruebas preliminares con pocas personas."
@@ -56,7 +62,10 @@ El grupo del profesor David Zhang, de la Universidad Politécnica de Hong Kong, 
 
 Sus resultados mostraron que la idea **era viable** y merecía más investigación ([PolyU](https://research.polyu.edu.hk/en/publications/dynamic-tongueprint-a-novel-biometric-identifier/)). Pero 134 personas no bastan para demostrar que no haya dos lenguas iguales en todo el mundo.
 
-<!-- unsplash: fingerprint close up | Primer plano de una huella dactilar -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1611330500121-d9439ddc3d9d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZmluZ2VycHJpbnQlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTIwODU2MDR8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1611330500121-d9439ddc3d9d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZmluZ2VycHJpbnQlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTIwODU2MDR8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1611330500121-d9439ddc3d9d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZmluZ2VycHJpbnQlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTIwODU2MDR8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1611330500121-d9439ddc3d9d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZmluZ2VycHJpbnQlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTIwODU2MDR8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Primer plano de una huella dactilar" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@tinkerman?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Immo Wegmann</a> en <a href="https://unsplash.com/photos/black-and-white-round-textile-5PqBCWUtYbo?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Por qué no la usa la policía
 

@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "tired man rubbing eyes at night desk"
 imageAlt: "Hombre cansado frotándose los ojos de noche"
+cover:
+  url: "https://images.unsplash.com/photo-1758520144705-b39e11ff32e3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGlyZWQlMjBtYW4lMjBydWJiaW5nJTIwZXllcyUyMGF0JTIwbmlnaHQlMjBkZXNrfGVufDF8MHx8fDE3OTIwODU1OTF8MA&ixlib=rb-4.1.0"
+  alt: "Hombre cansado frotándose los ojos de noche"
+  author: "Vitaly Gariev"
+  authorUrl: "https://unsplash.com/@silverkblack?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/man-in-suit-sits-at-desk-head-in-hands-lLLZkSmxe7A?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El récord más conocido es el de Randy Gardner, un estudiante de 17 años que estuvo 264 horas despierto, unos 11 días, en 1964."
   - "Durante el experimento tuvo problemas de memoria, de concentración y de habla, e incluso alucinaciones."

@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "human ear close up"
 imageAlt: "Primer plano de una oreja"
+cover:
+  url: "https://images.unsplash.com/photo-1602703651892-7f0e73a14302?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aHVtYW4lMjBlYXIlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTIwODU2MDR8MA&ixlib=rb-4.1.0"
+  alt: "Primer plano de una oreja"
+  author: "Franco Antonio Giovanella"
+  authorUrl: "https://unsplash.com/@francogio?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/human-ear-on-white-background-PVDWaEhSIAg?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El hueso más pequeño del cuerpo es el estribo, en el oído medio, y mide unos 3 milímetros."
   - "Junto con el martillo y el yunque, transmite las vibraciones del tímpano hasta el oído interno."
@@ -58,7 +64,10 @@ En el oído medio, justo detrás del tímpano, hay una cadena de tres huesecillo
 
 El martillo es el más grande de los tres y el estribo, el más pequeño.
 
-<!-- unsplash: person listening music headphones smiling | Persona escuchando música con auriculares -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1593697820932-7b80b2ec386f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwbGlzdGVuaW5nJTIwbXVzaWMlMjBoZWFkcGhvbmVzJTIwc21pbGluZ3xlbnwxfDB8fHwxNzkyMDg1NjA1fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1593697820932-7b80b2ec386f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwbGlzdGVuaW5nJTIwbXVzaWMlMjBoZWFkcGhvbmVzJTIwc21pbGluZ3xlbnwxfDB8fHwxNzkyMDg1NjA1fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1593697820932-7b80b2ec386f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwbGlzdGVuaW5nJTIwbXVzaWMlMjBoZWFkcGhvbmVzJTIwc21pbGluZ3xlbnwxfDB8fHwxNzkyMDg1NjA1fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1593697820932-7b80b2ec386f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwbGlzdGVuaW5nJTIwbXVzaWMlMjBoZWFkcGhvbmVzJTIwc21pbGluZ3xlbnwxfDB8fHwxNzkyMDg1NjA1fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona escuchando música con auriculares" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@soundtrap?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Soundtrap</a> en <a href="https://unsplash.com/photos/woman-in-gray-long-sleeve-shirt-using-macbook-pro-C-2Wky-LT7k?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Cómo te deja oír
 

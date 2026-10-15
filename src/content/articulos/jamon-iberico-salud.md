@@ -48,7 +48,10 @@ Según un estudio citado por [Consumer](https://www.consumer.es/alimentacion/el-
 
 Pero esa grasa también contiene grasa saturada, y el jamón aporta bastantes calorías en poca cantidad.
 
-<!-- unsplash: iberian pigs dehesa oak | Cerdos ibéricos en la dehesa -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1508589938009-83a346342bd6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aWJlcmlhbiUyMHBpZ3MlMjBkZWhlc2ElMjBvYWt8ZW58MXwwfHx8MTc5MjA4NTYwNnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1508589938009-83a346342bd6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aWJlcmlhbiUyMHBpZ3MlMjBkZWhlc2ElMjBvYWt8ZW58MXwwfHx8MTc5MjA4NTYwNnww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1508589938009-83a346342bd6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aWJlcmlhbiUyMHBpZ3MlMjBkZWhlc2ElMjBvYWt8ZW58MXwwfHx8MTc5MjA4NTYwNnww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1508589938009-83a346342bd6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aWJlcmlhbiUyMHBpZ3MlMjBkZWhlc2ElMjBvYWt8ZW58MXwwfHx8MTc5MjA4NTYwNnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Cerdos ibéricos en la dehesa" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@anniespratt?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Annie Spratt</a> en <a href="https://unsplash.com/photos/white-pig-walking-on-grass-field-_Y5ppMWVYkk?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Proteína y mucha sal
 

@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "liver anatomy illustration"
 imageAlt: "Ilustración anatómica del hígado"
+cover:
+  url: "https://images.unsplash.com/photo-1715529134972-221f23a6c701?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGl2ZXIlMjBhbmF0b215JTIwaWxsdXN0cmF0aW9ufGVufDF8MHx8fDE3OTIwODU2MDF8MA&ixlib=rb-4.1.0"
+  alt: "Ilustración anatómica del hígado"
+  author: "Europeana"
+  authorUrl: "https://unsplash.com/@europeana?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-drawing-of-a-human-brain-with-multiple-sections-4rPB78U45MA?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El hígado es el órgano interno con mayor capacidad de regenerarse: tras quitar una parte, el resto crece hasta recuperar gran parte de su volumen."
   - "Eso permite que una persona viva done una parte de su hígado; la función suele recuperarse en semanas y el volumen, en meses."
@@ -56,7 +62,10 @@ Los estudios en personas sanas que han donado parte de su hígado dan una idea d
 | Primeros meses | Sigue ganando volumen |
 | Un año | En muchos donantes la función es normal, aunque el volumen no siempre vuelve al 100 % |
 
-<!-- unsplash: surgeons operating room | Equipo de cirujanos en un quirófano -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1579684453423-f84349ef60b0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3VyZ2VvbnMlMjBvcGVyYXRpbmclMjByb29tfGVufDF8MHx8fDE3OTIwODU2MDF8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1579684453423-f84349ef60b0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3VyZ2VvbnMlMjBvcGVyYXRpbmclMjByb29tfGVufDF8MHx8fDE3OTIwODU2MDF8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1579684453423-f84349ef60b0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3VyZ2VvbnMlMjBvcGVyYXRpbmclMjByb29tfGVufDF8MHx8fDE3OTIwODU2MDF8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1579684453423-f84349ef60b0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3VyZ2VvbnMlMjBvcGVyYXRpbmclMjByb29tfGVufDF8MHx8fDE3OTIwODU2MDF8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Equipo de cirujanos en un quirófano" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@nci?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">National Cancer Institute</a> en <a href="https://unsplash.com/photos/surgeons-performing-surgery-in-operating-room-KrsoedfRAf4?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Donar parte de tu hígado
 

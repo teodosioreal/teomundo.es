@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "mediterranean food olive oil tomatoes bread fish"
 imageAlt: "Mesa con aceite de oliva, tomates, pan y pescado"
+cover:
+  url: "https://images.unsplash.com/photo-1656945764473-6157c129817e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8bWVkaXRlcnJhbmVhbiUyMGZvb2QlMjBvbGl2ZSUyMG9pbCUyMHRvbWF0b2VzJTIwYnJlYWQlMjBmaXNofGVufDF8MHx8fDE3OTIwODU1OTN8MA&ixlib=rb-4.1.0"
+  alt: "Mesa con aceite de oliva, tomates, pan y pescado"
+  author: "Yael Hofnung"
+  authorUrl: "https://unsplash.com/@yayosh?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-pile-of-sea-shells-8nHA3i7lMo4?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El estudio español PREDIMED comparó una dieta mediterránea con aceite de oliva virgen extra o con frutos secos frente a una dieta baja en grasa."
   - "En personas con alto riesgo cardiovascular, las dos versiones mediterráneas se asociaron con alrededor de un 30 % menos de infartos, ictus y muertes cardiovasculares."
@@ -54,7 +60,10 @@ Los dos grupos mediterráneos tuvieron menos eventos cardiovasculares graves que
 
 En 2018, la revista retiró la versión original de 2013 porque se detectaron errores en la forma de asignar a algunos participantes a los grupos. Los autores repitieron el análisis corrigiendo esos problemas y publicaron una nueva versión ([Estruch et al.](https://www.nejm.org/doi/full/10.1056/NEJMoa1800389)). Según la Escuela de Salud Pública de Harvard, la conclusión principal **se mantuvo prácticamente igual** ([Harvard](https://nutritionsource.hsph.harvard.edu/2018/06/22/predimed-retraction-republication)).
 
-<!-- unsplash: lentils chickpeas legumes bowl | Cuencos con lentejas y garbanzos -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1644432757699-bb5a01e8fb0e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGVudGlscyUyMGNoaWNrcGVhcyUyMGxlZ3VtZXMlMjBib3dsfGVufDF8MHx8fDE3OTIwODU1OTR8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1644432757699-bb5a01e8fb0e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGVudGlscyUyMGNoaWNrcGVhcyUyMGxlZ3VtZXMlMjBib3dsfGVufDF8MHx8fDE3OTIwODU1OTR8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1644432757699-bb5a01e8fb0e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGVudGlscyUyMGNoaWNrcGVhcyUyMGxlZ3VtZXMlMjBib3dsfGVufDF8MHx8fDE3OTIwODU1OTR8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1644432757699-bb5a01e8fb0e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGVudGlscyUyMGNoaWNrcGVhcyUyMGxlZ3VtZXMlMjBib3dsfGVufDF8MHx8fDE3OTIwODU1OTR8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Cuencos con lentejas y garbanzos" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@karyna_panchenko?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Karyna Panchenko</a> en <a href="https://unsplash.com/photos/a-bowl-filled-with-chickpeas-sitting-on-top-of-a-table-5352eOUYay4?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Qué pasa en tus arterias
 

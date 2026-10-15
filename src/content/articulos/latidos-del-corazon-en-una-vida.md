@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "smartwatch heart rate wrist"
 imageAlt: "Reloj inteligente mostrando la frecuencia cardiaca en la muñeca"
+cover:
+  url: "https://images.unsplash.com/photo-1659366100463-9e29a63adcc2?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c21hcnR3YXRjaCUyMGhlYXJ0JTIwcmF0ZSUyMHdyaXN0fGVufDF8MHx8fDE3OTIwODU2MDd8MA&ixlib=rb-4.1.0"
+  alt: "Reloj inteligente mostrando la frecuencia cardiaca en la muñeca"
+  author: "Nik"
+  authorUrl: "https://unsplash.com/@helloimnik?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/smartwatch-heart-rate-monitor-on-wrist-BR8MqYyOPiU?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El corazón late unas 100.000 veces al día, a un ritmo de unos 70 latidos por minuto."
   - "En una vida de 84 años, la esperanza de vida en España, eso son unos 3.000 millones de latidos."
@@ -60,7 +66,10 @@ La American Heart Association calcula que el corazón de un adulto late unas **1
 
 Tu pulso cambia a lo largo del día: baja mientras duermes y sube cuando caminas, subes escaleras, te emocionas o tomas café.
 
-<!-- unsplash: person running park morning | Persona corriendo en un parque por la mañana -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1603455778956-d71832eafa4e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwcnVubmluZyUyMHBhcmslMjBtb3JuaW5nfGVufDF8MHx8fDE3OTIwODU2MDh8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1603455778956-d71832eafa4e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwcnVubmluZyUyMHBhcmslMjBtb3JuaW5nfGVufDF8MHx8fDE3OTIwODU2MDh8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1603455778956-d71832eafa4e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwcnVubmluZyUyMHBhcmslMjBtb3JuaW5nfGVufDF8MHx8fDE3OTIwODU2MDh8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1603455778956-d71832eafa4e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwcnVubmluZyUyMHBhcmslMjBtb3JuaW5nfGVufDF8MHx8fDE3OTIwODU2MDh8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona corriendo en un parque por la mañana" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@mccarthybeckan?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">McCarthy Beckan</a> en <a href="https://unsplash.com/photos/woman-running-in-golden-hour-light-a6FHROHuQ9o?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Cuánta sangre mueve
 
