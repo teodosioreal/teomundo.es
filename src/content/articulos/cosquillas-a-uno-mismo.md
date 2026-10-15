@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-10-16
 dateModified: 2026-10-16
 imageQuery: "grandmother tickling child sofa laughing"
-imageAlt: "Una abuela hace cosquillas a su nieto, que se ríe en el sofá"
+imageAlt: "Una abuela abraza a su nieta en casa"
 cover:
   url: "https://images.unsplash.com/photo-1677404668317-2ccbb9929471?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3JhbmRtb3RoZXIlMjB0aWNrbGluZyUyMGNoaWxkJTIwc29mYSUyMGxhdWdoaW5nfGVufDF8MHx8fDE3OTIwOTM4NTZ8MA&ixlib=rb-4.1.0"
-  alt: "Una abuela hace cosquillas a su nieto, que se ríe en el sofá"
+  alt: "Una abuela abraza a su nieta en casa"
   author: "Sergiu Vălenaș"
   authorUrl: "https://unsplash.com/@svalenas?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/a-woman-holding-a-child-in-her-arms-bsBDtBtxUYg?utm_source=teomundo&utm_medium=referral"
@@ -80,7 +80,7 @@ Lo interesante llegó al trucar el sistema:
 Un quinto de segundo de desfase bastaba para que el cerebro dejara de reconocer el roce como suyo.
 
 <figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1714646793184-a884ff282236?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Z3JhbmRtb3RoZXIlMjB0aWNrbGluZyUyMGdyYW5kY2hpbGQlMjBzb2ZhfGVufDF8MHx8fDE3OTIwOTM4NTd8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1714646793184-a884ff282236?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Z3JhbmRtb3RoZXIlMjB0aWNrbGluZyUyMGdyYW5kY2hpbGQlMjBzb2ZhfGVufDF8MHx8fDE3OTIwOTM4NTd8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1714646793184-a884ff282236?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Z3JhbmRtb3RoZXIlMjB0aWNrbGluZyUyMGdyYW5kY2hpbGQlMjBzb2ZhfGVufDF8MHx8fDE3OTIwOTM4NTd8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1714646793184-a884ff282236?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Z3JhbmRtb3RoZXIlMjB0aWNrbGluZyUyMGdyYW5kY2hpbGQlMjBzb2ZhfGVufDF8MHx8fDE3OTIwOTM4NTd8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Abuela haciendo cosquillas a su nieto en el sofá de casa" loading="lazy" decoding="async">
+<img src="https://images.unsplash.com/photo-1714646793184-a884ff282236?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Z3JhbmRtb3RoZXIlMjB0aWNrbGluZyUyMGdyYW5kY2hpbGQlMjBzb2ZhfGVufDF8MHx8fDE3OTIwOTM4NTd8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1714646793184-a884ff282236?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Z3JhbmRtb3RoZXIlMjB0aWNrbGluZyUyMGdyYW5kY2hpbGQlMjBzb2ZhfGVufDF8MHx8fDE3OTIwOTM4NTd8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1714646793184-a884ff282236?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Z3JhbmRtb3RoZXIlMjB0aWNrbGluZyUyMGdyYW5kY2hpbGQlMjBzb2ZhfGVufDF8MHx8fDE3OTIwOTM4NTd8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1714646793184-a884ff282236?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Z3JhbmRtb3RoZXIlMjB0aWNrbGluZyUyMGdyYW5kY2hpbGQlMjBzb2ZhfGVufDF8MHx8fDE3OTIwOTM4NTd8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Una mujer y un niño sentados en el sofá de casa" loading="lazy" decoding="async">
 <figcaption>Foto de <a href="https://unsplash.com/@silverkblack?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Vitaly Gariev</a> en <a href="https://unsplash.com/photos/a-woman-and-a-child-sitting-on-a-couch-NHktgMKvm3k?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 

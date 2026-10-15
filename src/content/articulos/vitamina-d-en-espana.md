@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-10-18
 dateModified: 2026-10-18
 imageQuery: "elderly man sitting on bench sunny town square"
-imageAlt: "Hombre mayor sentado en un banco al sol en una plaza"
+imageAlt: "Plaza soleada con un hombre mayor sentado en un banco"
 cover:
   url: "https://images.unsplash.com/photo-1788715825787-046d622f6657?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWxkZXJseSUyMG1hbiUyMHNpdHRpbmclMjBvbiUyMGJlbmNoJTIwc3VubnklMjB0b3duJTIwc3F1YXJlfGVufDF8MHx8fDE3OTIwOTM4NzZ8MA&ixlib=rb-4.1.0"
-  alt: "Hombre mayor sentado en un banco al sol en una plaza"
+  alt: "Plaza soleada con un hombre mayor sentado en un banco"
   author: "Jose Manuel Esp"
   authorUrl: "https://unsplash.com/@jmespiga?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/people-in-town-square-with-buildings-9BIqGYtIj-c?utm_source=teomundo&utm_medium=referral"

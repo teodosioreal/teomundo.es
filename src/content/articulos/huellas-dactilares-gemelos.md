@@ -13,14 +13,8 @@ secondaryKeywords:
   - "huella dactilar DNI"
 datePublished: 2026-10-25
 dateModified: 2026-10-25
-imageQuery: "two children hands side by side fingertips close up"
-imageAlt: "Dos pares de manos de niños, una al lado de la otra"
-cover:
-  url: "https://images.unsplash.com/photo-1611417040803-04d4fbac63bd?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dHdvJTIwY2hpbGRyZW4lMjBoYW5kcyUyMHNpZGUlMjBieSUyMHNpZGUlMjBmaW5nZXJ0aXBzJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzkyMDkzODY1fDA&ixlib=rb-4.1.0"
-  alt: "Dos pares de manos de niños, una al lado de la otra"
-  author: "Igordoon Primus"
-  authorUrl: "https://unsplash.com/@igordoon?utm_source=teomundo&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/babys-feet-on-black-textile-v1An5N19jBM?utm_source=teomundo&utm_medium=referral"
+imageQuery: "fingerprint close up"
+imageAlt: "Primer plano de una huella dactilar"
 keyTakeaways:
   - "Los gemelos idénticos pueden tener huellas con un dibujo general parecido, pero sus detalles son distintos."
   - "Las crestas de las huellas se forman en el útero, más o menos entre las semanas 10 y 16 de embarazo, y a partir de ahí los detalles quedan fijados."
@@ -76,7 +70,7 @@ Durante mucho tiempo no se sabía bien cómo se formaban esas líneas. En 2023, 
 
 Ahí está la clave para los gemelos. Aunque partan de los mismos genes, cada dedo de cada feto crece a su ritmo y con su forma. Pequeñas diferencias de tiempo o de posición cambian dónde chocan las ondas. Los propios autores hablan de una "variación sin fin" en los dibujos.
 
-<!-- unsplash: fingerprint ink paper close up | Huella dactilar de tinta sobre papel en primer plano -->
+<!-- unsplash: twin sisters children | Dos hermanas gemelas -->
 
 ## Se parecen por fuera, no en la letra pequeña
 

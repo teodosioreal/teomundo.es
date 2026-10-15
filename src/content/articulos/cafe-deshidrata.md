@@ -13,14 +13,8 @@ secondaryKeywords:
   - "café y orina"
 datePublished: 2026-10-22
 dateModified: 2026-10-22
-imageQuery: "espresso cup glass of water cafe counter"
-imageAlt: "Café solo en la barra de un bar con un vaso de agua al lado"
-cover:
-  url: "https://images.unsplash.com/photo-1788999422915-81246819a93e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZXNwcmVzc28lMjBjdXAlMjBnbGFzcyUyMG9mJTIwd2F0ZXIlMjBjYWZlJTIwY291bnRlcnxlbnwxfDB8fHwxNzkyMDkzODU0fDA&ixlib=rb-4.1.0"
-  alt: "Café solo en la barra de un bar con un vaso de agua al lado"
-  author: "Ali Aziz"
-  authorUrl: "https://unsplash.com/@thealiaziz?utm_source=teomundo&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/woman-leaning-on-bar-counter-0fqZqDKJWkg?utm_source=teomundo&utm_medium=referral"
+imageQuery: "espresso cup saucer table"
+imageAlt: "Taza de café solo sobre una mesa"
 keyTakeaways:
   - "La cafeína tiene un efecto diurético leve, pero el agua del propio café lo compensa a las dosis habituales."
   - "En un estudio con 50 hombres acostumbrados al café, cuatro tazas al día hidrataron igual que la misma cantidad de agua."
@@ -90,7 +84,7 @@ Conviene ser honesto con sus límites:
 Aun así, encaja con lo que dicen la Clínica Mayo y otros organismos: a dosis normales, el café suma agua, no la resta.
 
 <figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1739430147789-d397d88612fb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y29mZmVlJTIwd2l0aCUyMG1pbGslMjBnbGFzcyUyMGN1cCUyMGJyZWFrZmFzdCUyMHRhYmxlfGVufDF8MHx8fDE3OTIwOTM4NTV8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1739430147789-d397d88612fb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y29mZmVlJTIwd2l0aCUyMG1pbGslMjBnbGFzcyUyMGN1cCUyMGJyZWFrZmFzdCUyMHRhYmxlfGVufDF8MHx8fDE3OTIwOTM4NTV8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1739430147789-d397d88612fb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y29mZmVlJTIwd2l0aCUyMG1pbGslMjBnbGFzcyUyMGN1cCUyMGJyZWFrZmFzdCUyMHRhYmxlfGVufDF8MHx8fDE3OTIwOTM4NTV8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1739430147789-d397d88612fb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y29mZmVlJTIwd2l0aCUyMG1pbGslMjBnbGFzcyUyMGN1cCUyMGJyZWFrZmFzdCUyMHRhYmxlfGVufDF8MHx8fDE3OTIwOTM4NTV8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Café con leche en vaso de cristal sobre una mesa de desayuno" loading="lazy" decoding="async">
+<img src="https://images.unsplash.com/photo-1739430147789-d397d88612fb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y29mZmVlJTIwd2l0aCUyMG1pbGslMjBnbGFzcyUyMGN1cCUyMGJyZWFrZmFzdCUyMHRhYmxlfGVufDF8MHx8fDE3OTIwOTM4NTV8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1739430147789-d397d88612fb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y29mZmVlJTIwd2l0aCUyMG1pbGslMjBnbGFzcyUyMGN1cCUyMGJyZWFrZmFzdCUyMHRhYmxlfGVufDF8MHx8fDE3OTIwOTM4NTV8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1739430147789-d397d88612fb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y29mZmVlJTIwd2l0aCUyMG1pbGslMjBnbGFzcyUyMGN1cCUyMGJyZWFrZmFzdCUyMHRhYmxlfGVufDF8MHx8fDE3OTIwOTM4NTV8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1739430147789-d397d88612fb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y29mZmVlJTIwd2l0aCUyMG1pbGslMjBnbGFzcyUyMGN1cCUyMGJyZWFrZmFzdCUyMHRhYmxlfGVufDF8MHx8fDE3OTIwOTM4NTV8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Taza de café con leche en una mesa de desayuno" loading="lazy" decoding="async">
 <figcaption>Foto de <a href="https://unsplash.com/@jakubzerdzicki?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Jakub Żerdzicki</a> en <a href="https://unsplash.com/photos/a-close-up-of-a-plate-of-food-on-a-table-Qz19QlNpoPY?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 
