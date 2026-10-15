@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "churros chocolate spain"
 imageAlt: "Churros con chocolate"
+cover:
+  url: "https://images.unsplash.com/photo-1590872809871-8a1602d5842d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2h1cnJvcyUyMGNob2NvbGF0ZSUyMHNwYWlufGVufDF8MHx8fDE3OTIwODE2NjB8MA&ixlib=rb-4.1.0"
+  alt: "Churros con chocolate"
+  author: "Rosy Ko"
+  authorUrl: "https://unsplash.com/@rosy_?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/white-ceramic-cup-with-saucer-and-fries-on-brown-wooden-table-23dFj4fMPnc?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Un adulto produce aproximadamente entre medio litro y dos litros de saliva al día, según la fuente; Cleveland Clinic habla de uno a dos litros."
   - "A un litro al día, en 80 años serían unos 29.000 litros: más de 100.000 vasos de agua."
@@ -64,7 +70,10 @@ Hagamos el cálculo con una cifra redonda de un litro al día:
 
 Si produces medio litro al día, la cifra se queda en la mitad; si produces dos, en el doble. En cualquier caso, es muchísimo.
 
-<!-- unsplash: person brushing teeth bathroom | Persona lavándose los dientes -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1693692273603-3b9e13789298?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwYnJ1c2hpbmclMjB0ZWV0aCUyMGJhdGhyb29tfGVufDF8MHx8fDE3OTIwODE2NjF8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1693692273603-3b9e13789298?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwYnJ1c2hpbmclMjB0ZWV0aCUyMGJhdGhyb29tfGVufDF8MHx8fDE3OTIwODE2NjF8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1693692273603-3b9e13789298?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwYnJ1c2hpbmclMjB0ZWV0aCUyMGJhdGhyb29tfGVufDF8MHx8fDE3OTIwODE2NjF8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1693692273603-3b9e13789298?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwYnJ1c2hpbmclMjB0ZWV0aCUyMGJhdGhyb29tfGVufDF8MHx8fDE3OTIwODE2NjF8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona lavándose los dientes" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@romarch?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Roman Marchenko</a> en <a href="https://unsplash.com/photos/a-person-is-holding-a-toothbrush-with-toothpaste-on-it-Tin0iDzvfDE?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Más que agua: qué hace la saliva
 

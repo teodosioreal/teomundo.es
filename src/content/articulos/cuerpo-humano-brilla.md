@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "human silhouette dark background soft light"
 imageAlt: "Silueta humana sobre un fondo oscuro con una luz tenue"
+cover:
+  url: "https://images.unsplash.com/photo-1500206329404-5057e0aefa48?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aHVtYW4lMjBzaWxob3VldHRlJTIwZGFyayUyMGJhY2tncm91bmQlMjBzb2Z0JTIwbGlnaHR8ZW58MXwwfHx8MTc5MjA4MTY2OHww&ixlib=rb-4.1.0"
+  alt: "Silueta humana sobre un fondo oscuro con una luz tenue"
+  author: "Cherry Laithang"
+  authorUrl: "https://unsplash.com/@laicho?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/hand-reaching-upward-in-spotlight-NmPpz1jA_JE?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "En 2009, investigadores japoneses fotografiaron con cámaras ultrasensibles una luz muy débil que emite el cuerpo humano."
   - "Esa luz es unas mil veces más débil de lo que el ojo puede ver, y cambia a lo largo del día; la cara fue la zona que más brillaba."

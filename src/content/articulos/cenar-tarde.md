@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "spanish tapas dinner table night"
 imageAlt: "Mesa con tapas para cenar por la noche"
+cover:
+  url: "https://images.unsplash.com/photo-1656423521731-9665583f100c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3BhbmlzaCUyMHRhcGFzJTIwZGlubmVyJTIwdGFibGUlMjBuaWdodHxlbnwxfDB8fHwxNzkyMDgxNjU1fDA&ixlib=rb-4.1.0"
+  alt: "Mesa con tapas para cenar por la noche"
+  author: "CHUTTERSNAP"
+  authorUrl: "https://unsplash.com/@chuttersnap?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-table-with-food-and-drinks-on-it-KTqMU3j-Vcw?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Por la noche el cuerpo gestiona peor el azúcar, y cenar muy cerca de la hora de dormir lo nota."
   - "En un estudio de la Universidad de Murcia, cenar una hora antes de acostarse empeoró la tolerancia a la glucosa frente a hacerlo cuatro horas antes."
@@ -58,7 +64,10 @@ El equipo de la investigadora Marta Garaulet, de la Universidad de Murcia, lo ha
 
 Al tomarla tarde, la tolerancia a la glucosa empeoró. Y el efecto fue mayor en las personas con una variante genética del receptor de la melatonina, llamada MTNR1B ([Universidad de Murcia](https://portalinvestigacion.um.es/documentos/63b0d79d0f8bcd1826cfd19d)).
 
-<!-- unsplash: clock on wall evening kitchen | Reloj de pared en una cocina por la noche -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1451930157095-102bd2d5436e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvY2slMjBvbiUyMHdhbGwlMjBldmVuaW5nJTIwa2l0Y2hlbnxlbnwxfDB8fHwxNzkyMDgxNjU2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1451930157095-102bd2d5436e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvY2slMjBvbiUyMHdhbGwlMjBldmVuaW5nJTIwa2l0Y2hlbnxlbnwxfDB8fHwxNzkyMDgxNjU2fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1451930157095-102bd2d5436e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvY2slMjBvbiUyMHdhbGwlMjBldmVuaW5nJTIwa2l0Y2hlbnxlbnwxfDB8fHwxNzkyMDgxNjU2fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1451930157095-102bd2d5436e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvY2slMjBvbiUyMHdhbGwlMjBldmVuaW5nJTIwa2l0Y2hlbnxlbnwxfDB8fHwxNzkyMDgxNjU2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Reloj de pared en una cocina por la noche" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@m0851?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">m0851</a> en <a href="https://unsplash.com/photos/round-white-and-gray-stainless-steel-analog-clock-displaying-0243-time-near-gray-stainless-steel-saucepans-hanging-on-wall-x1hD41sLPx0?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Un país con el reloj adelantado
 

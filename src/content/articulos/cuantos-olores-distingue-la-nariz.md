@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "person smelling coffee eyes closed"
 imageAlt: "Persona oliendo una taza de café con los ojos cerrados"
+cover:
+  url: "https://images.unsplash.com/photo-1536914561643-9e3a7a8d063d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc21lbGxpbmclMjBjb2ZmZWUlMjBleWVzJTIwY2xvc2VkfGVufDF8MHx8fDE3OTIwODE2NjZ8MA&ixlib=rb-4.1.0"
+  alt: "Persona oliendo una taza de café con los ojos cerrados"
+  author: "Candice Picard"
+  authorUrl: "https://unsplash.com/@candice_picard?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-drinking-from-white-coffee-cup-_zVwgzTbW2s?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "La vieja cifra de los 10.000 olores no tenía una base sólida."
   - "Un estudio de 2014 en Science calculó que podríamos distinguir más de un billón de mezclas de olores, pero otros científicos mostraron que el cálculo depende mucho del método."
@@ -56,7 +62,10 @@ Al año siguiente, otros científicos revisaron las cuentas. Richard Gerkin y Ja
 
 Lo honesto es decirlo claro: no hay una cifra cerrada. Pero todo apunta a que distinguimos muchísimos más olores que los 10.000 del mito.
 
-<!-- unsplash: spices kitchen jars | Tarros de especias en una cocina -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1580116270858-8a0d62b15426?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3BpY2VzJTIwa2l0Y2hlbiUyMGphcnN8ZW58MXwwfHx8MTc5MjA4MTY2N3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1580116270858-8a0d62b15426?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3BpY2VzJTIwa2l0Y2hlbiUyMGphcnN8ZW58MXwwfHx8MTc5MjA4MTY2N3ww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1580116270858-8a0d62b15426?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3BpY2VzJTIwa2l0Y2hlbiUyMGphcnN8ZW58MXwwfHx8MTc5MjA4MTY2N3ww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1580116270858-8a0d62b15426?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3BpY2VzJTIwa2l0Y2hlbiUyMGphcnN8ZW58MXwwfHx8MTc5MjA4MTY2N3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Tarros de especias en una cocina" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@hjmckean?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Heather McKean</a> en <a href="https://unsplash.com/photos/a-shelf-filled-with-lots-of-different-types-of-spices-1I9bMlIAIBM?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Por qué un olor te lleva a la infancia
 

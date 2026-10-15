@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "tired student books desk"
 imageAlt: "Estudiante cansado entre libros"
+cover:
+  url: "https://images.unsplash.com/photo-1758874573514-92d42374d9a2?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGlyZWQlMjBzdHVkZW50JTIwYm9va3MlMjBkZXNrfGVufDF8MHx8fDE3OTIwODE2NTh8MA&ixlib=rb-4.1.0"
+  alt: "Estudiante cansado entre libros"
+  author: "Vitaly Gariev"
+  authorUrl: "https://unsplash.com/@silverkblack?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/man-sleeping-at-desk-with-headphones-and-coffee-JSzbbrhsYTo?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El cerebro pesa alrededor del 2 % del cuerpo, pero consume cerca de una quinta parte de su energía."
   - "La mayor parte de ese gasto es para mantener las neuronas funcionando, incluso en reposo."
@@ -64,7 +70,10 @@ Raichle y Gusnard señalan que el gasto del cerebro se mantiene **casi constante
 
 Este dato encaja con otro mito que ya desmontamos: un órgano tan caro de mantener no estaría al 90 % sin usar, como explicamos en [¿solo usamos el 10 % del cerebro?](/mitos/mito-10-por-ciento-cerebro/)
 
-<!-- unsplash: exam hall students writing | Estudiantes haciendo un examen -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1779358296802-715fc9fbc152?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZXhhbSUyMGhhbGwlMjBzdHVkZW50cyUyMHdyaXRpbmd8ZW58MXwwfHx8MTc5MjA4MTY1OHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1779358296802-715fc9fbc152?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZXhhbSUyMGhhbGwlMjBzdHVkZW50cyUyMHdyaXRpbmd8ZW58MXwwfHx8MTc5MjA4MTY1OHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1779358296802-715fc9fbc152?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZXhhbSUyMGhhbGwlMjBzdHVkZW50cyUyMHdyaXRpbmd8ZW58MXwwfHx8MTc5MjA4MTY1OHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1779358296802-715fc9fbc152?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZXhhbSUyMGhhbGwlMjBzdHVkZW50cyUyMHdyaXRpbmd8ZW58MXwwfHx8MTc5MjA4MTY1OHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Estudiantes haciendo un examen" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@sanskritiuni?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Vishnu Mehra</a> en <a href="https://unsplash.com/photos/students-attending-a-lecture-in-a-modern-classroom-v3P_spLsOH0?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Por qué te cansas tras un examen
 

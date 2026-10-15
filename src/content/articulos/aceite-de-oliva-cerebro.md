@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "olive oil pouring on toast"
 imageAlt: "Aceite de oliva cayendo sobre una tostada"
+cover:
+  url: "https://images.unsplash.com/photo-1582536446725-5ad9e6ef0535?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8b2xpdmUlMjBvaWwlMjBwb3VyaW5nJTIwb24lMjB0b2FzdHxlbnwxfDB8fHwxNzkyMDgxNjQ0fDA&ixlib=rb-4.1.0"
+  alt: "Aceite de oliva cayendo sobre una tostada"
+  author: "Louis Hansel"
+  authorUrl: "https://unsplash.com/@louishansel?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/green-grapes-on-white-ceramic-bowl-fJxJDKAQU9c?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "En un subestudio de PREDIMED en Barcelona, quienes siguieron una dieta mediterránea con aceite de oliva virgen extra mantuvieron mejor su memoria y su función cognitiva que el grupo de control."
   - "Un estudio de Harvard asoció tomar más de media cucharada sopera de aceite de oliva al día con un 28 % menos de riesgo de morir por demencia."
@@ -54,7 +60,10 @@ Dentro del gran estudio PREDIMED, un equipo del Hospital Clínic de Barcelona si
 
 Quienes siguieron una dieta mediterránea con **aceite de oliva virgen extra** o con **frutos secos** mantuvieron o mejoraron un poco sus resultados en pruebas de memoria y atención. En cambio, el grupo con dieta baja en grasa empeoró. Se publicó en 2015 en *JAMA Internal Medicine*.
 
-<!-- unsplash: olive tree grove | Olivar con olivos centenarios -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1618100790047-3da47dcd5727?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8b2xpdmUlMjB0cmVlJTIwZ3JvdmV8ZW58MXwwfHx8MTc5MjA4MTY0NXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1618100790047-3da47dcd5727?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8b2xpdmUlMjB0cmVlJTIwZ3JvdmV8ZW58MXwwfHx8MTc5MjA4MTY0NXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1618100790047-3da47dcd5727?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8b2xpdmUlMjB0cmVlJTIwZ3JvdmV8ZW58MXwwfHx8MTc5MjA4MTY0NXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1618100790047-3da47dcd5727?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8b2xpdmUlMjB0cmVlJTIwZ3JvdmV8ZW58MXwwfHx8MTc5MjA4MTY0NXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Olivar con olivos centenarios" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@saurinaf?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Flor Saurina</a> en <a href="https://unsplash.com/photos/green-plant-with-yellow-flowers-xWijL2q3xAM?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Harvard y la demencia
 

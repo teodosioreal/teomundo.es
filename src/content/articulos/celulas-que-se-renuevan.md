@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "red blood cells illustration"
 imageAlt: "Ilustración de glóbulos rojos"
+cover:
+  url: "https://images.unsplash.com/photo-1638272467190-4ff6f773315c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cmVkJTIwYmxvb2QlMjBjZWxscyUyMGlsbHVzdHJhdGlvbnxlbnwxfDB8fHwxNzkyMDgxNjU0fDA&ixlib=rb-4.1.0"
+  alt: "Ilustración de glóbulos rojos"
+  author: "Anirudh"
+  authorUrl: "https://unsplash.com/@lanirudhreddy?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-bunch-of-red-bubbles-floating-in-the-air-UiwUtEqROEs?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Un estudio del Instituto Weizmann calculó que el cuerpo renueva unos 330.000 millones de células al día, alrededor del 1 % del total."
   - "La gran mayoría son células de la sangre y del revestimiento del intestino."
@@ -64,7 +70,10 @@ La mayoría de esas células nuevas son de dos tipos:
 
 Juntas suponen la gran mayoría de todo lo que el cuerpo renueva cada día ([Scientific American](https://www.scientificamerican.com/article/our-bodies-replace-billions-of-cells-every-day/)).
 
-<!-- unsplash: microscope laboratory | Microscopio en un laboratorio -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1614308460927-5024ba2e1dcb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWljcm9zY29wZSUyMGxhYm9yYXRvcnl8ZW58MXwwfHx8MTc5MjA4MTY1NHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1614308460927-5024ba2e1dcb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWljcm9zY29wZSUyMGxhYm9yYXRvcnl8ZW58MXwwfHx8MTc5MjA4MTY1NHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1614308460927-5024ba2e1dcb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWljcm9zY29wZSUyMGxhYm9yYXRvcnl8ZW58MXwwfHx8MTc5MjA4MTY1NHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1614308460927-5024ba2e1dcb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWljcm9zY29wZSUyMGxhYm9yYXRvcnl8ZW58MXwwfHx8MTc5MjA4MTY1NHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Microscopio en un laboratorio" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@photosoflogan?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Logan Gutierrez</a> en <a href="https://unsplash.com/photos/meiji-techno-microscope-with-objective-lenses-Rl9bIWKCVF0?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## El mito de los 7 años
 

@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "person napping on sofa afternoon"
 imageAlt: "Persona echando la siesta en el sofá por la tarde"
+cover:
+  url: "https://images.unsplash.com/photo-1604830926588-b51d5ddeba7b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwbmFwcGluZyUyMG9uJTIwc29mYSUyMGFmdGVybm9vbnxlbnwxfDB8fHwxNzkyMDgxNjQ3fDA&ixlib=rb-4.1.0"
+  alt: "Persona echando la siesta en el sofá por la tarde"
+  author: "Adrian Swancar"
+  authorUrl: "https://unsplash.com/@a_d_s_w?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-in-pink-jacket-lying-on-gray-couch-imAfCYq7KH0?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El bajón de primera hora de la tarde existe y tiene que ver con el reloj interno, no solo con la comida."
   - "Una siesta corta, de unos 20 minutos, ayuda a recuperar la atención; las muy largas pueden dejarte más aturdido."
@@ -54,7 +60,10 @@ Durante una siesta corta te quedas en las fases ligeras del sueño, y es fácil 
 
 La NASA lo estudió con pilotos de vuelos largos. En un informe de 1995, los pilotos a los que se permitió una siesta en cabina durmieron unos 26 minutos y mostraron **mejor estado de alerta y rendimiento** en la fase final del vuelo que los que no descansaron ([NASA](https://ntrs.nasa.gov/citations/19950006379)).
 
-<!-- unsplash: alarm clock phone nap | Móvil con una alarma puesta para la siesta -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1721815714586-73849a2a163b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YWxhcm0lMjBjbG9jayUyMHBob25lJTIwbmFwfGVufDF8MHx8fDE3OTIwODE2NDh8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1721815714586-73849a2a163b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YWxhcm0lMjBjbG9jayUyMHBob25lJTIwbmFwfGVufDF8MHx8fDE3OTIwODE2NDh8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1721815714586-73849a2a163b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YWxhcm0lMjBjbG9jayUyMHBob25lJTIwbmFwfGVufDF8MHx8fDE3OTIwODE2NDh8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1721815714586-73849a2a163b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YWxhcm0lMjBjbG9jayUyMHBob25lJTIwbmFwfGVufDF8MHx8fDE3OTIwODE2NDh8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Móvil con una alarma puesta para la siesta" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@solvinghealthcare?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Solving Healthcare</a> en <a href="https://unsplash.com/photos/a-man-laying-in-bed-with-a-clock-on-top-of-him-nqr6-Ix22EQ?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Lo que dicen los estudios del corazón
 

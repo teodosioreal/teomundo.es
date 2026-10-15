@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "tired eyes digital clock night"
 imageAlt: "Ojos cansados frente a un reloj digital de noche"
+cover:
+  url: "https://images.unsplash.com/photo-1638206914790-104d521085c8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGlyZWQlMjBleWVzJTIwZGlnaXRhbCUyMGNsb2NrJTIwbmlnaHR8ZW58MXwwfHx8MTc5MjA4MTY2Mnww&ixlib=rb-4.1.0"
+  alt: "Ojos cansados frente a un reloj digital de noche"
+  author: "Rinat Aidarkhan"
+  authorUrl: "https://unsplash.com/@bikosh_s?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-table-4UubN0f3PYc?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El récord más conocido es el de Randy Gardner, un estudiante de 17 años que estuvo 264 horas despierto, unos 11 días, en 1964."
   - "Durante el experimento tuvo problemas de memoria, de concentración y de habla, e incluso alucinaciones."
@@ -59,7 +65,10 @@ Son señales de que el cerebro necesita dormir para funcionar: durante el sueño
 
 Guinness dejó de registrar récords de privación voluntaria del sueño para no animar a nadie a intentarlo, por el riesgo para la salud. Así que el de Gardner se ha quedado como el más citado.
 
-<!-- unsplash: night driving highway | Carretera de noche vista desde un coche -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1564668836804-05a2de350bb6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bmlnaHQlMjBkcml2aW5nJTIwaGlnaHdheXxlbnwxfDB8fHwxNzkyMDgxNjYzfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1564668836804-05a2de350bb6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bmlnaHQlMjBkcml2aW5nJTIwaGlnaHdheXxlbnwxfDB8fHwxNzkyMDgxNjYzfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1564668836804-05a2de350bb6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bmlnaHQlMjBkcml2aW5nJTIwaGlnaHdheXxlbnwxfDB8fHwxNzkyMDgxNjYzfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1564668836804-05a2de350bb6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bmlnaHQlMjBkcml2aW5nJTIwaGlnaHdheXxlbnwxfDB8fHwxNzkyMDgxNjYzfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Carretera de noche vista desde un coche" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@kimileee?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">kimi lee</a> en <a href="https://unsplash.com/photos/highway-at-night-M3RVFbqKGu4?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## 24 horas sin dormir se parece al alcohol
 

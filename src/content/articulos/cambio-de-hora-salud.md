@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "analog alarm clock bedside"
 imageAlt: "Despertador analógico en la mesilla de noche"
+cover:
+  url: "https://images.unsplash.com/photo-1541480601022-2308c0f02487?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YW5hbG9nJTIwYWxhcm0lMjBjbG9jayUyMGJlZHNpZGV8ZW58MXwwfHx8MTc5MjA4MTY1Mnww&ixlib=rb-4.1.0"
+  alt: "Despertador analógico en la mesilla de noche"
+  author: "insung yoon"
+  authorUrl: "https://unsplash.com/@insungpandora?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/round-black-and-white-analog-alarm-clock-w2JtIQQXoRU?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El cambio de hora desajusta tu reloj interno, como un pequeño jet lag, y el cuerpo tarda unos días en adaptarse."
   - "Un metaanálisis de 2019 encontró un aumento pequeño del riesgo de infarto en las dos semanas después del cambio de primavera."
@@ -55,7 +61,10 @@ En primavera adelantamos los relojes y **perdemos una hora de sueño**. Además,
 
 Un metaanálisis de 2019 reunió siete estudios con más de 115.000 personas y encontró un **aumento pequeño del riesgo de infarto** en las dos semanas siguientes al cambio de primavera, de alrededor de un 5 %. En el cambio de otoño no apareció ese aumento ([Manfredini et al.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6463000/)). Los autores piden más estudios para confirmarlo.
 
-<!-- unsplash: sunrise city morning light | Amanecer sobre una ciudad -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1500937172512-fc330654bc81?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3VucmlzZSUyMGNpdHklMjBtb3JuaW5nJTIwbGlnaHR8ZW58MXwwfHx8MTc5MjA4MTY1M3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1500937172512-fc330654bc81?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3VucmlzZSUyMGNpdHklMjBtb3JuaW5nJTIwbGlnaHR8ZW58MXwwfHx8MTc5MjA4MTY1M3ww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1500937172512-fc330654bc81?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3VucmlzZSUyMGNpdHklMjBtb3JuaW5nJTIwbGlnaHR8ZW58MXwwfHx8MTc5MjA4MTY1M3ww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1500937172512-fc330654bc81?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3VucmlzZSUyMGNpdHklMjBtb3JuaW5nJTIwbGlnaHR8ZW58MXwwfHx8MTc5MjA4MTY1M3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Amanecer sobre una ciudad" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@wflwong?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Warren</a> en <a href="https://unsplash.com/photos/aerial-photography-of-city-with-high-rise-buildings-under-orange-sky-during-daytime-3G1TcykU6jA?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Lo que dicen los médicos del sueño
 
