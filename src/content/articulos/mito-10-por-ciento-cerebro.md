@@ -69,7 +69,7 @@ Lo que sí ocurre es que **no todas las zonas trabajan a la vez**. Cuando lees s
 | Hay una gran parte "apagada" | Se vería inactiva en los escáneres | Casi todas las zonas muestran actividad a lo largo del día |
 | El cerebro va casi en reposo | Gastaría poca energía | Pesa un 3 % del cuerpo y gasta un 20 % de la energía |
 
-Este último dato es clave. Un órgano tan caro de mantener no habría sobrevivido a la evolución si nueve décimas partes estuvieran sin hacer nada.
+Este último dato es clave. Un órgano tan caro de mantener no habría sobrevivido a la evolución si nueve décimas partes estuvieran sin hacer nada. Te contamos en qué gasta tanta energía en [tu cerebro pesa el 2 % pero gasta el 20 % de tu energía](/en-1-minuto/cerebro-consume-energia/).
 
 ## Lucy y otras películas
 

@@ -10,7 +10,7 @@
 ## 2. O negócio
 
 - Blog informativo em `https://teomundo.es`, público da Espanha.
-- **Nicho:** "curiosidades verificadas do seu corpo no dia a dia" (leituras de ~1 minuto, sempre com fonte, ligadas à rotina espanhola). Pauta-mestre com 50 temas em 5 categorias: ¿Por qué?, Mitos, Cuerpo y España, Récords, En 1 minuto. Artigos de 300–600 palavras, com box "En resumen", FAQ e fontes. Categorias em `categories` (`src/data/site.ts`); hoje `por-que` (pautas 1–10), `mitos` (11–20), `cuerpo-y-espana` (21–30) e `records` (31–40). Próxima: En 1 minuto (41–50).
+- **Nicho:** "curiosidades verificadas do seu corpo no dia a dia" (leituras de ~1 minuto, sempre com fonte, ligadas à rotina espanhola). Pauta-mestre com 50 temas em 5 categorias: ¿Por qué?, Mitos, Cuerpo y España, Récords, En 1 minuto. Artigos de 300–600 palavras, com box "En resumen", FAQ e fontes. Categorias em `categories` (`src/data/site.ts`); hoje `por-que` (pautas 1–10), `mitos` (11–20), `cuerpo-y-espana` (21–30), `records` (31–40) e `en-1-minuto` (41–50). **Pauta-mestre completa (50/50).**
 - **Monetização planejada:** Google AdSense (desligado até `adsense.client` ser preenchido).
 - **Prioridade do dono:** mais páginas por visita. Todo artigo dá um próximo passo claro (blocos de leitura, links internos), **sem clickbait** nem dividir artigo em páginas.
 - Afiliados, produtos ou reviews: **pergunte antes**; exigem mudar as páginas legais e identificar a publicidade (LSSI art. 20).
@@ -126,7 +126,7 @@ Use botões para **links internos** úteis, nunca para imitar anúncios nem para
 
 - [x] Nicho definido (curiosidades do corpo); criar as próximas categorias conforme a pauta
 - [ ] Dados reais do titular em `owner.mjs` (nome, NIF, endereço, e-mail)
-- [ ] ~20–30 artigos originais e interligados
+- [x] 50 artigos originais e interligados em 5 categorias
 - [x] Imagens (secret `UNSPLASH_ACCESS_KEY` configurado; rodar o workflow a cada artigo novo e revisar as fotos em `.unsplash-preview/`)
 - [ ] Site no ar em teomundo.es com HTTPS (Cloudflare Pages)
 - [ ] Google Search Console configurado

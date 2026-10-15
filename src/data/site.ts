@@ -62,6 +62,14 @@ export const categories: Record<string, Category> = {
     description:
       'El hueso más pequeño, el músculo más fuerte, la persona más alta de la historia: los récords de tu cuerpo, con cifras verificadas.',
   },
+  'en-1-minuto': {
+    name: 'En 1 minuto',
+    title: 'Curiosidades del cuerpo en 1 minuto | TeoMundo',
+    metaDescription:
+      '¿Eres más alto por la mañana? ¿Tu cuerpo brilla? ¿El ácido del estómago disuelve metal? Curiosidades del cuerpo humano que se leen en un minuto.',
+    description:
+      'Curiosidades rápidas y verificadas de tu cuerpo: por qué eres más alto por la mañana, cuántos huesos tiene un bebé o si tu cuerpo brilla en la oscuridad.',
+  },
 };
 
 export const author = {
