@@ -137,7 +137,7 @@ export const searchConsole: { verification: string | null } = {
 // Não configure o GA4 dentro do GTM: ele já está instalado direto (analytics.ga4Id) e contaria em dobro.
 // Tags dentro do GTM (pixel do Facebook etc.) precisam respeitar o consentimento (Configurações de consentimento da tag).
 export const tagManager: { id: string | null } = {
-  id: null,
+  id: 'GTM-ML93K698',
 };
 
 export const analytics: { ga4Id: string | null } = {

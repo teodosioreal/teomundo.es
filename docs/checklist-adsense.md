@@ -54,6 +54,7 @@
 | Domínio próprio | ✅ | teomundo.es (adequado para o público da Espanha). Confirmar que abre com HTTPS. |
 | Site Kit (Analytics, AdSense, Search Console) configurado | ✅ | Equivalente ao Site Kit: Search Console verificado + sitemap enviado; AdSense no site; **Google Analytics 4** (`G-3LMJL02K9S`) em todas as páginas, com Modo de consentimento (na UE só mede quem aceitar). |
 | Código do AdSense em todas as páginas + ads.txt | ✅ | `ca-pub-4087868536415962` no `<head>` das 63 páginas e /ads.txt gerado. Privacidade e cookies já citam o AdSense. |
+| Google Tag Manager (extra, para campanhas) | ✅ | `GTM-ML93K698` no `<head>` e no `<body>` de todas as páginas. Não colocar o GA4 dentro do GTM (contaria em dobro). |
 | Aviso de cookies visível | ✅ | Mensagem RGPD do Google (CMP certificada) publicada no AdSense em 15/10/2026, em espanhol, com Consentir / No consentir / Gestionar opciones + botão "Configuración de cookies" no rodapé. |
 
 ## Extras do próprio projeto (não estão no checklist do curso, mas pesam na aprovação)
