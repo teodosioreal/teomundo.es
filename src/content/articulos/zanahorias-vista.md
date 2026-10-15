@@ -106,8 +106,6 @@ La zanahoria es una buena fuente, pero no es la única ni la mayor. Estas son al
 
 La AAO añade a la lista las verduras de hoja verde, la calabaza y el melón cantalupo. Con un plato de verdura variada, como el que propone la [dieta mediterránea](/cuerpo-y-espana/dieta-mediterranea-beneficios/), lo normal es cubrir lo que hace falta sin pensar en ello.
 
-Cuidado con los suplementos: el NIH fija el límite máximo de vitamina A ya formada en 3.000 mcg al día para adultos. Con la comida es difícil acercarse; con pastillas por tu cuenta, no tanto.
-
 ## Cuándo ver mal de noche merece una consulta
 
 En España, una carencia seria de vitamina A es poco habitual. Según la AAO, en los países ricos aparece sobre todo en personas con enfermedades intestinales, del hígado o del páncreas, tras una cirugía para perder peso o con dietas muy restrictivas.
@@ -117,7 +115,5 @@ Pide cita con tu médico o con el oftalmólogo si:
 - Notas que **cada vez ves peor con poca luz**, por ejemplo al conducir de noche o al entrar en un cine.
 - Tienes los **ojos muy secos** de forma persistente, sin una causa clara como las pantallas.
 - Estás en alguna de las situaciones de riesgo de arriba y aparecen cambios en la vista.
-
-No empieces a tomar suplementos sin consejo médico o farmacéutico, sobre todo si estás embarazada.
 
 La próxima vez que alguien te empuje la zanahoria con la excusa de la vista, puedes contarle lo del radar y comértela igual, que buena es. Y si te quedan dudas sobre los ojos, mira si es verdad que [leer con poca luz estropea la vista](/mitos/leer-con-poca-luz/) o [cuántas veces parpadeas al día](/en-1-minuto/cuantas-veces-parpadeamos/).

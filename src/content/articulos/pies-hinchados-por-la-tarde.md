@@ -70,7 +70,7 @@ El servicio de salud británico ([NHS](https://www.nhs.uk/conditions/oedema/)) p
 
 Eso incluye al camarero que encadena turno de comidas y cenas en una terraza, pero también a quien pasa ocho horas delante del ordenador o viaja en autobús de Madrid a Málaga. La [Cleveland Clinic](https://health.clevelandclinic.org/when-is-leg-swelling-a-sign-of-something-serious) menciona justamente los trayectos largos en coche o en avión.
 
-La misma lista del NHS añade otros factores: comer mucha sal, el embarazo, el sobrepeso, las varices y algunos medicamentos, como ciertos fármacos para la tensión, anticonceptivos o corticoides. Si tomas alguno y notas hinchazón, coméntalo con tu médico o tu farmacéutico, sin dejar el tratamiento por tu cuenta.
+La misma lista del NHS añade otros factores: comer mucha sal, el embarazo, el sobrepeso y las varices.
 
 ## Agosto y tobillos: por qué el calor lo empeora
 

@@ -81,8 +81,7 @@ Cómo ayudar a tu hígado:
 
 - [ ] Limita el alcohol, o mejor, no lo tomes de forma habitual.
 - [ ] Mantén un peso saludable y muévete a diario.
-- [ ] No tomes medicamentos de más ni sin consultar, incluido el paracetamol.
-- [ ] Pregunta en tu centro de salud por las vacunas y pruebas de hepatitis.
+- [ ] Pregunta en tu centro de salud por las pruebas de hepatitis.
 
 Consulta con tu médico si notas la piel o los ojos amarillentos, orina muy oscura, picor intenso en todo el cuerpo o hinchazón de la barriga.
 

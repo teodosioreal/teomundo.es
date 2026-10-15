@@ -29,7 +29,7 @@ faq:
   - q: "¿La cera hace que salga menos pelo?"
     a: "La cera arranca el pelo de raíz, así que tarda más en volver a verse. Que con el tiempo salga más fino depende de cada persona."
   - q: "¿Qué cambia de verdad el vello?"
-    a: "Las hormonas, la edad, la genética y algunos medicamentos. Si notas un aumento repentino de vello, coméntalo con tu médico."
+    a: "Las hormonas, la edad y la genética. Si notas un aumento repentino de vello, coméntalo con tu médico."
 sources:
   - title: "University of Texas at Austin, Think Twice: Does shaving make hair grow back thicker and darker?"
     url: "https://sites.utexas.edu/think-twice/does-shaving-make-hair-grow-back-thicker-and-darker/"
@@ -78,7 +78,7 @@ Por eso parece más grueso y oscuro, aunque sea exactamente el mismo pelo.
 - **Cera o depiladora:** arrancan el pelo de raíz. Tarda más en volver a verse.
 - **Láser:** actúa sobre el folículo. Lo realiza un profesional sanitario o un centro autorizado.
 
-Lo que sí puede cambiar el vello son las **hormonas**, la edad, la genética y algunos medicamentos. Si notas que te sale vello de repente en zonas donde antes no tenías, coméntalo con tu médico.
+Lo que sí puede cambiar el vello son las **hormonas**, la edad y la genética. Si notas que te sale vello de repente en zonas donde antes no tenías, coméntalo con tu médico.
 
 Así que puedes afeitarte tranquilo: el pelo no volverá con más fuerza. Y si el próximo plan es la montaña en invierno, mira [si de verdad perdemos el calor por la cabeza](/mitos/calor-por-la-cabeza/). Otros dos mitos de casa que merece la pena revisar: [si leer con poca luz estropea la vista](/mitos/leer-con-poca-luz/) y [si crujirse los dedos da artritis](/mitos/crujir-dedos-artritis/).
 

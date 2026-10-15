@@ -117,13 +117,11 @@ La [Asociación Española de Pediatría](https://enfamilia.aeped.es/printpdf/pre
 
 También recuerda que los nervios por "si me mareo" pueden empeorarlo, y que los más pequeños a veces solo se muestran irritables o lloran.
 
-En la farmacia hay medicamentos para el mareo, pero no los des por tu cuenta: pregunta al pediatra o al farmacéutico. Los CDC advierten que algunos no son adecuados para niños y que funcionan mejor si se toman antes de que empiecen los síntomas.
-
 ## Cuándo el mareo merece una consulta
 
 Este mareo suele pasar cuando el vehículo se detiene. Pide cita con tu médico o con el pediatra si:
 
-- Se repite mucho, hasta el punto de condicionar vuestros viajes. La AEP indica que entonces el pediatra puede valorar un tratamiento.
+- Se repite mucho, hasta el punto de condicionar vuestros viajes. La AEP indica que entonces conviene que lo valore el pediatra.
 - Los vómitos se prolongan: la [Clínica Universidad de Navarra](https://www.cun.es/chequeos-salud/vida-sana/consejos-salud/mareo-cinetosis-viajes) advierte que pueden llevar a deshidratación.
 - Notas mareo o sensación de giro sin ir en ningún vehículo. Eso ya no es cinetosis, y los CDC piden descartar otros problemas del equilibrio.
 - Tras bajar de un barco, el balanceo no se va en semanas. Notarlo unas horas es normal; durante semanas, según los CDC, es raro y merece valoración.

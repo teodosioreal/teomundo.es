@@ -115,7 +115,6 @@ Basado en las recomendaciones del NHS y del Manual Merck:
 | Seguir con tu actividad normal en lo posible | Pasar días enteros en la cama |
 | Caminar a ratos y moverte con suavidad | Estar sentado horas sin levantarte |
 | Probar calor local en la zona que duele | Hacer esfuerzos bruscos mientras duela |
-| Preguntar en la farmacia qué analgésico te conviene | Automedicarte durante semanas sin consultar |
 
 Moverte ayuda a recuperarte aunque moleste.
 

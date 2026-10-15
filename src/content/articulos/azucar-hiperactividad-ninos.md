@@ -50,7 +50,7 @@ El cumple de un amigo del cole: tarta, chuches, refrescos y quince niños corrie
 
 En 1994, dos investigadores de la Universidad de Kentucky, Daniel Hoover y Richard Milich, hicieron una prueba muy reveladora ([Hoover y Milich](https://uknowledge.uky.edu/psychology_facpub/13)).
 
-Reunieron a madres que creían que sus hijos eran "sensibles al azúcar". A algunas les dijeron que su hijo acababa de tomar una gran dosis de azúcar; a otras, que había tomado un placebo. En realidad, **todos los niños tomaron placebo**, una bebida con edulcorante.
+Reunieron a madres que creían que sus hijos eran "sensibles al azúcar". A algunas les dijeron que su hijo acababa de tomar una gran cantidad de azúcar; a otras, que había tomado un placebo. En realidad, **todos los niños tomaron placebo**, una bebida con edulcorante.
 
 Las madres que creían que su hijo había tomado azúcar lo valoraron como **más hiperactivo**, y además lo vigilaron y lo corrigieron más. El cambio estaba en la mirada de los adultos, no en el niño.
 

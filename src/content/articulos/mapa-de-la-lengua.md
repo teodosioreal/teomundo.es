@@ -112,7 +112,7 @@ Las pequeñas diferencias de intensidad entre zonas son normales: eso es justo l
 
 Mucho de lo que llamamos sabor es en realidad olor. Según MedlinePlus, el sabor de la comida combina gusto y olfato, y por eso con la nariz tapada por un catarro todo sabe "a nada" ([MedlinePlus](https://medlineplus.gov/ency/article/003050.htm)). Si te intriga la nariz, mira [cuántos olores es capaz de distinguir](/en-1-minuto/cuantos-olores-distingue-la-nariz/).
 
-MedlinePlus cita otras causas frecuentes de notar menos el gusto, como la boca seca, algunos medicamentos, fumar mucho o la edad, sobre todo a partir de los 60. Pide cita con tu médico si la pérdida del gusto no se te pasa o si aparecen sabores extraños junto a otros síntomas.
+MedlinePlus cita otras causas frecuentes de notar menos el gusto, como la boca seca, fumar mucho o la edad, sobre todo a partir de los 60. Pide cita con tu médico si la pérdida del gusto no se te pasa o si aparecen sabores extraños junto a otros síntomas.
 
 Esta noche, después de cenar, prueba el bastoncillo con azúcar en el fondo de la lengua y enséñale el resultado a quien te hizo copiar el mapa. Y si te gustan los mitos de libro de texto, sigue con el de [que solo usamos el 10 % del cerebro](/mitos/mito-10-por-ciento-cerebro/) o descubre si tu [lengua es única como una huella dactilar](/en-1-minuto/huella-de-la-lengua/).
 

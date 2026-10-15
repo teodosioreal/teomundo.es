@@ -128,9 +128,9 @@ Que el café no deshidrate no significa que no tenga límites. Estas son las sit
 
 Y el carajillo es otra historia: lleva alcohol, y el alcohol sí te hace orinar más. Te lo explicamos en [qué le pasa a tu cuerpo con la resaca](/cuerpo-y-espana/resaca-por-que/).
 
-## Cuándo hablar con tu médico o farmacéutico
+## Cuándo hablar con tu médico del café
 
-Consulta con un profesional si notas palpitaciones, nerviosismo o insomnio que relacionas con el café, si estás embarazada y tienes dudas, o si tomas medicación y no sabes si la cafeína interfiere. Tu farmacéutico puede revisar contigo tus medicamentos.
+Consulta con un profesional si notas palpitaciones, nerviosismo o insomnio que relacionas con el café o si estás embarazada y tienes dudas.
 
 Y si tienes síntomas de deshidratación real, como orina muy oscura y escasa, mareo o mucha sed, el problema no será el café: bebe agua y, si no mejoras, pide ayuda.
 

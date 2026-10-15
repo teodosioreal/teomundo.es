@@ -99,7 +99,7 @@ La siesta de verano reúne casi todo lo que favorece el mareo al levantarse.
 
 **La comida.** Hay personas a las que la tensión les baja después de comer, otra de las situaciones que menciona la Clínica Mayo. Sobre cómo afecta el calor al sistema circulatorio, tienes más en [qué le hace el calor al corazón](/cuerpo-y-espana/calor-y-corazon/).
 
-También influyen la edad, algunos medicamentos (entre ellos ciertos fármacos para la tensión) y el alcohol.
+También influyen la edad y el alcohol.
 
 ## Levántate en tres tiempos
 

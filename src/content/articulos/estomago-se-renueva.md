@@ -8,7 +8,7 @@ secondaryKeywords:
   - "mucosa gástrica"
   - "por qué el estómago no se digiere"
   - "úlcera de estómago"
-  - "ibuprofeno y estómago"
+  - "capa de moco del estómago"
 datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "stomach anatomy illustration"
@@ -22,12 +22,12 @@ cover:
 keyTakeaways:
   - "El estómago produce un ácido muy fuerte, pero una capa de moco y bicarbonato protege sus paredes."
   - "Además, las células que recubren el aparato digestivo están entre las que más rápido se renuevan del cuerpo."
-  - "Cuando esa protección falla, por la bacteria H. pylori o por antiinflamatorios como el ibuprofeno, pueden aparecer úlceras."
+  - "Cuando esa protección falla, por ejemplo por la bacteria H. pylori, pueden aparecer úlceras."
 faq:
   - q: "¿Por qué el ácido del estómago no lo destruye?"
     a: "Porque una capa de moco con bicarbonato cubre sus paredes y neutraliza el ácido justo donde tocaría las células. Y esas células se reponen muy rápido."
-  - q: "¿Es malo tomar ibuprofeno sin comer?"
-    a: "Los antiinflamatorios hacen que la mucosa del estómago sea más fácil de dañar. Sigue siempre las indicaciones del prospecto y de tu médico o farmacéutico."
+  - q: "¿Qué es la bacteria Helicobacter pylori?"
+    a: "Una bacteria que puede vivir en el moco del estómago y alterar sus defensas. Según el NIDDK, es una de las causas más comunes de las úlceras."
   - q: "¿Cuáles son los síntomas de una úlcera?"
     a: "Dolor o ardor en la parte alta del abdomen, sobre todo con el estómago vacío. Vómitos con sangre o heces negras son una urgencia."
 sources:
@@ -60,22 +60,18 @@ La primera defensa es una capa de **moco** que cubre toda la pared interior. Ese
 
 La segunda defensa es la velocidad. Las células que recubren el aparato digestivo están entre las que más rápido [se renuevan](/records/celulas-que-se-renuevan/) de todo el cuerpo, según los cálculos del Instituto Weizmann ([Weizmann](https://wis-wander.weizmann.ac.il/node/11205)). Si alguna se daña, enseguida hay otra nueva para sustituirla.
 
-<figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1563213126-a4273aed2016?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGhhcm1hY3klMjBtZWRpY2luZSUyMGJveHxlbnwxfDB8fHwxNzkyMDg1NjAwfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1563213126-a4273aed2016?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGhhcm1hY3klMjBtZWRpY2luZSUyMGJveHxlbnwxfDB8fHwxNzkyMDg1NjAwfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1563213126-a4273aed2016?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGhhcm1hY3klMjBtZWRpY2luZSUyMGJveHxlbnwxfDB8fHwxNzkyMDg1NjAwfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1563213126-a4273aed2016?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGhhcm1hY3klMjBtZWRpY2luZSUyMGJveHxlbnwxfDB8fHwxNzkyMDg1NjAwfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona cogiendo una pastilla de un pastillero" loading="lazy" decoding="async">
-<figcaption>Foto de <a href="https://unsplash.com/@laurynasm?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Laurynas Me</a> en <a href="https://unsplash.com/photos/person-about-to-pick-medicine-from-medicine-organizer-1TL8AoEDj_c?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
-</figure>
-
 ## Cuando falla: las úlceras
 
-Según el Instituto Nacional de Diabetes y Enfermedades Digestivas y Renales de EE. UU. ([NIDDK](https://www.niddk.nih.gov/health-information/digestive-diseases/peptic-ulcers-stomach-ulcers/symptoms-causes)), las causas más comunes de las úlceras de estómago son:
+Según el Instituto Nacional de Diabetes y Enfermedades Digestivas y Renales de EE. UU. ([NIDDK](https://www.niddk.nih.gov/health-information/digestive-diseases/peptic-ulcers-stomach-ulcers/symptoms-causes)), una de las causas más comunes de las úlceras de estómago es la bacteria *Helicobacter pylori*, que vive en el moco del estómago y altera sus defensas.
 
-| Causa | Qué hace |
+Así se reparte el trabajo de protección, y dónde puede fallar:
+
+| Pieza | Qué hace |
 |---|---|
-| Bacteria *Helicobacter pylori* | Vive en el moco del estómago y altera sus defensas |
-| Antiinflamatorios (ibuprofeno, aspirina y otros) | Hacen la mucosa más fácil de dañar |
-
-Por eso los antiinflamatorios deben tomarse siempre siguiendo el prospecto y las indicaciones de tu médico o farmacéutico, sin alargar el tratamiento por tu cuenta.
+| Capa de moco con bicarbonato | Neutraliza el ácido justo antes de que toque la pared |
+| Células que se renuevan muy rápido | Sustituyen enseguida a las que se dañan |
+| Bacteria *Helicobacter pylori* | Altera esas defensas y puede abrir una úlcera |
 
 Consulta con tu médico si tienes dolor o ardor en la parte alta del abdomen que vuelve una y otra vez, sobre todo con el estómago vacío. Llama al 112 o ve a urgencias si vomitas sangre o algo parecido a posos de café, o si haces heces negras como el alquitrán.
 
-Si tomas antiinflamatorios a menudo, revisa el prospecto o pregúntale a tu farmacéutico cómo tomarlos. Y si te gustan las curiosidades del cuerpo, descubre si [los ojos dejan de crecer](/en-1-minuto/los-ojos-crecen/).
+Mientras haces la digestión de la comida de hoy, tu estómago irá reponiendo esa capa de moco sin que lo notes. Y si te gustan las curiosidades del cuerpo, descubre si [los ojos dejan de crecer](/en-1-minuto/los-ojos-crecen/).

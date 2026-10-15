@@ -228,7 +228,7 @@ Si el hipo viene con dolor en el pecho, dificultad para respirar o fiebre, no es
 
 #### Por qué es importante
 
-Según [Mayo Clinic](https://www.mayoclinic.org/es/diseases-conditions/hiccups/diagnosis-treatment/drc-20352618), el hipo que dura más de dos días puede estar relacionado con la irritación de los nervios del diafragma, problemas digestivos como el reflujo, trastornos del metabolismo o efectos de algunos medicamentos. Un profesional sabrá qué revisar y, si hace falta, qué tratamiento usar.
+Según [Mayo Clinic](https://www.mayoclinic.org/es/diseases-conditions/hiccups/diagnosis-treatment/drc-20352618), el hipo que dura más de dos días puede estar relacionado con la irritación de los nervios del diafragma, problemas digestivos como el reflujo o trastornos del metabolismo. Un profesional sabrá qué revisar.
 
 ## Tu plan para la próxima vez que te pille
 

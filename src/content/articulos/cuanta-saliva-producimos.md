@@ -29,7 +29,7 @@ faq:
   - q: "¿Por qué tengo la boca seca al despertarme?"
     a: "Porque mientras duermes se produce muy poca saliva. Si además respiras por la boca o roncas, se seca todavía más."
   - q: "¿Cuándo es preocupante tener la boca seca?"
-    a: "Si la notas seca de forma continua, te cuesta tragar o hablar, o tienes muchas caries. Algunos medicamentos y enfermedades causan sequedad: coméntalo con tu médico o dentista."
+    a: "Si la notas seca de forma continua, te cuesta tragar o hablar, o tienes muchas caries. Hay enfermedades que causan sequedad: coméntalo con tu médico o dentista."
 sources:
   - title: "Cleveland Clinic: Salivary Glands"
     url: "https://my.clevelandclinic.org/health/body/23462-salivary-glands"
@@ -90,7 +90,7 @@ Mientras duermes, las glándulas salivales casi se detienen. Con poca saliva, la
 
 Por eso un vaso de agua y lavarte los dientes al levantarte suele bastar para quitar ese aliento.
 
-Consulta con tu médico o tu dentista si tienes la boca seca de forma continua, te cuesta tragar o hablar, o tienes caries con frecuencia: algunos medicamentos y enfermedades reducen la saliva.
+Consulta con tu médico o tu dentista si tienes la boca seca de forma continua, te cuesta tragar o hablar, o tienes caries con frecuencia: algunas enfermedades reducen la saliva.
 
 Bebe agua a lo largo del día y fíjate en cuántas veces se te hace la boca agua al oler comida. Y si te gustan los récords del cuerpo, conoce a [la persona más alta de la historia](/records/persona-mas-alta-del-mundo/). Otro récord diario que no notas: [la distancia que recorre un estornudo](/records/velocidad-estornudo/).
 

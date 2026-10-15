@@ -117,6 +117,6 @@ Contesta estas preguntas antes de agobiarte:
 4. **¿Te pica o te duele el cuero cabelludo?** La Cleveland Clinic lo incluye entre las señales de aviso.
 5. **¿Se te cae mucho más de lo habitual durante semanas y no mejora?** La Cleveland Clinic también lo cita como motivo para consultar.
 
-Si respondes que sí a la 3, la 4 o la 5, pide cita con tu médico de familia o con un dermatólogo. También si simplemente estás preocupado: distinguir una muda de una alopecia es su trabajo. Y no dejes ningún medicamento por tu cuenta pensando que es la causa; coméntalo antes con tu médico.
+Si respondes que sí a la 3, la 4 o la 5, pide cita con tu médico de familia o con un dermatólogo. También si simplemente estás preocupado: distinguir una muda de una alopecia es su trabajo.
 
 Esta noche, cuando te cepilles, mira el pelo que queda en el cepillo con otros ojos: es parte de un recambio de 100.000 piezas. Y si te quedas con ganas de más récords de tu piel, sigue con [cuál es el órgano más grande del cuerpo](/records/organo-mas-grande/).

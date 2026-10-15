@@ -75,7 +75,7 @@ Este último dato es clave. Un órgano tan caro de mantener no habría sobrevivi
 
 ## Lucy y otras películas
 
-*Lucy* (2014) no es la única. El cine y la publicidad usan a menudo la idea del "potencial oculto" del cerebro para vender superpoderes, cursos o pastillas. Desconfía de cualquier producto que prometa "activar" la parte de tu cerebro que supuestamente no usas.
+*Lucy* (2014) no es la única. El cine y la publicidad usan a menudo la idea del "potencial oculto" del cerebro para vender superpoderes, cursos o productos. Desconfía de cualquier producto que prometa "activar" la parte de tu cerebro que supuestamente no usas.
 
 Lo que sí sabe la ciencia es que el cerebro cambia con lo que aprendes: aprender un idioma o un instrumento refuerza conexiones entre neuronas. No despiertas una parte dormida; entrenas la que ya usas.
 
