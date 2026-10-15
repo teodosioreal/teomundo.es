@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-10-29
 dateModified: 2026-10-29
 imageQuery: "microscope laboratory scientist looking at sample"
-imageAlt: "Científica observando una muestra al microscopio en un laboratorio"
+imageAlt: "Científico observando una muestra al microscopio en un laboratorio"
 cover:
   url: "https://images.unsplash.com/photo-1511174511562-5f7f18b874f8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWljcm9zY29wZSUyMGxhYm9yYXRvcnklMjBzY2llbnRpc3QlMjBsb29raW5nJTIwYXQlMjBzYW1wbGV8ZW58MXwwfHx8MTc5MjA5NjM3N3ww&ixlib=rb-4.1.0"
-  alt: "Científica observando una muestra al microscopio en un laboratorio"
+  alt: "Científico observando una muestra al microscopio en un laboratorio"
   author: "Lucas Vasques"
   authorUrl: "https://unsplash.com/@luvqs?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/man-sight-on-white-microscope-9vnACvX2748?utm_source=teomundo&utm_medium=referral"
@@ -78,7 +78,7 @@ Con la cola incluida, el espermatozoide supera las 50 micras de largo. Pero esa 
 Su diseño es el contrario al del óvulo. No lleva reservas ni casi nada que sobre: solo información genética, un pequeño motor y la cola para moverse.
 
 <figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1638271522560-a247d127deb8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cmVkJTIwYmxvb2QlMjBjZWxscyUyMGlsbHVzdHJhdGlvbnxlbnwxfDB8fHwxNzkyMDk2Mzc4fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1638271522560-a247d127deb8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cmVkJTIwYmxvb2QlMjBjZWxscyUyMGlsbHVzdHJhdGlvbnxlbnwxfDB8fHwxNzkyMDk2Mzc4fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1638271522560-a247d127deb8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cmVkJTIwYmxvb2QlMjBjZWxscyUyMGlsbHVzdHJhdGlvbnxlbnwxfDB8fHwxNzkyMDk2Mzc4fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1638271522560-a247d127deb8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cmVkJTIwYmxvb2QlMjBjZWxscyUyMGlsbHVzdHJhdGlvbnxlbnwxfDB8fHwxNzkyMDk2Mzc4fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Ilustración de glóbulos rojos en un vaso sanguíneo" loading="lazy" decoding="async">
+<img src="https://images.unsplash.com/photo-1638271522560-a247d127deb8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cmVkJTIwYmxvb2QlMjBjZWxscyUyMGlsbHVzdHJhdGlvbnxlbnwxfDB8fHwxNzkyMDk2Mzc4fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1638271522560-a247d127deb8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cmVkJTIwYmxvb2QlMjBjZWxscyUyMGlsbHVzdHJhdGlvbnxlbnwxfDB8fHwxNzkyMDk2Mzc4fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1638271522560-a247d127deb8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cmVkJTIwYmxvb2QlMjBjZWxscyUyMGlsbHVzdHJhdGlvbnxlbnwxfDB8fHwxNzkyMDk2Mzc4fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1638271522560-a247d127deb8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cmVkJTIwYmxvb2QlMjBjZWxscyUyMGlsbHVzdHJhdGlvbnxlbnwxfDB8fHwxNzkyMDk2Mzc4fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Ilustración de glóbulos rojos flotando en la sangre" loading="lazy" decoding="async">
 <figcaption>Foto de <a href="https://unsplash.com/@lanirudhreddy?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Anirudh</a> en <a href="https://unsplash.com/photos/red-blood-cells-floating-in-fluid-djo3iNJpaOE?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 

@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-10-26
 dateModified: 2026-10-26
 imageQuery: "person sitting on edge of bed afternoon light hand on head"
-imageAlt: "Persona sentada en el borde de la cama con la mano en la frente a media tarde"
+imageAlt: "Hombre de pie junto a la cama, recién levantado, frente a la ventana"
 cover:
   url: "https://images.unsplash.com/photo-1585963373105-404b0a93c946?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc2l0dGluZyUyMG9uJTIwZWRnZSUyMG9mJTIwYmVkJTIwYWZ0ZXJub29uJTIwbGlnaHQlMjBoYW5kJTIwb24lMjBoZWFkfGVufDF8MHx8fDE3OTIwOTYzODB8MA&ixlib=rb-4.1.0"
-  alt: "Persona sentada en el borde de la cama con la mano en la frente a media tarde"
+  alt: "Hombre de pie junto a la cama, recién levantado, frente a la ventana"
   author: "Diego Lozano"
   authorUrl: "https://unsplash.com/@diegonacho?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/person-in-black-shorts-lying-on-bed-QGHNk7eis0k?utm_source=teomundo&utm_medium=referral"
@@ -82,7 +82,7 @@ Las "estrellas" y los puntos negros son la forma en que tú percibes ese bajón 
 
 No es raro. MedlinePlus, el servicio de información de la Biblioteca Nacional de Medicina de EE. UU., calcula que la hipotensión ortostática afecta a **alrededor del 6 % de la población**, y a bastante más gente entre las personas mayores. Muchas personas que la tienen ni siquiera notan síntomas.
 
-<!-- unsplash: woman drinking glass of water summer kitchen | Mujer bebiendo un vaso de agua en la cocina en verano -->
+<!-- unsplash: glass of water | Vaso de agua -->
 
 ## Por qué te pasa más al salir de la siesta en agosto
 

@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-11-02
 dateModified: 2026-11-02
 imageQuery: "olive grove trees andalusia sunset"
-imageAlt: "Olivar andaluz con hileras de olivos a última hora de la tarde"
+imageAlt: "Olivar en un campo seco al pie de una sierra"
 cover:
   url: "https://images.unsplash.com/photo-1767022088159-d05a1e84d737?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8b2xpdmUlMjBncm92ZSUyMHRyZWVzJTIwYW5kYWx1c2lhJTIwc3Vuc2V0fGVufDF8MHx8fDE3OTIwOTYzNzN8MA&ixlib=rb-4.1.0"
-  alt: "Olivar andaluz con hileras de olivos a última hora de la tarde"
+  alt: "Olivar en un campo seco al pie de una sierra"
   author: "Alexis Presa"
   authorUrl: "https://unsplash.com/@alexispresa?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/rocky-hills-with-olive-trees-and-dry-fields-jr9c9LooQ5I?utm_source=teomundo&utm_medium=referral"
@@ -82,7 +82,7 @@ En el polen de olivo, la proteína estrella es Ole e 1. En el estudio de Jaén, 
 El resultado lo conoce cualquiera que viva cerca de un olivar: estornudos en ráfaga, nariz que gotea o se tapa, ojos rojos que pican y, a veces, tos. Por cierto, la potencia de esos estornudos tiene su propio artículo: [a qué velocidad sale un estornudo](/records/velocidad-estornudo/).
 
 <figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1669967282242-64751a2c5220?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8b2xpdmUlMjB0cmVlJTIwZmxvd2VycyUyMGJyYW5jaCUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5MjA5NjM3NXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1669967282242-64751a2c5220?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8b2xpdmUlMjB0cmVlJTIwZmxvd2VycyUyMGJyYW5jaCUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5MjA5NjM3NXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1669967282242-64751a2c5220?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8b2xpdmUlMjB0cmVlJTIwZmxvd2VycyUyMGJyYW5jaCUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5MjA5NjM3NXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1669967282242-64751a2c5220?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8b2xpdmUlMjB0cmVlJTIwZmxvd2VycyUyMGJyYW5jaCUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5MjA5NjM3NXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Ramas de olivo con pequeñas flores blancas en primavera" loading="lazy" decoding="async">
+<img src="https://images.unsplash.com/photo-1669967282242-64751a2c5220?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8b2xpdmUlMjB0cmVlJTIwZmxvd2VycyUyMGJyYW5jaCUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5MjA5NjM3NXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1669967282242-64751a2c5220?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8b2xpdmUlMjB0cmVlJTIwZmxvd2VycyUyMGJyYW5jaCUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5MjA5NjM3NXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1669967282242-64751a2c5220?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8b2xpdmUlMjB0cmVlJTIwZmxvd2VycyUyMGJyYW5jaCUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5MjA5NjM3NXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1669967282242-64751a2c5220?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8b2xpdmUlMjB0cmVlJTIwZmxvd2VycyUyMGJyYW5jaCUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5MjA5NjM3NXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Ramas de olivo con sus hojas alargadas" loading="lazy" decoding="async">
 <figcaption>Foto de <a href="https://unsplash.com/@angelekamp?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Angèle Kamp</a> en <a href="https://unsplash.com/photos/a-close-up-of-a-plant-K9bH64C1AvE?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 

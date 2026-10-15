@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-11-03
 dateModified: 2026-11-03
 imageQuery: "freediver underwater blue sea"
-imageAlt: "Buceador en apnea bajo el agua en un mar azul"
+imageAlt: "Buceador en apnea descendiendo en el mar"
 cover:
   url: "https://images.unsplash.com/photo-1502209524164-acea936639a2?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlZWRpdmVyJTIwdW5kZXJ3YXRlciUyMGJsdWUlMjBzZWF8ZW58MXwwfHx8MTc5MjA5NjM4NXww&ixlib=rb-4.1.0"
-  alt: "Buceador en apnea bajo el agua en un mar azul"
+  alt: "Buceador en apnea descendiendo en el mar"
   author: "Jeremy Bishop"
   authorUrl: "https://unsplash.com/@jeremybishop?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/person-diving-on-body-of-water-dRltIJMupdc?utm_source=teomundo&utm_medium=referral"
@@ -80,7 +80,7 @@ Hay un capítulo español en esta historia. El barcelonés **Aleix Segura** bati
 Superó así los 22 minutos y 30 segundos que tenía el croata Goran Čolak desde 2013. Después, otros apneístas han ido estirando la marca hasta los 29 minutos actuales.
 
 <figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1603980399352-18a3b0cdf1e0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlZWRpdmVyJTIwaG9sZGluZyUyMGJyZWF0aCUyMHN3aW1taW5nJTIwcG9vbHxlbnwxfDB8fHwxNzkyMDk2Mzg2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1603980399352-18a3b0cdf1e0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlZWRpdmVyJTIwaG9sZGluZyUyMGJyZWF0aCUyMHN3aW1taW5nJTIwcG9vbHxlbnwxfDB8fHwxNzkyMDk2Mzg2fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1603980399352-18a3b0cdf1e0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlZWRpdmVyJTIwaG9sZGluZyUyMGJyZWF0aCUyMHN3aW1taW5nJTIwcG9vbHxlbnwxfDB8fHwxNzkyMDk2Mzg2fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1603980399352-18a3b0cdf1e0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlZWRpdmVyJTIwaG9sZGluZyUyMGJyZWF0aCUyMHN3aW1taW5nJTIwcG9vbHxlbnwxfDB8fHwxNzkyMDk2Mzg2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Apneísta aguantando la respiración en una piscina" loading="lazy" decoding="async">
+<img src="https://images.unsplash.com/photo-1603980399352-18a3b0cdf1e0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlZWRpdmVyJTIwaG9sZGluZyUyMGJyZWF0aCUyMHN3aW1taW5nJTIwcG9vbHxlbnwxfDB8fHwxNzkyMDk2Mzg2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1603980399352-18a3b0cdf1e0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlZWRpdmVyJTIwaG9sZGluZyUyMGJyZWF0aCUyMHN3aW1taW5nJTIwcG9vbHxlbnwxfDB8fHwxNzkyMDk2Mzg2fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1603980399352-18a3b0cdf1e0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlZWRpdmVyJTIwaG9sZGluZyUyMGJyZWF0aCUyMHN3aW1taW5nJTIwcG9vbHxlbnwxfDB8fHwxNzkyMDk2Mzg2fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1603980399352-18a3b0cdf1e0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlZWRpdmVyJTIwaG9sZGluZyUyMGJyZWF0aCUyMHN3aW1taW5nJTIwcG9vbHxlbnwxfDB8fHwxNzkyMDk2Mzg2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Nadador con traje de neopreno en una piscina vista desde arriba" loading="lazy" decoding="async">
 <figcaption>Foto de <a href="https://unsplash.com/@johnnyhammer?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">João Marcelo Martins</a> en <a href="https://unsplash.com/photos/man-in-blue-and-black-wetsuit-swimming-on-blue-water-C-pj1Qtne1g?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 

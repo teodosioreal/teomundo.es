@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-10-30
 dateModified: 2026-10-30
 imageQuery: "woman belly navel close up white towel"
-imageAlt: "Tripa de una mujer con el ombligo en primer plano junto a una toalla blanca"
+imageAlt: "Primer plano de un abdomen con el ombligo"
 cover:
   url: "https://images.unsplash.com/photo-1747398594110-70ac0f75e3bc?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBiZWxseSUyMG5hdmVsJTIwY2xvc2UlMjB1cCUyMHdoaXRlJTIwdG93ZWx8ZW58MXwwfHx8MTc5MjA5NjM3Nnww&ixlib=rb-4.1.0"
-  alt: "Tripa de una mujer con el ombligo en primer plano junto a una toalla blanca"
+  alt: "Primer plano de un abdomen con el ombligo"
   author: "Mariia Horobets"
   authorUrl: "https://unsplash.com/@mashuncell?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/a-close-up-of-a-persons-abdomen-m5NOVgX_hqQ?utm_source=teomundo&utm_medium=referral"
@@ -77,7 +77,7 @@ Y una anécdota del propio estudio: dos de los tres tipos de arqueas (otros micr
 
 Si te sorprende cuánta vida cabe en tu piel, recuerda que es el [órgano más grande del cuerpo](/records/organo-mas-grande/) y que se renueva sin parar.
 
-<!-- unsplash: cotton swabs soap bathroom shelf | Bastoncillos de algodón y una pastilla de jabón en el baño -->
+<!-- unsplash: cotton swabs | Bastoncillos de algodón -->
 
 ## La pelusa del ombligo tiene explicación
 
