@@ -12,10 +12,10 @@ secondaryKeywords:
 datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "street thermometer hot summer city"
-imageAlt: "Termómetro de la calle marcando una temperatura muy alta en verano"
+imageAlt: "Termómetro marcando una temperatura alta"
 cover:
   url: "https://images.unsplash.com/photo-1600876876700-ba4c72ae3517?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3RyZWV0JTIwdGhlcm1vbWV0ZXIlMjBob3QlMjBzdW1tZXIlMjBjaXR5fGVufDF8MHx8fDE3OTIwODE2NDl8MA&ixlib=rb-4.1.0"
-  alt: "Termómetro de la calle marcando una temperatura muy alta en verano"
+  alt: "Termómetro marcando una temperatura alta"
   author: "Denny Müller"
   authorUrl: "https://unsplash.com/@redaquamedia?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/orange-and-white-analog-gauge-0A7cA6PEjz4?utm_source=teomundo&utm_medium=referral"

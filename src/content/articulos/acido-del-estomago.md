@@ -12,10 +12,10 @@ secondaryKeywords:
 datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "coin in glass laboratory liquid"
-imageAlt: "Moneda dentro de un vaso con líquido, estilo laboratorio"
+imageAlt: "Vasos de laboratorio con líquido"
 cover:
   url: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y29pbiUyMGluJTIwZ2xhc3MlMjBsYWJvcmF0b3J5JTIwbGlxdWlkfGVufDF8MHx8fDE3OTIwODE2NDZ8MA&ixlib=rb-4.1.0"
-  alt: "Moneda dentro de un vaso con líquido, estilo laboratorio"
+  alt: "Vasos de laboratorio con líquido"
   author: "Hans Reniers"
   authorUrl: "https://unsplash.com/@hansreniers?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/three-clear-beakers-placed-on-tabletop-lQGJCMY5qcM?utm_source=teomundo&utm_medium=referral"

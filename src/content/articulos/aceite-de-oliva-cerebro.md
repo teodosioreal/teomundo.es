@@ -12,10 +12,10 @@ secondaryKeywords:
 datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "olive oil pouring on toast"
-imageAlt: "Aceite de oliva cayendo sobre una tostada"
+imageAlt: "Pan, aceitunas y aceite de oliva sobre la mesa"
 cover:
   url: "https://images.unsplash.com/photo-1582536446725-5ad9e6ef0535?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8b2xpdmUlMjBvaWwlMjBwb3VyaW5nJTIwb24lMjB0b2FzdHxlbnwxfDB8fHwxNzkyMDgxNjQ0fDA&ixlib=rb-4.1.0"
-  alt: "Aceite de oliva cayendo sobre una tostada"
+  alt: "Pan, aceitunas y aceite de oliva sobre la mesa"
   author: "Louis Hansel"
   authorUrl: "https://unsplash.com/@louishansel?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/green-grapes-on-white-ceramic-bowl-fJxJDKAQU9c?utm_source=teomundo&utm_medium=referral"

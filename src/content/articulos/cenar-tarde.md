@@ -12,10 +12,10 @@ secondaryKeywords:
 datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "spanish tapas dinner table night"
-imageAlt: "Mesa con tapas para cenar por la noche"
+imageAlt: "Mesa con tapas y paella para cenar"
 cover:
   url: "https://images.unsplash.com/photo-1656423521731-9665583f100c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3BhbmlzaCUyMHRhcGFzJTIwZGlubmVyJTIwdGFibGUlMjBuaWdodHxlbnwxfDB8fHwxNzkyMDgxNjU1fDA&ixlib=rb-4.1.0"
-  alt: "Mesa con tapas para cenar por la noche"
+  alt: "Mesa con tapas y paella para cenar"
   author: "CHUTTERSNAP"
   authorUrl: "https://unsplash.com/@chuttersnap?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/a-table-with-food-and-drinks-on-it-KTqMU3j-Vcw?utm_source=teomundo&utm_medium=referral"

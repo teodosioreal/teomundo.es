@@ -12,10 +12,10 @@ secondaryKeywords:
 datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "baby feet in adult hands"
-imageAlt: "Pies de un bebé en las manos de un adulto"
+imageAlt: "Manos de un adulto y de un niño"
 cover:
   url: "https://images.unsplash.com/photo-1763982811997-1654e5d5d120?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmFieSUyMGZlZXQlMjBpbiUyMGFkdWx0JTIwaGFuZHN8ZW58MXwwfHx8MTc5MjA4MTY2NHww&ixlib=rb-4.1.0"
-  alt: "Pies de un bebé en las manos de un adulto"
+  alt: "Manos de un adulto y de un niño"
   author: "ika ika"
   authorUrl: "https://unsplash.com/@ika_ika?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/adult-and-child-hands-gently-holding-each-other-2x-s8iKJfrI?utm_source=teomundo&utm_medium=referral"

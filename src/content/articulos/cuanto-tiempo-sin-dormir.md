@@ -11,14 +11,8 @@ secondaryKeywords:
   - "qué pasa si no duermes"
 datePublished: 2026-10-15
 dateModified: 2026-10-15
-imageQuery: "tired eyes digital clock night"
-imageAlt: "Ojos cansados frente a un reloj digital de noche"
-cover:
-  url: "https://images.unsplash.com/photo-1638206914790-104d521085c8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGlyZWQlMjBleWVzJTIwZGlnaXRhbCUyMGNsb2NrJTIwbmlnaHR8ZW58MXwwfHx8MTc5MjA4MTY2Mnww&ixlib=rb-4.1.0"
-  alt: "Ojos cansados frente a un reloj digital de noche"
-  author: "Rinat Aidarkhan"
-  authorUrl: "https://unsplash.com/@bikosh_s?utm_source=teomundo&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-table-4UubN0f3PYc?utm_source=teomundo&utm_medium=referral"
+imageQuery: "tired man rubbing eyes at night desk"
+imageAlt: "Hombre cansado frotándose los ojos de noche"
 keyTakeaways:
   - "El récord más conocido es el de Randy Gardner, un estudiante de 17 años que estuvo 264 horas despierto, unos 11 días, en 1964."
   - "Durante el experimento tuvo problemas de memoria, de concentración y de habla, e incluso alucinaciones."

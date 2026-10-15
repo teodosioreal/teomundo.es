@@ -11,14 +11,8 @@ secondaryKeywords:
   - "glándulas salivales"
 datePublished: 2026-10-15
 dateModified: 2026-10-15
-imageQuery: "churros chocolate spain"
-imageAlt: "Churros con chocolate"
-cover:
-  url: "https://images.unsplash.com/photo-1590872809871-8a1602d5842d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2h1cnJvcyUyMGNob2NvbGF0ZSUyMHNwYWlufGVufDF8MHx8fDE3OTIwODE2NjB8MA&ixlib=rb-4.1.0"
-  alt: "Churros con chocolate"
-  author: "Rosy Ko"
-  authorUrl: "https://unsplash.com/@rosy_?utm_source=teomundo&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/white-ceramic-cup-with-saucer-and-fries-on-brown-wooden-table-23dFj4fMPnc?utm_source=teomundo&utm_medium=referral"
+imageQuery: "churros with sugar on plate"
+imageAlt: "Churros con azúcar en un plato"
 keyTakeaways:
   - "Un adulto produce aproximadamente entre medio litro y dos litros de saliva al día, según la fuente; Cleveland Clinic habla de uno a dos litros."
   - "A un litro al día, en 80 años serían unos 29.000 litros: más de 100.000 vasos de agua."
