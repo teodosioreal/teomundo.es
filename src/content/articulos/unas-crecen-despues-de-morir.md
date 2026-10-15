@@ -14,6 +14,12 @@ datePublished: 2026-11-01
 dateModified: 2026-11-01
 imageQuery: "hand resting on white linen soft light"
 imageAlt: "Mano apoyada sobre una sábana blanca con luz suave"
+cover:
+  url: "https://images.unsplash.com/photo-1595406408645-62f18ff55ff2?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZCUyMHJlc3RpbmclMjBvbiUyMHdoaXRlJTIwbGluZW4lMjBzb2Z0JTIwbGlnaHR8ZW58MXwwfHx8MTc5MjA5NjM4N3ww&ixlib=rb-4.1.0"
+  alt: "Mano apoyada sobre una sábana blanca con luz suave"
+  author: "Link Hoang"
+  authorUrl: "https://unsplash.com/@linkhoang?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/persons-hand-on-white-textile-1RpGLnYNvS8?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El pelo y las uñas no crecen después de la muerte: crecer exige células que se dividen, energía y una regulación hormonal que se detiene."
   - "La impresión de crecimiento viene de la piel, que se deshidrata y se retrae, y deja a la vista una parte de uña y de pelo que antes estaba cubierta."
@@ -68,7 +74,10 @@ Tras la muerte, el cuerpo pierde agua. La piel se seca y se retrae un poco, tamb
 
 El resultado parece crecimiento, pero no lo es: la uña mide lo mismo, solo que se ve más. El antropólogo forense William Maples, citado en el BMJ, lo calificó de imagen poderosa e inquietante, pero sin ninguna base: "No ocurre nada parecido".
 
-<!-- unsplash: close up hands fingernails natural light | Primer plano de unas manos con las uñas cortas a la luz natural -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1790469927829-67f16a8a4b2c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvc2UlMjB1cCUyMGhhbmRzJTIwZmluZ2VybmFpbHMlMjBuYXR1cmFsJTIwbGlnaHR8ZW58MXwwfHx8MTc5MjA5NjM4OHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1790469927829-67f16a8a4b2c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvc2UlMjB1cCUyMGhhbmRzJTIwZmluZ2VybmFpbHMlMjBuYXR1cmFsJTIwbGlnaHR8ZW58MXwwfHx8MTc5MjA5NjM4OHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1790469927829-67f16a8a4b2c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvc2UlMjB1cCUyMGhhbmRzJTIwZmluZ2VybmFpbHMlMjBuYXR1cmFsJTIwbGlnaHR8ZW58MXwwfHx8MTc5MjA5NjM4OHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1790469927829-67f16a8a4b2c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvc2UlMjB1cCUyMGhhbmRzJTIwZmluZ2VybmFpbHMlMjBuYXR1cmFsJTIwbGlnaHR8ZW58MXwwfHx8MTc5MjA5NjM4OHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Primer plano de unas manos con las uñas cortas a la luz natural" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@olezhanjudi?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Oleg</a> en <a href="https://unsplash.com/photos/hands-on-beige-linen-pillow-Bz5Ma1_uzB4?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## De una novela de guerra a la sabiduría popular
 

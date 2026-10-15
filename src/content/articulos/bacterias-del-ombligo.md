@@ -15,6 +15,12 @@ datePublished: 2026-10-30
 dateModified: 2026-10-30
 imageQuery: "woman belly navel close up white towel"
 imageAlt: "Tripa de una mujer con el ombligo en primer plano junto a una toalla blanca"
+cover:
+  url: "https://images.unsplash.com/photo-1747398594110-70ac0f75e3bc?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBiZWxseSUyMG5hdmVsJTIwY2xvc2UlMjB1cCUyMHdoaXRlJTIwdG93ZWx8ZW58MXwwfHx8MTc5MjA5NjM3Nnww&ixlib=rb-4.1.0"
+  alt: "Tripa de una mujer con el ombligo en primer plano junto a una toalla blanca"
+  author: "Mariia Horobets"
+  authorUrl: "https://unsplash.com/@mashuncell?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-close-up-of-a-persons-abdomen-m5NOVgX_hqQ?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "En los ombligos de 60 voluntarios, un equipo de la Universidad Estatal de Carolina del Norte identificó 2.368 tipos de bacterias, la mayoría sin nombre científico todavía."
   - "Cada ombligo tenía de media unos 67 tipos, y solo un puñado aparecía en casi todo el mundo."

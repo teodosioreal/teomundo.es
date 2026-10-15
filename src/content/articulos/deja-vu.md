@@ -15,6 +15,12 @@ datePublished: 2026-10-31
 dateModified: 2026-10-31
 imageQuery: "person standing still old narrow street europe"
 imageAlt: "Persona parada en una calle estrecha de un casco antiguo"
+cover:
+  url: "https://images.unsplash.com/photo-1632820325548-66a45dfaec95?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3RhbmRpbmclMjBzdGlsbCUyMG9sZCUyMG5hcnJvdyUyMHN0cmVldCUyMGV1cm9wZXxlbnwxfDB8fHwxNzkyMDk2Mzc5fDA&ixlib=rb-4.1.0"
+  alt: "Persona parada en una calle estrecha de un casco antiguo"
+  author: "Aejaz Memon"
+  authorUrl: "https://unsplash.com/@aejazmemon?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-narrow-alleyway-with-a-man-sitting-on-the-ledge-wGa2V-Cuka0?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Un déjà vu es la sensación de que algo te resulta familiar aunque sabes que es nuevo."
   - "Lo ha sentido alrededor de dos de cada tres personas, y es más habitual en gente joven."
@@ -75,7 +81,10 @@ Muchos sintieron algo parecido al déjà vu. En el escáner, según el artículo
 
 No es el único truco curioso del cerebro con las señales que espera: también explica [por qué no puedes hacerte cosquillas a ti mismo](/por-que/cosquillas-a-uno-mismo/).
 
-<!-- unsplash: blurred double exposure street pedestrians | Calle con peatones en una imagen de doble exposición -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1740750958991-19f18db5a676?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Ymx1cnJlZCUyMGRvdWJsZSUyMGV4cG9zdXJlJTIwc3RyZWV0JTIwcGVkZXN0cmlhbnN8ZW58MXwwfHx8MTc5MjA5NjM4MHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1740750958991-19f18db5a676?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Ymx1cnJlZCUyMGRvdWJsZSUyMGV4cG9zdXJlJTIwc3RyZWV0JTIwcGVkZXN0cmlhbnN8ZW58MXwwfHx8MTc5MjA5NjM4MHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1740750958991-19f18db5a676?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Ymx1cnJlZCUyMGRvdWJsZSUyMGV4cG9zdXJlJTIwc3RyZWV0JTIwcGVkZXN0cmlhbnN8ZW58MXwwfHx8MTc5MjA5NjM4MHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1740750958991-19f18db5a676?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Ymx1cnJlZCUyMGRvdWJsZSUyMGV4cG9zdXJlJTIwc3RyZWV0JTIwcGVkZXN0cmlhbnN8ZW58MXwwfHx8MTc5MjA5NjM4MHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Calle con peatones en una imagen de doble exposición" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@bennieray?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Bennie Bates</a> en <a href="https://unsplash.com/photos/a-blurry-photo-of-a-crowd-of-people-U5TwLXog25g?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## ¿Te está avisando de lo que va a pasar?
 

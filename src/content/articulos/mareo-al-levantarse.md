@@ -15,6 +15,12 @@ datePublished: 2026-10-26
 dateModified: 2026-10-26
 imageQuery: "person sitting on edge of bed afternoon light hand on head"
 imageAlt: "Persona sentada en el borde de la cama con la mano en la frente a media tarde"
+cover:
+  url: "https://images.unsplash.com/photo-1585963373105-404b0a93c946?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc2l0dGluZyUyMG9uJTIwZWRnZSUyMG9mJTIwYmVkJTIwYWZ0ZXJub29uJTIwbGlnaHQlMjBoYW5kJTIwb24lMjBoZWFkfGVufDF8MHx8fDE3OTIwOTYzODB8MA&ixlib=rb-4.1.0"
+  alt: "Persona sentada en el borde de la cama con la mano en la frente a media tarde"
+  author: "Diego Lozano"
+  authorUrl: "https://unsplash.com/@diegonacho?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/person-in-black-shorts-lying-on-bed-QGHNk7eis0k?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Al ponerte de pie, la gravedad lleva entre 300 y 800 ml de sangre a las piernas y la tensión baja durante unos segundos."
   - "Si el cuerpo tarda en compensar, llega menos sangre a la cabeza: visión borrosa, puntos de luz y sensación de mareo."

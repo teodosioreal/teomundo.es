@@ -15,6 +15,12 @@ datePublished: 2026-11-04
 dateModified: 2026-11-04
 imageQuery: "nervous young man hand on stomach waiting"
 imageAlt: "Joven nervioso con la mano en la tripa mientras espera"
+cover:
+  url: "https://images.unsplash.com/photo-1577989231124-fea5077a859b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bmVydm91cyUyMHlvdW5nJTIwbWFuJTIwaGFuZCUyMG9uJTIwc3RvbWFjaCUyMHdhaXRpbmd8ZW58MXwwfHx8MTc5MjA5NjM4MXww&ixlib=rb-4.1.0"
+  alt: "Joven nervioso con la mano en la tripa mientras espera"
+  author: "Patrick Daley"
+  authorUrl: "https://unsplash.com/@edgemodelsandtalent?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/man-wearing-white-crew-neck-t-shirt-sitting-while-looking-down-xeiR_fln27Q?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Tu intestino tiene su propio sistema nervioso, el entérico, con entre 400 y 600 millones de neuronas según una revisión de 2012."
   - "Con los nervios, la adrenalina aparta sangre del aparato digestivo y altera sus movimientos; los nervios sensoriales de la tripa lo notan como un cosquilleo."
@@ -77,7 +83,10 @@ Esta tabla traduce cada sensación a lo que ocurre por dentro:
 
 Lo curioso es que la ilusión y el miedo producen un efecto muy parecido. El cuerpo no distingue bien entre "me encanta esta persona" y "me juego la nota de corte": en ambos casos se prepara para algo importante.
 
-<!-- unsplash: couple first date cafe table nervous | Pareja en su primera cita en la mesa de una cafetería -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1542338332-76971ae8c292?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y291cGxlJTIwZmlyc3QlMjBkYXRlJTIwY2FmZSUyMHRhYmxlJTIwbmVydm91c3xlbnwxfDB8fHwxNzkyMDk2MzgyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1542338332-76971ae8c292?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y291cGxlJTIwZmlyc3QlMjBkYXRlJTIwY2FmZSUyMHRhYmxlJTIwbmVydm91c3xlbnwxfDB8fHwxNzkyMDk2MzgyfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1542338332-76971ae8c292?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y291cGxlJTIwZmlyc3QlMjBkYXRlJTIwY2FmZSUyMHRhYmxlJTIwbmVydm91c3xlbnwxfDB8fHwxNzkyMDk2MzgyfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1542338332-76971ae8c292?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y291cGxlJTIwZmlyc3QlMjBkYXRlJTIwY2FmZSUyMHRhYmxlJTIwbmVydm91c3xlbnwxfDB8fHwxNzkyMDk2MzgyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Pareja en su primera cita en la mesa de una cafetería" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@priscilladupreez?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Priscilla Du Preez 🇨🇦</a> en <a href="https://unsplash.com/photos/two-mugs-with-coffee-on-table-g86airJZ4Gs?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## El nervio vago, la autopista de doble sentido
 

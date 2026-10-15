@@ -81,7 +81,10 @@ Los historiadores no se ponen de acuerdo en si el objetivo era engañar a los al
 
 La guerra terminó, pero la frase se quedó en las cocinas de medio mundo.
 
-<!-- unsplash: fresh carrots sweet potato spinach eggs kitchen counter | Zanahorias, boniatos, espinacas y huevos sobre la encimera de una cocina -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1773332585749-5146862ba746?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlc2glMjBjYXJyb3RzJTIwc3dlZXQlMjBwb3RhdG8lMjBzcGluYWNoJTIwZWdncyUyMGtpdGNoZW4lMjBjb3VudGVyfGVufDF8MHx8fDE3OTIwOTYzOTB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1773332585749-5146862ba746?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlc2glMjBjYXJyb3RzJTIwc3dlZXQlMjBwb3RhdG8lMjBzcGluYWNoJTIwZWdncyUyMGtpdGNoZW4lMjBjb3VudGVyfGVufDF8MHx8fDE3OTIwOTYzOTB8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1773332585749-5146862ba746?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlc2glMjBjYXJyb3RzJTIwc3dlZXQlMjBwb3RhdG8lMjBzcGluYWNoJTIwZWdncyUyMGtpdGNoZW4lMjBjb3VudGVyfGVufDF8MHx8fDE3OTIwOTYzOTB8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1773332585749-5146862ba746?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlc2glMjBjYXJyb3RzJTIwc3dlZXQlMjBwb3RhdG8lMjBzcGluYWNoJTIwZWdncyUyMGtpdGNoZW4lMjBjb3VudGVyfGVufDF8MHx8fDE3OTIwOTYzOTB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Zanahorias, boniatos, espinacas y huevos sobre la encimera de una cocina" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@microsoftcopilot?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Microsoft Copilot</a> en <a href="https://unsplash.com/photos/carton-of-brown-eggs-on-a-kitchen-counter-e6W48UPKijo?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Dónde está la vitamina A de tu despensa
 

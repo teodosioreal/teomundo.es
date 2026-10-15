@@ -15,6 +15,12 @@ datePublished: 2026-10-28
 dateModified: 2026-10-28
 imageQuery: "jellyfish swimming blue sea water"
 imageAlt: "Medusa translúcida nadando en el agua azul del mar"
+cover:
+  url: "https://images.unsplash.com/photo-1710990032610-1df55edb97d7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8amVsbHlmaXNoJTIwc3dpbW1pbmclMjBibHVlJTIwc2VhJTIwd2F0ZXJ8ZW58MXwwfHx8MTc5MjA5NjM4M3ww&ixlib=rb-4.1.0"
+  alt: "Medusa translúcida nadando en el agua azul del mar"
+  author: "Wang xiaoqi"
+  authorUrl: "https://unsplash.com/@recordarsew?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-jellyfish-swimming-in-a-blue-water-tank-lAwQpmuVHvA?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Las medusas pican con células urticantes que disparan un filamento con veneno al rozar la piel, incluso si el animal está muerto o roto."
   - "Lo que recomienda Sanidad: salir del agua, lavar con agua del mar sin frotar, retirar los restos con pinzas o una tarjeta y avisar al socorrista."
@@ -69,7 +75,10 @@ Esta es la secuencia de las guías del [Ministerio de Sanidad](https://mirror.ms
 
 Un matiz honesto sobre el paso 4. El [NHS británico](https://www.nhs.uk/conditions/jellyfish-and-other-sea-creature-stings/) aconseja lo contrario: agua muy caliente durante al menos 30 minutos y nada de hielo. Las guías no se ponen de acuerdo. En una playa española, lo práctico es seguir lo que te indique el socorrista, que además conoce las especies de la zona.
 
-<!-- unsplash: lifeguard tower beach spain | Puesto de socorrista en una playa con bandera -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1664209364002-2db39f6c5f88?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGlmZWd1YXJkJTIwdG93ZXIlMjBiZWFjaCUyMHNwYWlufGVufDF8MHx8fDE3OTIwOTYzODR8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1664209364002-2db39f6c5f88?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGlmZWd1YXJkJTIwdG93ZXIlMjBiZWFjaCUyMHNwYWlufGVufDF8MHx8fDE3OTIwOTYzODR8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1664209364002-2db39f6c5f88?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGlmZWd1YXJkJTIwdG93ZXIlMjBiZWFjaCUyMHNwYWlufGVufDF8MHx8fDE3OTIwOTYzODR8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1664209364002-2db39f6c5f88?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGlmZWd1YXJkJTIwdG93ZXIlMjBiZWFjaCUyMHNwYWlufGVufDF8MHx8fDE3OTIwOTYzODR8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Puesto de socorrista en una playa con bandera" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@szymoniec77?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Szymon Doniec</a> en <a href="https://unsplash.com/photos/a-person-sitting-in-a-chair-under-an-umbrella-on-a-boat-QCdLeM18Ip4?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Orina, vinagre, arena y agua del grifo
 
