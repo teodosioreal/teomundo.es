@@ -129,6 +129,6 @@ Use botões para **links internos** úteis, nunca para imitar anúncios nem para
 - [x] 50 artigos originais e interligados em 5 categorias
 - [x] Imagens (secret `UNSPLASH_ACCESS_KEY` configurado; rodar o workflow a cada artigo novo e revisar as fotos em `.unsplash-preview/`)
 - [ ] Site no ar em teomundo.es com HTTPS (Cloudflare Pages)
-- [ ] Google Search Console configurado
+- [x] Google Search Console configurado (sitemap-index.xml enviado em 15/10/2026)
 - [x] CMP certificada configurada (mensagem RGPD do Google publicada em 15/10/2026)
 - [x] `adsense.client` preenchido (`ca-pub-4087868536415962`: script em todas as páginas + `/ads.txt`)
