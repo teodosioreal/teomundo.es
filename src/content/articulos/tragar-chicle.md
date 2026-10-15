@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "girl blowing pink bubble gum"
 imageAlt: "Niña haciendo un globo de chicle rosa"
+cover:
+  url: "https://images.unsplash.com/photo-1598247318797-e43459817f43?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z2lybCUyMGJsb3dpbmclMjBwaW5rJTIwYnViYmxlJTIwZ3VtfGVufDF8MHx8fDE3OTIwNzY3MzV8MA&ixlib=rb-4.1.0"
+  alt: "Niña haciendo un globo de chicle rosa"
+  author: "Charles Wright"
+  authorUrl: "https://unsplash.com/@lilwayne123?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-in-green-jacket-looking-at-the-sky-UgDagy_PBfE?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es un mito: un chicle tragado no se queda siete años en el estómago."
   - "El cuerpo no digiere la goma base, pero la empuja por el intestino y la expulsa en pocos días, como otras cosas que no digerimos."
