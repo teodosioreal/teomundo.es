@@ -54,7 +54,7 @@
 | Domínio próprio | ✅ | teomundo.es (adequado para o público da Espanha). Confirmar que abre com HTTPS. |
 | Site Kit (Analytics, AdSense, Search Console) configurado | ⬜ | O Site Kit é só para WordPress. Aqui o equivalente é: **Google Search Console** (verificar o domínio) + **Google Analytics 4** (me passar o ID `G-...`). |
 | Código do AdSense em todas as páginas + ads.txt | ✅ | `ca-pub-4087868536415962` no `<head>` das 63 páginas e /ads.txt gerado. Privacidade e cookies já citam o AdSense. |
-| Aviso de cookies visível | 🟡 | Site pronto: botão "Configuración de cookies" no rodapé e na política de cookies (reabre o aviso do Google). **Falta você ativar** a mensagem em AdSense → Privacidade e mensagens → Europa (RGPD). |
+| Aviso de cookies visível | ✅ | Mensagem RGPD do Google (CMP certificada) publicada no AdSense em 15/10/2026, em espanhol, com Consentir / No consentir / Gestionar opciones + botão "Configuración de cookies" no rodapé. |
 
 ## Extras do próprio projeto (não estão no checklist do curso, mas pesam na aprovação)
 
