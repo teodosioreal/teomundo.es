@@ -1,6 +1,6 @@
 ---
 import PageLayout from '../layouts/PageLayout.astro';
-import { site, adsense, analytics } from '../data/site';
+import { site, adsense, analytics, comments } from '../data/site';
 import { owner } from '../data/owner.mjs';
 ---
 
@@ -50,11 +50,21 @@ import { owner } from '../data/owner.mjs';
         </li>
       )
     }
+    {
+      comments.active && (
+        <li>
+          <strong>Comentarios:</strong> si comentas un artículo, guardamos el nombre que escribas, tu comentario y la
+          fecha, para moderarlo y publicarlo. Para frenar el spam guardamos también una huella cifrada de tu dirección IP,
+          que no permite conocer la dirección original. La base legal es tu consentimiento, que das al marcar la casilla del
+          formulario. Puedes pedir que borremos tu comentario en cualquier momento.
+        </li>
+      )
+    }
     <li>
       <strong>Mensajes:</strong> si nos escribes por correo, usamos tus datos solo para responderte.
     </li>
   </ul>
-  <p>{site.name} no tiene formularios de registro ni vende datos personales.</p>
+  <p>{site.name} no tiene formularios de registro ni vende datos personales. Los comentarios se guardan en los servidores de nuestro proveedor de alojamiento (Cloudflare).</p>
 
   <h2>Tus derechos</h2>
   <p>

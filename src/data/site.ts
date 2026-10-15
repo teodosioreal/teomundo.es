@@ -110,3 +110,9 @@ export const stickyBar = {
   /** Caminhos onde a barra não aparece, ex.: ['/contacto/']. */
   exclude: [] as string[],
 };
+
+// Comentários nos artigos (Cloudflare D1 + Pages Functions, pasta functions/).
+// Cada comentário fica pendente até ser aprovado em https://teomundo.es/moderar
+export const comments = {
+  active: true,
+};

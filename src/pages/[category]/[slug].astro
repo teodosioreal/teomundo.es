@@ -10,6 +10,7 @@ import RelatedArticles from '../../components/RelatedArticles.astro';
 import NextArticle from '../../components/NextArticle.astro';
 import AlsoRead from '../../components/AlsoRead.astro';
 import ArticleNav from '../../components/ArticleNav.astro';
+import Comments from '../../components/Comments.astro';
 import { site, categories, author } from '../../data/site';
 import { unsplash } from '../../lib/unsplash';
 
@@ -152,6 +153,7 @@ if (data.faq.length) {
     {next && <NextArticle article={next} />}
     <FAQ items={data.faq} />
     <RelatedArticles articles={keepReading} categoryName={category.name} />
+    <Comments path={`${data.category}/${entry.id}`} />
     <ArticleNav
       prev={prevGuide}
       next={nextGuide}
