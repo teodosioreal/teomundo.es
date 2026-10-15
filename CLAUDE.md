@@ -36,7 +36,7 @@
 ## 5. Stack técnica
 
 - **Astro 7**, site estático, `trailingSlash: 'always'`. **Tailwind CSS v4** (`src/styles/global.css`, classe `.article-body`).
-- Deploy previsto: GitHub → **Cloudflare Pages** (`public/_redirects` no formato do Cloudflare). Confirme com o usuário de qual branch o site publica antes de dizer que algo "foi ao ar".
+- **Deploy: Hostinger** (implantação de aplicativo web ligada ao GitHub, branch `claude/dazzling-maxwell-u7wjg5`; build `npm run build`, saída `dist`, Node ≥ 22.12). Domínio e e-mail `contacto@teomundo.es` também na Hostinger. Redirecionamentos, 404, HTTPS e cache ficam em `public/.htaccess` (Apache/LiteSpeed). `public/_redirects`, `_routes.json` e `functions/` são da Cloudflare e não funcionam na Hostinger.
 - **Zero JavaScript por padrão.** Só há JS quando `analytics.ga4Id` (medição de cliques) ou `stickyBar.active` (botão de fechar) estão ligados, e no bloco de comentários.
 - **Comentários** (`comments.active` em `site.ts`, **desligado** por decisão do dono; não mencionar comentários no site enquanto estiver desligado): componente `Comments.astro` + Cloudflare Pages Functions em `functions/` (`/api/comentarios` e painel `/moderar`, login `admin` + secret `ADMIN_PASSWORD`). Banco Cloudflare D1 com binding `DB` (tabela criada sozinha). Secret opcional `IP_SALT`. Todo comentário entra como pendente. `public/_routes.json` limita as Functions a `/api/*` e `/moderar`. Teste local: `npx wrangler pages dev dist --d1 DB=teste --binding ADMIN_PASSWORD=x`.
 
@@ -128,7 +128,7 @@ Use botões para **links internos** úteis, nunca para imitar anúncios nem para
 - [x] Dados do titular em `owner.mjs`: titular no Brasil, sem nome pessoal (marca + país + e-mail `contacto@teomundo.es`), por decisão do dono
 - [x] 50 artigos originais e interligados em 5 categorias
 - [x] Imagens (secret `UNSPLASH_ACCESS_KEY` configurado; rodar o workflow a cada artigo novo e revisar as fotos em `.unsplash-preview/`)
-- [ ] Site no ar em teomundo.es com HTTPS (Cloudflare Pages)
+- [x] Site no ar em teomundo.es (Hostinger, deploy pelo GitHub) — confirmar HTTPS e `/ads.txt`
 - [x] Google Search Console configurado (sitemap-index.xml enviado em 15/10/2026)
 - [x] CMP certificada configurada (mensagem RGPD do Google publicada em 15/10/2026)
 - [x] `adsense.client` preenchido (`ca-pub-4087868536415962`: script em todas as páginas + `/ads.txt`)

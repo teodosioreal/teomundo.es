@@ -1,0 +1,48 @@
+# Configuração para a hospedagem Hostinger (servidor Apache/LiteSpeed).
+# Os arquivos _redirects e _routes.json são da Cloudflare e são ignorados aqui.
+
+Options -Indexes
+DirectoryIndex index.html
+ErrorDocument 404 /404.html
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # Sempre HTTPS e sem "www"
+  RewriteCond %{HTTPS} off
+  RewriteCond %{HTTP:X-Forwarded-Proto} !https
+  RewriteRule ^ https://teomundo.es%{REQUEST_URI} [L,R=301]
+  RewriteCond %{HTTP_HOST} ^www\.teomundo\.es$ [NC]
+  RewriteRule ^ https://teomundo.es%{REQUEST_URI} [L,R=301]
+
+  # Redirecionamentos antigos (os mesmos de _redirects)
+  RewriteRule ^sitemap\.xml$ /sitemap-index.xml [L,R=301]
+  RewriteRule ^salud/como-quitar-el-hipo/?$ /por-que/como-quitar-el-hipo/ [L,R=301]
+  RewriteRule ^salud/?$ /por-que/ [L,R=301]
+
+  # URLs sempre com barra no final (trailingSlash: 'always' no Astro)
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_URI} !/$
+  RewriteCond %{REQUEST_FILENAME}/index.html -f
+  RewriteRule ^(.*)$ /$1/ [L,R=301]
+</IfModule>
+
+# Compressão
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml application/javascript application/json application/xml image/svg+xml
+</IfModule>
+
+# Cache: CSS/JS (nomes com hash do Astro) por 1 ano; imagens por 1 mês; HTML sempre revalidado
+<IfModule mod_headers.c>
+  <FilesMatch "\.(html|xml|txt)$">
+    Header set Cache-Control "public, max-age=0, must-revalidate"
+  </FilesMatch>
+  <FilesMatch "\.(png|jpg|jpeg|webp|svg|ico|webmanifest)$">
+    Header set Cache-Control "public, max-age=2592000"
+  </FilesMatch>
+  <FilesMatch "\.(css|js|woff2)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
