@@ -11,6 +11,9 @@ export const owner = {
   address: null,
   /** E-mail público de contato, ex.: "contacto@teomundo.es". */
   contactEmail: "contacto@teomundo.es",
+  /** País onde o titular está estabelecido. Fora da Espanha, o Aviso legal mostra só a marca, o país e o e-mail
+   *  (o art. 10 da LSSI vale para prestadores estabelecidos na Espanha). */
+  country: "Brasil",
   /** Lei e foro aplicáveis, ex.: "la legislación española". */
   jurisdiction: null,
 };

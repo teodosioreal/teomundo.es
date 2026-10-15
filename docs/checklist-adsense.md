@@ -15,7 +15,7 @@
 | Página "Sobre" | ✅ | /sobre-nosotros/ |
 | Política de Privacidade (obrigatória) | ✅ | /politica-de-privacidad/ (RGPD) + /politica-de-cookies/ |
 | Página "Contato" | ✅ | /contacto/ com `contacto@teomundo.es` (encaminhado pelo Email Routing da Cloudflare para o Gmail do dono). Já entra no Google e no sitemap. |
-| Termos de Uso (altamente recomendada) | 🟡 | As condições de uso estão no /aviso-legal/ (padrão na Espanha). Falta preencher os **dados do titular** (nome, NIF/NIE, endereço). |
+| Termos de Uso (altamente recomendada) | ✅ | Condições de uso no /aviso-legal/ (padrão na Espanha), com titular TeoMundo · Brasil · contacto@teomundo.es (opção sem nome pessoal, escolhida pelo dono). Já entra no Google. |
 | Página "Transparência" (opcional) | ✅ | Coberta pela /politica-editorial/ (fontes, correções, publicidade). |
 | Link visível para a Home | ✅ | Logo + breadcrumb "Inicio" em todas as páginas. |
 | Links para redes sociais (Instagram e Facebook) | ⬜ | Precisa criar os perfis e me passar os links. |
@@ -62,7 +62,7 @@
 | Item | Status | Observação |
 |---|---|---|
 | Imagens nos artigos | 🟡 | 43 de 50 artigos com capa (fotos revisadas uma a uma). Faltam 7 capas e 9 fotos do meio do texto: 1 última rodada (limite de ~25 fotos/hora da chave gratuita do Unsplash). |
-| Dados do titular em `src/data/owner.mjs` | 🟡 | E-mail ✅. Faltam nome, NIF/NIE (ou documento do país de residência) e endereço (exigência da lei espanhola LSSI). |
+| Dados do titular em `src/data/owner.mjs` | ✅ | Titular fora da Espanha (Brasil): marca TeoMundo + país + e-mail, sem nome pessoal (decisão do dono). Se um dia abrir CNPJ, colocar a razão social. |
 
 ## Quando pedir a aprovação
 

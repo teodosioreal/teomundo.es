@@ -27,7 +27,7 @@
 
 ## 4. Compliance (Espanha/UE + Google)
 
-- **LSSI-CE art. 10:** o Aviso legal precisa de nome, NIF/NIE, endereço e e-mail. Enquanto faltar algum, `/aviso-legal/` fica `noindex` (`src/data/noindex.mjs`).
+- **LSSI-CE art. 10:** para titular estabelecido na Espanha, o Aviso legal precisa de nome, NIF/NIE, endereço e e-mail (senão `/aviso-legal/` fica `noindex`). Hoje o titular está no Brasil (`owner.country`) e o dono **não quer o nome pessoal no site**: o Aviso legal mostra marca + país + e-mail. Não preencher nome sem ele pedir.
 - **RGPD/LOPDGDD:** a Política de privacidade e a Política de cookies se ajustam sozinhas ao que estiver ligado (`adsense`, `analytics`). Ao ligar analytics ou anúncios, é **obrigatório** um banner de consentimento. Para AdSense no Espaço Econômico Europeu, o Google exige uma **CMP certificada** (ex.: a própria "Privacy & messaging" do AdSense). Não ligue anúncios sem isso.
 - **AdSense:** anúncios separados do conteúdo, sem imitar botões ou links do site, sem "haz clic aquí" perto deles. A barra fixa (`stickyBar`) **não** pode ficar colada a um anúncio.
 - Linguagem proibida: "milagro", "garantizado", "100 % seguro", "sin riesgos", alarmismo, falsa escassez.
@@ -125,7 +125,7 @@ Use botões para **links internos** úteis, nunca para imitar anúncios nem para
 > **Regra do dono:** o objetivo atual é completar o checklist de aprovação do AdSense em `docs/checklist-adsense.md`. **Ao final de toda resposta**, atualize esse arquivo se algo mudou e lembre o usuário, em 2–3 linhas: (1) quantos itens faltam, (2) o próximo passo, (3) quando poderemos pedir a aprovação.
 
 - [x] Nicho definido (curiosidades do corpo); criar as próximas categorias conforme a pauta
-- [ ] Dados reais do titular em `owner.mjs` (nome, NIF, endereço, e-mail)
+- [x] Dados do titular em `owner.mjs`: titular no Brasil, sem nome pessoal (marca + país + e-mail `contacto@teomundo.es`), por decisão do dono
 - [x] 50 artigos originais e interligados em 5 categorias
 - [x] Imagens (secret `UNSPLASH_ACCESS_KEY` configurado; rodar o workflow a cada artigo novo e revisar as fotos em `.unsplash-preview/`)
 - [ ] Site no ar em teomundo.es com HTTPS (Cloudflare Pages)

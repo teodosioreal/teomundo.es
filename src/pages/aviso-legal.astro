@@ -2,6 +2,9 @@
 import PageLayout from '../layouts/PageLayout.astro';
 import { site } from '../data/site';
 import { owner } from '../data/owner.mjs';
+
+// Titular estabelecido fora da Espanha: sem a menção ao art. 10 da LSSI e sem NIF/domicílio.
+const inSpain = !owner.country || owner.country === 'España';
 ---
 
 <PageLayout
@@ -10,12 +13,21 @@ import { owner } from '../data/owner.mjs';
   h1="Aviso legal"
 >
   <h2>Datos del titular</h2>
-  <p>
-    En cumplimiento del artículo 10 de la Ley 34/2002, de servicios de la sociedad de la información y de comercio
-    electrónico (LSSI-CE), se informa de los datos del titular de este sitio web:
-  </p>
+  {
+    inSpain ? (
+      <p>
+        En cumplimiento del artículo 10 de la Ley 34/2002, de servicios de la sociedad de la información y de comercio
+        electrónico (LSSI-CE), se informa de los datos del titular de este sitio web:
+      </p>
+    ) : (
+      <p>
+        {site.name} es un proyecto editorial independiente con sede en {owner.country}. Estos son sus datos de contacto:
+      </p>
+    )
+  }
   <ul>
-    {owner.name && <li><strong>Titular:</strong> {owner.name}</li>}
+    <li><strong>Titular:</strong> {owner.name ?? site.name}</li>
+    {owner.country && <li><strong>País:</strong> {owner.country}</li>}
     {owner.taxId && <li><strong>NIF:</strong> {owner.taxId}</li>}
     {owner.address && <li><strong>Domicilio:</strong> {owner.address}</li>}
     {owner.contactEmail && <li><strong>Correo electrónico:</strong> <a href={`mailto:${owner.contactEmail}`}>{owner.contactEmail}</a></li>}
@@ -46,8 +58,12 @@ import { owner } from '../data/owner.mjs';
     responsables de él.
   </p>
 
-  <h2>Legislación aplicable</h2>
-  <p>
-    Este aviso legal se rige por {owner.jurisdiction ?? 'la legislación española'}.
-  </p>
+  {
+    (inSpain || owner.jurisdiction) && (
+      <>
+        <h2>Legislación aplicable</h2>
+        <p>Este aviso legal se rige por {owner.jurisdiction ?? 'la legislación española'}.</p>
+      </>
+    )
+  }
 </PageLayout>
