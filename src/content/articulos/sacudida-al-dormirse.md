@@ -33,6 +33,8 @@ faq:
 sources:
   - title: "Sleep Foundation: Hypnic Jerks"
     url: "https://www.sleepfoundation.org/parasomnias/hypnic-jerk"
+  - title: "NHS Scotland, Right Decision Service: Hypnic jerk"
+    url: "https://rightdecisions.scot.nhs.uk/borders-ref-help-toolkit/neurology/sleep-symptoms/hypnic-jerk"
 related:
   - bostezo-contagioso
   - pierna-dormida

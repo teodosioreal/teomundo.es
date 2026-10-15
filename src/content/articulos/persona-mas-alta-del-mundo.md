@@ -33,6 +33,8 @@ faq:
 sources:
   - title: "Guinness World Records Kids: A history of record-breaking giants, 100 years after the tallest man in the world"
     url: "https://kids.guinnessworldrecords.com/news/2018/2/a-history-of-record-breaking-giants-100-years-after-the-tallest-man-in-the-world-511577"
+  - title: "Guinness World Records: Tallest man ever"
+    url: "https://www.guinnessworldrecords.com/world-records/tallest-man-ever"
 related:
   - cuanta-saliva-producimos
   - hueso-mas-pequeno

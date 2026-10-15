@@ -33,6 +33,8 @@ faq:
 sources:
   - title: "University of Texas at Austin, Think Twice: Does shaving make hair grow back thicker and darker?"
     url: "https://sites.utexas.edu/think-twice/does-shaving-make-hair-grow-back-thicker-and-darker/"
+  - title: "Mayo Clinic: Shaving hair: Does shaved hair grow back thicker?"
+    url: "https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/hair-removal/faq-20058427"
 related:
   - leer-con-poca-luz
   - calor-por-la-cabeza

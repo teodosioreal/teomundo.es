@@ -33,6 +33,8 @@ faq:
 sources:
   - title: "NINDS (NIH), vía BrainFacts.org: Paresthesia"
     url: "https://www.brainfacts.org/diseases-and-disorders/neurological-disorders-az/diseases-a-to-z-from-ninds/paresthesia"
+  - title: "NHS: Pins and needles"
+    url: "https://www.nhs.uk/conditions/pins-and-needles/"
 related:
   - sacudida-al-dormirse
   - por-que-crujen-los-dedos

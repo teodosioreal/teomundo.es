@@ -33,6 +33,8 @@ faq:
 sources:
   - title: "Scientific American: Do People Only Use 10 Percent of Their Brains?"
     url: "https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/"
+  - title: "The Psychologist (British Psychological Society), Christian Jarrett: Great myths of the brain: We only use 10 per cent"
+    url: "https://thepsychologist.bps.org.uk/great-myths-brain-we-only-use-10-cent"
 related:
   - tragar-chicle
   - leer-con-poca-luz

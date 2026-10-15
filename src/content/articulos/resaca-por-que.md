@@ -33,6 +33,8 @@ faq:
 sources:
   - title: "NIAAA (National Institutes of Health): Hangovers"
     url: "https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/hangovers"
+  - title: "Mayo Clinic: Hangovers, Symptoms and causes"
+    url: "https://www.mayoclinic.org/diseases-conditions/hangovers/symptoms-causes/syc-20373012"
 related:
   - jamon-iberico-salud
   - beneficios-de-la-siesta
