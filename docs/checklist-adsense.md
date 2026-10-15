@@ -14,7 +14,7 @@
 | Menu com pelo menos 5 categorias e todas as páginas obrigatórias | ✅ | 5 categorias no menu (¿Por qué?, Mitos, Cuerpo y España, Récords, En 1 minuto) + todas as páginas obrigatórias (as de contato e aviso legal ainda precisam dos seus dados). |
 | Página "Sobre" | ✅ | /sobre-nosotros/ |
 | Política de Privacidade (obrigatória) | ✅ | /politica-de-privacidad/ (RGPD) + /politica-de-cookies/ |
-| Página "Contato" | 🟡 | Existe (/contacto/), mas falta o **e-mail real**. Fica fora do Google até ter e-mail. |
+| Página "Contato" | ✅ | /contacto/ com `contacto@teomundo.es` (encaminhado pelo Email Routing da Cloudflare para o Gmail do dono). Já entra no Google e no sitemap. |
 | Termos de Uso (altamente recomendada) | 🟡 | As condições de uso estão no /aviso-legal/ (padrão na Espanha). Falta preencher os **dados do titular** (nome, NIF/NIE, endereço). |
 | Página "Transparência" (opcional) | ✅ | Coberta pela /politica-editorial/ (fontes, correções, publicidade). |
 | Link visível para a Home | ✅ | Logo + breadcrumb "Inicio" em todas as páginas. |
@@ -62,7 +62,7 @@
 | Item | Status | Observação |
 |---|---|---|
 | Imagens nos artigos | 🟡 | 43 de 50 artigos com capa (fotos revisadas uma a uma). Faltam 7 capas e 9 fotos do meio do texto: 1 última rodada (limite de ~25 fotos/hora da chave gratuita do Unsplash). |
-| Dados do titular em `src/data/owner.mjs` | ⬜ | Nome, NIF/NIE, endereço, e-mail (exigência da lei espanhola LSSI). |
+| Dados do titular em `src/data/owner.mjs` | 🟡 | E-mail ✅. Faltam nome, NIF/NIE (ou documento do país de residência) e endereço (exigência da lei espanhola LSSI). |
 
 ## Quando pedir a aprovação
 

@@ -10,7 +10,7 @@ export const owner = {
   /** Endereço postal do titular. */
   address: null,
   /** E-mail público de contato, ex.: "contacto@teomundo.es". */
-  contactEmail: null,
+  contactEmail: "contacto@teomundo.es",
   /** Lei e foro aplicáveis, ex.: "la legislación española". */
   jurisdiction: null,
 };
