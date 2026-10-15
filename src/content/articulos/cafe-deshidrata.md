@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-10-22
 dateModified: 2026-10-22
 imageQuery: "espresso cup saucer table"
-imageAlt: "Taza de café solo sobre una mesa"
+imageAlt: "Café solo en un vaso de cristal sobre un plato"
 cover:
   url: "https://images.unsplash.com/photo-1610889556528-9a770e32642f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZXNwcmVzc28lMjBjdXAlMjBzYXVjZXIlMjB0YWJsZXxlbnwxfDB8fHwxNzkyMDkzOTYwfDA&ixlib=rb-4.1.0"
-  alt: "Taza de café solo sobre una mesa"
+  alt: "Café solo en un vaso de cristal sobre un plato"
   author: "Adi Goldstein"
   authorUrl: "https://unsplash.com/@adigold1?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/clear-glass-cup-on-saucer-xKS-1DP4g7A?utm_source=teomundo&utm_medium=referral"

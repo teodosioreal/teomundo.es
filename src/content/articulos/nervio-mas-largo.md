@@ -13,14 +13,8 @@ secondaryKeywords:
   - "ciática cuándo ir a urgencias"
 datePublished: 2026-10-24
 dateModified: 2026-10-24
-imageQuery: "man back pain"
+imageQuery: "woman holding lower back"
 imageAlt: "Hombre con la mano en la zona lumbar por dolor de espalda"
-cover:
-  url: "https://images.unsplash.com/photo-1650897492414-8661563845a7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWFuJTIwYmFjayUyMHBhaW58ZW58MXwwfHx8MTc5MjA5Mzk2NXww&ixlib=rb-4.1.0"
-  alt: "Hombre con la mano en la zona lumbar por dolor de espalda"
-  author: "julien Tromeur"
-  authorUrl: "https://unsplash.com/@julientromeur?utm_source=teomundo&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/a-person-with-a-light-in-their-head-Q4VHSPAdCKU?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El nervio ciático es el más largo y el más grueso del cuerpo: nace en la zona lumbar, cruza el glúteo, baja por detrás del muslo y sus ramas llegan hasta el pie."
   - "Algunas neuronas motoras tienen una prolongación que va de la médula espinal al dedo gordo del pie: Guinness habla de unos 1,3 metros."

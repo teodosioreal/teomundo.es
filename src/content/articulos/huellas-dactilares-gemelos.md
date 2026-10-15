@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-10-25
 dateModified: 2026-10-25
 imageQuery: "fingerprint close up"
-imageAlt: "Primer plano de una huella dactilar"
+imageAlt: "Huella dactilar iluminada en un lector"
 cover:
   url: "https://images.unsplash.com/photo-1585079374502-415f8516dcc3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8ZmluZ2VycHJpbnQlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTIwOTM5NjN8MA&ixlib=rb-4.1.0"
-  alt: "Primer plano de una huella dactilar"
+  alt: "Huella dactilar iluminada en un lector"
   author: "George Prentzas"
   authorUrl: "https://unsplash.com/@georgeprentzas?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/glowing-fingerprint-on-circular-scanner-SRFG7iwktDk?utm_source=teomundo&utm_medium=referral"
@@ -77,7 +77,7 @@ Durante mucho tiempo no se sabía bien cómo se formaban esas líneas. En 2023, 
 Ahí está la clave para los gemelos. Aunque partan de los mismos genes, cada dedo de cada feto crece a su ritmo y con su forma. Pequeñas diferencias de tiempo o de posición cambian dónde chocan las ondas. Los propios autores hablan de una "variación sin fin" en los dibujos.
 
 <figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1669999666300-532838c49a6a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dHdpbiUyMHNpc3RlcnMlMjBjaGlsZHJlbnxlbnwxfDB8fHwxNzkyMDkzOTY0fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1669999666300-532838c49a6a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dHdpbiUyMHNpc3RlcnMlMjBjaGlsZHJlbnxlbnwxfDB8fHwxNzkyMDkzOTY0fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1669999666300-532838c49a6a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dHdpbiUyMHNpc3RlcnMlMjBjaGlsZHJlbnxlbnwxfDB8fHwxNzkyMDkzOTY0fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1669999666300-532838c49a6a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dHdpbiUyMHNpc3RlcnMlMjBjaGlsZHJlbnxlbnwxfDB8fHwxNzkyMDkzOTY0fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Dos hermanas gemelas" loading="lazy" decoding="async">
+<img src="https://images.unsplash.com/photo-1669999666300-532838c49a6a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dHdpbiUyMHNpc3RlcnMlMjBjaGlsZHJlbnxlbnwxfDB8fHwxNzkyMDkzOTY0fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1669999666300-532838c49a6a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dHdpbiUyMHNpc3RlcnMlMjBjaGlsZHJlbnxlbnwxfDB8fHwxNzkyMDkzOTY0fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1669999666300-532838c49a6a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dHdpbiUyMHNpc3RlcnMlMjBjaGlsZHJlbnxlbnwxfDB8fHwxNzkyMDkzOTY0fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1669999666300-532838c49a6a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dHdpbiUyMHNpc3RlcnMlMjBjaGlsZHJlbnxlbnwxfDB8fHwxNzkyMDkzOTY0fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Dos hermanas que se parecen mucho, tumbadas en el suelo" loading="lazy" decoding="async">
 <figcaption>Foto de <a href="https://unsplash.com/@don_cine?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Donald Oliver</a> en <a href="https://unsplash.com/photos/a-couple-of-girls-posing-for-the-camera-zDz8DhMazt8?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 
