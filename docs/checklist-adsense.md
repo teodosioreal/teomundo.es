@@ -41,7 +41,7 @@
 |---|---|---|
 | Template leve, clean e responsivo | ✅ | Astro estático, sem JavaScript, testado em 390px. (Equivale ao "template WordPress leve".) |
 | Template traduzido para o idioma do conteúdo | ✅ | 100% em espanhol da Espanha. |
-| Sem links quebrados | 🟡 | Links internos OK no build. Falta rodar o workflow **"Conferir links das fontes"** (aba Actions do GitHub). |
+| Sem links quebrados | ✅ | Revisão geral em 15/10/2026: 0 links internos quebrados em 63 páginas; 104 fontes externas testadas, 5 quebradas foram substituídas. As que aparecem como "bloqueadas" (Mayo Clinic, NEJM, BMJ, JAMA…) só barram robôs e abrem normalmente no navegador. |
 | Linkagem interna entre os artigos | ✅ | Links no texto + blocos de leitura, sempre na mesma categoria. |
 | Linkagem externa só para sites confiáveis | ✅ | Só fontes oficiais e científicas (Mayo Clinic, NIH, NHS, Cleveland Clinic, revistas). |
 | Sem programas de afiliados ativos | ✅ | — |
