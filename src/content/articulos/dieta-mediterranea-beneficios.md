@@ -91,3 +91,5 @@ La dieta mediterránea no funciona por un "superalimento", sino por el conjunto.
 Si tienes una enfermedad del corazón, diabetes o colesterol alto, habla con tu médico o con un dietista-nutricionista antes de hacer cambios grandes en tu dieta.
 
 Hoy, prepara una cena con verdura, legumbre o pescado y aliña con aceite de oliva virgen extra. Y si te interesa el aceite en concreto, lee [lo que el aceite de oliva hace por tu cerebro](/cuerpo-y-espana/aceite-de-oliva-cerebro/). Y si te preguntas qué pinta el jamón en todo esto, lee [qué pasa en tu cuerpo cuando comes jamón ibérico](/cuerpo-y-espana/jamon-iberico-salud/).
+
+Y aunque comas bien, hay un nutriente que en España sigue faltando: lee [por qué falta vitamina D con tanto sol](/cuerpo-y-espana/vitamina-d-en-espana/).

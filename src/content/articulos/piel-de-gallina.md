@@ -88,3 +88,5 @@ En 2020, un equipo de la Universidad de Harvard publicó en la revista *Cell* un
 Es decir, el sistema no solo eriza el pelo: también podría ayudar a regenerarlo. Por ahora se ha visto en ratones, así que no es una forma de "hacer crecer el pelo" en personas.
 
 Hoy, pon esa canción que siempre te emociona y fíjate en tus brazos. Y si te gustan estas reacciones automáticas, descubre [por qué lloramos al cortar cebolla](/por-que/cortar-cebolla-sin-llorar/). Más reacciones curiosas: [por qué se arrugan los dedos en el agua](/por-que/dedos-arrugados-en-el-agua/) y [por qué se contagia el bostezo](/por-que/bostezo-contagioso/).
+
+Otra reacción que tu cerebro controla sin preguntarte: [por qué no puedes hacerte cosquillas a ti mismo](/por-que/cosquillas-a-uno-mismo/).

@@ -97,7 +97,7 @@ Use botões para **links internos** úteis, nunca para imitar anúncios nem para
 ### 5.4 Agendamento e automações
 
 - `datePublished` no futuro → artigo escondido até um build nessa data. Links para artigos agendados viram texto (`integrations/unlink-scheduled.mjs`).
-- `.github/workflows/publish-scheduled.yml`: todo dia às 06:00 UTC (08:00 em Madri no verão) dispara o deploy (secret opcional `CF_PAGES_DEPLOY_HOOK`).
+- `.github/workflows/publish-scheduled.yml`: todo dia às 08:00 de Madri (cron 06:00 e 07:00 UTC, publica uma vez por dia) faz um commit em `.last-scheduled-publish`, e o push dispara o deploy da Hostinger.
 - `unsplash-covers.yml`: busca capas e fotos (`imageQuery` + `imageAlt` em espanhol; no texto `<!-- unsplash: busca em inglês | alt em espanhol -->`), usa o secret `UNSPLASH_ACCESS_KEY` (já no GitHub; chave gratuita = 50 pedidos/hora, cada foto gasta 2, então ~25 fotos por hora; se o run terminar sem commit, é o limite: rodar de novo depois de 1 h). Depois de rodar, **revise cada foto** (recuse produtos de marca, cannabis/CBD, tabaco, álcool em destaque e cenas que não combinam com o tema) (montagem de `.unsplash-preview/*.jpg`) e troque as que não combinam com o tema.
 - `check-sources.yml`: testa os links de `sources`.
 - Pré-visualizar uma data futura: `PREVIEW_DATE=2026-11-01T12:00:00Z npm run build`.
