@@ -89,3 +89,5 @@ Cada "sí" es algo que puedes probar a cambiar durante una semana para ver si no
 Consulta con tu médico si los saltos son tan frecuentes que te impiden conciliar el sueño, si aparecen también cuando ya estás dormido profundamente o durante el día, o si vienen acompañados de otros síntomas, como hormigueo en las piernas o movimientos que no puedes controlar.
 
 Esta noche, prueba a dejar el último café antes de media tarde y a apagar el móvil un rato antes de acostarte. Y si alguna vez te despiertas con una pierna "muerta", aquí tienes [por qué se duermen las piernas](/por-que/pierna-dormida/). Y si a esas horas no paras de bostezar, lee [por qué el bostezo es contagioso](/por-que/bostezo-contagioso/).
+
+Otra jugarreta curiosa de tu cerebro es esa sensación de haber vivido ya un momento: lee [qué es el déjà vu](/por-que/deja-vu/).

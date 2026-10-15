@@ -89,3 +89,5 @@ El ruido de tripas en sí es normal. Consulta con tu médico si notas:
 Si el dolor es muy intenso o no puedes expulsar gases ni hacer de vientre, acude a urgencias.
 
 Si sabes que la comida va a llegar tarde, lleva una pieza de fruta en el bolso. Y si el gas de los refrescos te suena, quizá te interese [cómo quitar el hipo](/por-que/como-quitar-el-hipo/), que a menudo empieza igual. Más ruidos y reflejos de tu cuerpo: [por qué lloras con la cebolla](/por-que/cortar-cebolla-sin-llorar/) y [el salto al dormirte](/por-que/sacudida-al-dormirse/).
+
+Y si lo que notas antes de un examen es un cosquilleo y no un rugido, lee [por qué sentimos mariposas en el estómago](/en-1-minuto/mariposas-en-el-estomago/).
