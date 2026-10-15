@@ -18,3 +18,6 @@ por-que-suenan-las-tripas | cover | person hungry stomach office | https://unspl
 por-que-suenan-las-tripas | inline 1 | healthy snack fruit yogurt | https://unsplash.com/photos/sliced-fruits-on-white-ceramic-plate-uy_V12d-VXU | sliced fruits on white ceramic plate
 sacudida-al-dormirse | cover | person sleeping bed night | https://unsplash.com/photos/woman-sleeping-on-bed-under-blankets-rUc9hVE-L-E | woman sleeping on bed under blankets
 sacudida-al-dormirse | inline 1 | cup of coffee afternoon | https://unsplash.com/photos/brown-ceramic-teacup-XtUd5SiX464 | brown ceramic teacup
+como-quitar-el-hipo | inline 1 | woman taking deep breath | https://unsplash.com/photos/closeup-photo-of-woman-wearing-black-top-vCzh1jOyre8 | closeup photo of woman wearing black top
+por-que-crujen-los-dedos | inline 1 | hands interlaced fingers stretching | https://unsplash.com/photos/two-hands-with-linked-pinky-fingers-8oB43mw658c | two hands with linked pinky fingers
+por-que-suenan-las-tripas | cover | woman eating lunch at office desk | https://unsplash.com/photos/a-woman-taking-a-picture-of-food-on-a-plate-MphSZpPtYk8 | a woman taking a picture of food on a plate

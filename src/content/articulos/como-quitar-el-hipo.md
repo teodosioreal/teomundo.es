@@ -98,7 +98,10 @@ Hay dos tipos de hipo que conviene distinguir:
 
 Si el tuyo es del primer tipo, estás de suerte. Vamos a lo que has venido a buscar.
 
-<!-- unsplash: woman taking deep breath | Mujer respirando hondo -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1465409042654-5314e9d1754b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjB0YWtpbmclMjBkZWVwJTIwYnJlYXRofGVufDF8MHx8fDE3OTIwNzU4MjJ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1465409042654-5314e9d1754b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjB0YWtpbmclMjBkZWVwJTIwYnJlYXRofGVufDF8MHx8fDE3OTIwNzU4MjJ8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1465409042654-5314e9d1754b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjB0YWtpbmclMjBkZWVwJTIwYnJlYXRofGVufDF8MHx8fDE3OTIwNzU4MjJ8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1465409042654-5314e9d1754b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjB0YWtpbmclMjBkZWVwJTIwYnJlYXRofGVufDF8MHx8fDE3OTIwNzU4MjJ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Mujer respirando hondo" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@elidefaria?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Eli DeFaria</a> en <a href="https://unsplash.com/photos/closeup-photo-of-woman-wearing-black-top-vCzh1jOyre8?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Cómo quitar el hipo: 9 trucos para probar
 

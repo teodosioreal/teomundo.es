@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "woman eating lunch at office desk"
 imageAlt: "Mujer comiendo en su mesa de trabajo"
+cover:
+  url: "https://images.unsplash.com/photo-1653463174554-ce2692abd7b5?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBlYXRpbmclMjBsdW5jaCUyMGF0JTIwb2ZmaWNlJTIwZGVza3xlbnwxfDB8fHwxNzkyMDc1ODI0fDA&ixlib=rb-4.1.0"
+  alt: "Mujer comiendo en su mesa de trabajo"
+  author: "Annie Spratt"
+  authorUrl: "https://unsplash.com/@anniespratt?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-woman-taking-a-picture-of-food-on-a-plate-MphSZpPtYk8?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El ruido de tripas (borborigmos) es el sonido de gas y líquido que el intestino y el estómago empujan con sus movimientos."
   - "Suena más con el estómago vacío, cuando el intestino hace sus contracciones de 'limpieza' entre comidas y aumenta la hormona del hambre, la grelina."
