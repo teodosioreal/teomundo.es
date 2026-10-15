@@ -59,7 +59,10 @@ Un chicle tiene dos partes:
 
 Que algo no se digiera no significa que se quede dentro. Pasa lo mismo con la piel de algunas semillas o con parte de la fibra de las verduras: el intestino las mueve hacia delante con sus contracciones hasta que salen.
 
-<!-- unsplash: bubble gum balloon | Globo de chicle rosa -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1527879831971-d95cde68cbf8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8YnViYmxlJTIwZ3VtJTIwYmFsbG9vbnxlbnwxfDB8fHwxNzkyMDg4MTc2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1527879831971-d95cde68cbf8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8YnViYmxlJTIwZ3VtJTIwYmFsbG9vbnxlbnwxfDB8fHwxNzkyMDg4MTc2fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1527879831971-d95cde68cbf8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8YnViYmxlJTIwZ3VtJTIwYmFsbG9vbnxlbnwxfDB8fHwxNzkyMDg4MTc2fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1527879831971-d95cde68cbf8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8YnViYmxlJTIwZ3VtJTIwYmFsbG9vbnxlbnwxfDB8fHwxNzkyMDg4MTc2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Globo de chicle rosa" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@mirandco?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Karina Miranda</a> en <a href="https://unsplash.com/photos/time-lapse-photo-of-woman-making-gum-bubble-4o6dz47Q5p4?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## El viaje real del chicle
 

@@ -96,3 +96,17 @@ longitud-vasos-sanguineos | cover | blood vessels illustration red network | htt
 longitud-vasos-sanguineos | inline 1 | earth globe | https://unsplash.com/photos/earth-with-clouds-above-the-african-continent-vhSz50AaFAs | Earth with clouds above the African continent
 los-ojos-crecen | cover | baby eyes close up | https://unsplash.com/photos/persons-eye-with-blue-eyes-euajDE7Y7JI | persons eye with blue eyes
 los-ojos-crecen | inline 1 | eye exam ophthalmologist child | https://unsplash.com/photos/a-man-and-a-woman-looking-through-a-camera-bfcPP-LlZMI | A man and a woman looking through a camera
+acido-del-estomago | inline | button battery coin cell | NO RESULT
+electricidad-del-corazon | inline 1 | automated external defibrillator AED box | https://unsplash.com/photos/red-and-white-box-on-white-table-FfJJD6SCcvs | red and white box on white table
+mas-alto-por-la-manana | cover | child measured against door frame | https://unsplash.com/photos/a-young-child-stands-in-a-doorway-c_p9di8KdNM | A young child stands in a doorway
+mas-alto-por-la-manana | inline 1 | astronaut space station | https://unsplash.com/photos/a-clock-with-a-person-on-it--sD8NfDe2vY | a clock with a person on it
+musculo-mas-fuerte | cover | person biting apple close up | https://unsplash.com/photos/distressed-woman-biting-her-hand-in-black-and-white-3TfqyPYWR3Q | Distressed woman biting her hand in black and white
+musculo-mas-fuerte | inline 1 | person climbing stairs | https://unsplash.com/photos/toddlers-standing-in-front-of-beige-concrete-stair-bJhT_8nbUA0 | toddler's standing in front of beige concrete stair
+persona-mas-alta-del-mundo | inline 1 | measuring tape height wall | https://unsplash.com/photos/gray-and-yellow-measures-WahfNoqbYnM | gray and yellow measures
+resaca-por-que | cover | person sunglasses glass of water morning | https://unsplash.com/photos/selective-focus-of-black-framed-clubmaster-dPw0N01onxE | selective focus of black framed clubmaster
+resaca-por-que | inline 1 | toast broth breakfast table | https://unsplash.com/photos/oatmeal-with-banana-and-bread-with-butter-on-top-nV19ucDBbs8 | oatmeal with banana and bread with butter on top
+tragar-chicle | inline 1 | bubble gum balloon | https://unsplash.com/photos/time-lapse-photo-of-woman-making-gum-bubble-4o6dz47Q5p4 | time lapse photo of woman making gum bubble
+velocidad-estornudo | cover | person sneezing into elbow | https://unsplash.com/photos/man-in-brown-sweater-wearing-black-framed-eyeglasses--jthScuVWT0 | man in brown sweater wearing black framed eyeglasses
+velocidad-estornudo | inline 1 | tissue box table | https://unsplash.com/photos/a-miniature-house-made-out-of-wood-on-a-table-pcDuq5cOxn8 | A miniature house made out of wood on a table
+vivir-en-madrid-o-en-la-costa | cover | madrid gran via street | https://unsplash.com/photos/a-view-of-a-city-from-a-high-point-of-view-_cQPd2DH5uY | A view of a city from a high point of view
+vivir-en-madrid-o-en-la-costa | inline 1 | mediterranean beach promenade spain | https://unsplash.com/photos/beach-day-with-a-volleyball-and-beer-money-DqQhK5OftvU | Beach day with a volleyball and beer money

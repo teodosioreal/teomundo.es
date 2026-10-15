@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "person biting apple close up"
 imageAlt: "Persona mordiendo una manzana en primer plano"
+cover:
+  url: "https://images.unsplash.com/photo-1783320712574-0764a0c7172e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwYml0aW5nJTIwYXBwbGUlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTIwODgxNzJ8MA&ixlib=rb-4.1.0"
+  alt: "Persona mordiendo una manzana en primer plano"
+  author: "atelierbyvineeth ..."
+  authorUrl: "https://unsplash.com/@atelierbyvineeth?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/distressed-woman-biting-her-hand-in-black-and-white-3TfqyPYWR3Q?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "No hay una sola respuesta: depende de cómo se mida la fuerza."
   - "Por su peso, el más fuerte es el masetero, el músculo principal de la masticación; en fuerza total destacan el glúteo mayor y el sóleo."
@@ -58,7 +64,10 @@ El masetero es el músculo que notas a los lados de la cara, cerca del ángulo d
 
 Por eso puedes partir un fruto seco con los dientes (aunque tu dentista preferiría que no lo hicieras).
 
-<!-- unsplash: person climbing stairs | Persona subiendo unas escaleras -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1502101872923-d48509bff386?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwY2xpbWJpbmclMjBzdGFpcnN8ZW58MXwwfHx8MTc5MjA4ODE3M3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1502101872923-d48509bff386?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwY2xpbWJpbmclMjBzdGFpcnN8ZW58MXwwfHx8MTc5MjA4ODE3M3ww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1502101872923-d48509bff386?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwY2xpbWJpbmclMjBzdGFpcnN8ZW58MXwwfHx8MTc5MjA4ODE3M3ww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1502101872923-d48509bff386?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwY2xpbWJpbmclMjBzdGFpcnN8ZW58MXwwfHx8MTc5MjA4ODE3M3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona subiendo unas escaleras" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@tateisimikito?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Jukan Tateisi</a> en <a href="https://unsplash.com/photos/toddlers-standing-in-front-of-beige-concrete-stair-bJhT_8nbUA0?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Glúteo y sóleo, los fuertes de abajo
 

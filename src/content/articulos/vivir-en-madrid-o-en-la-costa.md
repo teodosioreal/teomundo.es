@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "madrid gran via street"
 imageAlt: "Calle Gran Vía de Madrid"
+cover:
+  url: "https://images.unsplash.com/photo-1725112675082-5fc786ea4269?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWFkcmlkJTIwZ3JhbiUyMHZpYSUyMHN0cmVldHxlbnwxfDB8fHwxNzkyMDg4MTc5fDA&ixlib=rb-4.1.0"
+  alt: "Calle Gran Vía de Madrid"
+  author: "Arthur Hutterer"
+  authorUrl: "https://unsplash.com/@hutteam?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-view-of-a-city-from-a-high-point-of-view-_cQPd2DH5uY?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Madrid está a unos 650 metros de altitud: hay un poco menos de oxígeno, pero no lo suficiente para notarlo en la salud del día a día."
   - "Lo que sí se nota en el interior es el aire seco, que reseca la piel, los labios y las mucosas."
@@ -58,7 +64,10 @@ Lo que más diferencia el interior de la costa es la humedad del aire:
 | Sensación de calor | Calor intenso pero "seco" | El mismo calor se siente más |
 | Noches de verano | Refresca más por la noche | Noches más cálidas y pegajosas |
 
-<!-- unsplash: mediterranean beach promenade spain | Paseo marítimo junto a una playa mediterránea -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1748522665760-5fb038eecbdf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWVkaXRlcnJhbmVhbiUyMGJlYWNoJTIwcHJvbWVuYWRlJTIwc3BhaW58ZW58MXwwfHx8MTc5MjA4ODE3OXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1748522665760-5fb038eecbdf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWVkaXRlcnJhbmVhbiUyMGJlYWNoJTIwcHJvbWVuYWRlJTIwc3BhaW58ZW58MXwwfHx8MTc5MjA4ODE3OXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1748522665760-5fb038eecbdf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWVkaXRlcnJhbmVhbiUyMGJlYWNoJTIwcHJvbWVuYWRlJTIwc3BhaW58ZW58MXwwfHx8MTc5MjA4ODE3OXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1748522665760-5fb038eecbdf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWVkaXRlcnJhbmVhbiUyMGJlYWNoJTIwcHJvbWVuYWRlJTIwc3BhaW58ZW58MXwwfHx8MTc5MjA4ODE3OXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Paseo marítimo junto a una playa mediterránea" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@tdponcet?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Theo</a> en <a href="https://unsplash.com/photos/beach-day-with-a-volleyball-and-beer-money-DqQhK5OftvU?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Por qué el calor de la costa agobia más
 

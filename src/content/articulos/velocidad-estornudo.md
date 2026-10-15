@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "person sneezing into elbow"
 imageAlt: "Persona estornudando en el codo"
+cover:
+  url: "https://images.unsplash.com/photo-1626697556342-2310dbc55428?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc25lZXppbmclMjBpbnRvJTIwZWxib3d8ZW58MXwwfHx8MTc5MjA4ODE3N3ww&ixlib=rb-4.1.0"
+  alt: "Persona estornudando en el codo"
+  author: "Towfiqu barbhuiya"
+  authorUrl: "https://unsplash.com/@towfiqu999999?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/man-in-brown-sweater-wearing-black-framed-eyeglasses--jthScuVWT0?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "La cifra viral de 160 km/h es exagerada: las mediciones con cámaras de alta velocidad dan entre 10 y 30 metros por segundo, unos 36 a 108 km/h."
   - "Lo sorprendente es la distancia: la nube de gas y gotitas puede llegar a 7 u 8 metros."
@@ -60,7 +66,10 @@ Lo más llamativo de sus estudios es que un estornudo no es un chorro de gotas q
 
 Según el [MIT](https://edgerton.mit.edu/news/capturing-sneeze), la nube puede llevar esas gotitas mucho más lejos de lo que se pensaba.
 
-<!-- unsplash: tissue box table | Caja de pañuelos de papel sobre una mesa -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1730719501054-cb69f366b626?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGlzc3VlJTIwYm94JTIwdGFibGV8ZW58MXwwfHx8MTc5MjA4ODE3OHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1730719501054-cb69f366b626?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGlzc3VlJTIwYm94JTIwdGFibGV8ZW58MXwwfHx8MTc5MjA4ODE3OHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1730719501054-cb69f366b626?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGlzc3VlJTIwYm94JTIwdGFibGV8ZW58MXwwfHx8MTc5MjA4ODE3OHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1730719501054-cb69f366b626?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGlzc3VlJTIwYm94JTIwdGFibGV8ZW58MXwwfHx8MTc5MjA4ODE3OHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Caja de pañuelos de papel sobre una mesa" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@mo_onkar?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Onkar Singh</a> en <a href="https://unsplash.com/photos/a-miniature-house-made-out-of-wood-on-a-table-pcDuq5cOxn8?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## El codo, tu mejor aliado
 
