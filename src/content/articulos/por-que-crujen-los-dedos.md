@@ -75,7 +75,7 @@ Después de crujir un dedo, prueba a hacerlo otra vez. No sale. El gas necesita 
 
 ## ¿Es malo crujirse los dedos?
 
-Según [Cleveland Clinic](https://health.clevelandclinic.org/is-cracking-your-knuckles-bad-for-you), crujirse los nudillos no los agranda ni causa artritis. Eso sí, la técnica importa: no hace falta tirar con fuerza ni doblar el dedo en direcciones raras.
+Según [Cleveland Clinic](https://health.clevelandclinic.org/is-cracking-your-knuckles-bad-for-you), crujirse los nudillos no los agranda ni causa artritis. Hasta hubo un médico que se crujió una sola mano durante 60 años para comprobarlo: te lo contamos en [¿crujirse los dedos da artritis?](/mitos/crujir-dedos-artritis/) Eso sí, la técnica importa: no hace falta tirar con fuerza ni doblar el dedo en direcciones raras.
 
 Tu guía rápida:
 

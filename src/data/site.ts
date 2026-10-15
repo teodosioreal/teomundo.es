@@ -38,6 +38,14 @@ export const categories: Record<string, Category> = {
     description:
       'Hipo, piel de gallina, bostezos contagiosos, tripas que suenan: lo que tu cuerpo hace cada día, explicado en un minuto y con fuentes científicas.',
   },
+  mitos: {
+    name: 'Mitos',
+    title: 'Mitos sobre el cuerpo: verdad o mentira | TeoMundo',
+    metaDescription:
+      '¿Solo usamos el 10 % del cerebro? ¿El chicle se queda 7 años en el estómago? Mitos del cuerpo humano revisados con fuentes científicas.',
+    description:
+      'El 10 % del cerebro, el corte de digestión, los 2 litros de agua: lo que te contaron de pequeño, revisado con lo que dice la ciencia.',
+  },
 };
 
 export const author = {
