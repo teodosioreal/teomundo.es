@@ -121,7 +121,7 @@ export const footerNotice: string | null =
 // Quando aprovar, coloque o ID de editor (ex.: 'ca-pub-0000000000000000').
 // Atenção: na Espanha/UE o Google exige um banner de consentimento certificado (CMP) para exibir anúncios.
 export const adsense: { client: string | null } = {
-  client: null,
+  client: 'ca-pub-4087868536415962',
 };
 
 // Google Search Console: código da verificação por "Tag HTML" (só o valor de content="...").

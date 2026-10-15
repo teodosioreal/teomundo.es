@@ -53,7 +53,8 @@
 | Site com tráfego real (visitas diárias) | ⬜ | Depende de indexação no Google e de divulgação (redes sociais). |
 | Domínio próprio | ✅ | teomundo.es (adequado para o público da Espanha). Confirmar que abre com HTTPS. |
 | Site Kit (Analytics, AdSense, Search Console) configurado | ⬜ | O Site Kit é só para WordPress. Aqui o equivalente é: **Google Search Console** (verificar o domínio) + **Google Analytics 4** (me passar o ID `G-...`). |
-| Aviso de cookies visível | ⬜ | Obrigatório na Espanha quando ligar Analytics ou AdSense. Usar a CMP do próprio Google (AdSense → Privacidade e mensagens). |
+| Código do AdSense em todas as páginas + ads.txt | ✅ | `ca-pub-4087868536415962` no `<head>` das 63 páginas e /ads.txt gerado. Privacidade e cookies já citam o AdSense. |
+| Aviso de cookies visível | ⬜ | **Agora é urgente:** com o código do AdSense no ar, ative no AdSense → Privacidade e mensagens → Europa (RGPD) a mensagem de consentimento. Usar a CMP do próprio Google (AdSense → Privacidade e mensagens). |
 
 ## Extras do próprio projeto (não estão no checklist do curso, mas pesam na aprovação)
 

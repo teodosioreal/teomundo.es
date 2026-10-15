@@ -131,4 +131,4 @@ Use botões para **links internos** úteis, nunca para imitar anúncios nem para
 - [ ] Site no ar em teomundo.es com HTTPS (Cloudflare Pages)
 - [ ] Google Search Console configurado
 - [ ] CMP certificada configurada antes de ligar anúncios
-- [ ] `adsense.client` preenchido (gera o script e o `/ads.txt`)
+- [x] `adsense.client` preenchido (`ca-pub-4087868536415962`: script em todas as páginas + `/ads.txt`)
