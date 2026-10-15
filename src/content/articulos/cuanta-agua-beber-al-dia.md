@@ -74,7 +74,7 @@ Muchos alimentos son, sobre todo, agua. En España lo tenemos fácil en verano:
 
 Los valores de la EFSA son para condiciones normales. Conviene beber más cuando:
 
-- Hace **mucho calor**, como en una ola de calor de julio o agosto.
+- Hace **mucho calor**, como en una ola de calor de julio o agosto (el calor también hace trabajar más al corazón, como explicamos en [lo que el calor le hace a tu corazón](/cuerpo-y-espana/calor-y-corazon/)).
 - Haces **ejercicio** y sudas.
 - Estás **embarazada** o das el pecho (la EFSA añade unos 300 ml al día en el embarazo y unos 700 ml en la lactancia).
 - Tienes **fiebre**, diarrea o vómitos.

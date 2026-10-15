@@ -46,6 +46,14 @@ export const categories: Record<string, Category> = {
     description:
       'El 10 % del cerebro, el corte de digestión, los 2 litros de agua: lo que te contaron de pequeño, revisado con lo que dice la ciencia.',
   },
+  'cuerpo-y-espana': {
+    name: 'Cuerpo y España',
+    title: 'Cuerpo y España: siesta, cena tarde y calor | TeoMundo',
+    metaDescription:
+      'La siesta, cenar a las 22 h, el calor de agosto, la dieta mediterránea: qué le hacen a tu cuerpo las costumbres españolas, según la ciencia.',
+    description:
+      'La siesta, la cena a las diez, el calor de agosto, el aceite de oliva y el cambio de hora: lo que la vida en España le hace a tu cuerpo, con fuentes.',
+  },
 };
 
 export const author = {
