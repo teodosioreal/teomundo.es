@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "reading book in bed lamp night"
 imageAlt: "Persona leyendo un libro en la cama con una lámpara"
+cover:
+  url: "https://images.unsplash.com/photo-1519791883288-dc8bd696e667?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cmVhZGluZyUyMGJvb2slMjBpbiUyMGJlZCUyMGxhbXAlMjBuaWdodHxlbnwxfDB8fHwxNzkyMDc2NTU3fDA&ixlib=rb-4.1.0"
+  alt: "Persona leyendo un libro en la cama con una lámpara"
+  author: "Nong"
+  authorUrl: "https://unsplash.com/@californong?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/person-holding-string-lights-on-opened-book-9pw4TKvT3po?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es un mito: leer con poca luz no daña los ojos de forma permanente."
   - "Lo que sí provoca es fatiga visual: ojos cansados, secos o dolor de cabeza, que se pasan al descansar."
@@ -62,7 +68,10 @@ Aquí hay un dato que sí conviene conocer. Varios estudios relacionan pasar **m
 
 Una de las explicaciones que se estudian es la intensidad de la luz natural, mucho mayor que la de cualquier habitación.
 
-<!-- unsplash: children playing outdoors park | Niños jugando al aire libre en un parque -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1627764940620-90393d0e8c34?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hpbGRyZW4lMjBwbGF5aW5nJTIwb3V0ZG9vcnMlMjBwYXJrfGVufDF8MHx8fDE3OTIwNzY1NTh8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1627764940620-90393d0e8c34?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hpbGRyZW4lMjBwbGF5aW5nJTIwb3V0ZG9vcnMlMjBwYXJrfGVufDF8MHx8fDE3OTIwNzY1NTh8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1627764940620-90393d0e8c34?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hpbGRyZW4lMjBwbGF5aW5nJTIwb3V0ZG9vcnMlMjBwYXJrfGVufDF8MHx8fDE3OTIwNzY1NTh8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1627764940620-90393d0e8c34?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hpbGRyZW4lMjBwbGF5aW5nJTIwb3V0ZG9vcnMlMjBwYXJrfGVufDF8MHx8fDE3OTIwNzY1NTh8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Niños jugando al aire libre en un parque" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@forhiskingdom?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Jay Chen</a> en <a href="https://unsplash.com/photos/children-holding-hands-in-park-mKbZ3zAdiB4?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Tu rutina para leer sin cansar la vista
 

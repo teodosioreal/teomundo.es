@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "older man hands smiling"
 imageAlt: "Hombre mayor sonriendo con las manos entrelazadas"
+cover:
+  url: "https://images.unsplash.com/photo-1503861556608-267b7ff36a14?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8b2xkZXIlMjBtYW4lMjBoYW5kcyUyMHNtaWxpbmd8ZW58MXwwfHx8MTc5MjA3NjU1Mnww&ixlib=rb-4.1.0"
+  alt: "Hombre mayor sonriendo con las manos entrelazadas"
+  author: "Tessa Rampersad"
+  authorUrl: "https://unsplash.com/@t_rampersad?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/man-standing-near-wall-kydeqeQRsCg?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es un mito: los estudios no han encontrado relación entre crujirse los dedos y la artritis."
   - "Un médico, Donald Unger, se crujió solo los dedos de una mano durante unos 60 años y no encontró diferencias entre sus dos manos."
@@ -54,7 +60,10 @@ Por eso cuenta más un estudio de 2011 publicado en el *Journal of the American 
 
 La conclusión: crujirse los dedos **no parecía causar artrosis**, ni siquiera en quienes lo hacían desde hacía muchos años o muy a menudo. [Cleveland Clinic](https://health.clevelandclinic.org/will-cracking-knuckles-give-arthritis) mantiene la misma postura.
 
-<!-- unsplash: hands x-ray | Radiografía de las manos -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1620908559931-021950013455?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZHMlMjB4LXJheXxlbnwxfDB8fHwxNzkyMDc2NTUyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1620908559931-021950013455?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZHMlMjB4LXJheXxlbnwxfDB8fHwxNzkyMDc2NTUyfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1620908559931-021950013455?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZHMlMjB4LXJheXxlbnwxfDB8fHwxNzkyMDc2NTUyfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1620908559931-021950013455?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZHMlMjB4LXJheXxlbnwxfDB8fHwxNzkyMDc2NTUyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Radiografía de las manos" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@enchaxcreative?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Enchax Creative</a> en <a href="https://unsplash.com/photos/human-hand-with-white-background-3UNFL5P1tN4?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Cuándo el ruido sí importa
 

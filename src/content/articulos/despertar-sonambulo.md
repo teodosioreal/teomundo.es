@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "dark hallway night silhouette"
 imageAlt: "Pasillo de una casa a oscuras por la noche"
+cover:
+  url: "https://images.unsplash.com/photo-1525015471056-0f7e78652361?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGFyayUyMGhhbGx3YXklMjBuaWdodCUyMHNpbGhvdWV0dGV8ZW58MXwwfHx8MTc5MjA3NjU1NXww&ixlib=rb-4.1.0"
+  alt: "Pasillo de una casa a oscuras por la noche"
+  author: "Chris Bair"
+  authorUrl: "https://unsplash.com/@chrisbair?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/brown-wooden-coffee-table-near-wall-inside-room-v0CMjwnC3a0?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es un mito que despertar a un sonámbulo le cause un infarto o un daño grave."
   - "Despertarle de golpe puede dejarle confuso o asustado, así que lo mejor es guiarle con calma de vuelta a la cama."
@@ -58,7 +64,10 @@ El sonambulismo ocurre durante el sueño profundo. Una parte del cerebro sigue d
 4. **Si tienes que despertarle**, hazlo con suavidad, y espera a que se oriente.
 5. **Despiértale sí o sí** si se dirige a una escalera, una ventana o la puerta de la calle.
 
-<!-- unsplash: baby gate stairs | Barrera de seguridad en una escalera -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/flagged/photo-1570886650807-9928b7733e08?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmFieSUyMGdhdGUlMjBzdGFpcnN8ZW58MXwwfHx8MTc5MjA3NjU1Nnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/flagged/photo-1570886650807-9928b7733e08?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmFieSUyMGdhdGUlMjBzdGFpcnN8ZW58MXwwfHx8MTc5MjA3NjU1Nnww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/flagged/photo-1570886650807-9928b7733e08?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmFieSUyMGdhdGUlMjBzdGFpcnN8ZW58MXwwfHx8MTc5MjA3NjU1Nnww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/flagged/photo-1570886650807-9928b7733e08?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmFieSUyMGdhdGUlMjBzdGFpcnN8ZW58MXwwfHx8MTc5MjA3NjU1Nnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Barrera de seguridad en una escalera" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@renichinguyen?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Nguyen Bui</a> en <a href="https://unsplash.com/photos/baby-wears-white-shirt-ocEvs3RC984?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Más común en niños: una casa a prueba de paseos nocturnos
 

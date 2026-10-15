@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "family beach mediterranean summer"
 imageAlt: "Familia en una playa del Mediterráneo en verano"
+cover:
+  url: "https://images.unsplash.com/photo-1755813964333-bc22c84e5cfb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZmFtaWx5JTIwYmVhY2glMjBtZWRpdGVycmFuZWFuJTIwc3VtbWVyfGVufDF8MHx8fDE3OTIwNzY1NTB8MA&ixlib=rb-4.1.0"
+  alt: "Familia en una playa del Mediterráneo en verano"
+  author: "Julian Henke"
+  authorUrl: "https://unsplash.com/@julianhenke?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/tropical-beach-with-clear-blue-water-and-green-trees-ts-gWJjl_Oo?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "No hay pruebas de que comer antes de nadar aumente el riesgo de ahogarse, ni de que haya que esperar dos horas."
   - "El peligro real es la hidrocución: una reacción al meterse de golpe en agua fría con el cuerpo muy caliente, que puede provocar mareo o pérdida de conocimiento."
@@ -61,7 +67,10 @@ Lo que más pesa no es la comida, sino:
 - El **alcohol**, que empeora la reacción y el juicio.
 - Una **comida muy copiosa**, como factor secundario.
 
-<!-- unsplash: person entering sea water slowly | Persona entrando en el mar poco a poco -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1589869024365-992ae8429bef?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwZW50ZXJpbmclMjBzZWElMjB3YXRlciUyMHNsb3dseXxlbnwxfDB8fHwxNzkyMDc2NTUxfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1589869024365-992ae8429bef?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwZW50ZXJpbmclMjBzZWElMjB3YXRlciUyMHNsb3dseXxlbnwxfDB8fHwxNzkyMDc2NTUxfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1589869024365-992ae8429bef?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwZW50ZXJpbmclMjBzZWElMjB3YXRlciUyMHNsb3dseXxlbnwxfDB8fHwxNzkyMDc2NTUxfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1589869024365-992ae8429bef?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwZW50ZXJpbmclMjBzZWElMjB3YXRlciUyMHNsb3dseXxlbnwxfDB8fHwxNzkyMDc2NTUxfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona entrando en el mar poco a poco" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@zacgudakov?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Zac Gudakov</a> en <a href="https://unsplash.com/photos/man-in-green-shirt-and-brown-shorts-standing-on-seashore-during-daytime-e-hzcaiJdc8?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Cómo bañarte seguro este verano
 

@@ -59,7 +59,10 @@ Muchos alimentos son, sobre todo, agua. En España lo tenemos fácil en verano:
 | Sopas y caldos | Cuentan como líquido |
 | Café, té, leche | También son agua a efectos de la recomendación |
 
-<!-- unsplash: watermelon slices summer | Rodajas de sandía en verano -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1471500466955-85aecf33f71f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2F0ZXJtZWxvbiUyMHNsaWNlcyUyMHN1bW1lcnxlbnwxfDB8fHwxNzkyMDc2NTU0fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1471500466955-85aecf33f71f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2F0ZXJtZWxvbiUyMHNsaWNlcyUyMHN1bW1lcnxlbnwxfDB8fHwxNzkyMDc2NTU0fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1471500466955-85aecf33f71f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2F0ZXJtZWxvbiUyMHNsaWNlcyUyMHN1bW1lcnxlbnwxfDB8fHwxNzkyMDc2NTU0fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1471500466955-85aecf33f71f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2F0ZXJtZWxvbiUyMHNsaWNlcyUyMHN1bW1lcnxlbnwxfDB8fHwxNzkyMDc2NTU0fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Rodajas de sandía en verano" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@scottwebb?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Scott Webb</a> en <a href="https://unsplash.com/photos/closeup-photo-of-slice-watermelon-fruits-on-cloth-hD_qdaSO7Aw?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Cuándo necesitas más
 

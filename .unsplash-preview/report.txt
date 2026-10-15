@@ -21,3 +21,22 @@ sacudida-al-dormirse | inline 1 | cup of coffee afternoon | https://unsplash.com
 como-quitar-el-hipo | inline 1 | woman taking deep breath | https://unsplash.com/photos/closeup-photo-of-woman-wearing-black-top-vCzh1jOyre8 | closeup photo of woman wearing black top
 por-que-crujen-los-dedos | inline 1 | hands interlaced fingers stretching | https://unsplash.com/photos/two-hands-with-linked-pinky-fingers-8oB43mw658c | two hands with linked pinky fingers
 por-que-suenan-las-tripas | cover | woman eating lunch at office desk | https://unsplash.com/photos/a-woman-taking-a-picture-of-food-on-a-plate-MphSZpPtYk8 | a woman taking a picture of food on a plate
+afeitarse-pelo-mas-fuerte | cover | razor shaving foam bathroom sink | https://unsplash.com/photos/shaving-brush-and-bowl-with-lather-and-razor-on-sink-foIZv9Oe1zw | Shaving brush and bowl with lather and razor on sink
+afeitarse-pelo-mas-fuerte | inline 1 | woman shaving legs | https://unsplash.com/photos/blue-and-white-labeled-bottle-2EIgQK1Je3E | blue and white labeled bottle
+azucar-hiperactividad-ninos | cover | children birthday party running | https://unsplash.com/photos/boy-in-paw-patrol-jacket-runs-past-colorful-balloons-RpGbu8YfhyU | Boy in paw patrol jacket runs past colorful balloons
+azucar-hiperactividad-ninos | inline 1 | fruit skewers kids snack | https://unsplash.com/photos/a-group-of-fruit-lollipops-hanging-from-a-string-3c8nBOl9MZ8 | a group of fruit lollipops hanging from a string
+calor-por-la-cabeza | cover | person wool hat snowy street | https://unsplash.com/photos/woman-in-black-jacket-and-green-knit-cap-standing-on-snow-covered-ground-during-daytime-Jx7etjXFYz4 | woman in black jacket and green knit cap standing on snow covered ground during daytime
+calor-por-la-cabeza | inline 1 | winter clothes layers scarf gloves | https://unsplash.com/photos/woman-in-black-knit-cap-and-black-jacket-standing-on-snow-covered-ground-during-daytime-T20advlKBkQ | woman in black knit cap and black jacket standing on snow covered ground during daytime
+corte-de-digestion | cover | family beach mediterranean summer | https://unsplash.com/photos/tropical-beach-with-clear-blue-water-and-green-trees-ts-gWJjl_Oo | Tropical beach with clear blue water and green trees
+corte-de-digestion | inline 1 | person entering sea water slowly | https://unsplash.com/photos/man-in-green-shirt-and-brown-shorts-standing-on-seashore-during-daytime-e-hzcaiJdc8 | man in green shirt and brown shorts standing on seashore during daytime
+crujir-dedos-artritis | cover | older man hands smiling | https://unsplash.com/photos/man-standing-near-wall-kydeqeQRsCg | man standing near wall
+crujir-dedos-artritis | inline 1 | hands x-ray | https://unsplash.com/photos/human-hand-with-white-background-3UNFL5P1tN4 | human hand with white background
+cuanta-agua-beber-al-dia | inline 1 | watermelon slices summer | https://unsplash.com/photos/closeup-photo-of-slice-watermelon-fruits-on-cloth-hD_qdaSO7Aw | closeup photo of slice watermelon fruits on cloth
+despertar-sonambulo | cover | dark hallway night silhouette | https://unsplash.com/photos/brown-wooden-coffee-table-near-wall-inside-room-v0CMjwnC3a0 | brown wooden coffee table near wall inside room
+despertar-sonambulo | inline 1 | baby gate stairs | https://unsplash.com/photos/baby-wears-white-shirt-ocEvs3RC984 | baby wears white shirt
+leer-con-poca-luz | cover | reading book in bed lamp night | https://unsplash.com/photos/person-holding-string-lights-on-opened-book-9pw4TKvT3po | person holding string lights on opened book
+leer-con-poca-luz | inline 1 | children playing outdoors park | https://unsplash.com/photos/children-holding-hands-in-park-mKbZ3zAdiB4 | A group of children holding hands in a circle on a sunny park lawn
+mito-10-por-ciento-cerebro | cover | brain scan mri colorful | https://unsplash.com/photos/a-black-and-white-photo-of-various-mri-images-BDKid0yJcAk | a black and white photo of various mri images
+mito-10-por-ciento-cerebro | inline 1 | neurons brain illustration | https://unsplash.com/photos/nerve-cells-with-glowing-nodes-NVprB2Xt1bA | Interconnected dark nerve cells with glowing orange nodes and small blue light pulses
+tragar-chicle | cover | child blowing bubble gum | https://unsplash.com/photos/a-man-looking-down-at-a-ball-3Yp-sv8WDnw | a man looking down at a ball
+tragar-chicle | inline 1 | chewing gum pieces | https://unsplash.com/photos/orange-green-and-pink-candies-wfIaDGcvXOo | orange green and pink candies

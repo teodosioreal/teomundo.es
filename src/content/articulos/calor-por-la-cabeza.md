@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "person wool hat snowy street"
 imageAlt: "Persona con gorro de lana en una calle nevada"
+cover:
+  url: "https://images.unsplash.com/photo-1612132965952-6afbc23fd6d4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwd29vbCUyMGhhdCUyMHNub3d5JTIwc3RyZWV0fGVufDF8MHx8fDE3OTIwNzY1NDh8MA&ixlib=rb-4.1.0"
+  alt: "Persona con gorro de lana en una calle nevada"
+  author: "Mike Cox"
+  authorUrl: "https://unsplash.com/@iprefermike?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-in-black-jacket-and-green-knit-cap-standing-on-snow-covered-ground-during-daytime-Jx7etjXFYz4?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es un mito: la cabeza no pierde más calor que otras partes del cuerpo; pierde calor como cualquier zona que vaya descubierta."
   - "La idea viene de un experimento militar en el que la cabeza era lo único que no estaba abrigado."
@@ -54,7 +60,10 @@ Según Vreeman y Carroll, si esas mismas personas hubieran hecho la prueba solo 
 
 Que el mito sea falso no quiere decir que el gorro no sirva. La cara, la cabeza y el cuello son zonas muy sensibles a la temperatura. Cuando las cubres, la **sensación** de abrigo mejora mucho, aunque el calor que ahorras sea proporcional a la superficie que tapas.
 
-<!-- unsplash: winter clothes layers scarf gloves | Ropa de invierno con bufanda y guantes -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1583170492868-dd617c96fdee?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2ludGVyJTIwY2xvdGhlcyUyMGxheWVycyUyMHNjYXJmJTIwZ2xvdmVzfGVufDF8MHx8fDE3OTIwNzY1NDl8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1583170492868-dd617c96fdee?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2ludGVyJTIwY2xvdGhlcyUyMGxheWVycyUyMHNjYXJmJTIwZ2xvdmVzfGVufDF8MHx8fDE3OTIwNzY1NDl8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1583170492868-dd617c96fdee?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2ludGVyJTIwY2xvdGhlcyUyMGxheWVycyUyMHNjYXJmJTIwZ2xvdmVzfGVufDF8MHx8fDE3OTIwNzY1NDl8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1583170492868-dd617c96fdee?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2ludGVyJTIwY2xvdGhlcyUyMGxheWVycyUyMHNjYXJmJTIwZ2xvdmVzfGVufDF8MHx8fDE3OTIwNzY1NDl8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Ropa de invierno con bufanda y guantes" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@altansukhe?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Altansukh E</a> en <a href="https://unsplash.com/photos/woman-in-black-knit-cap-and-black-jacket-standing-on-snow-covered-ground-during-daytime-T20advlKBkQ?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Tu plan para abrigarte de verdad
 
