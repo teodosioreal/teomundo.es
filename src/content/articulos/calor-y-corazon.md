@@ -22,10 +22,10 @@ cover:
 keyTakeaways:
   - "Para enfriar el cuerpo, la sangre se desvía hacia la piel y el corazón tiene que bombear más: es un esfuerzo extra."
   - "Con el sudor y la deshidratación baja el volumen de sangre, y el corazón trabaja todavía más."
-  - "Las personas mayores, con enfermedades del corazón o que toman ciertos medicamentos corren más riesgo; el golpe de calor es una urgencia: llama al 112."
+  - "Las personas mayores y quienes tienen problemas de corazón corren más riesgo; el golpe de calor es una urgencia: llama al 112."
 faq:
-  - q: "¿Puedo dejar mis pastillas de la tensión en verano?"
-    a: "No sin hablar antes con tu médico. Algunos medicamentos influyen en cómo respondes al calor, pero es tu médico quien debe ajustar la dosis."
+  - q: "¿Por qué se acelera el pulso cuando hace calor?"
+    a: "Porque el cuerpo manda más sangre a la piel para soltar calor y el corazón tiene que bombear más. Si además sudas mucho, baja el volumen de sangre y el esfuerzo es todavía mayor."
   - q: "¿Cuáles son los síntomas de un golpe de calor?"
     a: "Piel caliente y enrojecida, pulso rápido, fiebre de más de 40 °C, confusión, convulsiones o pérdida de conocimiento. Es una urgencia: llama al 112."
   - q: "¿Qué hago si alguien tiene agotamiento por calor?"
@@ -61,7 +61,6 @@ Si además pierdes mucho líquido con el sudor y no bebes lo suficiente, baja el
 El Ministerio de Sanidad señala como grupos de mayor riesgo a bebés y niños pequeños, embarazadas, personas mayores y personas con enfermedades crónicas ([Ministerio de Sanidad](https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6111)). En el caso del corazón, hay que sumar:
 
 - Personas con **hipertensión**, insuficiencia cardiaca o que han tenido un infarto o un ictus.
-- Quien toma **diuréticos** u otros medicamentos para el corazón o la tensión, que pueden cambiar cómo responde el cuerpo al calor. Nunca los dejes sin hablar antes con tu médico.
 - Personas que viven solas o en pisos muy calurosos.
 
 <figure class="article-figure">
@@ -83,7 +82,6 @@ El Ministerio de Sanidad señala como grupos de mayor riesgo a bebés y niños p
 - Evita el ejercicio y los recados en las **horas centrales** del día.
 - Busca sitios frescos o con aire acondicionado durante unas horas.
 - Usa ropa ligera y de colores claros.
-- Guarda los medicamentos en un lugar fresco.
 - Llama a diario a tus familiares o vecinos mayores durante una ola de calor.
 
 Si se acerca una ola de calor, apunta ya a quién vas a llamar cada día para ver cómo está. Y si te has preguntado por qué el calor de la costa agobia más que el de Madrid, lo explicamos en [vivir en Madrid o en la costa](/cuerpo-y-espana/vivir-en-madrid-o-en-la-costa/). Y para preparar el verano, mira cómo te afecta [el cambio de hora](/cuerpo-y-espana/cambio-de-hora-salud/) y qué hay detrás de [la longevidad de los españoles](/cuerpo-y-espana/esperanza-de-vida-espana/).

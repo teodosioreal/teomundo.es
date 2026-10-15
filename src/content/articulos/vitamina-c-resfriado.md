@@ -6,7 +6,7 @@ category: mitos
 primaryKeyword: "vitamina C resfriado"
 secondaryKeywords:
   - "zumo de naranja catarro"
-  - "suplementos vitamina C"
+  - "naranjas y catarro"
   - "vitamina C para el catarro"
   - "la vitamina C previene el resfriado"
   - "cuánta vitamina C al día"
@@ -34,7 +34,7 @@ faq:
   - q: "¿El zumo de naranja ayuda con el catarro?"
     a: "Aporta vitamina C y líquido, pero no cura el catarro. Un vaso de unos 175 ml tiene unos 93 mg, más de lo que un adulto necesita al día."
   - q: "¿Cuánta vitamina C necesita un adulto al día?"
-    a: "Según el NIH, 90 mg los hombres y 75 mg las mujeres, con 35 mg más si fumas. El límite máximo para adultos son 2.000 mg diarios."
+    a: "Según el NIH, 90 mg los hombres y 75 mg las mujeres, con 35 mg más si fumas. Con fruta y verdura a diario se llega sin esfuerzo."
 sources:
   - title: "Hemilä H, Chalker E. Vitamin C for preventing and treating the common cold. Cochrane Database of Systematic Reviews, 2013"
     url: "https://www.cochrane.org/CD000980/vitamin-c-preventing-and-treating-common-cold"
@@ -57,9 +57,9 @@ Primera semana de noviembre. En la oficina ya suenan los primeros estornudos y, 
 
 La mejor foto del asunto es una revisión Cochrane de 2013, firmada por Harri Hemilä y Elizabeth Chalker ([Cochrane](https://www.cochrane.org/CD000980/vitamin-c-preventing-and-treating-common-cold)). Una revisión de este tipo no es un estudio más: junta los ensayos controlados con placebo publicados y analiza sus resultados en conjunto.
 
-Para ver si la vitamina C **previene** catarros, reunieron 29 comparaciones con 11.306 participantes que la tomaban a diario, siempre a dosis de al menos 200 mg. El resultado fue prácticamente nulo: el riesgo de resfriarse quedó en 0,97 frente al grupo de placebo. Es decir, casi el mismo número de catarros.
+Para ver si la vitamina C **previene** catarros, reunieron 29 comparaciones con 11.306 participantes que la tomaban a diario, siempre al menos 200 mg al día. El resultado fue prácticamente nulo: el riesgo de resfriarse quedó en 0,97 frente al grupo de placebo. Es decir, casi el mismo número de catarros.
 
-Por eso los autores concluyen que tomar suplementos de forma rutinaria no está justificado para la población general.
+Por eso los autores concluyen que tomarla a diario de forma rutinaria no está justificado para la población general.
 
 ## Tomarla a diario no es lo mismo que tomarla al estornudar
 
@@ -75,7 +75,7 @@ Pongamos cifras de andar por casa. En un catarro de una semana, un 8 % son unas 
 
 Esto es lo que hace casi todo el mundo, y es justo lo que peor sale. En los ensayos en los que se empezaba a tomar vitamina C al notar los síntomas, la revisión **no encontró un efecto constante** ni en la duración ni en la intensidad.
 
-Algún ensayo aislado con dosis muy altas sí vio cierta mejoría, y los autores piden más estudios. Pero hoy no hay base para decir que un zumo, o un sobre efervescente, acorte el catarro que ya tienes.
+Algún ensayo aislado con cantidades muy altas sí vio cierta mejoría, y los autores piden más estudios. Pero hoy no hay base para decir que un zumo acorte el catarro que ya tienes.
 
 <figure class="article-figure">
 <img src="https://images.unsplash.com/photo-1645238426817-8c3e7d1396cf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cnVubmVycyUyMHdpbnRlcnxlbnwxfDB8fHwxNzkyMTAzNzIzfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1645238426817-8c3e7d1396cf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cnVubmVycyUyMHdpbnRlcnxlbnwxfDB8fHwxNzkyMTAzNzIzfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1645238426817-8c3e7d1396cf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cnVubmVycyUyMHdpbnRlcnxlbnwxfDB8fHwxNzkyMTAzNzIzfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1645238426817-8c3e7d1396cf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cnVubmVycyUyMHdpbnRlcnxlbnwxfDB8fHwxNzkyMTAzNzIzfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Corredores con ropa de abrigo en un camino del bosque" loading="lazy" decoding="async">
@@ -86,7 +86,7 @@ Algún ensayo aislado con dosis muy altas sí vio cierta mejoría, y los autores
 
 La parte interesante de la revisión está en un grupo pequeño. En cinco ensayos con 598 personas sometidas a un esfuerzo físico extremo, como corredores de maratón, esquiadores o soldados en ejercicios en zonas subárticas, la vitamina C **redujo el riesgo de resfriarse a la mitad**.
 
-La Oficina de Suplementos Dietéticos del NIH recoge el mismo dato: en personas expuestas a ejercicio extremo o a frío intenso, dosis de 250 mg a 1 g al día redujeron los catarros alrededor de un 50 % ([NIH ODS](https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/)).
+El NIH estadounidense recoge el mismo dato: en personas expuestas a ejercicio extremo o a frío intenso, tomar entre 250 mg y 1 g al día redujo los catarros alrededor de un 50 % ([NIH ODS](https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/)).
 
 Ojo con extrapolarlo. Salir a correr tres días por semana por el parque no es lo mismo que una maratón o unas maniobras en la nieve subártica. Lo que funciona en ese grupo no se ha visto en la población general.
 
@@ -107,14 +107,10 @@ Con un vaso de zumo en el desayuno, o una naranja y una ensalada con pimiento en
 
 Y más no es mejor. El NIH explica que, a partir de unos 100 mg diarios, las células parecen estar ya saturadas. Pasa algo parecido con otras vitaminas famosas, como verás en [lo que hay de verdad en las zanahorias y la vista](/mitos/zanahorias-vista/).
 
-El límite máximo para adultos son 2.000 mg al día. Por encima, lo más habitual son diarrea, náuseas y retortijones, porque la vitamina que no se absorbe arrastra agua al intestino.
-
 ## Cuándo el catarro pide algo más que zumo
 
-Un catarro se cura solo. Según el NHS, los síntomas suben durante dos o tres días y lo normal es empezar a mejorar en una o dos semanas ([NHS](https://www.nhs.uk/conditions/common-cold/)). El propio NHS añade que hay pocas pruebas de que los suplementos de vitamina C ayuden a prevenirlo o a recuperarse antes.
+Un catarro se cura solo. Según el NHS, los síntomas suben durante dos o tres días y lo normal es empezar a mejorar en una o dos semanas ([NHS](https://www.nhs.uk/conditions/common-cold/)). El propio NHS añade que hay pocas pruebas de que la vitamina C ayude a prevenirlo o a recuperarse antes.
 
 Pide cita con tu médico si la fiebre alta dura más de tres días, te falta el aire, te duele el pecho o no mejoras en diez días. Tienes la lista completa en el artículo sobre [si salir con el pelo mojado resfría](/mitos/pelo-mojado-resfriado/).
 
-Si quieres tomar suplementos por tu cuenta, sobre todo con alguna enfermedad renal o con medicación, coméntalo antes con tu farmacéutico.
-
-La próxima vez que te ofrezcan un zumo "para el catarro", tómatelo si te apetece, pero lávate las manos y tápate la boca al toser: un estornudo llega más lejos de lo que crees, como verás en [a qué velocidad sale un estornudo](/records/velocidad-estornudo/).
+Si mañana te ofrecen un zumo "para el catarro", tómatelo si te apetece, pero lávate las manos y tápate la boca al toser: un estornudo llega más lejos de lo que crees, como verás en [a qué velocidad sale un estornudo](/records/velocidad-estornudo/).

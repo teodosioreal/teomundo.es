@@ -76,7 +76,7 @@ Tras revisar la evidencia, la OMS concluye que no hay datos suficientes para fij
 
 Una [revisión sistemática de 2020](https://dx.doi.org/10.1007/s11934-020-0968-3) en *Current Urology Reports* repasó tres décadas de estudios. Su conclusión es prudente: los resultados sobre la dureza del agua son dispares. Y añade un giro inesperado: el agua dura y el agua mineral con calcio podrían ser útiles para quienes forman cálculos de calcio.
 
-Parece un contrasentido, pero tiene lógica. La mayoría de los cálculos son de oxalato cálcico, según la [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/kidney-stones/symptoms-causes/syc-20355755), y el calcio de la comida no aumenta el riesgo. La OMS va más allá: los estudios indican que el calcio de la dieta reduce la frecuencia de los cálculos. Los suplementos de calcio son otra historia, y conviene consultarlos con el médico.
+Parece un contrasentido, pero tiene lógica. La mayoría de los cálculos son de oxalato cálcico, según la [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/kidney-stones/symptoms-causes/syc-20355755), y el calcio de la comida no aumenta el riesgo. La OMS va más allá: los estudios indican que el calcio de la dieta reduce la frecuencia de los cálculos.
 
 <figure class="article-figure">
 <img src="https://images.unsplash.com/photo-1542855368-ca6ea825bca2?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZmF1Y2V0fGVufDF8MHx8fDE3OTIxMDM3MTR8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1542855368-ca6ea825bca2?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZmF1Y2V0fGVufDF8MHx8fDE3OTIxMDM3MTR8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1542855368-ca6ea825bca2?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZmF1Y2V0fGVufDF8MHx8fDE3OTIxMDM3MTR8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1542855368-ca6ea825bca2?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZmF1Y2V0fGVufDF8MHx8fDE3OTIxMDM3MTR8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Grifo de lavabo goteando" loading="lazy" decoding="async">
@@ -111,7 +111,7 @@ Si te preocupan los cálculos, repasa esto con calma:
 1. **¿Tu orina suele ser oscura?** La Mayo Clinic señala que una orina clara indica que probablemente bebes lo suficiente.
 2. **¿Hay piedras en tu familia?** Los antecedentes aumentan el riesgo, bebas el agua que bebas.
 3. **¿Comes salado a diario?** Embutido, precocinados y aperitivos suman más de lo que parece.
-4. **¿Tomas suplementos de calcio por tu cuenta?** Coméntalo con tu médico.
+4. **¿Sudas mucho en verano o haciendo deporte?** Ese líquido que pierdes también hay que reponerlo.
 5. **¿Has tenido ya un cólico?** Entonces tu médico debe decidir qué agua y qué dieta te convienen.
 
 Si respondes "sí" a alguna, el grifo no es lo primero que deberías revisar. Para saber cuánto beber, mira [si hay que tomar dos litros al día](/mitos/cuanta-agua-beber-al-dia/).

@@ -10,7 +10,7 @@ secondaryKeywords:
   - "vitamina D en invierno"
   - "alimentos con vitamina D"
   - "vitamina D personas mayores"
-  - "suplementos de vitamina D"
+  - "vitamina D y edad"
 datePublished: 2026-10-18
 dateModified: 2026-10-18
 imageQuery: "elderly man sitting on bench sunny town square"
@@ -25,7 +25,7 @@ keyTakeaways:
   - "Un estudio publicado en 2011 con adultos de Asturias y de Pizarra (Málaga) concluyó que un tercio de la población española podría estar en riesgo de déficit de vitamina D."
   - "En invierno el sol va bajo: en Madrid, el índice UV máximo medio de diciembre ronda 1,3, frente a 9 en julio, y la piel fabrica mucho menos vitamina D."
   - "Pasar el día bajo techo, el cristal de las ventanas y la edad reducen todavía más la producción."
-  - "Los suplementos solo con indicación médica: el exceso de vitamina D casi siempre viene de las pastillas, nunca del sol."
+  - "La piel pone su propio freno: el sol nunca provoca un exceso de vitamina D."
 faq:
   - q: "¿Cuánto sol hace falta para tener vitamina D?"
     a: "Depende de la estación, la hora, la piel y la edad. Algunos investigadores citados por los NIH sugieren entre 5 y 30 minutos de sol en cara, brazos y piernas al menos dos veces por semana, sin olvidar el riesgo de cáncer de piel."
@@ -33,8 +33,8 @@ faq:
     a: "No. El cristal bloquea los rayos UVB que la piel necesita para fabricarla, así que el sol que entra por la ventana de la oficina no cuenta."
   - q: "¿Qué alimentos tienen más vitamina D?"
     a: "Sobre todo el pescado azul (trucha, salmón, caballa, atún) y, en menor cantidad, la yema de huevo, el hígado y algunos alimentos enriquecidos."
-  - q: "¿Puedo tomar vitamina D sin receta?"
-    a: "Mejor consúltalo antes con tu médico. En adultos, el límite superior de ingesta segura es de 100 microgramos (4.000 UI) al día y el exceso puede ser dañino."
+  - q: "¿Se puede tener demasiada vitamina D por tomar el sol?"
+    a: "No. Según los NIH, la piel limita la cantidad que fabrica, así que el sol no provoca un exceso. Eso sí, la radiación ultravioleta sigue causando cáncer de piel."
 sources:
   - title: "González-Molero I. et al. Vitamin D deficiency in Spain: a population-based cohort study. Eur J Clin Nutr, 2011"
     url: "https://www.nature.com/articles/ejcn2010265"
@@ -100,23 +100,21 @@ La comida aporta poca vitamina D en comparación con el sol, pero algo suma. La 
 
 Son medias de bases de datos estadounidenses y varían según el pescado, pero la idea vale: el pescado azul es tu mejor aliado y el resto se queda corto. Por eso el pescado es una pieza importante del patrón que explicamos en [qué hace la dieta mediterránea en tu cuerpo](/cuerpo-y-espana/dieta-mediterranea-beneficios/).
 
-## ¿Hay que tomar suplementos?
+## Por qué el sol nunca te da de más
 
-No por tu cuenta. La vitamina D no es inocua a cualquier dosis. Según los NIH, el límite superior de ingesta segura para adultos es de 100 µg (4.000 UI) al día, y los niveles demasiado altos pueden causar náuseas, vómitos, debilidad muscular y confusión.
+La piel tiene su propio freno. Según los NIH, tomar el sol durante mucho tiempo no provoca un exceso de vitamina D, porque el cuerpo limita la cantidad que fabrica.
 
-Esos excesos vienen casi siempre de los suplementos, nunca del sol, porque la piel limita lo que fabrica. Si hay que suplementar, lo decide tu médico según tu análisis, tu edad y tu salud.
+El riesgo del sol está en otro sitio: la radiación ultravioleta causa cáncer de piel. Por eso pasar más horas al sol no es la solución: los investigadores que citan los NIH hablan de ratos cortos, de 5 a 30 minutos, sin llegar a quemarse.
 
-## Señales para pedir un análisis
+## ¿Cuánta vitamina D fabricas tú?
 
-La lista junta los grupos de riesgo que señalan los NIH y un hábito de la tabla. Marca las que te tocan:
+La lista junta factores que, según los NIH, reducen la vitamina D, y un hábito de la tabla. Marca los que te tocan:
 
 - [ ] Tengo más de 65 años o salgo poco a la calle.
 - [ ] Paso casi todas las horas de luz en interiores.
 - [ ] Tengo la piel oscura.
-- [ ] Tengo obesidad o me han operado de bypass gástrico.
-- [ ] Tengo una enfermedad que dificulta absorber la grasa (como la celiaquía o la enfermedad de Crohn).
 - [ ] Como pescado azul menos de una vez por semana.
 
-Si marcas varias, coméntalo en tu próxima visita al centro de salud. Y pide cita sin esperar si tienes dolor de huesos, debilidad muscular sin explicación o has tenido una fractura con un golpe leve.
+Cuantas más marques, menos vitamina D es probable que estés fabricando o comiendo. Si te preocupa, coméntalo en tu próxima visita al centro de salud: un análisis de sangre saca de dudas. Y pide cita sin esperar si tienes dolor de huesos, debilidad muscular sin explicación o has tenido una fractura con un golpe leve.
 
 Si el día acompaña, sal a dar un paseo corto a media mañana con los brazos al aire, y apunta pescado azul en la lista de la compra de esta semana. Y para saber por qué en España se vive tanto, lee [la esperanza de vida en España](/cuerpo-y-espana/esperanza-de-vida-espana/). Para otro efecto curioso del sol en el cuerpo, mira [por qué estornudamos al mirar el sol](/por-que/estornudar-con-el-sol/).

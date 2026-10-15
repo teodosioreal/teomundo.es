@@ -107,11 +107,9 @@ Esta lista resume los consejos del [NHS británico](https://www.nhs.uk/condition
 
 El NHS también aconseja no fumar ni estar cerca del humo, porque empeora los síntomas.
 
-## Cuándo pasar por la farmacia o el médico
+## Cuándo el polen pide médico
 
-En la farmacia pueden orientarte sobre antihistamínicos y sprays nasales; algunos dan sueño, así que pregunta antes de conducir. La SEAIC insiste en no automedicarse.
-
-Pide cita con tu médico si los síntomas empeoran o no mejoran con lo de la farmacia. Si cada primavera es igual, merece la pena que te vea un alergólogo para un tratamiento completo.
+Pide cita con tu médico si los síntomas te impiden hacer vida normal o empeoran de una primavera a otra. Si cada año es igual, merece la pena que te vea un alergólogo: puede estudiar a qué pólenes reaccionas exactamente.
 
 Si notas pitos en el pecho o te cuesta respirar, consulta cuanto antes. Y si la falta de aire es intensa, llama al 112.
 

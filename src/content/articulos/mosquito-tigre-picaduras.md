@@ -94,7 +94,7 @@ La "sangre dulce" es una explicación popular, pero el estudio de *Cell* midió 
 
 ## Repelentes que avalan las guías oficiales
 
-Los [CDC estadounidenses](https://www.cdc.gov/mosquitoes/pdfs/mosquitobitepreventionus_508.pdf) recomiendan repelentes registrados con alguno de estos principios activos: **DEET, icaridina (picaridina) o IR3535**. A mayor concentración, más horas de protección. En España, la [Xunta de Galicia](https://sergas.gal/Saude-publica/Documents/7394/Recomendaciones.pdf) aconseja usar repelentes autorizados y remite a la lista de la Agencia Española de Medicamentos.
+Los [CDC estadounidenses](https://www.cdc.gov/mosquitoes/pdfs/mosquitobitepreventionus_508.pdf) recomiendan repelentes registrados con alguno de estos principios activos: **DEET, icaridina (picaridina) o IR3535**. A mayor concentración, más horas de protección. En España, la [Xunta de Galicia](https://sergas.gal/Saude-publica/Documents/7394/Recomendaciones.pdf) aconseja usar repelentes autorizados.
 
 Las normas de uso que repiten estas guías:
 
@@ -121,7 +121,7 @@ La guía gallega añade un truco para cenar fuera: un ventilador que cree corrie
 
 Casi todas las picaduras se quedan en una roncha que pica unos días. Lava la zona con agua y jabón, sécala sin frotar, aplica frío envuelto en un paño y evita rascarte.
 
-Consulta en la farmacia si la zona está caliente, muy hinchada, duele o supura: según el [NHS británico](https://www.nhs.uk/conditions/insect-bites-and-stings/), el farmacéutico puede recomendarte antihistamínicos o cremas. Llama al 112 si se hinchan de golpe los labios, la lengua o la garganta, o si te cuesta respirar o tragar.
+Si la zona está caliente, muy hinchada, duele o supura, pide consejo a un profesional sanitario, como recomienda el [NHS británico](https://www.nhs.uk/conditions/insect-bites-and-stings/). Llama al 112 si se hinchan de golpe los labios, la lengua o la garganta, o si te cuesta respirar o tragar.
 
 El ECDC recuerda que este mosquito puede transmitir dengue y chikungunya. En España los casos de dengue contraídos aquí son pocos: Sanidad registró los primeros en 2018 y 8 en Cataluña en 2024. Aun así, si tras varias picaduras tienes fiebre alta repentina con dolor de cabeza intenso, dolor detrás de los ojos o en las articulaciones, ve a tu centro de salud y menciona las picaduras.
 

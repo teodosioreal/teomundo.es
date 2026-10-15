@@ -30,7 +30,7 @@ faq:
   - q: "¿Es bueno orinar en una picadura de medusa?"
     a: "No. La Asociación Española de Pediatría y el NHS británico lo desaconsejan: la orina no limpia mejor que el agua del mar y puede activar más células urticantes."
   - q: "¿Por qué no se puede lavar una picadura de medusa con agua dulce?"
-    a: "Porque el cambio de salinidad hace que las células urticantes que quedan en la piel se disparen y suelten más veneno. Lava siempre con agua del mar o con suero fisiológico."
+    a: "Porque el cambio de salinidad hace que las células urticantes que quedan en la piel se disparen y suelten más veneno. Lava siempre con agua del mar."
   - q: "¿Se puede echar vinagre en una picadura de medusa?"
     a: "Solo sirve para algunas especies y en otras está contraindicado. El Ministerio para la Transición Ecológica aconseja no usarlo si no sabes qué medusa te ha picado."
   - q: "¿Qué significa la bandera con una medusa en la playa?"
@@ -68,10 +68,10 @@ Lo traicionero es que esas células siguen activas cuando la medusa está muerta
 Esta es la secuencia de las guías del [Ministerio de Sanidad](https://mirror.mscbs.gob.es/areas/sanidadAmbiental/riesgosAmbientales/calorExtremo/publicaciones/docs/precaucionMedusas.pdf) y de los pediatras:
 
 1. **Sal del agua** con calma y avisa al socorrista más cercano o acércate a su puesto.
-2. **Lava sin frotar** con agua del mar o, si tienes, con suero fisiológico. Nada de toallas restregando la zona.
+2. **Lava sin frotar** con agua del mar. Nada de toallas restregando la zona.
 3. **Quita los restos** de tentáculo con pinzas o raspando suave con una tarjeta de plástico. Nunca con los dedos desnudos.
 4. **Aplica frío envuelto**: hielo dentro de una bolsa de plástico, nunca directo sobre la piel, unos 15 minutos y no más de 20.
-5. **Protege la herida**: evita darle el sol y no te rasques. Los pediatras añaden desinfectarla con un antiséptico.
+5. **Protege la herida**: evita darle el sol y no te rasques.
 
 Un matiz honesto sobre el paso 4. El [NHS británico](https://www.nhs.uk/conditions/jellyfish-and-other-sea-creature-stings/) aconseja lo contrario: agua muy caliente durante al menos 30 minutos y nada de hielo. Las guías no se ponen de acuerdo. En una playa española, lo práctico es seguir lo que te indique el socorrista, que además conoce las especies de la zona.
 
@@ -82,7 +82,7 @@ Un matiz honesto sobre el paso 4. El [NHS británico](https://www.nhs.uk/conditi
 
 ## Orina, vinagre, arena y agua del grifo
 
-Cuatro remedios de playa que conviene revisar:
+Cuatro trucos de playa que conviene revisar:
 
 - **Orina.** El mito más famoso, y falso. La [Asociación Española de Pediatría](https://enfamilia.aeped.es/printpdf/temas-salud/picaduras-medusas) lo dice sin rodeos: ni vinagre ni amoniaco diluidos, "ni por supuesto orina". El NHS coincide: no orines sobre la picadura.
 - **Agua dulce.** La de la ducha de la playa o la botella parece inofensiva, pero el cambio de salinidad hace que las células urticantes que siguen pegadas a la piel se disparen. Sanidad lo escribe en mayúsculas: "NUNCA utilizar agua dulce".

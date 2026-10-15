@@ -22,10 +22,10 @@ cover:
   authorUrl: "https://unsplash.com/@adigold1?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/clear-glass-cup-on-saucer-xKS-1DP4g7A?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
-  - "La cafeína tiene un efecto diurético leve, pero el agua del propio café lo compensa a las dosis habituales."
+  - "La cafeína tiene un efecto diurético leve, pero el agua del propio café lo compensa en las cantidades habituales."
   - "En un estudio con 50 hombres acostumbrados al café, cuatro tazas al día hidrataron igual que la misma cantidad de agua."
   - "La EFSA considera que hasta 400 mg de cafeína al día no plantean problemas de seguridad en adultos sanos, salvo embarazadas (200 mg)."
-  - "Las dosis altas de golpe y no estar acostumbrado sí aumentan más la orina."
+  - "Tomar mucha cafeína de golpe y no estar acostumbrado sí aumentan más la orina."
 faq:
   - q: "¿El café cuenta para la hidratación del día?"
     a: "Sí. Las bebidas con cafeína, tomadas con moderación, suman al agua total del día. El agua sigue siendo la mejor opción, pero el café no resta."
@@ -57,7 +57,7 @@ Tres y media de la tarde, menú del día terminado. Pides un cortado en la barra
 
 La cafeína es, técnicamente, un diurético: aumenta la producción de orina. Eso es verdad y es de donde viene el mito.
 
-La parte que se olvida es la dosis. Según la Clínica Mayo, la mayoría de las investigaciones indican que **el líquido de las bebidas con cafeína compensa el efecto diurético** de las cantidades habituales ([Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/caffeinated-drinks/faq-20057965)).
+La parte que se olvida es la cantidad. Según la Clínica Mayo, la mayoría de las investigaciones indican que **el líquido de las bebidas con cafeína compensa el efecto diurético** de las cantidades habituales ([Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/caffeinated-drinks/faq-20057965)).
 
 Donde sí se nota más es en dos casos:
 
@@ -87,7 +87,7 @@ Conviene ser honesto con sus límites:
 - Todos eran **bebedores habituales** de café.
 - Lo financió una organización vinculada al sector del café.
 
-Aun así, encaja con lo que dicen la Clínica Mayo y otros organismos: a dosis normales, el café suma agua, no la resta.
+Aun así, encaja con lo que dicen la Clínica Mayo y otros organismos: en cantidades normales, el café suma agua, no la resta.
 
 <figure class="article-figure">
 <img src="https://images.unsplash.com/photo-1739430147789-d397d88612fb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y29mZmVlJTIwd2l0aCUyMG1pbGslMjBnbGFzcyUyMGN1cCUyMGJyZWFrZmFzdCUyMHRhYmxlfGVufDF8MHx8fDE3OTIwOTM4NTV8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1739430147789-d397d88612fb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y29mZmVlJTIwd2l0aCUyMG1pbGslMjBnbGFzcyUyMGN1cCUyMGJyZWFrZmFzdCUyMHRhYmxlfGVufDF8MHx8fDE3OTIwOTM4NTV8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1739430147789-d397d88612fb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y29mZmVlJTIwd2l0aCUyMG1pbGslMjBnbGFzcyUyMGN1cCUyMGJyZWFrZmFzdCUyMHRhYmxlfGVufDF8MHx8fDE3OTIwOTM4NTV8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1739430147789-d397d88612fb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y29mZmVlJTIwd2l0aCUyMG1pbGslMjBnbGFzcyUyMGN1cCUyMGJyZWFrZmFzdCUyMHRhYmxlfGVufDF8MHx8fDE3OTIwOTM4NTV8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Taza de café con leche en una mesa de desayuno" loading="lazy" decoding="async">
@@ -96,7 +96,7 @@ Aun así, encaja con lo que dicen la Clínica Mayo y otros organismos: a dosis n
 
 ## Calcula la cafeína de tu día
 
-La Autoridad Europea de Seguridad Alimentaria (EFSA) concluyó en 2015 que, para un adulto sano, **hasta 400 mg de cafeína al día** de todas las fuentes no plantean problemas de seguridad. Una dosis única de hasta 200 mg, tampoco ([EFSA](https://www.efsa.europa.eu/en/topics/topic/caffeine)).
+La Autoridad Europea de Seguridad Alimentaria (EFSA) concluyó en 2015 que, para un adulto sano, **hasta 400 mg de cafeína al día** de todas las fuentes no plantean problemas de seguridad. Tomar hasta 200 mg de una vez, tampoco ([EFSA](https://www.efsa.europa.eu/en/topics/topic/caffeine)).
 
 La EFSA da dos referencias aproximadas que te sirven para echar cuentas:
 
@@ -122,7 +122,7 @@ Si te sale por debajo de 400 mg, estás dentro de lo que la EFSA considera segur
 Que el café no deshidrate no significa que no tenga límites. Estas son las situaciones en las que tiene sentido moderar:
 
 - **Embarazo y lactancia.** La EFSA rebaja la cifra a **200 mg al día**, repartidos a lo largo del día.
-- **Antes de dormir.** Según la EFSA, una dosis de 100 mg cerca de la hora de acostarse puede alterar el sueño en algunos adultos. Si cenas tarde, como es costumbre en España, el café de la sobremesa de la cena puede pasarte factura. Si lo que buscas es energía a media tarde, quizá te venga mejor [una siesta corta](/cuerpo-y-espana/beneficios-de-la-siesta/).
+- **Antes de dormir.** Según la EFSA, tomar 100 mg cerca de la hora de acostarse puede alterar el sueño en algunos adultos. Si cenas tarde, como es costumbre en España, el café de la sobremesa de la cena puede pasarte factura. Si lo que buscas es energía a media tarde, quizá te venga mejor [una siesta corta](/cuerpo-y-espana/beneficios-de-la-siesta/).
 - **Niños y adolescentes.** La EFSA propone como referencia 3 mg por kilo de peso al día.
 - **Síntomas molestos.** La Clínica Mayo cita como efectos más frecuentes los problemas para dormir, las heces sueltas y el malestar de estómago.
 
