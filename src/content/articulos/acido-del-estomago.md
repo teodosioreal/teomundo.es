@@ -80,4 +80,4 @@ Al reaccionar, el zinc puede irritar el estómago e incluso causar una úlcera. 
 
 Llama al 112 si el niño tiene dificultad para respirar, babea mucho, no puede tragar, vomita o tiene dolor fuerte.
 
-Hoy, revisa en casa los mandos, básculas, relojes y juguetes con pilas de botón, y comprueba que la tapa se cierra con tornillo. Y si te gustan estas curiosidades, vuelve al principio: [¿cuántos olores puede distinguir tu nariz?](/en-1-minuto/cuantos-olores-distingue-la-nariz/)
+Hoy, revisa en casa los mandos, básculas, relojes y juguetes con pilas de botón, y comprueba que la tapa se cierra con tornillo. Y si te gustan estas curiosidades, vuelve al principio: [¿cuántos olores puede distinguir tu nariz?](/en-1-minuto/cuantos-olores-distingue-la-nariz/) Y si te pica la curiosidad por las cifras del cuerpo, sabrás también por qué [tu cerebro gasta el 20 % de tu energía](/en-1-minuto/cerebro-consume-energia/).

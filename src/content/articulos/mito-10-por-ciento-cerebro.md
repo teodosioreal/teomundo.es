@@ -77,4 +77,4 @@ Este último dato es clave. Un órgano tan caro de mantener no habría sobrevivi
 
 Lo que sí sabe la ciencia es que el cerebro cambia con lo que aprendes: aprender un idioma o un instrumento refuerza conexiones entre neuronas. No despiertas una parte dormida; entrenas la que ya usas.
 
-Hoy, cuando alguien te diga lo del 10 %, ya tienes tres argumentos para responder. Y si te gustan estos mitos de toda la vida, el siguiente es otro clásico: [¿el chicle se queda siete años en el estómago?](/mitos/tragar-chicle/)
+Hoy, cuando alguien te diga lo del 10 %, ya tienes tres argumentos para responder. Y si te gustan estos mitos de toda la vida, el siguiente es otro clásico: [¿el chicle se queda siete años en el estómago?](/mitos/tragar-chicle/) Y si estudias con el móvil en la cama, lee [si leer con poca luz estropea la vista](/mitos/leer-con-poca-luz/).

@@ -73,4 +73,4 @@ Por eso las autoridades sanitarias insisten en lo mismo:
 
 Si estornudas mucho en primavera, con picor de ojos y nariz, puede ser alergia: coméntalo con tu médico.
 
-Hoy, la próxima vez que notes que viene un estornudo, gira la cabeza y tápate con el codo. Y si te sorprenden las cifras del cuerpo, descubre [cuántas células nuevas fabricas cada día](/records/celulas-que-se-renuevan/).
+Hoy, la próxima vez que notes que viene un estornudo, gira la cabeza y tápate con el codo. Y si te sorprenden las cifras del cuerpo, descubre [cuántas células nuevas fabricas cada día](/records/celulas-que-se-renuevan/). Más cifras del cuerpo: [los kilómetros de vasos sanguíneos que llevas](/records/longitud-vasos-sanguineos/) y [la saliva que produces en un día](/records/cuanta-saliva-producimos/).

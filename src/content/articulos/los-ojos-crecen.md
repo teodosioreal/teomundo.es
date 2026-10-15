@@ -59,7 +59,7 @@ Los oftalmólogos miden la **longitud axial**, la distancia del ojo de delante h
 | Recién nacido | Unos 16,5 a 17 mm |
 | Adulto | Unos 23,5 a 24 mm |
 
-Un recién nacido tiene, por tanto, un ojo con algo más del 70 % de la longitud que tendrá de adulto ([Review of Myopia Management](https://reviewofmm.com/?p=35757)). Su cara y su cabeza, en cambio, todavía tienen que crecer mucho. De ahí esa sensación de ojos gigantes.
+Un [recién nacido](/en-1-minuto/cuantos-huesos-tiene-un-bebe/) tiene, por tanto, un ojo con algo más del 70 % de la longitud que tendrá de adulto ([Review of Myopia Management](https://reviewofmm.com/?p=35757)). Su cara y su cabeza, en cambio, todavía tienen que crecer mucho. De ahí esa sensación de ojos gigantes.
 
 ## Cuándo deja de crecer el ojo
 
@@ -72,7 +72,7 @@ El ojo crece muy rápido en los primeros meses, más despacio en los dos años s
 
 ## Cuándo un ojo crece de más
 
-Cuando el ojo se alarga más de lo normal, aparece la **miopía**: la imagen se enfoca delante de la retina y se ve borroso de lejos. Por eso los oftalmólogos vigilan la longitud del ojo en niños con miopía.
+Cuando el ojo se alarga más de lo normal, aparece la **[miopía](/mitos/leer-con-poca-luz/)**: la imagen se enfoca delante de la retina y se ve borroso de lejos. Por eso los oftalmólogos vigilan la longitud del ojo en niños con miopía.
 
 Lleva a tu hijo al oftalmólogo o al pediatra si se acerca mucho a las pantallas o los libros, entrecierra los ojos para ver de lejos, se queja de dolor de cabeza o se le desvía un ojo. Y si eres adulto y notas que ves peor, pide una revisión.
 

@@ -89,4 +89,4 @@ Que algunas neuronas duren toda la vida no significa que el cerebro no cambie: s
 
 Para que la fábrica funcione bien, tu cuerpo necesita materia prima: una alimentación variada, dormir lo suficiente y moverte. Si notas cansancio extremo o palidez, coméntalo con tu médico, porque puede haber un problema en la producción de células de la sangre, como una anemia.
 
-Hoy, mientras comes, piensa que parte de esa comida servirá para fabricar las células de mañana. Y si te gusta esta capacidad de regenerarse, descubre [el único órgano que vuelve a crecer](/records/higado-se-regenera/).
+Hoy, mientras comes, piensa que parte de esa comida servirá para fabricar las células de mañana. Y si te gusta esta capacidad de regenerarse, descubre [el único órgano que vuelve a crecer](/records/higado-se-regenera/). Más cifras sorprendentes: [la velocidad real de un estornudo](/records/velocidad-estornudo/).

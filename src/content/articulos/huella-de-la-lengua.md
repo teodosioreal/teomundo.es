@@ -82,4 +82,4 @@ Aunque no sirva para identificarte, la lengua sí puede dar pistas. Consulta con
 - Dolor, ardor o un bulto en la lengua.
 - Cambios de color que duran mucho tiempo.
 
-Hoy, mírate la lengua en el espejo con buena luz y fíjate en cómo es la tuya. Y si te gustan las curiosidades del cuerpo, descubre por qué [tu corazón tiene su propia electricidad](/en-1-minuto/electricidad-del-corazon/).
+Hoy, mírate la lengua en el espejo con buena luz y fíjate en cómo es la tuya. Y si te gustan las curiosidades del cuerpo, descubre por qué [tu corazón tiene su propia electricidad](/en-1-minuto/electricidad-del-corazon/). Más curiosidades de tu cara: [si los ojos dejan de crecer](/en-1-minuto/los-ojos-crecen/) y [cuántos olores distingue tu nariz](/en-1-minuto/cuantos-olores-distingue-la-nariz/).

@@ -69,6 +69,6 @@ Según [Live Science](https://www.livescience.com/32823-strongest-human-muscles.
 
 ## El mito de la lengua
 
-La lengua es en realidad un conjunto de músculos muy ágil y resistente: te permite hablar, tragar y saborear sin cansarse. Pero no es el más fuerte de ninguna de las maneras de medirlo.
+La [lengua](/en-1-minuto/huella-de-la-lengua/) es en realidad un conjunto de músculos muy ágil y resistente: te permite hablar, tragar y saborear sin cansarse. Pero no es el más fuerte de ninguna de las maneras de medirlo.
 
-Hoy, cuando subas unas escaleras, piensa en tu glúteo y tu sóleo haciendo el trabajo. Y si te gustan las cifras del cuerpo, mira [cuántos kilómetros de vasos sanguíneos tienes](/records/longitud-vasos-sanguineos/).
+Hoy, cuando subas unas escaleras, piensa en tu glúteo y tu sóleo haciendo el trabajo. Y si te gustan las cifras del cuerpo, mira [cuántos kilómetros de vasos sanguíneos tienes](/records/longitud-vasos-sanguineos/). Y si te gustan los récords, mira también [el hueso más pequeño del cuerpo](/records/hueso-mas-pequeno/).

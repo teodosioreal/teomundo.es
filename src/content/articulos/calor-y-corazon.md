@@ -86,4 +86,4 @@ El Ministerio de Sanidad señala como grupos de mayor riesgo a bebés y niños p
 - Guarda los medicamentos en un lugar fresco.
 - Llama a diario a tus familiares o vecinos mayores durante una ola de calor.
 
-Hoy, si se acerca una ola de calor, apunta a quién vas a llamar cada día para ver cómo está. Y si te has preguntado por qué el calor de la costa agobia más que el de Madrid, lo explicamos en [vivir en Madrid o en la costa](/cuerpo-y-espana/vivir-en-madrid-o-en-la-costa/).
+Hoy, si se acerca una ola de calor, apunta a quién vas a llamar cada día para ver cómo está. Y si te has preguntado por qué el calor de la costa agobia más que el de Madrid, lo explicamos en [vivir en Madrid o en la costa](/cuerpo-y-espana/vivir-en-madrid-o-en-la-costa/). Y para preparar el verano, mira cómo te afecta [el cambio de hora](/cuerpo-y-espana/cambio-de-hora-salud/) y qué hay detrás de [la longevidad de los españoles](/cuerpo-y-espana/esperanza-de-vida-espana/).

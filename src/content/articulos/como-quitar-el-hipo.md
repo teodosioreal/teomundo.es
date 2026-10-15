@@ -77,7 +77,7 @@ Estas son las causas más habituales, según [Mayo Clinic](https://www.mayoclini
 
 - Comer demasiado rápido o en grandes cantidades.
 - Beber refrescos con gas o cerveza (el mismo gas que a veces hace [sonar las tripas](/por-que/por-que-suenan-las-tripas/)).
-- Tomar alcohol en exceso.
+- Tomar [alcohol](/cuerpo-y-espana/resaca-por-que/) en exceso.
 - Comidas muy picantes o muy calientes.
 - Cambios bruscos de temperatura, como un helado tras un café.
 - Nervios, estrés o una emoción fuerte.

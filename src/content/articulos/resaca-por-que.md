@@ -40,7 +40,7 @@ Las Fallas, San Fermín, la Feria de Abril o simplemente el cumpleaños de un am
 
 ## El culpable con nombre raro: acetaldehído
 
-Cuando el hígado procesa el alcohol, lo convierte primero en **acetaldehído**, una sustancia tóxica de vida corta, y después en otras más inofensivas. Según el Instituto Nacional sobre el Abuso del Alcohol y el Alcoholismo de EE. UU. ([NIAAA](https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/hangovers)), el acetaldehído se relaciona con inflamación en varios órganos.
+Cuando el [hígado](/records/higado-se-regenera/) procesa el alcohol, lo convierte primero en **acetaldehído**, una sustancia tóxica de vida corta, y después en otras más inofensivas. Según el Instituto Nacional sobre el Abuso del Alcohol y el Alcoholismo de EE. UU. ([NIAAA](https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/hangovers)), el acetaldehído se relaciona con inflamación en varios órganos.
 
 ## No es solo deshidratación
 
@@ -60,7 +60,7 @@ Los síntomas son peores cuando el alcohol en sangre vuelve a cero, y pueden dur
 
 - **"Un vino o una cerveza por la mañana la cura".** Falso: solo la retrasa, porque vuelves a subir el alcohol en sangre.
 - **"Un café bien cargado y como nuevo".** Puede despejarte un poco, pero no acelera la eliminación del alcohol.
-- **"Sudarla en el gimnasio".** Con el cuerpo ya deshidratado, el ejercicio intenso no es buena idea.
+- **"Sudarla en el gimnasio".** Con el cuerpo ya [deshidratado](/mitos/cuanta-agua-beber-al-dia/), el ejercicio intenso no es buena idea.
 - **"Pastillas o bebidas 'antirresaca'".** No hay pruebas sólidas de que ningún producto la haga desaparecer.
 
 <!-- unsplash: toast broth breakfast table | Desayuno sencillo con tostadas y una taza -->

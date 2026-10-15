@@ -83,4 +83,4 @@ Pruébalo con alguien de confianza y anota lo que pasa:
 
 Apunta en cuál de las tres rondas aparece antes el bostezo. No será un estudio científico, pero es una buena excusa para reírse un rato.
 
-¿Has bostezado ya mientras leías? Si el bostezo de después de comer te suena, mira también [por qué das un salto justo al dormirte](/por-que/sacudida-al-dormirse/), otro gesto automático que todos conocemos.
+¿Has bostezado ya mientras leías? Si el bostezo de después de comer te suena, mira también [por qué das un salto justo al dormirte](/por-que/sacudida-al-dormirse/), otro gesto automático que todos conocemos. Más reflejos que no controlas: [por qué estornudas al mirar el sol](/por-que/estornudar-con-el-sol/) y [por qué se te pone la piel de gallina](/por-que/piel-de-gallina/).

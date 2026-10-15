@@ -85,4 +85,4 @@ En internet abundan quienes venden "lecturas del aura" o fotos que supuestamente
 
 Una regla útil: si alguien te promete leer o "limpiar" tu aura a cambio de dinero, no hay ciencia detrás.
 
-Hoy, cuando apagues la luz para dormir, piensa que estás brillando un poquito. Y si te gustan estas curiosidades, descubre por qué [tu cerebro gasta el 20 % de tu energía](/en-1-minuto/cerebro-consume-energia/).
+Hoy, cuando apagues la luz para dormir, piensa que estás brillando un poquito. Y si te gustan estas curiosidades, descubre por qué [tu cerebro gasta el 20 % de tu energía](/en-1-minuto/cerebro-consume-energia/). Otras cosas que tu cuerpo hace sin que lo veas: [la electricidad de tu corazón](/en-1-minuto/electricidad-del-corazon/) y [los olores que distingue tu nariz](/en-1-minuto/cuantos-olores-distingue-la-nariz/).
