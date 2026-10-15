@@ -66,7 +66,10 @@ Lo más llamativo de sus estudios es que un estornudo no es un chorro de gotas q
 
 Según el [MIT](https://edgerton.mit.edu/news/capturing-sneeze), la nube puede llevar esas gotitas mucho más lejos de lo que se pensaba.
 
-<!-- unsplash: woman sneezing tissue | Mujer estornudando en un pañuelo de papel -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1520604049744-5501828d30bb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzbmVlemluZyUyMHRpc3N1ZXxlbnwxfDB8fHwxNzkyMDg4MzEzfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1520604049744-5501828d30bb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzbmVlemluZyUyMHRpc3N1ZXxlbnwxfDB8fHwxNzkyMDg4MzEzfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1520604049744-5501828d30bb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzbmVlemluZyUyMHRpc3N1ZXxlbnwxfDB8fHwxNzkyMDg4MzEzfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1520604049744-5501828d30bb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzbmVlemluZyUyMHRpc3N1ZXxlbnwxfDB8fHwxNzkyMDg4MzEzfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Mujer estornudando en un pañuelo de papel" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@antoninovisalli?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Antonino Visalli</a> en <a href="https://unsplash.com/photos/grayscale-photography-of-woman-with-earrings-covering-her-mouth-21yUg3Fpw5M?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## El codo, tu mejor aliado
 

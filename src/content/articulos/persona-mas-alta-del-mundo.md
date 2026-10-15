@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "tall man standing doorway"
 imageAlt: "Silueta de una persona junto a una puerta alta"
+cover:
+  url: "https://images.unsplash.com/photo-1573854612183-873dd713cc8b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGFsbCUyMG1hbiUyMHN0YW5kaW5nJTIwZG9vcndheXxlbnwxfDB8fHwxNzkyMDg4MzEyfDA&ixlib=rb-4.1.0"
+  alt: "Silueta de una persona junto a una puerta alta"
+  author: "Milo Bauman"
+  authorUrl: "https://unsplash.com/@mjearlb?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/unknown-person-standing-indoors-SvEzuw2cy3s?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Según Guinness, la persona más alta de la historia es el estadounidense Robert Wadlow, que llegó a medir 2,72 metros."
   - "Su altura se debió a una hipófisis demasiado activa, que producía demasiada hormona del crecimiento; murió en 1940, con 22 años, por una infección."

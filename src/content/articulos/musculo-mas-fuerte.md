@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "woman eating apple"
 imageAlt: "Persona mordiendo una manzana en primer plano"
+cover:
+  url: "https://images.unsplash.com/photo-1606658046016-a9d52350d867?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBlYXRpbmclMjBhcHBsZXxlbnwxfDB8fHwxNzkyMDg4MzExfDA&ixlib=rb-4.1.0"
+  alt: "Persona mordiendo una manzana en primer plano"
+  author: "Matt Seymour"
+  authorUrl: "https://unsplash.com/@mattseymour?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-in-gray-sweater-holding-sliced-of-apple-ikhwzcNycjo?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "No hay una sola respuesta: depende de cómo se mida la fuerza."
   - "Por su peso, el más fuerte es el masetero, el músculo principal de la masticación; en fuerza total destacan el glúteo mayor y el sóleo."

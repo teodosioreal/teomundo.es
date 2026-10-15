@@ -64,7 +64,10 @@ Lo que más diferencia el interior de la costa es la humedad del aire:
 | Sensación de calor | Calor intenso pero "seco" | El mismo calor se siente más |
 | Noches de verano | Refresca más por la noche | Noches más cálidas y pegajosas |
 
-<!-- unsplash: beach promenade palm trees spain | Paseo marítimo con palmeras junto a la playa -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1784134139273-cacd9e7576c6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmVhY2glMjBwcm9tZW5hZGUlMjBwYWxtJTIwdHJlZXMlMjBzcGFpbnxlbnwxfDB8fHwxNzkyMDg4MzE0fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1784134139273-cacd9e7576c6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmVhY2glMjBwcm9tZW5hZGUlMjBwYWxtJTIwdHJlZXMlMjBzcGFpbnxlbnwxfDB8fHwxNzkyMDg4MzE0fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1784134139273-cacd9e7576c6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmVhY2glMjBwcm9tZW5hZGUlMjBwYWxtJTIwdHJlZXMlMjBzcGFpbnxlbnwxfDB8fHwxNzkyMDg4MzE0fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1784134139273-cacd9e7576c6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmVhY2glMjBwcm9tZW5hZGUlMjBwYWxtJTIwdHJlZXMlMjBzcGFpbnxlbnwxfDB8fHwxNzkyMDg4MzE0fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Paseo marítimo con palmeras junto a la playa" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@gomisg?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">ROBERTO GOMIS GARCIA</a> en <a href="https://unsplash.com/photos/lifeguard-tower-on-a-beach-with-people-and-distant-mountains-29MIpje7Az4?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Por qué el calor de la costa agobia más
 
