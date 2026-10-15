@@ -40,3 +40,8 @@ mito-10-por-ciento-cerebro | cover | brain scan mri colorful | https://unsplash.
 mito-10-por-ciento-cerebro | inline 1 | neurons brain illustration | https://unsplash.com/photos/nerve-cells-with-glowing-nodes-NVprB2Xt1bA | Interconnected dark nerve cells with glowing orange nodes and small blue light pulses
 tragar-chicle | cover | child blowing bubble gum | https://unsplash.com/photos/a-man-looking-down-at-a-ball-3Yp-sv8WDnw | a man looking down at a ball
 tragar-chicle | inline 1 | chewing gum pieces | https://unsplash.com/photos/orange-green-and-pink-candies-wfIaDGcvXOo | orange green and pink candies
+afeitarse-pelo-mas-fuerte | inline 1 | woman legs beach summer | https://unsplash.com/photos/persons-feet-on-water-V69kmOyZ3SU | persons feet on water
+azucar-hiperactividad-ninos | inline 1 | fresh fruit platter | https://unsplash.com/photos/a-white-plate-topped-with-cut-up-fruit-h4XEpzG4Y-I | a white plate topped with cut up fruit
+crujir-dedos-artritis | cover | elderly hands close up | https://unsplash.com/photos/silver-colored-ring-oydOFpht1QU | silver-colored ring
+cuanta-agua-beber-al-dia | cover | glass of water on table | https://unsplash.com/photos/three-clear-drinking-glass-on-table-7b1W1mcwekw | three clear drinking glass on table
+tragar-chicle | cover | chewing gum pack | https://unsplash.com/photos/orange-plastic-container-on-white-and-black-granite-table-_4lzXD58Nsw | orange plastic container on white and black granite table

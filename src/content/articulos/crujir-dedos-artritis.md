@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "elderly hands close up"
 imageAlt: "Primer plano de las manos de una persona mayor"
+cover:
+  url: "https://images.unsplash.com/photo-1569245090430-9255968c4877?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWxkZXJseSUyMGhhbmRzJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzkyMDc2NjU3fDA&ixlib=rb-4.1.0"
+  alt: "Primer plano de las manos de una persona mayor"
+  author: "أخٌ‌في‌الله"
+  authorUrl: "https://unsplash.com/@mhrezaa?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/silver-colored-ring-oydOFpht1QU?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es un mito: los estudios no han encontrado relación entre crujirse los dedos y la artritis."
   - "Un médico, Donald Unger, se crujió solo los dedos de una mano durante unos 60 años y no encontró diferencias entre sus dos manos."

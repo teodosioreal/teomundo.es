@@ -69,7 +69,10 @@ Si no es el azúcar, ¿qué es? Probablemente todo lo demás:
 - Horarios distintos y, a veces, menos siesta o sueño.
 - Y las expectativas de los adultos, que buscan señales de "subidón".
 
-<!-- unsplash: fresh fruit platter | Bandeja de fruta fresca cortada -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1641642400143-6be68f1a0918?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlc2glMjBmcnVpdCUyMHBsYXR0ZXJ8ZW58MXwwfHx8MTc5MjA3NjY1Nnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1641642400143-6be68f1a0918?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlc2glMjBmcnVpdCUyMHBsYXR0ZXJ8ZW58MXwwfHx8MTc5MjA3NjY1Nnww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1641642400143-6be68f1a0918?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlc2glMjBmcnVpdCUyMHBsYXR0ZXJ8ZW58MXwwfHx8MTc5MjA3NjY1Nnww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1641642400143-6be68f1a0918?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlc2glMjBmcnVpdCUyMHBsYXR0ZXJ8ZW58MXwwfHx8MTc5MjA3NjY1Nnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Bandeja de fruta fresca cortada" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@vdphotography?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">VD Photography</a> en <a href="https://unsplash.com/photos/a-white-plate-topped-with-cut-up-fruit-h4XEpzG4Y-I?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Pero el azúcar sigue sin ser buena idea
 

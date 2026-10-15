@@ -13,6 +13,12 @@ datePublished: 2026-10-15
 dateModified: 2026-10-15
 imageQuery: "glass of water on table"
 imageAlt: "Vaso de agua sobre una mesa"
+cover:
+  url: "https://images.unsplash.com/photo-1554140426-5e830b73a5e8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHdhdGVyJTIwb24lMjB0YWJsZXxlbnwxfDB8fHwxNzkyMDc2NjU4fDA&ixlib=rb-4.1.0"
+  alt: "Vaso de agua sobre una mesa"
+  author: "Janosch Lino"
+  authorUrl: "https://unsplash.com/@janoschlino?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/three-clear-drinking-glass-on-table-7b1W1mcwekw?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Medio mito: la Autoridad Europea de Seguridad Alimentaria (EFSA) recomienda unos 2 litros de agua al día para mujeres y 2,5 para hombres."
   - "Pero esa cifra incluye el agua de la comida y de todas las bebidas, no solo el agua del grifo o la botella."
