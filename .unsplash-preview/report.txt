@@ -203,3 +203,4 @@ ojos-ven-al-reves | inline 1 | magnifying glass | https://unsplash.com/photos/ma
 pies-hinchados-por-la-tarde | cover | shoes | https://unsplash.com/photos/unpaired-red-nike-sneaker-164_6wVEHfI | unpaired red Nike sneaker
 vitamina-c-resfriado | cover | orange juice | https://unsplash.com/photos/orange-juice-in-clear-drinking-glass-TmOGarNOGFs | orange juice in clear drinking glass
 vitamina-c-resfriado | inline 1 | runners winter | https://unsplash.com/photos/a-group-of-people-running-down-a-dirt-road-LyORqx-3O-c | a group of people running down a dirt road
+pies-hinchados-por-la-tarde | cover | bare feet wooden floor | https://unsplash.com/photos/woman-standing-next-to-a-sauna-heater-with-stones-hKxBVcRX8qU | Woman standing next to a sauna heater with stones
