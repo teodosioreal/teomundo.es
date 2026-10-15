@@ -1,0 +1,29 @@
+---
+// Botão "Configuración de cookies": reabre a mensagem de consentimento do Google
+// (AdSense → Privacidad y mensajes, CMP certificada). Só existe com o AdSense ligado.
+import { adsense } from '../data/site';
+const { class: className = '' } = Astro.props;
+---
+
+{
+  adsense.client && (
+    <>
+      <button type="button" data-cookie-settings class={`cursor-pointer underline ${className}`}>
+        Configuración de cookies
+      </button>
+      <script is:inline>
+        if (!window.__cookieSettings) {
+          window.__cookieSettings = true;
+          document.addEventListener('click', function (e) {
+            if (!e.target.closest || !e.target.closest('[data-cookie-settings]')) return;
+            window.googlefc = window.googlefc || {};
+            window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
+            window.googlefc.callbackQueue.push(function () {
+              window.googlefc.showRevocationMessage();
+            });
+          });
+        }
+      </script>
+    </>
+  )
+}

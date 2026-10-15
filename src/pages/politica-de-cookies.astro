@@ -1,6 +1,7 @@
 ---
 import PageLayout from '../layouts/PageLayout.astro';
 import { site, adsense, analytics } from '../data/site';
+import CookieSettings from '../components/CookieSettings.astro';
 ---
 
 <PageLayout
@@ -51,6 +52,14 @@ import { site, adsense, analytics } from '../data/site';
   }
 
   <h2>Cómo gestionarlas</h2>
+  {
+    adsense.client && (
+      <p>
+        La primera vez que visitas {site.name} te mostramos un aviso para que aceptes, rechaces o elijas qué cookies
+        permites. Puedes cambiar tu decisión cuando quieras con este botón: <CookieSettings />.
+      </p>
+    )
+  }
   <p>
     Puedes borrar o bloquear las cookies desde la configuración de tu navegador. Si las bloqueas, el sitio seguirá
     funcionando.

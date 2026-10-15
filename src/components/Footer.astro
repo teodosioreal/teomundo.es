@@ -1,5 +1,6 @@
 ---
 import { site, footerLinks, footerNotice } from '../data/site';
+import CookieSettings from './CookieSettings.astro';
 
 const year = new Date().getFullYear();
 ---
@@ -19,6 +20,7 @@ const year = new Date().getFullYear();
             </li>
           ))
         }
+        <li><CookieSettings class="font-medium text-brand-900 hover:text-brand-700" /></li>
       </ul>
     </nav>
     {footerNotice && <p class="mt-6 max-w-3xl"><strong>Aviso:</strong> {footerNotice}</p>}
