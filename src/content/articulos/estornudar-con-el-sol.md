@@ -92,4 +92,4 @@ Lo que suele ayudar:
 
 Nunca mires directamente al sol para "provocar" el estornudo: eso sí puede dañar los ojos.
 
-Hoy, cuando salgas a la calle, fíjate en si te pasa y pregunta en casa quién más lo tiene. Y si te interesan los reflejos que se contagian, lee [por qué bostezar es contagioso](/por-que/bostezo-contagioso/).
+Hoy, cuando salgas a la calle, fíjate en si te pasa y pregunta en casa quién más lo tiene. Y si te preguntas a qué velocidad sale ese estornudo, lo medimos en [¿a qué velocidad sale un estornudo?](/records/velocidad-estornudo/). Y si te interesan los reflejos que se contagian, lee [por qué bostezar es contagioso](/por-que/bostezo-contagioso/).

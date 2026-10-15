@@ -10,7 +10,7 @@
 ## 2. O negócio
 
 - Blog informativo em `https://teomundo.es`, público da Espanha.
-- **Nicho:** "curiosidades verificadas do seu corpo no dia a dia" (leituras de ~1 minuto, sempre com fonte, ligadas à rotina espanhola). Pauta-mestre com 50 temas em 5 categorias: ¿Por qué?, Mitos, Cuerpo y España, Récords, En 1 minuto. Artigos de 300–600 palavras, com box "En resumen", FAQ e fontes. Categorias em `categories` (`src/data/site.ts`); hoje `por-que` (pautas 1–10), `mitos` (11–20) e `cuerpo-y-espana` (21–30). Próximas: Récords (31–40), En 1 minuto (41–50).
+- **Nicho:** "curiosidades verificadas do seu corpo no dia a dia" (leituras de ~1 minuto, sempre com fonte, ligadas à rotina espanhola). Pauta-mestre com 50 temas em 5 categorias: ¿Por qué?, Mitos, Cuerpo y España, Récords, En 1 minuto. Artigos de 300–600 palavras, com box "En resumen", FAQ e fontes. Categorias em `categories` (`src/data/site.ts`); hoje `por-que` (pautas 1–10), `mitos` (11–20), `cuerpo-y-espana` (21–30) e `records` (31–40). Próxima: En 1 minuto (41–50).
 - **Monetização planejada:** Google AdSense (desligado até `adsense.client` ser preenchido).
 - **Prioridade do dono:** mais páginas por visita. Todo artigo dá um próximo passo claro (blocos de leitura, links internos), **sem clickbait** nem dividir artigo em páginas.
 - Afiliados, produtos ou reviews: **pergunte antes**; exigem mudar as páginas legais e identificar a publicidade (LSSI art. 20).

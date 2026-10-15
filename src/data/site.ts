@@ -54,6 +54,14 @@ export const categories: Record<string, Category> = {
     description:
       'La siesta, la cena a las diez, el calor de agosto, el aceite de oliva y el cambio de hora: lo que la vida en España le hace a tu cuerpo, con fuentes.',
   },
+  records: {
+    name: 'Récords',
+    title: 'Récords del cuerpo humano | TeoMundo',
+    metaDescription:
+      'El hueso más pequeño, el músculo más fuerte, los latidos de una vida: los récords del cuerpo humano, con cifras verificadas y explicadas en un minuto.',
+    description:
+      'El hueso más pequeño, el músculo más fuerte, la persona más alta de la historia: los récords de tu cuerpo, con cifras verificadas.',
+  },
 };
 
 export const author = {
