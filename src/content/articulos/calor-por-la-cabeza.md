@@ -33,8 +33,8 @@ faq:
 sources:
   - title: "Scientific American (2008): Don't be fooled, six holiday health myths verified or debunked"
     url: "https://www.scientificamerican.com/blog/news-blog/dont-be-fooled-six-holiday-health-m-2008-12-18/"
-  - title: "Indiana University (2008): Doctors explore myths, half-truths and outright lies about health"
-    url: "https://newsinfo.iu.edu/news/page/print/11002.html"
+  - title: "Vreeman y Carroll (2008), BMJ: Festive medical myths"
+    url: "https://www.bmj.com/content/337/bmj.a2769"
 related:
   - afeitarse-pelo-mas-fuerte
   - cuanta-agua-beber-al-dia
@@ -54,7 +54,7 @@ Claro, casi todo el calor se perdía por la cabeza, porque era la única salida.
 
 ## Lo que dicen los números
 
-Según Vreeman y Carroll, si esas mismas personas hubieran hecho la prueba solo en bañador, habrían perdido **no más de un 10 % del calor** por la cabeza ([Indiana University](https://newsinfo.iu.edu/news/page/print/11002.html)). Es decir, aproximadamente lo que le toca por su tamaño respecto al resto del cuerpo.
+Según Vreeman y Carroll, si esas mismas personas hubieran hecho la prueba solo en bañador, habrían perdido **no más de un 10 % del calor** por la cabeza ([BMJ](https://www.bmj.com/content/337/bmj.a2769)). Es decir, aproximadamente lo que le toca por su tamaño respecto al resto del cuerpo.
 
 ## Por qué el gorro sí se nota
 

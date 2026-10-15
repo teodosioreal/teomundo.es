@@ -25,8 +25,10 @@ faq:
   - q: "¿Qué hago si alguien tiene agotamiento por calor?"
     a: "Llévalo a un sitio fresco, que beba a sorbos, aflójale la ropa y ponle paños húmedos. Si no mejora en una hora o empeora, busca atención médica."
 sources:
-  - title: "American Heart Association: Heat waves can be hazardous to the heart"
-    url: "https://easternstates.heart.org/?p=12300"
+  - title: "AARP: How extreme heat affects the heart"
+    url: "https://www.aarp.org/health/conditions-treatments/info-2023/extreme-heat-stroke-heart-attack-risk.html"
+  - title: "American Heart Association (2022): Extreme heat can be hazardous to your heart health"
+    url: "https://easternstates.heart.org/2022/06/14/as-temps-heat-up-on-the-east-coast-the-american-heart-association-warns-that-extreme-heat-can-be-hazardous-to-your-heart-health/"
   - title: "Ministerio de Sanidad: Plan Nacional de Actuaciones Preventivas de los Efectos del Exceso de Temperaturas sobre la Salud (2026)"
     url: "https://www.sanidad.gob.es/va/areas/sanidadAmbiental/riesgosAmbientales/calorExtremo/publicaciones/docs/planNacionalExcesoTemperaturas_2026.pdf"
   - title: "Ministerio de Sanidad: Decálogo de recomendaciones frente a las altas temperaturas"
@@ -44,7 +46,7 @@ Agosto en Córdoba o en Sevilla, 44 grados a la sombra a las seis de la tarde. H
 
 ## Tu corazón, el aire acondicionado del cuerpo
 
-Cuando la temperatura sube, el cuerpo intenta enfriarse de dos maneras: sudando y llevando más sangre a la piel, donde el calor puede escapar. Según la [American Heart Association](https://easternstates.heart.org/?p=12300), ese cambio desvía sangre desde los órganos principales hacia debajo de la piel, y hace que el corazón tenga que **bombear más**.
+Cuando la temperatura sube, el cuerpo intenta enfriarse de dos maneras: sudando y llevando más sangre a la piel, donde el calor puede escapar. Según la [American Heart Association](https://easternstates.heart.org/2022/06/14/as-temps-heat-up-on-the-east-coast-the-american-heart-association-warns-that-extreme-heat-can-be-hazardous-to-your-heart-health/), ese cambio desvía sangre desde los órganos principales hacia debajo de la piel, y hace que el corazón tenga que **bombear más**.
 
 Si además pierdes mucho líquido con el sudor y no bebes lo suficiente, baja el volumen de sangre. Con menos sangre, el corazón tiene que trabajar todavía más para llegar a todo el cuerpo.
 

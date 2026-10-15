@@ -28,7 +28,7 @@ sources:
   - title: "The Scientist: Can We Smell A Trillion Odors?"
     url: "https://www.the-scientist.com/can-we-smell-a-trillion-odors-35176"
   - title: "Gerkin y Castro (2015), eLife: The number of olfactory stimuli that humans can discriminate is still unknown"
-    url: "https://elifesciences.org/articles/08127/peer-reviews"
+    url: "https://elifesciences.org/articles/08127"
   - title: "Cleveland Clinic: Why Smells Trigger Memories"
     url: "https://health.clevelandclinic.org/smells-and-memory"
 related:
@@ -52,9 +52,9 @@ Ojo: en español, un billón es un millón de millones (1.000.000.000.000).
 
 ## La polémica de la cifra
 
-Al año siguiente, otros científicos revisaron las cuentas. Richard Gerkin y Jason Castro publicaron en la revista *eLife* un análisis titulado, literalmente, "El número de estímulos olfativos que los humanos pueden distinguir todavía es desconocido" ([eLife](https://elifesciences.org/articles/08127/peer-reviews)). Mostraron que el resultado cambia muchísimo según las suposiciones del cálculo.
+Al año siguiente, otros científicos revisaron las cuentas. Richard Gerkin y Jason Castro publicaron en la revista *eLife* un análisis titulado, literalmente, "El número de estímulos olfativos que los humanos pueden distinguir todavía es desconocido" ([eLife](https://elifesciences.org/articles/08127)). Mostraron que el resultado cambia muchísimo según las suposiciones del cálculo.
 
-Conclusión honesta: no hay una cifra cerrada. Pero todo apunta a que distinguimos muchísimos más olores que los 10.000 del mito.
+Lo honesto es decirlo claro: no hay una cifra cerrada. Pero todo apunta a que distinguimos muchísimos más olores que los 10.000 del mito.
 
 <!-- unsplash: spices kitchen jars | Tarros de especias en una cocina -->
 

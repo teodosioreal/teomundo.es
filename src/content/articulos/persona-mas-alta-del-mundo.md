@@ -27,8 +27,6 @@ faq:
 sources:
   - title: "Guinness World Records Kids: A history of record-breaking giants, 100 years after the tallest man in the world"
     url: "https://kids.guinnessworldrecords.com/news/2018/2/a-history-of-record-breaking-giants-100-years-after-the-tallest-man-in-the-world-511577"
-  - title: "Wonderopolis: Who is the tallest person in the world?"
-    url: "https://wonderopolis.org/wonder/Who-Is-the-Tallest-Person-in-the-World"
 related:
   - cuanta-saliva-producimos
   - hueso-mas-pequeno
@@ -55,7 +53,7 @@ Para hacerse una idea:
 
 ## La hipófisis, la culpable
 
-La **hipófisis** es una glándula del tamaño de un garbanzo situada en la base del cerebro. Entre otras cosas, produce la hormona del crecimiento. En el caso de Wadlow, la glándula estaba demasiado activa y producía mucha más hormona de la normal ([Wonderopolis](https://wonderopolis.org/wonder/Who-Is-the-Tallest-Person-in-the-World)).
+La **hipófisis** es una glándula del tamaño de un garbanzo situada en la base del cerebro. Entre otras cosas, produce la hormona del crecimiento. En el caso de Wadlow, la glándula estaba demasiado activa y producía mucha más hormona de la normal.
 
 Cuando esto ocurre en la infancia, antes de que se cierren las zonas de crecimiento de los huesos, se llama **gigantismo**. A menudo lo provoca un tumor benigno de la hipófisis. Hoy existen tratamientos que en la época de Wadlow no había.
 

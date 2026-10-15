@@ -190,7 +190,7 @@ Vamos a desmontar los más populares:
 - **"Contar hasta 100 al revés lo cura".** Solo ayuda si te distrae lo suficiente como para respirar más despacio.
 - **"El hipo puede ser peligroso".** El hipo común es inofensivo. Solo el que dura días necesita atención médica.
 
-En resumen, quitar el hipo depende más de la respiración y de los nervios que de la magia.
+Así que quitar el hipo depende más de la respiración y de los nervios que de la magia.
 
 ## Cómo evitar que vuelva el hipo
 
