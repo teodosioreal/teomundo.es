@@ -28,7 +28,7 @@
   body {
     @apply bg-paper font-sans text-ink antialiased;
     font-size: 1.125rem;
-    line-height: 1.7;
+    line-height: 1.8;
   }
   h1,
   h2,
@@ -58,19 +58,19 @@
 /* Article body (Markdown) */
 @layer components {
   .article-body h2 {
-    @apply mb-4 mt-12 scroll-mt-6 text-3xl font-bold;
+    @apply mb-5 mt-14 scroll-mt-6 text-3xl font-bold;
   }
   .article-body h3 {
-    @apply mb-3 mt-8 scroll-mt-6 text-2xl font-bold;
+    @apply mb-4 mt-10 scroll-mt-6 text-2xl font-bold;
   }
   .article-body p {
-    @apply mb-5;
+    @apply mb-7;
   }
   .article-body ul {
-    @apply mb-5 list-disc space-y-2 pl-6;
+    @apply mb-7 list-disc space-y-3 pl-6;
   }
   .article-body ol {
-    @apply mb-5 list-decimal space-y-2 pl-6;
+    @apply mb-7 list-decimal space-y-3 pl-6;
   }
   .article-body strong {
     @apply font-semibold text-ink;
@@ -136,5 +136,19 @@
   }
   .article-figure figcaption a {
     @apply text-muted;
+  }
+}
+
+/* Menu ☰ no celular (Header.astro): troca o ícone quando aberto e esconde o marcador do <summary>. */
+@layer components {
+  .menu-movil summary::-webkit-details-marker {
+    display: none;
+  }
+  .menu-movil .icono-cerrar,
+  .menu-movil[open] .icono-abrir {
+    display: none;
+  }
+  .menu-movil[open] .icono-cerrar {
+    display: inline;
   }
 }
