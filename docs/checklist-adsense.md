@@ -26,7 +26,7 @@
 
 | Item | Status | Observação |
 |---|---|---|
-| Pelo menos 50 artigos publicados | ✅ | **50 de 50.** Pauta-mestre completa. Pautas 51–100 em andamento: lotes 1 e 2 (20 artigos, 800–1000 palavras) agendados de 16/10 a 04/11/2026, um por dia às 08h de Madri. |
+| Pelo menos 50 artigos publicados | ✅ | **50 de 50.** Pauta-mestre completa. Pautas 51–100 em andamento: 35 artigos novos (800–1000 palavras) agendados de 16/10 a 19/11/2026; faltam 15 pautas, um por dia às 08h de Madri. |
 | Cada categoria com no mínimo 6 artigos | ✅ | ¿Por qué?: 10 · Mitos: 10 · Cuerpo y España: 10 · Récords: 10 · En 1 minuto: 10 |
 | Conteúdo 100% original e de qualidade | ✅ | Texto próprio, com fontes verificadas. |
 | Estratégia do Oceano Azul | ✅ | Nicho "curiosidades verificadas do corpo" com ângulo espanhol (siesta, cena tarde, calor). |
