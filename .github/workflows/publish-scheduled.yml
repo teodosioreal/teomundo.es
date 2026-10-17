@@ -1,10 +1,12 @@
 name: Publicar artigos agendados
 
 # Todo dia às 08:00 em Madri, no verão e no inverno. O cron do GitHub só usa UTC, então roda às 06:17 e às 07:17 UTC (fora da hora cheia, quando o GitHub mais atrasa ou pula execuções)
-# e só publica na primeira execução depois das 08h em Madri (uma vez por dia). O GitHub pode atrasar alguns minutos.
+# e só publica na primeira execução depois das 08h em Madri (uma vez por dia).
+# O GitHub às vezes atrasa horas ou pula execuções agendadas: as rodadas extras (09:17, 11:17, 14:17 e 18:17 UTC)
+# são a rede de segurança. Se o artigo do dia já saiu, elas não fazem nada.
 on:
   schedule:
-    - cron: '17 6,7 * * *'
+    - cron: '17 6,7,9,11,14,18 * * *'
   workflow_dispatch:
 
 permissions:
