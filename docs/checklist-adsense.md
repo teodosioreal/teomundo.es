@@ -51,7 +51,7 @@
 
 | Item | Status | Observação |
 |---|---|---|
-| Site com tráfego real (visitas diárias) | ⬜ | Depende de indexação no Google e de divulgação (redes sociais). |
+| Site com tráfego real (visitas diárias) | 🟡 | Começou: em 16/10/2026 (1 dia após o lançamento) o Search Console já mostrou 84 impressões, 2 cliques e 21 páginas aparecendo no Google, 62 % das impressões na Espanha. Falta virar algumas visitas por dia de forma constante (divulgação nas redes ajuda). |
 | Domínio próprio | ✅ | teomundo.es (adequado para o público da Espanha). Confirmar que abre com HTTPS. |
 | Site Kit (Analytics, AdSense, Search Console) configurado | ✅ | Equivalente ao Site Kit: Search Console verificado + sitemap enviado; AdSense no site; **Google Analytics 4** (`G-3LMJL02K9S`) em todas as páginas, com Modo de consentimento (na UE só mede quem aceitar). |
 | Código do AdSense em todas as páginas + ads.txt | ✅ | `ca-pub-4087868536415962` no `<head>` das 63 páginas e /ads.txt gerado. Privacidade e cookies já citam o AdSense. |
