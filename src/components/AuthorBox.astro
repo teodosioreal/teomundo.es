@@ -2,10 +2,10 @@
 // Assinatura no fim de cada artigo: avatar da equipe, bio e links.
 import { author, social } from '../data/site';
 
-const links = [
-  social.instagram && { label: 'Instagram', href: social.instagram },
-  social.facebook && { label: 'Facebook', href: social.facebook },
-].filter(Boolean) as { label: string; href: string }[];
+const links = [social.youtube && { label: 'Canal de YouTube', href: social.youtube }].filter(Boolean) as {
+  label: string;
+  href: string;
+}[];
 ---
 
 <aside class="mt-12 flex gap-4 rounded-xl border border-line bg-soft p-5 sm:gap-5" aria-label="Sobre el autor">

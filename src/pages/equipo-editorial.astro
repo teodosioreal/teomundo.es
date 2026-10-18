@@ -38,7 +38,17 @@ import { site, author, social } from '../data/site';
   <h2>¿Has visto un error?</h2>
   <p>
     Escríbenos desde la <a href="/contacto/">página de contacto</a> y lo revisamos.
-    {social.instagram && (<> También estamos en <a href={social.instagram} rel="noopener" target="_blank">Instagram</a>.</>)}
-    {social.facebook && (<> Y en <a href={social.facebook} rel="noopener" target="_blank">Facebook</a>.</>)}
   </p>
+
+  {
+    social.youtube && (
+      <>
+        <h2>Síguenos en YouTube</h2>
+        <p>
+          También estamos en <a href={social.youtube} rel="noopener" target="_blank">YouTube</a>.
+          {social.youtubeNote && <> {social.youtubeNote}</>}
+        </p>
+      </>
+    )
+  }
 </PageLayout>

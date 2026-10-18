@@ -1,5 +1,5 @@
 ---
-import { site, footerLinks, footerNotice } from '../data/site';
+import { site, footerLinks, footerNotice, social } from '../data/site';
 import CookieSettings from './CookieSettings.astro';
 
 const year = new Date().getFullYear();
@@ -9,6 +9,22 @@ const year = new Date().getFullYear();
   <div class="container-page py-10 text-sm leading-relaxed text-muted">
     <p class="font-serif text-lg font-bold text-brand-900">{site.name}</p>
     <p class="mt-1 max-w-prose">{site.description}</p>
+    {
+      social.youtube && (
+        <p class="mt-4 flex max-w-prose items-start gap-2">
+          <svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true" class="mt-0.5 shrink-0">
+            <path fill="#c4302b" d="M23 7.2a3 3 0 0 0-2.1-2.1C19 4.6 12 4.6 12 4.6s-7 0-8.9.5A3 3 0 0 0 1 7.2 31 31 0 0 0 .5 12a31 31 0 0 0 .5 4.8 3 3 0 0 0 2.1 2.1c1.9.5 8.9.5 8.9.5s7 0 8.9-.5a3 3 0 0 0 2.1-2.1 31 31 0 0 0 .5-4.8 31 31 0 0 0-.5-4.8Z" />
+            <path fill="#fff" d="m9.8 15.1 5.8-3.1-5.8-3.1v6.2Z" />
+          </svg>
+          <span>
+            <a href={social.youtube} rel="noopener" target="_blank" class="font-medium text-brand-900 hover:text-brand-700">
+              TeoMundo en YouTube
+            </a>
+            {social.youtubeNote && <> · {social.youtubeNote}</>}
+          </span>
+        </p>
+      )
+    }
     <nav aria-label="Información del sitio" class="mt-6">
       <ul class="flex flex-wrap gap-x-5 gap-y-2">
         {

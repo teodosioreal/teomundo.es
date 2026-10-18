@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getPublishedArticles } from '../lib/articles';
-import { site, categories, standards, promises } from '../data/site';
+import { site, categories, standards, promises, social } from '../data/site';
 import ArticleCard from '../components/ArticleCard.astro';
 
 const all = (await getPublishedArticles()).sort(
@@ -52,6 +52,7 @@ const jsonLd = [
     name: site.name,
     url: `${site.url}/`,
     logo: `${site.url}/favicon-512x512.png`,
+    ...(social.youtube ? { sameAs: [social.youtube] } : {}),
   },
 ];
 ---

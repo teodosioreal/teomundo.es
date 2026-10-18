@@ -83,9 +83,11 @@ export const author = {
 };
 
 // Redes sociais do site. Aparecem no rodapé e na assinatura quando preenchidas (URL completa).
-export const social: { instagram: string | null; facebook: string | null } = {
-  instagram: null,
-  facebook: null,
+// Só YouTube por decisão do dono (sem Instagram nem Facebook). O canal é novo, ainda sem vídeos:
+// o rodapé e a página da equipe dizem isso. Quando houver vídeos, troque youtubeNote por null.
+export const social: { youtube: string | null; youtubeNote: string | null } = {
+  youtube: 'https://www.youtube.com/@teomundoes',
+  youtubeNote: 'Acabamos de estrenar nuestro canal: muy pronto publicaremos los primeros vídeos.',
 };
 
 export const footerLinks: { label: string; href: string }[] = [

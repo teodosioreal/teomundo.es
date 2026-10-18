@@ -18,7 +18,7 @@
 | Termos de Uso (altamente recomendada) | ✅ | Condições de uso no /aviso-legal/ (padrão na Espanha), com titular TeoMundo · Brasil · contacto@teomundo.es (opção sem nome pessoal, escolhida pelo dono). Já entra no Google. |
 | Página "Transparência" (opcional) | ✅ | Coberta pela /politica-editorial/ (fontes, correções, publicidade). |
 | Link visível para a Home | ✅ | Logo + breadcrumb "Inicio" em todas as páginas. |
-| Links para redes sociais (Instagram e Facebook) | ⬜ | Precisa criar os perfis e me passar os links. |
+| Links para redes sociais | ✅ | Só YouTube, por decisão do dono (18/10/2026): [@teomundoes](https://www.youtube.com/@teomundoes) no rodapé de todas as páginas, na assinatura dos artigos, em /equipo-editorial/ e no schema.org (`sameAs`), com aviso de que o canal é novo e os vídeos vêm em breve. Instagram e Facebook descartados. |
 | Comentários ativos nos artigos | ➖ | Desligados por decisão do dono (15/10/2026); o Google não exige comentários. O site não mostra nem menciona comentários. O código fica guardado: para religar, `comments.active = true` em `site.ts` + banco D1 e senhas na Cloudflare. |
 | Artigos relacionados no final dos posts | ✅ | "Sigue leyendo", "Más guías de…", "Te puede interesar" e navegação anterior/seguinte. |
 
@@ -72,7 +72,7 @@ Só pedir quando **todos** estes estiverem ✅:
 1. 50 artigos, com as 5 categorias com pelo menos 6 cada.
 2. Autor real com foto e bio.
 3. E-mail de contato e dados do titular preenchidos.
-4. Redes sociais criadas e linkadas.
+4. Redes sociais criadas e linkadas (YouTube).
 5. Search Console verificado, com as páginas indexadas e algumas visitas por dia.
 6. Imagens nos artigos e nenhum link quebrado.
 
