@@ -40,8 +40,8 @@ sources:
     url: "https://www.cdc.gov/yellow-book/hcp/travel-air-sea/motion-sickness.html"
   - title: "NHS: Motion sickness"
     url: "https://www.nhs.uk/conditions/motion-sickness/"
-  - title: "En Familia (Asociación Española de Pediatría): Mareo por movimiento"
-    url: "https://enfamilia.aeped.es/prevencion/mareo-por-movimiento"
+  - title: "En Familia (Asociación Española de Pediatría): Mareo por movimiento (copia archivada)"
+    url: "https://web.archive.org/web/2025/https://enfamilia.aeped.es/prevencion/mareo-por-movimiento"
   - title: "MedlinePlus: Motion Sickness"
     url: "https://medlineplus.gov/motionsickness.html"
 related:
@@ -106,7 +106,7 @@ Sobre el jengibre, los CDC califican las pruebas de débiles y contradictorias.
 
 Con la operación salida de agosto, miles de familias cargan el coche hacia la playa o el pueblo, y en más de un asiento trasero viaja un niño pálido. No es casualidad. Según los CDC, los menores de 2 años casi nunca se marean, la sensibilidad llega a su máximo entre los 7 y los 12 años y luego va bajando, quizá porque el cerebro se acostumbra.
 
-La [Asociación Española de Pediatría](https://enfamilia.aeped.es/prevencion/mareo-por-movimiento) propone medidas sencillas:
+La [Asociación Española de Pediatría](https://web.archive.org/web/2025/https://enfamilia.aeped.es/prevencion/mareo-por-movimiento) propone medidas sencillas:
 
 - Comida ligera antes de salir y temperatura agradable dentro del coche.
 - Nada de pantallas ni libros; mejor canciones o juegos de palabras.

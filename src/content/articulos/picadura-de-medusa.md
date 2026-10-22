@@ -42,8 +42,8 @@ sources:
     url: "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=5442"
   - title: "Ministerio para la Transición Ecológica: Campaña Medusas, preguntas frecuentes"
     url: "https://www.miteco.gob.es/es/costas/campanas/campana-medusas/preguntas_frecuentes.html"
-  - title: "En Familia (Asociación Española de Pediatría): Picaduras de medusas"
-    url: "https://enfamilia.aeped.es/temas-salud/picaduras-medusas"
+  - title: "En Familia (Asociación Española de Pediatría): Picaduras de medusas (copia archivada)"
+    url: "https://web.archive.org/web/2025/https://enfamilia.aeped.es/temas-salud/picaduras-medusas"
   - title: "NHS: Jellyfish and other sea creature stings"
     url: "https://www.nhs.uk/conditions/jellyfish-and-other-sea-creature-stings/"
 related:
@@ -86,7 +86,7 @@ Un matiz honesto sobre el paso 4. El [NHS británico](https://www.nhs.uk/conditi
 
 Cuatro trucos de playa que conviene revisar:
 
-- **Orina.** El mito más famoso, y falso. La [Asociación Española de Pediatría](https://enfamilia.aeped.es/temas-salud/picaduras-medusas) lo dice sin rodeos: ni vinagre ni amoniaco diluidos, "ni por supuesto orina". El NHS coincide: no orines sobre la picadura.
+- **Orina.** El mito más famoso, y falso. La [Asociación Española de Pediatría](https://web.archive.org/web/2025/https://enfamilia.aeped.es/temas-salud/picaduras-medusas) lo dice sin rodeos: ni vinagre ni amoniaco diluidos, "ni por supuesto orina". El NHS coincide: no orines sobre la picadura.
 - **Agua dulce.** La de la ducha de la playa o la botella parece inofensiva, pero el cambio de salinidad hace que las células urticantes que siguen pegadas a la piel se disparen. Sanidad lo escribe en mayúsculas: "NUNCA utilizar agua dulce".
 - **Arena.** Frotar con arena, igual que con la toalla, arrastra restos de tentáculo por la piel y provoca más descargas.
 - **Vinagre.** Aquí está el lío. El Ministerio para la Transición Ecológica explica que resulta indicado para la carabela portuguesa pero contraindicado en otras especies. Otras revisiones lo desaconsejan también en la carabela. Conclusión práctica de esa misma fuente: si no sabes qué medusa ha sido, no lo uses.
