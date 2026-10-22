@@ -42,7 +42,7 @@
 |---|---|---|
 | Template leve, clean e responsivo | ✅ | Astro estático, sem JavaScript, testado em 390px. (Equivale ao "template WordPress leve".) |
 | Template traduzido para o idioma do conteúdo | ✅ | 100% em espanhol da Espanha. |
-| Sem links quebrados | ✅ | Revisão geral em 15/10/2026: 0 links internos quebrados em 63 páginas; 104 fontes externas testadas, 5 quebradas foram substituídas. As que aparecem como "bloqueadas" (Mayo Clinic, NEJM, BMJ, JAMA…) só barram robôs e abrem normalmente no navegador. |
+| Sem links quebrados | ✅ | Varredura em 22/10/2026: 0 links internos quebrados (71 páginas hoje e 99 na prévia de 20/11), 0 links com www/http, canonicais e sitemap 100% em teomundo.es. Corrigido o bug que deixava links para artigos agendados de "En 1 minuto" ativos. Fontes externas: 247 testadas; trocadas a do Ministerio de Sanidad (medusas), a do estudo de cosquillas e as 2 da AEPed (site deles mudou; agora cópia arquivada). Restam só bloqueios de robô e 1 servidor fora do ar (Weizmann). |
 | Linkagem interna entre os artigos | ✅ | Links no texto + blocos de leitura, sempre na mesma categoria. |
 | Linkagem externa só para sites confiáveis | ✅ | Só fontes oficiais e científicas (Mayo Clinic, NIH, NHS, Cleveland Clinic, revistas). |
 | Sem programas de afiliados ativos | ✅ | — |
