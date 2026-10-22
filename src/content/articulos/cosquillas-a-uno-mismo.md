@@ -39,7 +39,7 @@ sources:
   - title: "Blakemore, Wolpert y Frith (1998). Central cancellation of self-produced tickle sensation. Nature Neuroscience"
     url: "https://link.springer.com/article/10.1038/2870"
   - title: "Blakemore, Frith y Wolpert (1999). Spatio-temporal prediction modulates the perception of self-produced stimuli. Journal of Cognitive Neuroscience"
-    url: "https://columbia.demo.elsevierpure.com/en/publications/spatio-temporal-prediction-modulates-the-perception-of-self-produ-3"
+    url: "https://wolpertlab.neuroscience.columbia.edu/sites/default/files/content/papers/BlaWolFri99.pdf"
   - title: "Blakemore et al. (2000). Perception of self-produced sensory stimuli in patients with auditory hallucinations and passivity experiences. Psychological Medicine (UCL Discovery)"
     url: "https://discovery.ucl.ac.uk/id/eprint/4734/"
   - title: "Karolinska Institutet: Tickling, a window into the brain's mysteries"
@@ -67,7 +67,7 @@ La pieza clave estaba en el **cerebelo**, la zona de la parte posterior del cere
 
 ## Un robot que engaña al cerebelo
 
-Si la culpa es de la predicción, bastaría con estropearla. Eso hizo el mismo grupo en un estudio publicado en 1999 en el [Journal of Cognitive Neuroscience](https://columbia.demo.elsevierpure.com/en/publications/spatio-temporal-prediction-modulates-the-perception-of-self-produ-3).
+Si la culpa es de la predicción, bastaría con estropearla. Eso hizo el mismo grupo en un estudio publicado en 1999 en el [Journal of Cognitive Neuroscience](https://wolpertlab.neuroscience.columbia.edu/sites/default/files/content/papers/BlaWolFri99.pdf).
 
 Dieciséis voluntarios movían con la mano izquierda un brazo robótico. Ese robot movía a otro, que pasaba un trocito de espuma por la palma de su mano derecha. Primero tocaba el robot por su cuenta; después, el roce lo controlaba la propia persona.
 

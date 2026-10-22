@@ -37,11 +37,13 @@ faq:
     a: "Que se han visto medusas en la zona. Las banderas específicas varían según el municipio; la amarilla indica baño con precaución y la roja, prohibición."
 sources:
   - title: "Ministerio de Sanidad: Precauciones ante la presencia de medusas"
-    url: "https://mirror.mscbs.gob.es/areas/sanidadAmbiental/riesgosAmbientales/calorExtremo/publicaciones/docs/precaucionMedusas.pdf"
+    url: "https://www.sanidad.gob.es/areas/sanidadAmbiental/riesgosAmbientales/calorExtremo/publicaciones/docs/precaucionMedusas.pdf"
+  - title: "Ministerio de Sanidad: prevención frente a los riesgos para la salud en verano (nota de prensa)"
+    url: "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=5442"
   - title: "Ministerio para la Transición Ecológica: Campaña Medusas, preguntas frecuentes"
     url: "https://www.miteco.gob.es/es/costas/campanas/campana-medusas/preguntas_frecuentes.html"
   - title: "En Familia (Asociación Española de Pediatría): Picaduras de medusas"
-    url: "https://enfamilia.aeped.es/printpdf/temas-salud/picaduras-medusas"
+    url: "https://enfamilia.aeped.es/temas-salud/picaduras-medusas"
   - title: "NHS: Jellyfish and other sea creature stings"
     url: "https://www.nhs.uk/conditions/jellyfish-and-other-sea-creature-stings/"
 related:
@@ -65,7 +67,7 @@ Lo traicionero es que esas células siguen activas cuando la medusa está muerta
 
 ## Del agua a la toalla: los pasos que recomienda Sanidad
 
-Esta es la secuencia de las guías del [Ministerio de Sanidad](https://mirror.mscbs.gob.es/areas/sanidadAmbiental/riesgosAmbientales/calorExtremo/publicaciones/docs/precaucionMedusas.pdf) y de los pediatras:
+Esta es la secuencia de las guías del [Ministerio de Sanidad](https://www.sanidad.gob.es/areas/sanidadAmbiental/riesgosAmbientales/calorExtremo/publicaciones/docs/precaucionMedusas.pdf) y de los pediatras:
 
 1. **Sal del agua** con calma y avisa al socorrista más cercano o acércate a su puesto.
 2. **Lava sin frotar** con agua del mar. Nada de toallas restregando la zona.
@@ -84,7 +86,7 @@ Un matiz honesto sobre el paso 4. El [NHS británico](https://www.nhs.uk/conditi
 
 Cuatro trucos de playa que conviene revisar:
 
-- **Orina.** El mito más famoso, y falso. La [Asociación Española de Pediatría](https://enfamilia.aeped.es/printpdf/temas-salud/picaduras-medusas) lo dice sin rodeos: ni vinagre ni amoniaco diluidos, "ni por supuesto orina". El NHS coincide: no orines sobre la picadura.
+- **Orina.** El mito más famoso, y falso. La [Asociación Española de Pediatría](https://enfamilia.aeped.es/temas-salud/picaduras-medusas) lo dice sin rodeos: ni vinagre ni amoniaco diluidos, "ni por supuesto orina". El NHS coincide: no orines sobre la picadura.
 - **Agua dulce.** La de la ducha de la playa o la botella parece inofensiva, pero el cambio de salinidad hace que las células urticantes que siguen pegadas a la piel se disparen. Sanidad lo escribe en mayúsculas: "NUNCA utilizar agua dulce".
 - **Arena.** Frotar con arena, igual que con la toalla, arrastra restos de tentáculo por la piel y provoca más descargas.
 - **Vinagre.** Aquí está el lío. El Ministerio para la Transición Ecológica explica que resulta indicado para la carabela portuguesa pero contraindicado en otras especies. Otras revisiones lo desaconsejan también en la carabela. Conclusión práctica de esa misma fuente: si no sabes qué medusa ha sido, no lo uses.
