@@ -27,7 +27,7 @@ const image = ogImage ?? `${site.url}/favicon-512x512.png`;
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
     <meta name="description" content={description} />
-    <link rel="canonical" href={canonical} />
+    {!noindex && <link rel="canonical" href={canonical} />}
     {noindex ? <meta name="robots" content="noindex, follow" /> : <meta name="robots" content="max-image-preview:large" />}
     {searchConsole.verification && <meta name="google-site-verification" content={searchConsole.verification} />}
     <link rel="icon" href="/favicon.ico" sizes="48x48" />

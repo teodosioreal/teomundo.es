@@ -23,7 +23,7 @@ export default function unlinkScheduled() {
           .map((f) => f.replace(/\.md$/, ''));
         if (!scheduled.length) return;
 
-        const pattern = new RegExp(`<a href="/[a-z-]+/(?:${scheduled.join('|')})/"[^>]*>([\\s\\S]*?)</a>`, 'g');
+        const pattern = new RegExp(`<a href="/[a-z0-9-]+/(?:${scheduled.join('|')})/"[^>]*>([\\s\\S]*?)</a>`, 'g');
         let changed = 0;
         const visit = (path) => {
           for (const name of readdirSync(path)) {
