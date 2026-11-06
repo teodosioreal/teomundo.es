@@ -76,10 +76,7 @@ Es una aproximación. Nadie pasa el día entero en reposo: subes escaleras, habl
 
 Tu corazón, en cambio, late bastante más rápido que tú respiras. Si quieres ver la cifra de toda una vida, lee [cuántas veces late el corazón a lo largo de la vida](/records/latidos-del-corazon-en-una-vida/).
 
-<figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1709316010745-f7d376f1aaf3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc2l0dGluZyUyMG9uJTIwc29mYSUyMGhhbmQlMjBvbiUyMGNoZXN0JTIwcmVsYXhpbmd8ZW58MXwwfHx8MTc5NDAwNjIwN3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1709316010745-f7d376f1aaf3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc2l0dGluZyUyMG9uJTIwc29mYSUyMGhhbmQlMjBvbiUyMGNoZXN0JTIwcmVsYXhpbmd8ZW58MXwwfHx8MTc5NDAwNjIwN3ww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1709316010745-f7d376f1aaf3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc2l0dGluZyUyMG9uJTIwc29mYSUyMGhhbmQlMjBvbiUyMGNoZXN0JTIwcmVsYXhpbmd8ZW58MXwwfHx8MTc5NDAwNjIwN3ww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1709316010745-f7d376f1aaf3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc2l0dGluZyUyMG9uJTIwc29mYSUyMGhhbmQlMjBvbiUyMGNoZXN0JTIwcmVsYXhpbmd8ZW58MXwwfHx8MTc5NDAwNjIwN3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona sentada en el sofá con la mano en el pecho, relajada" loading="lazy" decoding="async">
-<figcaption>Foto de <a href="https://unsplash.com/@reddfrancisco?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Redd Francisco</a> en <a href="https://unsplash.com/photos/a-woman-sitting-on-a-couch-with-her-arms-crossed-unQ4qRnSrdo?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
-</figure>
+<!-- unsplash: woman sitting on sofa eyes closed calm | Mujer sentada en el sofá con los ojos cerrados, respirando con calma -->
 
 ## Mide tu propia frecuencia en un minuto
 

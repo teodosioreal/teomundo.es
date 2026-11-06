@@ -12,14 +12,8 @@ secondaryKeywords:
   - "derrame en el ojo al estornudar"
 datePublished: 2026-12-14
 dateModified: 2026-12-14
-imageQuery: "man sneezing into elbow"
-imageAlt: "Hombre estornudando sobre el codo"
-cover:
-  url: "https://images.unsplash.com/photo-1651255731918-e60c66e98ace?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWFuJTIwc25lZXppbmclMjBpbnRvJTIwZWxib3d8ZW58MXwwfHx8MTc5NDAwNjIxMXww&ixlib=rb-4.1.0"
-  alt: "Hombre estornudando sobre el codo"
-  author: "ManuelTheLensman"
-  authorUrl: "https://unsplash.com/@manuelthelensman?utm_source=teomundo&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/a-man-with-his-arms-crossed-V9r0DB0RNOk?utm_source=teomundo&utm_medium=referral"
+imageQuery: "woman sneezing into tissue"
+imageAlt: "Mujer estornudando en un pañuelo de papel"
 keyTakeaways:
   - "Se puede estornudar con los ojos abiertos, pero cuesta: hay que vencer un reflejo que los cierra solos."
   - "Los ojos no se salen al estornudar. Un alergólogo de la Universidad de Texas A&M lo califica de extremadamente improbable."
@@ -71,7 +65,7 @@ El alergólogo David Huston, de la Facultad de Medicina de Texas A&M, lo explic�
 Ten en cuenta la fuerza de lo que sale: la nube de un estornudo puede llegar a varios metros, como explicamos en [a qué velocidad sale un estornudo](/records/velocidad-estornudo/).
 
 <figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1552916016-9cbd0be0f03e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzbmVlemluZyUyMHRpc3N1ZSUyMHNwcmluZyUyMGZsb3dlcnN8ZW58MXwwfHx8MTc5NDAwNjIxMnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1552916016-9cbd0be0f03e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzbmVlemluZyUyMHRpc3N1ZSUyMHNwcmluZyUyMGZsb3dlcnN8ZW58MXwwfHx8MTc5NDAwNjIxMnww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1552916016-9cbd0be0f03e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzbmVlemluZyUyMHRpc3N1ZSUyMHNwcmluZyUyMGZsb3dlcnN8ZW58MXwwfHx8MTc5NDAwNjIxMnww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1552916016-9cbd0be0f03e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzbmVlemluZyUyMHRpc3N1ZSUyMHNwcmluZyUyMGZsb3dlcnN8ZW58MXwwfHx8MTc5NDAwNjIxMnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Mujer estornudando con un pañuelo en primavera" loading="lazy" decoding="async">
+<img src="https://images.unsplash.com/photo-1552916016-9cbd0be0f03e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzbmVlemluZyUyMHRpc3N1ZSUyMHNwcmluZyUyMGZsb3dlcnN8ZW58MXwwfHx8MTc5NDAwNjIxMnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1552916016-9cbd0be0f03e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzbmVlemluZyUyMHRpc3N1ZSUyMHNwcmluZyUyMGZsb3dlcnN8ZW58MXwwfHx8MTc5NDAwNjIxMnww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1552916016-9cbd0be0f03e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzbmVlemluZyUyMHRpc3N1ZSUyMHNwcmluZyUyMGZsb3dlcnN8ZW58MXwwfHx8MTc5NDAwNjIxMnww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1552916016-9cbd0be0f03e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzbmVlemluZyUyMHRpc3N1ZSUyMHNwcmluZyUyMGZsb3dlcnN8ZW58MXwwfHx8MTc5NDAwNjIxMnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Mujer oliendo las flores de un cerezo en primavera" loading="lazy" decoding="async">
 <figcaption>Foto de <a href="https://unsplash.com/@achernenko?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Alex Chernenko</a> en <a href="https://unsplash.com/photos/woman-holding-pink-petaled-flower-NHw36D42vHw?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 

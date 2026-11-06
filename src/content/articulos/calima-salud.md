@@ -13,14 +13,8 @@ secondaryKeywords:
   - "qué hacer con calima"
 datePublished: 2026-11-27
 dateModified: 2026-11-27
-imageQuery: "hazy orange sky dust city skyline"
-imageAlt: "Cielo anaranjado y brumoso por el polvo en suspensión sobre una ciudad"
-cover:
-  url: "https://images.unsplash.com/photo-1650570725926-cd88ef8784bd?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGF6eSUyMG9yYW5nZSUyMHNreSUyMGR1c3QlMjBjaXR5JTIwc2t5bGluZXxlbnwxfDB8fHwxNzk0MDA2MTk3fDA&ixlib=rb-4.1.0"
-  alt: "Cielo anaranjado y brumoso por el polvo en suspensión sobre una ciudad"
-  author: "Jorge Ramírez"
-  authorUrl: "https://unsplash.com/@streetsbydex?utm_source=teomundo&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/a-city-skyline-with-a-body-of-water-in-the-foreground-xxX81azO8T0?utm_source=teomundo&utm_medium=referral"
+imageQuery: "orange dusty haze over road"
+imageAlt: "Cielo anaranjado por el polvo en suspensión sobre una carretera"
 keyTakeaways:
   - "La calima es polvo del desierto en suspensión: llena el aire de partículas finas que respiras."
   - "En Madrid, un estudio de 2003 a 2005 encontró que cada aumento de partículas se asociaba a más muertes en días de polvo sahariano que en días normales."
@@ -75,7 +69,7 @@ En el día a día, lo que más se nota es esto:
 - Cansancio al hacer esfuerzo fuera de casa.
 
 <figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1781740637828-0b039728e5cd?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvc2VkJTIwd2luZG93JTIwZHVzdHklMjBnbGFzcyUyMG9yYW5nZSUyMHNreXxlbnwxfDB8fHwxNzk0MDA2MTk4fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1781740637828-0b039728e5cd?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvc2VkJTIwd2luZG93JTIwZHVzdHklMjBnbGFzcyUyMG9yYW5nZSUyMHNreXxlbnwxfDB8fHwxNzk0MDA2MTk4fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1781740637828-0b039728e5cd?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvc2VkJTIwd2luZG93JTIwZHVzdHklMjBnbGFzcyUyMG9yYW5nZSUyMHNreXxlbnwxfDB8fHwxNzk0MDA2MTk4fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1781740637828-0b039728e5cd?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvc2VkJTIwd2luZG93JTIwZHVzdHklMjBnbGFzcyUyMG9yYW5nZSUyMHNreXxlbnwxfDB8fHwxNzk0MDA2MTk4fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Ventana cerrada con el cielo anaranjado por el polvo" loading="lazy" decoding="async">
+<img src="https://images.unsplash.com/photo-1781740637828-0b039728e5cd?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvc2VkJTIwd2luZG93JTIwZHVzdHklMjBnbGFzcyUyMG9yYW5nZSUyMHNreXxlbnwxfDB8fHwxNzk0MDA2MTk4fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1781740637828-0b039728e5cd?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvc2VkJTIwd2luZG93JTIwZHVzdHklMjBnbGFzcyUyMG9yYW5nZSUyMHNreXxlbnwxfDB8fHwxNzk0MDA2MTk4fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1781740637828-0b039728e5cd?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvc2VkJTIwd2luZG93JTIwZHVzdHklMjBnbGFzcyUyMG9yYW5nZSUyMHNreXxlbnwxfDB8fHwxNzk0MDA2MTk4fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1781740637828-0b039728e5cd?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvc2VkJTIwd2luZG93JTIwZHVzdHklMjBnbGFzcyUyMG9yYW5nZSUyMHNreXxlbnwxfDB8fHwxNzk0MDA2MTk4fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Cielo anaranjado cubierto de polvo" loading="lazy" decoding="async">
 <figcaption>Foto de <a href="https://unsplash.com/@sschusterphotoart?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Sebastian Schuster</a> en <a href="https://unsplash.com/photos/vibrant-orange-sky-with-a-dark-horizon-line-xxyn0bRuiOE?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 

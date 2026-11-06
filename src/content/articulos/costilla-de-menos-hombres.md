@@ -13,14 +13,8 @@ secondaryKeywords:
   - "12 pares de costillas"
 datePublished: 2026-12-01
 dateModified: 2026-12-01
-imageQuery: "human skeleton anatomy model rib cage"
-imageAlt: "Maqueta de un esqueleto humano con la caja torácica a la vista"
-cover:
-  url: "https://images.unsplash.com/photo-1503429888457-07726f9469ba?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aHVtYW4lMjBza2VsZXRvbiUyMGFuYXRvbXklMjBtb2RlbCUyMHJpYiUyMGNhZ2V8ZW58MXwwfHx8MTc5NDAwNjIwNXww&ixlib=rb-4.1.0"
-  alt: "Maqueta de un esqueleto humano con la caja torácica a la vista"
-  author: "Ta Z"
-  authorUrl: "https://unsplash.com/@aurificina?utm_source=teomundo&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/animal-bone-photography-Nk7hHi3I__0?utm_source=teomundo&utm_medium=referral"
+imageQuery: "anatomy skeleton model classroom"
+imageAlt: "Esqueleto humano de anatomía en un aula"
 keyTakeaways:
   - "Es falso: hombres y mujeres tienen el mismo número de costillas, normalmente 12 pares (24 en total)."
   - "El mito viene del relato bíblico de Eva creada a partir de una costilla de Adán."
