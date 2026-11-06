@@ -36,6 +36,7 @@ sources:
   - title: "Mental Floss: Why does humidity make us feel hotter? (índice de calor del Servicio Meteorológico Nacional de EE. UU.)"
     url: "https://mentalfloss.com/article/30964/what-exactly-heat-index"
 related:
+  - frio-seco-o-humedo
   - calor-y-corazon
   - esperanza-de-vida-espana
   - dieta-mediterranea-beneficios

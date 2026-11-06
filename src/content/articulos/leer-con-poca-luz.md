@@ -36,6 +36,7 @@ sources:
   - title: "HealthDay (2011): Outdoor Time May Reduce Nearsightedness in Children"
     url: "https://healthday.com/health-news/child-health/outdoor-time-may-reduce-nearsightedness-in-children-658092.html"
 related:
+  - ver-la-tele-de-cerca
   - mito-10-por-ciento-cerebro
   - despertar-sonambulo
   - calor-por-la-cabeza

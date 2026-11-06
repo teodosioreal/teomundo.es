@@ -36,6 +36,7 @@ sources:
   - title: "The Hong Kong Polytechnic University: Dynamic tongueprint, a novel biometric identifier"
     url: "https://research.polyu.edu.hk/en/publications/dynamic-tongueprint-a-novel-biometric-identifier/"
 related:
+  - papilas-gustativas
   - los-ojos-crecen
   - cuantos-olores-distingue-la-nariz
   - electricidad-del-corazon

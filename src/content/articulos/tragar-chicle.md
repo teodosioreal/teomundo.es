@@ -36,6 +36,7 @@ sources:
   - title: "UAMS Health: Can chewing gum stay in your system for 7 years?"
     url: "https://uamshealth.com/medical-myths/can-chewing-gum-stay-in-your-system-for-7-years"
 related:
+  - tragar-aranas-durmiendo
   - mito-10-por-ciento-cerebro
   - corte-de-digestion
   - azucar-hiperactividad-ninos

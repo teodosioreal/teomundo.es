@@ -36,6 +36,7 @@ sources:
   - title: "Imaging and Machine Vision Europe: High-speed camera reveals sneeze aerosols travel 7-8m"
     url: "https://www.imveurope.com/news/high-speed-camera-reveals-sneeze-aerosols-travel-7-8m"
 related:
+  - velocidad-maxima-humana
   - longitud-vasos-sanguineos
   - celulas-que-se-renuevan
   - cuanta-saliva-producimos

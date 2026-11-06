@@ -43,6 +43,7 @@ sources:
   - title: "Mayo Clinic: Do caffeinated drinks hydrate you as well as water?"
     url: "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/caffeinated-drinks/faq-20057965"
 related:
+  - chocolate-y-granos
   - cuanta-agua-beber-al-dia
   - azucar-hiperactividad-ninos
   - corte-de-digestion

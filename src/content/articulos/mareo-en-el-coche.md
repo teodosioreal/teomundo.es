@@ -45,6 +45,7 @@ sources:
   - title: "MedlinePlus: Motion Sickness"
     url: "https://medlineplus.gov/motionsickness.html"
 related:
+  - oidos-tapados-avion
   - mareo-al-levantarse
   - cosquillas-a-uno-mismo
   - estornudar-con-el-sol

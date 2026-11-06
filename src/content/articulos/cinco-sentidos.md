@@ -45,6 +45,7 @@ sources:
   - title: "Sensory Trust: 5, 9, 21, 53… how many senses do we have?"
     url: "https://www.sensorytrust.org.uk/information/articles/senses.html"
 related:
+  - costilla-de-menos-hombres
   - mapa-de-la-lengua
   - mito-10-por-ciento-cerebro
   - zanahorias-vista

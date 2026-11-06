@@ -45,6 +45,7 @@ sources:
   - title: "BOE: Real Decreto 1553/2005, por el que se regula la expedición del documento nacional de identidad"
     url: "https://www.boe.es/eli/es/rd/2005/12/23/1553"
 related:
+  - yemas-de-los-dedos-sensibles
   - huella-de-la-lengua
   - cuantos-huesos-tiene-un-bebe
   - los-ojos-crecen

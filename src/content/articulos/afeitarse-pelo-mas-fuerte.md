@@ -36,6 +36,7 @@ sources:
   - title: "Mayo Clinic: Shaving hair: Does shaved hair grow back thicker?"
     url: "https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/hair-removal/faq-20058427"
 related:
+  - canas-por-un-susto
   - leer-con-poca-luz
   - calor-por-la-cabeza
   - crujir-dedos-artritis

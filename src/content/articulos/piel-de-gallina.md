@@ -38,6 +38,7 @@ sources:
   - title: "ScienceDaily (2020): Why do we get goosebumps?"
     url: "https://www.sciencedaily.com/releases/2020/01/200122135313.htm"
 related:
+  - por-que-tiritamos
   - dedos-arrugados-en-el-agua
   - estornudar-con-el-sol
   - bostezo-contagioso

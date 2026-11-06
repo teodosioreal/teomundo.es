@@ -38,6 +38,7 @@ sources:
   - title: "Maldita.es: La historia del huso horario de España"
     url: "https://maldita.es/clima/20250330/huso-horario-espana-hora-polonia-portugal"
 related:
+  - horas-de-sueno-espanoles
   - beneficios-de-la-siesta
   - cambio-de-hora-salud
   - dieta-mediterranea-beneficios

@@ -45,6 +45,7 @@ sources:
   - title: "Association for Psychological Science: Déjà vu may feel like a premonition, but it's not"
     url: "https://www.psychologicalscience.org/news/releases/deja-vu-may-feel-like-a-premonition-but-its-not.html"
 related:
+  - olvidamos-los-suenos
   - sacudida-al-dormirse
   - cosquillas-a-uno-mismo
   - bostezo-contagioso

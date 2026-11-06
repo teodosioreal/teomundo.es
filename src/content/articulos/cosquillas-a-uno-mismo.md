@@ -45,6 +45,7 @@ sources:
   - title: "Karolinska Institutet: Tickling, a window into the brain's mysteries"
     url: "https://news.ki.se/tickling-a-window-into-the-brains-mysteries"
 related:
+  - voz-grabada-suena-rara
   - piel-de-gallina
   - bostezo-contagioso
   - sacudida-al-dormirse

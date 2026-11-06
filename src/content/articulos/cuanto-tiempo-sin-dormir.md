@@ -36,6 +36,7 @@ sources:
   - title: "Dawson y Reid (1997), Nature: Fatigue, alcohol and performance impairment"
     url: "https://ideas.repec.org/a/nat/nature/v388y1997i6639d10.1038_40775.html"
 related:
+  - palabras-que-decimos-al-dia
   - hueso-mas-pequeno
   - musculo-mas-fuerte
   - latidos-del-corazon-en-una-vida

@@ -47,6 +47,7 @@ sources:
   - title: "NHS: Hay fever"
     url: "https://www.nhs.uk/conditions/hay-fever/"
 related:
+  - calima-salud
   - aceite-de-oliva-cerebro
   - dieta-mediterranea-beneficios
   - cambio-de-hora-salud

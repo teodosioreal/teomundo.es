@@ -36,6 +36,7 @@ sources:
   - title: "Scientific American: Looking at the Sun Can Trigger a Sneeze"
     url: "https://www.scientificamerican.com/article/looking-at-the-sun-can-trigger-a-sneeze/"
 related:
+  - por-que-nos-sonrojamos
   - como-quitar-el-hipo
   - bostezo-contagioso
   - piel-de-gallina

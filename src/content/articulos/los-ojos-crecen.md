@@ -36,6 +36,7 @@ sources:
   - title: "Review of Myopia Management: crecimiento axial del ojo en la infancia"
     url: "https://reviewofmm.com/?p=35757"
 related:
+  - estornudar-ojos-abiertos
   - mas-alto-por-la-manana
   - cuantos-huesos-tiene-un-bebe
   - huella-de-la-lengua

@@ -45,6 +45,7 @@ sources:
   - title: "BOE: Real Decreto 1367/2007, sobre zonificación acústica y objetivos de calidad acústica"
     url: "https://www.boe.es/eli/es/rd/2007/10/19/1367/con"
 related:
+  - calefaccion-aire-seco
   - beneficios-de-la-siesta
   - cambio-de-hora-salud
   - calor-y-corazon

@@ -36,6 +36,7 @@ sources:
   - title: "Cleveland Clinic: Facts about the heart"
     url: "https://health.clevelandclinic.org/facts-about-the-heart"
 related:
+  - kilometros-en-una-vida
   - persona-mas-alta-del-mundo
   - longitud-vasos-sanguineos
   - cuanto-tiempo-sin-dormir

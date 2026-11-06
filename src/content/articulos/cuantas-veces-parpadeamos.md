@@ -45,6 +45,7 @@ sources:
   - title: "Kamøy et al. (2022). Video display terminal use and dry eye: preventive measures and future perspectives. Acta Ophthalmologica"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9790652/"
 related:
+  - cuantas-veces-respiramos
   - los-ojos-crecen
   - cuantos-olores-distingue-la-nariz
   - huella-de-la-lengua
