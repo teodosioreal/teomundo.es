@@ -15,6 +15,12 @@ datePublished: 2026-12-07
 dateModified: 2026-12-07
 imageQuery: "radiator under window winter living room"
 imageAlt: "Radiador bajo una ventana en un salón en invierno"
+cover:
+  url: "https://images.unsplash.com/photo-1768488314310-3742b3c75579?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cmFkaWF0b3IlMjB1bmRlciUyMHdpbmRvdyUyMHdpbnRlciUyMGxpdmluZyUyMHJvb218ZW58MXwwfHx8MTc5NDAwNjE5NXww&ixlib=rb-4.1.0"
+  alt: "Radiador bajo una ventana en un salón en invierno"
+  author: "Clay Banks"
+  authorUrl: "https://unsplash.com/@claybanks?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/cozy-living-room-with-fireplace-and-orange-chairs-aqdQyt580zY?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El aire frío de fuera lleva poca agua; al calentarlo dentro de casa, su humedad relativa baja todavía más."
   - "La Clínica Mayo aconseja mantener la humedad de casa entre el 30 % y el 50 %; el RITE usa entre el 40 % y el 50 % para diseñar edificios en invierno."
@@ -63,7 +69,10 @@ La [Clínica Mayo](https://www.mayoclinic.org/diseases-conditions/common-cold/in
 
 Los ojos también lo notan. MedlinePlus incluye los [ambientes secos y con corrientes de aire](https://medlineplus.gov/spanish/ency/article/000426.htm) entre las causas del ojo seco y aconseja evitar el chorro directo de aire. Si además pasas horas ante una pantalla, parpadeas menos de lo normal; lo contamos en [cuántas veces parpadeamos al día](/en-1-minuto/cuantas-veces-parpadeamos/).
 
-<!-- unsplash: digital hygrometer on wooden shelf home | Higrómetro digital sobre una estantería de madera en casa -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1764522918398-9a1286a44681?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGlnaXRhbCUyMGh5Z3JvbWV0ZXIlMjBvbiUyMHdvb2RlbiUyMHNoZWxmJTIwaG9tZXxlbnwxfDB8fHwxNzk0MDA2MTk2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1764522918398-9a1286a44681?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGlnaXRhbCUyMGh5Z3JvbWV0ZXIlMjBvbiUyMHdvb2RlbiUyMHNoZWxmJTIwaG9tZXxlbnwxfDB8fHwxNzk0MDA2MTk2fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1764522918398-9a1286a44681?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGlnaXRhbCUyMGh5Z3JvbWV0ZXIlMjBvbiUyMHdvb2RlbiUyMHNoZWxmJTIwaG9tZXxlbnwxfDB8fHwxNzk0MDA2MTk2fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1764522918398-9a1286a44681?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGlnaXRhbCUyMGh5Z3JvbWV0ZXIlMjBvbiUyMHdvb2RlbiUyMHNoZWxmJTIwaG9tZXxlbnwxfDB8fHwxNzk0MDA2MTk2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Higrómetro digital sobre una estantería de madera en casa" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@chriscreations__?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Christian Agbede</a> en <a href="https://unsplash.com/photos/curiosity-cabinet-filled-with-eclectic-objects-and-curiosities-8ayp5jHp5T8?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Qué dice la norma española sobre temperatura y humedad
 

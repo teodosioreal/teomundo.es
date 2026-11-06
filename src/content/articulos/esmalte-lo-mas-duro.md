@@ -15,6 +15,12 @@ datePublished: 2026-11-23
 dateModified: 2026-11-23
 imageQuery: "close up smiling teeth"
 imageAlt: "Primer plano de una sonrisa con los dientes a la vista"
+cover:
+  url: "https://images.unsplash.com/photo-1489278353717-f64c6ee8a4d2?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvc2UlMjB1cCUyMHNtaWxpbmclMjB0ZWV0aHxlbnwxfDB8fHwxNzk0MDA2MjEwfDA&ixlib=rb-4.1.0"
+  alt: "Primer plano de una sonrisa con los dientes a la vista"
+  author: "Lesly Juarez"
+  authorUrl: "https://unsplash.com/@jblesly?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/long-black-haired-woman-smiling-close-up-photography-1AhGNGKuhR0?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El esmalte que recubre los dientes es el material más duro del cuerpo, más incluso que el hueso."
   - "Está hecho casi todo de mineral (alrededor del 96 %), sobre todo hidroxiapatita, que puntúa un 5 en la escala de dureza de Mohs."
@@ -76,7 +82,10 @@ Aquí viene la parte que explica la mueca del botellín. La dureza mide lo bien 
 
 El esmalte aguanta sin problema el roce de un tenedor de metal, pero es **frágil**: con un golpe seco o una palanca mal hecha se astilla. Science Focus pone justo ese ejemplo, el de abrir una botella con los dientes. Y detrás de cada mordisco empuja el [masetero](/records/musculo-mas-fuerte/), uno de los músculos más fuertes del cuerpo para su tamaño.
 
-<!-- unsplash: person brushing teeth bathroom mirror | Persona cepillándose los dientes frente al espejo del baño -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1617113352934-b6f63b843a53?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwYnJ1c2hpbmclMjB0ZWV0aCUyMGJhdGhyb29tJTIwbWlycm9yfGVufDF8MHx8fDE3OTQwMDYyMTB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1617113352934-b6f63b843a53?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwYnJ1c2hpbmclMjB0ZWV0aCUyMGJhdGhyb29tJTIwbWlycm9yfGVufDF8MHx8fDE3OTQwMDYyMTB8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1617113352934-b6f63b843a53?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwYnJ1c2hpbmclMjB0ZWV0aCUyMGJhdGhyb29tJTIwbWlycm9yfGVufDF8MHx8fDE3OTQwMDYyMTB8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1617113352934-b6f63b843a53?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwYnJ1c2hpbmclMjB0ZWV0aCUyMGJhdGhyb29tJTIwbWlycm9yfGVufDF8MHx8fDE3OTQwMDYyMTB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona cepillándose los dientes frente al espejo del baño" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@missswiss?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Ashley Piszek</a> en <a href="https://unsplash.com/photos/woman-in-white-tank-top-standing-in-front-of-mirror-t5BaT2xO7ZE?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Por qué no vuelve a crecer
 

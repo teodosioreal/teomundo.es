@@ -15,6 +15,12 @@ datePublished: 2026-12-16
 dateModified: 2026-12-16
 imageQuery: "flock of sheep grazing in green meadow"
 imageAlt: "Rebaño de ovejas pastando en un prado verde"
+cover:
+  url: "https://images.unsplash.com/photo-1695076721761-7eb530f1ef4d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZmxvY2slMjBvZiUyMHNoZWVwJTIwZ3JhemluZyUyMGluJTIwZ3JlZW4lMjBtZWFkb3d8ZW58MXwwfHx8MTc5NDAwNjIwM3ww&ixlib=rb-4.1.0"
+  alt: "Rebaño de ovejas pastando en un prado verde"
+  author: "Natalia Gasiorowska"
+  authorUrl: "https://unsplash.com/@nataliagasiorowska?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-herd-of-sheep-standing-on-top-of-a-lush-green-field-JkFqvYtz5uQ?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "No hay pruebas de que contar ovejas ayude a dormir: es un consejo popular que la ciencia no respalda."
   - "En un estudio de la Universidad de Oxford de 2002, las personas con insomnio que imaginaban una escena relajante se dormían antes que las que no hacían nada."
@@ -69,7 +75,10 @@ El matiz importante es este: el estudio no puso a nadie a contar ovejas como tal
 
 Así que el veredicto honesto es: no hay pruebas de que contar ovejas sirva, y sí hay un estudio pequeño que apunta a una alternativa mejor. Las cifras exactas de minutos ganados que circulan por internet no aparecen en el resumen del estudio, así que tómalas con prudencia.
 
-<!-- unsplash: calm empty beach at sunset | Playa tranquila y vacía al atardecer -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1578349198494-f76d9dcac32a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2FsbSUyMGVtcHR5JTIwYmVhY2glMjBhdCUyMHN1bnNldHxlbnwxfDB8fHwxNzk0MDA2MjA0fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1578349198494-f76d9dcac32a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2FsbSUyMGVtcHR5JTIwYmVhY2glMjBhdCUyMHN1bnNldHxlbnwxfDB8fHwxNzk0MDA2MjA0fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1578349198494-f76d9dcac32a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2FsbSUyMGVtcHR5JTIwYmVhY2glMjBhdCUyMHN1bnNldHxlbnwxfDB8fHwxNzk0MDA2MjA0fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1578349198494-f76d9dcac32a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2FsbSUyMGVtcHR5JTIwYmVhY2glMjBhdCUyMHN1bnNldHxlbnwxfDB8fHwxNzk0MDA2MjA0fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Playa tranquila y vacía al atardecer" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@theroamingwildstead?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Amanda Frank</a> en <a href="https://unsplash.com/photos/waves-of-water-5Oljqgwl40k?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Tu escena para la almohada, en cinco pasos
 

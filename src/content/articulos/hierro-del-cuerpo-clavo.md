@@ -15,6 +15,12 @@ datePublished: 2026-12-04
 dateModified: 2026-12-04
 imageQuery: "iron nails on wooden workbench close up"
 imageAlt: "Clavos de hierro sobre un banco de trabajo de madera"
+cover:
+  url: "https://images.unsplash.com/photo-1663282571617-dbc7ebe9bdf7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aXJvbiUyMG5haWxzJTIwb24lMjB3b29kZW4lMjB3b3JrYmVuY2glMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTQwMDYyMTV8MA&ixlib=rb-4.1.0"
+  alt: "Clavos de hierro sobre un banco de trabajo de madera"
+  author: "Lee Lawson"
+  authorUrl: "https://unsplash.com/@lawsonlee?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-wooden-bench-in-a-room-SPQJBnzqmoY?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Un adulto tiene entre 3 y 4 gramos de hierro en todo el cuerpo, según los Institutos Nacionales de Salud de EE. UU."
   - "La mayor parte está en la hemoglobina, la proteína de los glóbulos rojos que lleva el oxígeno."
@@ -84,7 +90,10 @@ Si tu clavo pequeño pesa menos de 3 o 4 gramos, el dicho se cumple con ese clav
 
 Y no, tu estómago no se dedica a disolver clavos para sacarles el hierro. Te contamos lo que sí puede hacer su ácido con el metal en [si el ácido del estómago puede disolver metal](/en-1-minuto/acido-del-estomago/).
 
-<!-- unsplash: plate of lentils with vegetables on kitchen table | Plato de lentejas con verduras sobre la mesa de la cocina -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1617880042824-b6fb79583eb4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGxhdGUlMjBvZiUyMGxlbnRpbHMlMjB3aXRoJTIwdmVnZXRhYmxlcyUyMG9uJTIwa2l0Y2hlbiUyMHRhYmxlfGVufDF8MHx8fDE3OTQwMDYyMTZ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1617880042824-b6fb79583eb4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGxhdGUlMjBvZiUyMGxlbnRpbHMlMjB3aXRoJTIwdmVnZXRhYmxlcyUyMG9uJTIwa2l0Y2hlbiUyMHRhYmxlfGVufDF8MHx8fDE3OTQwMDYyMTZ8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1617880042824-b6fb79583eb4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGxhdGUlMjBvZiUyMGxlbnRpbHMlMjB3aXRoJTIwdmVnZXRhYmxlcyUyMG9uJTIwa2l0Y2hlbiUyMHRhYmxlfGVufDF8MHx8fDE3OTQwMDYyMTZ8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1617880042824-b6fb79583eb4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGxhdGUlMjBvZiUyMGxlbnRpbHMlMjB3aXRoJTIwdmVnZXRhYmxlcyUyMG9uJTIwa2l0Y2hlbiUyMHRhYmxlfGVufDF8MHx8fDE3OTQwMDYyMTZ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Plato de lentejas con verduras sobre la mesa de la cocina" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@mathias_elle_photography?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Mathias Elle</a> en <a href="https://unsplash.com/photos/white-and-brown-ceramic-bowl-on-brown-wooden-table-7kEHz-SyXS0?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Dónde encuentras el hierro en la comida
 

@@ -15,6 +15,12 @@ datePublished: 2026-12-01
 dateModified: 2026-12-01
 imageQuery: "human skeleton anatomy model rib cage"
 imageAlt: "Maqueta de un esqueleto humano con la caja torácica a la vista"
+cover:
+  url: "https://images.unsplash.com/photo-1503429888457-07726f9469ba?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aHVtYW4lMjBza2VsZXRvbiUyMGFuYXRvbXklMjBtb2RlbCUyMHJpYiUyMGNhZ2V8ZW58MXwwfHx8MTc5NDAwNjIwNXww&ixlib=rb-4.1.0"
+  alt: "Maqueta de un esqueleto humano con la caja torácica a la vista"
+  author: "Ta Z"
+  authorUrl: "https://unsplash.com/@aurificina?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/animal-bone-photography-Nk7hHi3I__0?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es falso: hombres y mujeres tienen el mismo número de costillas, normalmente 12 pares (24 en total)."
   - "El mito viene del relato bíblico de Eva creada a partir de una costilla de Adán."
@@ -63,7 +69,10 @@ Entre los errores que corrigió estaba este. Según recoge [Hyperallergic](https
 
 Hoy cualquier radiografía de tórax lo confirma. El manual médico [StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK538328/) lo resume en una frase: en general, hay doce pares de costillas. No distingue entre sexos, porque no hay nada que distinguir.
 
-<!-- unsplash: chest x-ray rib cage | Radiografía de tórax en la que se ven las costillas -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1616012480717-fd9867059ca0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hlc3QlMjB4LXJheSUyMHJpYiUyMGNhZ2V8ZW58MXwwfHx8MTc5NDAwNjIwNXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1616012480717-fd9867059ca0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hlc3QlMjB4LXJheSUyMHJpYiUyMGNhZ2V8ZW58MXwwfHx8MTc5NDAwNjIwNXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1616012480717-fd9867059ca0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hlc3QlMjB4LXJheSUyMHJpYiUyMGNhZ2V8ZW58MXwwfHx8MTc5NDAwNjIwNXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1616012480717-fd9867059ca0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hlc3QlMjB4LXJheSUyMHJpYiUyMGNhZ2V8ZW58MXwwfHx8MTc5NDAwNjIwNXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Radiografía de tórax en la que se ven las costillas" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@umanoide?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Umanoide</a> en <a href="https://unsplash.com/photos/chest-x-ray-of-rib-cage-tHS9j3HWT1s?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Tus 24 costillas, agrupadas
 

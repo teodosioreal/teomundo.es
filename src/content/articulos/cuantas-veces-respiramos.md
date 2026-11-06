@@ -15,6 +15,12 @@ datePublished: 2026-11-29
 dateModified: 2026-11-29
 imageQuery: "woman breathing deeply outdoors morning"
 imageAlt: "Mujer respirando hondo al aire libre por la mañana"
+cover:
+  url: "https://images.unsplash.com/photo-1729517033475-ab2ac094645e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBicmVhdGhpbmclMjBkZWVwbHklMjBvdXRkb29ycyUyMG1vcm5pbmd8ZW58MXwwfHx8MTc5NDAwNjIwNnww&ixlib=rb-4.1.0"
+  alt: "Mujer respirando hondo al aire libre por la mañana"
+  author: "Hosein Sediqi"
+  authorUrl: "https://unsplash.com/@hoseinsediqii?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-woman-standing-in-a-field-with-her-eyes-closed-B-RbwZxgkfY?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Un adulto en reposo respira entre 12 y 20 veces por minuto."
   - "Con ese ritmo salen entre 17.280 y 28.800 respiraciones en 24 horas."
@@ -70,7 +76,10 @@ Es una aproximación. Nadie pasa el día entero en reposo: subes escaleras, habl
 
 Tu corazón, en cambio, late bastante más rápido que tú respiras. Si quieres ver la cifra de toda una vida, lee [cuántas veces late el corazón a lo largo de la vida](/records/latidos-del-corazon-en-una-vida/).
 
-<!-- unsplash: person sitting on sofa hand on chest relaxing | Persona sentada en el sofá con la mano en el pecho, relajada -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1709316010745-f7d376f1aaf3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc2l0dGluZyUyMG9uJTIwc29mYSUyMGhhbmQlMjBvbiUyMGNoZXN0JTIwcmVsYXhpbmd8ZW58MXwwfHx8MTc5NDAwNjIwN3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1709316010745-f7d376f1aaf3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc2l0dGluZyUyMG9uJTIwc29mYSUyMGhhbmQlMjBvbiUyMGNoZXN0JTIwcmVsYXhpbmd8ZW58MXwwfHx8MTc5NDAwNjIwN3ww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1709316010745-f7d376f1aaf3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc2l0dGluZyUyMG9uJTIwc29mYSUyMGhhbmQlMjBvbiUyMGNoZXN0JTIwcmVsYXhpbmd8ZW58MXwwfHx8MTc5NDAwNjIwN3ww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1709316010745-f7d376f1aaf3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc2l0dGluZyUyMG9uJTIwc29mYSUyMGhhbmQlMjBvbiUyMGNoZXN0JTIwcmVsYXhpbmd8ZW58MXwwfHx8MTc5NDAwNjIwN3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona sentada en el sofá con la mano en el pecho, relajada" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@reddfrancisco?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Redd Francisco</a> en <a href="https://unsplash.com/photos/a-woman-sitting-on-a-couch-with-her-arms-crossed-unQ4qRnSrdo?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Mide tu propia frecuencia en un minuto
 

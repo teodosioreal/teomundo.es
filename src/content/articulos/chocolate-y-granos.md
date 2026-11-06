@@ -15,6 +15,12 @@ datePublished: 2026-11-26
 dateModified: 2026-11-26
 imageQuery: "pieces of dark chocolate bar on wooden table"
 imageAlt: "Onzas de chocolate negro sobre una mesa de madera"
+cover:
+  url: "https://images.unsplash.com/photo-1581264247263-5b1afa9dc0b1?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGllY2VzJTIwb2YlMjBkYXJrJTIwY2hvY29sYXRlJTIwYmFyJTIwb24lMjB3b29kZW4lMjB0YWJsZXxlbnwxfDB8fHwxNzk0MDA2MjAxfDA&ixlib=rb-4.1.0"
+  alt: "Onzas de chocolate negro sobre una mesa de madera"
+  author: "Anne Nygård"
+  authorUrl: "https://unsplash.com/@polarmermaid?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/brown-wooden-blocks-on-brown-wooden-table-4LRLNmHbPlk?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es un mito a medias: no hay pruebas de que el chocolate cause acné por sí solo."
   - "Varios estudios pequeños con personas que ya tenían acné vieron que comer chocolate se asociaba con más granos en pocas semanas."
@@ -69,7 +75,10 @@ Fíjate en un detalle: casi todos los participantes **ya tenían acné**. Ningun
 
 Uno de los autores del estudio de 2016, Pravit Asawanonda, lo dejó claro: no concluyeron que el chocolate cause acné, porque es un problema con muchos factores. Y el estudio de 2024 reconoce que no se sabe qué parte del chocolate sería la responsable: el cacao, el azúcar, la grasa o la leche.
 
-<!-- unsplash: young woman looking at her face in mirror | Joven mirándose la piel de la cara en el espejo -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1603572298498-848f70a46d29?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8eW91bmclMjB3b21hbiUyMGxvb2tpbmclMjBhdCUyMGhlciUyMGZhY2UlMjBpbiUyMG1pcnJvcnxlbnwxfDB8fHwxNzk0MDA2MjAyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1603572298498-848f70a46d29?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8eW91bmclMjB3b21hbiUyMGxvb2tpbmclMjBhdCUyMGhlciUyMGZhY2UlMjBpbiUyMG1pcnJvcnxlbnwxfDB8fHwxNzk0MDA2MjAyfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1603572298498-848f70a46d29?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8eW91bmclMjB3b21hbiUyMGxvb2tpbmclMjBhdCUyMGhlciUyMGZhY2UlMjBpbiUyMG1pcnJvcnxlbnwxfDB8fHwxNzk0MDA2MjAyfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1603572298498-848f70a46d29?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8eW91bmclMjB3b21hbiUyMGxvb2tpbmclMjBhdCUyMGhlciUyMGZhY2UlMjBpbiUyMG1pcnJvcnxlbnwxfDB8fHwxNzk0MDA2MjAyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Joven mirándose la piel de la cara en el espejo" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@elisamoldovan?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Elisa Photography</a> en <a href="https://unsplash.com/photos/woman-looking-in-round-mirror-tVEMwaR9XqI?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## El azúcar, el otro sospechoso
 

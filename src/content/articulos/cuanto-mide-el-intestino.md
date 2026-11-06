@@ -15,6 +15,12 @@ datePublished: 2026-11-24
 dateModified: 2026-11-24
 imageQuery: "measuring tape coiled on wooden table"
 imageAlt: "Cinta métrica enrollada sobre una mesa de madera"
+cover:
+  url: "https://images.unsplash.com/photo-1477955433441-51d0a2955c60?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWVhc3VyaW5nJTIwdGFwZSUyMGNvaWxlZCUyMG9uJTIwd29vZGVuJTIwdGFibGV8ZW58MXwwfHx8MTc5NDAwNjIwOHww&ixlib=rb-4.1.0"
+  alt: "Cinta métrica enrollada sobre una mesa de madera"
+  author: "Brina Blum"
+  authorUrl: "https://unsplash.com/@brina_blum?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-wooden-table-with-a-knife-and-fork-on-it-aaMH9aqEm1U?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "En una persona viva, el tubo digestivo de la boca al ano mide unos 5 metros, y dos tercios son intestino delgado."
   - "El intestino delgado ronda los 3 metros en mediciones con radiología o sondas: más o menos la mitad de lo que se medía en quirófano."
@@ -70,7 +76,10 @@ El nombre engaña un poco. El "grueso" es más corto que el delgado, pero casi e
 
 Antes del intestino está el estómago, con un ácido capaz de corroer algunos metales. Si te pica la curiosidad, lee [si el ácido del estómago puede disolver metal](/en-1-minuto/acido-del-estomago/).
 
-<!-- unsplash: person measuring height against wall with tape measure | Persona midiéndose la altura junto a una pared con una cinta métrica -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1641370957655-526287a6535a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwbWVhc3VyaW5nJTIwaGVpZ2h0JTIwYWdhaW5zdCUyMHdhbGwlMjB3aXRoJTIwdGFwZSUyMG1lYXN1cmV8ZW58MXwwfHx8MTc5NDAwNjIwOXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1641370957655-526287a6535a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwbWVhc3VyaW5nJTIwaGVpZ2h0JTIwYWdhaW5zdCUyMHdhbGwlMjB3aXRoJTIwdGFwZSUyMG1lYXN1cmV8ZW58MXwwfHx8MTc5NDAwNjIwOXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1641370957655-526287a6535a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwbWVhc3VyaW5nJTIwaGVpZ2h0JTIwYWdhaW5zdCUyMHdhbGwlMjB3aXRoJTIwdGFwZSUyMG1lYXN1cmV8ZW58MXwwfHx8MTc5NDAwNjIwOXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1641370957655-526287a6535a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwbWVhc3VyaW5nJTIwaGVpZ2h0JTIwYWdhaW5zdCUyMHdhbGwlMjB3aXRoJTIwdGFwZSUyMG1lYXN1cmV8ZW58MXwwfHx8MTc5NDAwNjIwOXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona midiéndose la altura junto a una pared con una cinta métrica" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@jimmynilssonmasth?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Jimmy Nilsson Masth</a> en <a href="https://unsplash.com/photos/a-person-measuring-a-piece-of-paper-with-a-tape-LfdLrB2B2aU?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## ¿Una pista de tenis dentro de la tripa?
 

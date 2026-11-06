@@ -204,3 +204,27 @@ pies-hinchados-por-la-tarde | cover | shoes | https://unsplash.com/photos/unpair
 vitamina-c-resfriado | cover | orange juice | https://unsplash.com/photos/orange-juice-in-clear-drinking-glass-TmOGarNOGFs | orange juice in clear drinking glass
 vitamina-c-resfriado | inline 1 | runners winter | https://unsplash.com/photos/a-group-of-people-running-down-a-dirt-road-LyORqx-3O-c | a group of people running down a dirt road
 pies-hinchados-por-la-tarde | cover | bare feet wooden floor | https://unsplash.com/photos/woman-standing-next-to-a-sauna-heater-with-stones-hKxBVcRX8qU | Woman standing next to a sauna heater with stones
+calefaccion-aire-seco | cover | radiator under window winter living room | https://unsplash.com/photos/cozy-living-room-with-fireplace-and-orange-chairs-aqdQyt580zY | Cozy living room with fireplace and orange chairs
+calefaccion-aire-seco | inline 1 | digital hygrometer on wooden shelf home | https://unsplash.com/photos/curiosity-cabinet-filled-with-eclectic-objects-and-curiosities-8ayp5jHp5T8 | Curiosity cabinet filled with eclectic objects and curiosities
+calima-salud | cover | hazy orange sky dust city skyline | https://unsplash.com/photos/a-city-skyline-with-a-body-of-water-in-the-foreground-xxX81azO8T0 | a city skyline with a body of water in the foreground
+calima-salud | inline 1 | closed window dusty glass orange sky | https://unsplash.com/photos/vibrant-orange-sky-with-a-dark-horizon-line-xxyn0bRuiOE | Vibrant orange sky with a dark horizon line
+canas-por-un-susto | cover | man looking at gray hair in bathroom mirror | https://unsplash.com/photos/bald-man-with-glasses-looking-in-bathroom-mirror-b8pG_7nX6y8 | Bald man with glasses looking in bathroom mirror
+canas-por-un-susto | inline 1 | gray hair close up | https://unsplash.com/photos/womans-face-in-close-up-photography-eNM04HRsVLU | womans face in close up photography
+chocolate-y-granos | cover | pieces of dark chocolate bar on wooden table | https://unsplash.com/photos/brown-wooden-blocks-on-brown-wooden-table-4LRLNmHbPlk | brown wooden blocks on brown wooden table
+chocolate-y-granos | inline 1 | young woman looking at her face in mirror | https://unsplash.com/photos/woman-looking-in-round-mirror-tVEMwaR9XqI | A woman looking at her reflection in a small round handheld mirror
+contar-ovejas-dormir | cover | flock of sheep grazing in green meadow | https://unsplash.com/photos/a-herd-of-sheep-standing-on-top-of-a-lush-green-field-JkFqvYtz5uQ | a herd of sheep standing on top of a lush green field
+contar-ovejas-dormir | inline 1 | calm empty beach at sunset | https://unsplash.com/photos/waves-of-water-5Oljqgwl40k | waves of water
+costilla-de-menos-hombres | cover | human skeleton anatomy model rib cage | https://unsplash.com/photos/animal-bone-photography-Nk7hHi3I__0 | animal bone photography
+costilla-de-menos-hombres | inline 1 | chest x-ray rib cage | https://unsplash.com/photos/chest-x-ray-of-rib-cage-tHS9j3HWT1s | A chest X-ray showing the rib cage, lungs, and heart structure
+cuantas-veces-respiramos | cover | woman breathing deeply outdoors morning | https://unsplash.com/photos/a-woman-standing-in-a-field-with-her-eyes-closed-B-RbwZxgkfY | A woman standing in a field with her eyes closed
+cuantas-veces-respiramos | inline 1 | person sitting on sofa hand on chest relaxing | https://unsplash.com/photos/a-woman-sitting-on-a-couch-with-her-arms-crossed-unQ4qRnSrdo | a woman sitting on a couch with her arms crossed
+cuanto-mide-el-intestino | cover | measuring tape coiled on wooden table | https://unsplash.com/photos/a-wooden-table-with-a-knife-and-fork-on-it-aaMH9aqEm1U | a wooden table with a knife and fork on it
+cuanto-mide-el-intestino | inline 1 | person measuring height against wall with tape measure | https://unsplash.com/photos/a-person-measuring-a-piece-of-paper-with-a-tape-LfdLrB2B2aU | a person measuring a piece of paper with a tape
+esmalte-lo-mas-duro | cover | close up smiling teeth | https://unsplash.com/photos/long-black-haired-woman-smiling-close-up-photography-1AhGNGKuhR0 | long black haired woman smiling close-up photography
+esmalte-lo-mas-duro | inline 1 | person brushing teeth bathroom mirror | https://unsplash.com/photos/woman-in-white-tank-top-standing-in-front-of-mirror-t5BaT2xO7ZE | woman in white tank top standing in front of mirror
+estornudar-ojos-abiertos | cover | man sneezing into elbow | https://unsplash.com/photos/a-man-with-his-arms-crossed-V9r0DB0RNOk | a man with his arms crossed
+estornudar-ojos-abiertos | inline 1 | woman sneezing tissue spring flowers | https://unsplash.com/photos/woman-holding-pink-petaled-flower-NHw36D42vHw | woman holding pink-petaled flower
+frio-seco-o-humedo | cover | rainy street umbrella winter northern spain | https://unsplash.com/photos/a-city-street-filled-with-lots-of-tall-buildings-roJX9MrbCpk | A city street filled with lots of tall buildings
+frio-seco-o-humedo | inline 1 | wet wool coat raindrops close up | https://unsplash.com/photos/water-droplets-on-black-wooden-fence-bI423DxLEYk | water droplets on black wooden fence
+hierro-del-cuerpo-clavo | cover | iron nails on wooden workbench close up | https://unsplash.com/photos/a-wooden-bench-in-a-room-SPQJBnzqmoY | a wooden bench in a room
+hierro-del-cuerpo-clavo | inline 1 | plate of lentils with vegetables on kitchen table | https://unsplash.com/photos/white-and-brown-ceramic-bowl-on-brown-wooden-table-7kEHz-SyXS0 | white and brown ceramic bowl on brown wooden table

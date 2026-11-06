@@ -15,6 +15,12 @@ datePublished: 2026-11-22
 dateModified: 2026-11-22
 imageQuery: "rainy street umbrella winter northern spain"
 imageAlt: "Personas con paraguas en una calle mojada en invierno"
+cover:
+  url: "https://images.unsplash.com/photo-1722072084543-5342af7b6544?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cmFpbnklMjBzdHJlZXQlMjB1bWJyZWxsYSUyMHdpbnRlciUyMG5vcnRoZXJuJTIwc3BhaW58ZW58MXwwfHx8MTc5NDAwNjIxM3ww&ixlib=rb-4.1.0"
+  alt: "Personas con paraguas en una calle mojada en invierno"
+  author: "Diana Novak"
+  authorUrl: "https://unsplash.com/@diananvk?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-city-street-filled-with-lots-of-tall-buildings-roJX9MrbCpk?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El índice de sensación térmica por frío que publica AEMET solo combina temperatura y viento: la humedad del aire no entra en la cuenta."
   - "Lo que hace que el frío del norte cale es sobre todo la ropa y la piel mojadas por la lluvia o el sudor, y el viento."
@@ -65,7 +71,10 @@ El problema está en la ropa. Un abrigo abriga porque atrapa aire quieto entre s
 
 Los [CDC](https://www.cdc.gov/winter-weather/prevention/index.html), la agencia de salud pública estadounidense, lo resumen así: el sudor y la ropa mojada pueden enfriar el cuerpo con rapidez y aumentar la pérdida de calor. Por eso recomiendan mantenerse seco y quitarse cuanto antes la ropa húmeda.
 
-<!-- unsplash: wet wool coat raindrops close up | Gotas de lluvia sobre un abrigo de lana -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1603262439120-3e17d13bab3f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2V0JTIwd29vbCUyMGNvYXQlMjByYWluZHJvcHMlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTQwMDYyMTR8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1603262439120-3e17d13bab3f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2V0JTIwd29vbCUyMGNvYXQlMjByYWluZHJvcHMlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTQwMDYyMTR8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1603262439120-3e17d13bab3f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2V0JTIwd29vbCUyMGNvYXQlMjByYWluZHJvcHMlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTQwMDYyMTR8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1603262439120-3e17d13bab3f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2V0JTIwd29vbCUyMGNvYXQlMjByYWluZHJvcHMlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTQwMDYyMTR8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Gotas de lluvia sobre un abrigo de lana" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@kevin_w_?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Kevin Wang</a> en <a href="https://unsplash.com/photos/water-droplets-on-black-wooden-fence-bI423DxLEYk?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Cielo despejado en la meseta, nubes y sirimiri en la costa
 

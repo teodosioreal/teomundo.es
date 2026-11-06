@@ -15,6 +15,12 @@ datePublished: 2026-11-21
 dateModified: 2026-11-21
 imageQuery: "man looking at gray hair in bathroom mirror"
 imageAlt: "Hombre mirándose las canas en el espejo del baño"
+cover:
+  url: "https://images.unsplash.com/photo-1773863120755-3dc8768f900f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWFuJTIwbG9va2luZyUyMGF0JTIwZ3JheSUyMGhhaXIlMjBpbiUyMGJhdGhyb29tJTIwbWlycm9yfGVufDF8MHx8fDE3OTQwMDYxOTl8MA&ixlib=rb-4.1.0"
+  alt: "Hombre mirándose las canas en el espejo del baño"
+  author: "Konstantinos Papadopoulos"
+  authorUrl: "https://unsplash.com/@kosti_2?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/bald-man-with-glasses-looking-in-bathroom-mirror-b8pG_7nX6y8?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es verdad a medias: un susto no vuelve blanco de golpe el pelo que ya tienes, porque esa parte del pelo es tejido muerto."
   - "En ratones, un estudio de Harvard publicado en Nature en 2020 demostró que el estrés agota de forma permanente las células madre que dan color al pelo."
@@ -73,7 +79,10 @@ Con el estrés, esos nervios liberan de golpe noradrenalina junto al folículo. 
 
 "En este caso, el estrés agudo provoca un agotamiento permanente de las células madre", resumió Zhang. Las células madre son como un almacén del que el cuerpo tira para [renovar tejidos sin parar](/records/celulas-que-se-renuevan/); aquí el estrés vació el almacén de una vez.
 
-<!-- unsplash: gray hair close up | Primer plano de un mechón de pelo con canas -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1583892717051-9271e8cd940d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3JheSUyMGhhaXIlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTQwMDYyMDB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1583892717051-9271e8cd940d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3JheSUyMGhhaXIlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTQwMDYyMDB8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1583892717051-9271e8cd940d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3JheSUyMGhhaXIlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTQwMDYyMDB8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1583892717051-9271e8cd940d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3JheSUyMGhhaXIlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTQwMDYyMDB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Primer plano de un mechón de pelo con canas" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@aaker?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Åaker</a> en <a href="https://unsplash.com/photos/womans-face-in-close-up-photography-eNM04HRsVLU?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Catorce voluntarios y un diario de estrés
 
