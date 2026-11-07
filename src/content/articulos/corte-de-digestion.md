@@ -36,6 +36,7 @@ sources:
   - title: "elDiario.es: Corte de digestión, ¿hay que esperar dos horas tras comer para bañarse y no sufrir hidrocución?"
     url: "https://www.eldiario.es/1_9eedc6"
 related:
+  - comer-cada-tres-horas
   - tragar-chicle
   - cuanta-agua-beber-al-dia
   - calor-por-la-cabeza

@@ -36,6 +36,7 @@ sources:
   - title: "The Psychologist (British Psychological Society), Christian Jarrett: Great myths of the brain: We only use 10 per cent"
     url: "https://thepsychologist.bps.org.uk/great-myths-brain-we-only-use-10-cent"
 related:
+  - zurdos-viven-menos
   - tragar-chicle
   - leer-con-poca-luz
   - azucar-hiperactividad-ninos

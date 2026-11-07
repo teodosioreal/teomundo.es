@@ -36,6 +36,7 @@ sources:
   - title: "Vreeman y Carroll (2008), BMJ: Festive medical myths"
     url: "https://www.bmj.com/content/337/bmj.a2769"
 related:
+  - alcohol-calienta
   - afeitarse-pelo-mas-fuerte
   - cuanta-agua-beber-al-dia
   - corte-de-digestion

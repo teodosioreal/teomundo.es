@@ -34,6 +34,7 @@ sources:
   - title: "EFSA: Dietary Reference Values for nutrients, Summary report"
     url: "https://efsa.europa.eu/en/supporting/pub/e15121"
 related:
+  - abdominales-quitan-barriga
   - corte-de-digestion
   - calor-por-la-cabeza
   - azucar-hiperactividad-ninos

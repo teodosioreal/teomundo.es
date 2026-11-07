@@ -43,6 +43,7 @@ sources:
   - title: "NHS: Common cold"
     url: "https://www.nhs.uk/conditions/common-cold/"
 related:
+  - vitamina-d-a-traves-del-cristal
   - pelo-mojado-resfriado
   - zanahorias-vista
   - cafe-deshidrata
