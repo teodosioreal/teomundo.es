@@ -15,6 +15,12 @@ datePublished: 2026-11-20
 dateModified: 2026-11-20
 imageQuery: "person listening voice message smartphone headphones"
 imageAlt: "Persona escuchando un mensaje de voz en el móvil con auriculares"
+cover:
+  url: "https://images.unsplash.com/photo-1594434533760-02e0f3faaa68?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwbGlzdGVuaW5nJTIwdm9pY2UlMjBtZXNzYWdlJTIwc21hcnRwaG9uZSUyMGhlYWRwaG9uZXN8ZW58MXwwfHx8MTc5NDA1Mjg0OXww&ixlib=rb-4.1.0"
+  alt: "Persona escuchando un mensaje de voz en el móvil con auriculares"
+  author: "Ilias Chebbi"
+  authorUrl: "https://unsplash.com/@ilias_cgb?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/man-in-black-nike-hoodie-wearing-black-headphones-2gpfqhEFVZ8?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Cuando hablas, tu voz te llega por dos caminos: por el aire hasta el oído y por vibraciones que viajan por los huesos del cráneo."
   - "El micrófono solo recoge la voz que va por el aire, así que la grabación suena distinta, normalmente más fina, que la que oyes por dentro."
@@ -65,7 +71,10 @@ Hay un dato curioso que lo confirma. En un experimento publicado en [PMC](https:
 
 Es decir: la vibración por dentro forma parte de cómo te reconoces. Sin ella, te cuesta más saber que eres tú. Algo parecido pasa con otras sensaciones de tu propio cuerpo, como explica [por qué no puedes hacerte cosquillas a ti mismo](/por-que/cosquillas-a-uno-mismo/): el cerebro trata de forma distinta lo que produces tú.
 
-<!-- unsplash: woman recording voice note smartphone | Mujer grabando un mensaje de voz con el móvil cerca de la boca -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1665396695711-a9627aaf894e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjByZWNvcmRpbmclMjB2b2ljZSUyMG5vdGUlMjBzbWFydHBob25lfGVufDF8MHx8fDE3OTQwNTI4NTB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1665396695711-a9627aaf894e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjByZWNvcmRpbmclMjB2b2ljZSUyMG5vdGUlMjBzbWFydHBob25lfGVufDF8MHx8fDE3OTQwNTI4NTB8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1665396695711-a9627aaf894e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjByZWNvcmRpbmclMjB2b2ljZSUyMG5vdGUlMjBzbWFydHBob25lfGVufDF8MHx8fDE3OTQwNTI4NTB8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1665396695711-a9627aaf894e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjByZWNvcmRpbmclMjB2b2ljZSUyMG5vdGUlMjBzbWFydHBob25lfGVufDF8MHx8fDE3OTQwNTI4NTB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Mujer grabando un mensaje de voz con el móvil cerca de la boca" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@bandlab_music?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">BandLab</a> en <a href="https://unsplash.com/photos/a-person-reading-a-book-vu7EbDiNOBY?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Tres versiones de tu voz
 

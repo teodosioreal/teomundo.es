@@ -15,6 +15,12 @@ datePublished: 2026-12-06
 dateModified: 2026-12-06
 imageQuery: "child sitting close to television screen living room"
 imageAlt: "Niño sentado muy cerca de la pantalla de la televisión en el salón"
+cover:
+  url: "https://images.unsplash.com/photo-1692188071339-2825a8a997f1?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hpbGQlMjBzaXR0aW5nJTIwY2xvc2UlMjB0byUyMHRlbGV2aXNpb24lMjBzY3JlZW4lMjBsaXZpbmclMjByb29tfGVufDF8MHx8fDE3OTQwNTI4NDZ8MA&ixlib=rb-4.1.0"
+  alt: "Niño sentado muy cerca de la pantalla de la televisión en el salón"
+  author: "Kevin Woblick"
+  authorUrl: "https://unsplash.com/@kovah?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-couple-of-women-sitting-on-top-of-a-couch-439WmdedHVA?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es un mito: la Academia Americana de Oftalmología dice que sentarse cerca de la tele no daña los ojos, aunque puede cansarlos."
   - "El miedo tiene un origen real: en 1967, algunos televisores en color de Estados Unidos emitían rayos X de más por un fallo de fábrica."
@@ -78,7 +84,10 @@ El dato más sólido viene de un ensayo en Cantón (China), publicado en 2015 y 
 
 Es una diferencia real, pero modesta. El editorial que acompañaba el estudio pedía no exagerarla. Aun así, es un consejo fácil de aplicar: el parque después del cole cuenta.
 
-<!-- unsplash: children playing outdoors in a park | Niños jugando al aire libre en un parque -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1599376672737-bd66af54c8f5?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Y2hpbGRyZW4lMjBwbGF5aW5nJTIwb3V0ZG9vcnMlMjBpbiUyMGElMjBwYXJrfGVufDF8MHx8fDE3OTQwNTI4NDd8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1599376672737-bd66af54c8f5?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Y2hpbGRyZW4lMjBwbGF5aW5nJTIwb3V0ZG9vcnMlMjBpbiUyMGElMjBwYXJrfGVufDF8MHx8fDE3OTQwNTI4NDd8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1599376672737-bd66af54c8f5?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Y2hpbGRyZW4lMjBwbGF5aW5nJTIwb3V0ZG9vcnMlMjBpbiUyMGElMjBwYXJrfGVufDF8MHx8fDE3OTQwNTI4NDd8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1599376672737-bd66af54c8f5?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Y2hpbGRyZW4lMjBwbGF5aW5nJTIwb3V0ZG9vcnMlMjBpbiUyMGElMjBwYXJrfGVufDF8MHx8fDE3OTQwNTI4NDd8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Niños jugando al aire libre en un parque" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@freestockpro?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Alexandr Podvalny</a> en <a href="https://unsplash.com/photos/2-boys-sitting-on-red-and-black-ride-on-toy-car-TciuHvwoK0k?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Checklist: ¿se acerca porque le gusta o porque no ve?
 

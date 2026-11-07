@@ -251,3 +251,21 @@ palabras-que-decimos-al-dia | inline 1 | grandmother and granddaughter talking o
 papilas-gustativas | cover | tongue close up macro pink | https://unsplash.com/photos/background-pattern-PiPsmbnNedc | background pattern
 papilas-gustativas | inline 1 | person drinking hot soup from spoon kitchen | https://unsplash.com/photos/hands-garnishing-soup-with-herbs-and-cream-RnawErGtxO4 | Hands garnishing soup with herbs and cream
 picor-contagioso | cover | man scratching arm close up | https://unsplash.com/photos/wrist-and-hand-in-red-light-rTU1FiJDcsU | A person's wrist and hand illuminated by warm red light in a dark setting
+canas-por-un-susto | cover | woman with gray streak in hair | https://unsplash.com/photos/woman-wearing-pink-spaghetti-strap-top-bGXcC_dK3t4 | woman wearing pink spaghetti strap top
+costilla-de-menos-hombres | cover | plastic human skeleton model | https://unsplash.com/photos/a-skeleton-holding-a-tennis-racquet-on-a-pink-background-d4gvETH16Bo | a skeleton holding a tennis racquet on a pink background
+papilas-gustativas | cover | tasting soup with spoon kitchen | https://unsplash.com/photos/white-ceramic-bowl-JVkGUwTYQag | white ceramic bowl
+picor-contagioso | inline 1 | audience sitting listening presentation room | https://unsplash.com/photos/audience-seated-in-a-conference-hall-during-a-presentation-MxHjumNWlkI | Audience seated in a conference hall during a presentation
+por-que-nos-sonrojamos | cover | shy young woman covering face smiling | https://unsplash.com/photos/a-woman-covering-her-face-with-her-hands-kPbk0zrxY8M | a woman covering her face with her hands
+por-que-nos-sonrojamos | inline 1 | friends singing karaoke microphone living room | https://unsplash.com/photos/two-women-singing-into-a-microphone-and-hairdryer-0bCeIwI729k | Two women singing into a microphone and hairdryer
+por-que-tiritamos | cover | person shivering cold winter scarf street | https://unsplash.com/photos/woman-in-winter-clothes-drinks-from-a-cup-bd9UPAnAS7E | Woman in winter clothes drinks from a cup
+por-que-tiritamos | inline 1 | hands holding hot drink mug winter gloves | https://unsplash.com/photos/person-holding-white-ceramic-mug-k0SwnevO_wk | person holding white ceramic mug
+tragar-aranas-durmiendo | cover | spider web in corner of ceiling | https://unsplash.com/photos/a-plain-white-surface-overlaps-a-dark-textured-background-7YeUwxyi3r4 | A plain white surface overlaps a dark textured background
+tragar-aranas-durmiendo | inline 1 | person sleeping peacefully in bed morning light | https://unsplash.com/photos/a-woman-sleeping-on-a-bed-with-a-blue-blanket-6qxUg4jTWdE | a woman sleeping on a bed with a blue blanket
+velocidad-maxima-humana | cover | sprinter running on athletics track | https://unsplash.com/photos/a-close-up-of-a-red-and-white-light-2BTaFPEO5YU | a close-up of a red and white light
+velocidad-maxima-humana | inline 1 | runner feet starting blocks track | https://unsplash.com/photos/man-on-running-field-9HI8UJMSdZA | man on running field
+ver-la-tele-de-cerca | cover | child sitting close to television screen living room | https://unsplash.com/photos/a-couple-of-women-sitting-on-top-of-a-couch-439WmdedHVA | a couple of women sitting on top of a couch
+ver-la-tele-de-cerca | inline 1 | children playing outdoors in a park | https://unsplash.com/photos/2-boys-sitting-on-red-and-black-ride-on-toy-car-TciuHvwoK0k | 2 boys sitting on red and black ride on toy car
+voz-grabada-suena-rara | cover | person listening voice message smartphone headphones | https://unsplash.com/photos/man-in-black-nike-hoodie-wearing-black-headphones-2gpfqhEFVZ8 | man in black nike hoodie wearing black headphones
+voz-grabada-suena-rara | inline 1 | woman recording voice note smartphone | https://unsplash.com/photos/a-person-reading-a-book-vu7EbDiNOBY | a person reading a book
+yemas-de-los-dedos-sensibles | cover | fingertips touching fabric texture close up | https://unsplash.com/photos/a-close-up-of-a-persons-hand-on-a-table-bSZc8y-r3Gs | a close up of a person's hand on a table
+yemas-de-los-dedos-sensibles | inline 1 | two toothpicks on table next to hand | https://unsplash.com/photos/a-bunch-of-sticks-and-sticks-in-a-room-cdSscBdwtkg | A bunch of sticks and sticks in a room

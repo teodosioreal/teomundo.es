@@ -15,6 +15,12 @@ datePublished: 2026-11-30
 dateModified: 2026-11-30
 imageQuery: "shy young woman covering face smiling"
 imageAlt: "Mujer joven sonriendo con timidez y tapándose parte de la cara con las manos"
+cover:
+  url: "https://images.unsplash.com/photo-1691131121450-408e4b87adb4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c2h5JTIweW91bmclMjB3b21hbiUyMGNvdmVyaW5nJTIwZmFjZSUyMHNtaWxpbmd8ZW58MXwwfHx8MTc5NDA1MjgzOHww&ixlib=rb-4.1.0"
+  alt: "Mujer joven sonriendo con timidez y tapándose parte de la cara con las manos"
+  author: "Valeriia Miller"
+  authorUrl: "https://unsplash.com/@valeriiamiller?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-woman-covering-her-face-with-her-hands-kPbk0zrxY8M?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Al sonrojarte, los vasos sanguíneos pequeños de la cara se ensanchan y llega más sangre cerca de la piel."
   - "Darwin llamó al rubor 'la más peculiar y la más humana de todas las expresiones'."
@@ -71,7 +77,10 @@ En 2024, un equipo de la Universidad de Ámsterdam publicó en *Proceedings of t
 
 Las mejillas se calentaban más al verse a sí mismas. Y las zonas del cerebro que más se activaban eran las ligadas a la excitación emocional y la atención, entre ellas el cerebelo. Los autores sugieren que el rubor podría no necesitar pensar en lo que opinan los demás: bastaría con sentirse expuesto. Ellos mismos piden prudencia, porque solo estudiaron a mujeres jóvenes.
 
-<!-- unsplash: friends singing karaoke microphone living room | Amigos cantando karaoke con un micrófono en el salón de casa -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1758526213969-61068ad19a8c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJpZW5kcyUyMHNpbmdpbmclMjBrYXJhb2tlJTIwbWljcm9waG9uZSUyMGxpdmluZyUyMHJvb218ZW58MXwwfHx8MTc5NDA1MjgzOXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1758526213969-61068ad19a8c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJpZW5kcyUyMHNpbmdpbmclMjBrYXJhb2tlJTIwbWljcm9waG9uZSUyMGxpdmluZyUyMHJvb218ZW58MXwwfHx8MTc5NDA1MjgzOXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1758526213969-61068ad19a8c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJpZW5kcyUyMHNpbmdpbmclMjBrYXJhb2tlJTIwbWljcm9waG9uZSUyMGxpdmluZyUyMHJvb218ZW58MXwwfHx8MTc5NDA1MjgzOXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1758526213969-61068ad19a8c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJpZW5kcyUyMHNpbmdpbmclMjBrYXJhb2tlJTIwbWljcm9waG9uZSUyMGxpdmluZyUyMHJvb218ZW58MXwwfHx8MTc5NDA1MjgzOXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Amigos cantando karaoke con un micrófono en el salón de casa" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@silverkblack?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Vitaly Gariev</a> en <a href="https://unsplash.com/photos/two-women-singing-into-a-microphone-and-hairdryer-0bCeIwI729k?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Un rubor a tiempo te salva la cara
 

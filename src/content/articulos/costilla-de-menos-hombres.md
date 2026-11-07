@@ -15,6 +15,12 @@ datePublished: 2026-12-01
 dateModified: 2026-12-01
 imageQuery: "plastic human skeleton model"
 imageAlt: "Maqueta de un esqueleto humano"
+cover:
+  url: "https://images.unsplash.com/photo-1678220051949-05d06c44cb2d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGxhc3RpYyUyMGh1bWFuJTIwc2tlbGV0b24lMjBtb2RlbHxlbnwxfDB8fHwxNzk0MDUyODM0fDA&ixlib=rb-4.1.0"
+  alt: "Maqueta de un esqueleto humano"
+  author: "dada design"
+  authorUrl: "https://unsplash.com/@dada_design?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-skeleton-holding-a-tennis-racquet-on-a-pink-background-d4gvETH16Bo?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es falso: hombres y mujeres tienen el mismo número de costillas, normalmente 12 pares (24 en total)."
   - "El mito viene del relato bíblico de Eva creada a partir de una costilla de Adán."

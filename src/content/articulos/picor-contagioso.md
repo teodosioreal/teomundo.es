@@ -75,7 +75,10 @@ No hace falta ver a nadie. Una [revisión publicada en 2015](https://frontiersin
 
 Es exactamente lo que pasa en la reunión de los piojos. Y probablemente te esté pasando ahora, leyendo este párrafo.
 
-<!-- unsplash: audience sitting listening presentation room | Público sentado escuchando una charla en una sala -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1778877035189-60f41e9d18bf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YXVkaWVuY2UlMjBzaXR0aW5nJTIwbGlzdGVuaW5nJTIwcHJlc2VudGF0aW9uJTIwcm9vbXxlbnwxfDB8fHwxNzk0MDUyODM3fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1778877035189-60f41e9d18bf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YXVkaWVuY2UlMjBzaXR0aW5nJTIwbGlzdGVuaW5nJTIwcHJlc2VudGF0aW9uJTIwcm9vbXxlbnwxfDB8fHwxNzk0MDUyODM3fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1778877035189-60f41e9d18bf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YXVkaWVuY2UlMjBzaXR0aW5nJTIwbGlzdGVuaW5nJTIwcHJlc2VudGF0aW9uJTIwcm9vbXxlbnwxfDB8fHwxNzk0MDUyODM3fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1778877035189-60f41e9d18bf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YXVkaWVuY2UlMjBzaXR0aW5nJTIwbGlzdGVuaW5nJTIwcHJlc2VudGF0aW9uJTIwcm9vbXxlbnwxfDB8fHwxNzk0MDUyODM3fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Público sentado escuchando una charla en una sala" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@ladyufoma001?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Ufoma Ojo</a> en <a href="https://unsplash.com/photos/audience-seated-in-a-conference-hall-during-a-presentation-MxHjumNWlkI?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Ratones que se rascan al ver a otro ratón
 

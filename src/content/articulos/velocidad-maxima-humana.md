@@ -15,6 +15,12 @@ datePublished: 2026-12-03
 dateModified: 2026-12-03
 imageQuery: "sprinter running on athletics track"
 imageAlt: "Velocista corriendo por la calle de una pista de atletismo"
+cover:
+  url: "https://images.unsplash.com/photo-1658702041515-18275b138fda?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3ByaW50ZXIlMjBydW5uaW5nJTIwb24lMjBhdGhsZXRpY3MlMjB0cmFja3xlbnwxfDB8fHwxNzk0MDUyODQ0fDA&ixlib=rb-4.1.0"
+  alt: "Velocista corriendo por la calle de una pista de atletismo"
+  author: "Drew Darby"
+  authorUrl: "https://unsplash.com/@drewbdarby?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-close-up-of-a-red-and-white-light-2BTaFPEO5YU?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El récord mundial de los 100 metros es de Usain Bolt: 9,58 segundos, en el Mundial de Berlín del 16 de agosto de 2009."
   - "Su velocidad media fue de unos 37,6 km/h, pero en el tramo más rápido rozó los 44 km/h."
@@ -72,7 +78,10 @@ Las cifras cambian un poco según el método. El estudio de 2023, por ejemplo, s
 
 Para que lo compares con otro récord del cuerpo: el aire de un estornudo sale como mucho a unos 108 km/h, como contamos en [la velocidad de un estornudo](/records/velocidad-estornudo/). Bolt va más despacio que tu estornudo, pero moviendo el cuerpo entero.
 
-<!-- unsplash: runner feet starting blocks track | Pies de un corredor apoyados en los tacos de salida de una pista -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cnVubmVyJTIwZmVldCUyMHN0YXJ0aW5nJTIwYmxvY2tzJTIwdHJhY2t8ZW58MXwwfHx8MTc5NDA1Mjg0NXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cnVubmVyJTIwZmVldCUyMHN0YXJ0aW5nJTIwYmxvY2tzJTIwdHJhY2t8ZW58MXwwfHx8MTc5NDA1Mjg0NXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cnVubmVyJTIwZmVldCUyMHN0YXJ0aW5nJTIwYmxvY2tzJTIwdHJhY2t8ZW58MXwwfHx8MTc5NDA1Mjg0NXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cnVubmVyJTIwZmVldCUyMHN0YXJ0aW5nJTIwYmxvY2tzJTIwdHJhY2t8ZW58MXwwfHx8MTc5NDA1Mjg0NXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Pies de un corredor apoyados en los tacos de salida de una pista" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@bradencollum?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Braden Collum</a> en <a href="https://unsplash.com/photos/man-on-running-field-9HI8UJMSdZA?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## El límite está en el suelo, no en las piernas
 

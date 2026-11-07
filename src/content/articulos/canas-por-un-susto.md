@@ -15,6 +15,12 @@ datePublished: 2026-11-21
 dateModified: 2026-11-21
 imageQuery: "woman with gray streak in hair"
 imageAlt: "Mujer con un mechón de canas en el pelo"
+cover:
+  url: "https://images.unsplash.com/flagged/photo-1556588885-40cf2516157f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3aXRoJTIwZ3JheSUyMHN0cmVhayUyMGluJTIwaGFpcnxlbnwxfDB8fHwxNzk0MDUyODMzfDA&ixlib=rb-4.1.0"
+  alt: "Mujer con un mechón de canas en el pelo"
+  author: "Doğukan Şahin"
+  authorUrl: "https://unsplash.com/@dogukan?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-wearing-pink-spaghetti-strap-top-bGXcC_dK3t4?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es verdad a medias: un susto no vuelve blanco de golpe el pelo que ya tienes, porque esa parte del pelo es tejido muerto."
   - "En ratones, un estudio de Harvard publicado en Nature en 2020 demostró que el estrés agota de forma permanente las células madre que dan color al pelo."

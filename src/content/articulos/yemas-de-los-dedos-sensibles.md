@@ -15,6 +15,12 @@ datePublished: 2026-12-19
 dateModified: 2026-12-19
 imageQuery: "fingertips touching fabric texture close up"
 imageAlt: "Yemas de los dedos tocando la textura de una tela"
+cover:
+  url: "https://images.unsplash.com/photo-1698697026414-f516f17a9850?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8ZmluZ2VydGlwcyUyMHRvdWNoaW5nJTIwZmFicmljJTIwdGV4dHVyZSUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5NDA1Mjg1MXww&ixlib=rb-4.1.0"
+  alt: "Yemas de los dedos tocando la textura de una tela"
+  author: "Rapha Wilde"
+  authorUrl: "https://unsplash.com/@veloradio?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-close-up-of-a-persons-hand-on-a-table-bSZc8y-r3Gs?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "En la yema de los dedos hay unas 241 unidades receptoras del tacto por centímetro cuadrado, frente a unas 58 en la palma, según un estudio clásico de 1979."
   - "Los corpúsculos de Meissner, muy abundantes en la piel sin pelo de dedos y palmas, captan el tacto fino y las vibraciones suaves."
@@ -70,7 +76,10 @@ El resultado: unas **241 unidades por centímetro cuadrado en la yema**, frente 
 
 Esa misma piel de la yema es la que se arruga tras un rato en el agua, y la orden la dan tus nervios: lo explicamos en [por qué se arrugan los dedos en el agua](/por-que/dedos-arrugados-en-el-agua/).
 
-<!-- unsplash: two toothpicks on table next to hand | Dos palillos sobre una mesa junto a una mano -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1723230433900-1a255511a030?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dHdvJTIwdG9vdGhwaWNrcyUyMG9uJTIwdGFibGUlMjBuZXh0JTIwdG8lMjBoYW5kfGVufDF8MHx8fDE3OTQwNTI4NTJ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1723230433900-1a255511a030?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dHdvJTIwdG9vdGhwaWNrcyUyMG9uJTIwdGFibGUlMjBuZXh0JTIwdG8lMjBoYW5kfGVufDF8MHx8fDE3OTQwNTI4NTJ8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1723230433900-1a255511a030?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dHdvJTIwdG9vdGhwaWNrcyUyMG9uJTIwdGFibGUlMjBuZXh0JTIwdG8lMjBoYW5kfGVufDF8MHx8fDE3OTQwNTI4NTJ8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1723230433900-1a255511a030?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dHdvJTIwdG9vdGhwaWNrcyUyMG9uJTIwdGFibGUlMjBuZXh0JTIwdG8lMjBoYW5kfGVufDF8MHx8fDE3OTQwNTI4NTJ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Dos palillos sobre una mesa junto a una mano" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@behindthetmuna?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">BehindTheTmuna</a> en <a href="https://unsplash.com/photos/a-bunch-of-sticks-and-sticks-in-a-room-cdSscBdwtkg?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Test de los dos puntos con dos palillos
 

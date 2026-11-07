@@ -15,6 +15,12 @@ datePublished: 2026-12-09
 dateModified: 2026-12-09
 imageQuery: "tasting soup with spoon kitchen"
 imageAlt: "Persona probando un plato con una cuchara"
+cover:
+  url: "https://images.unsplash.com/photo-1469307517101-0b99d8fb0c33?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGFzdGluZyUyMHNvdXAlMjB3aXRoJTIwc3Bvb24lMjBraXRjaGVufGVufDF8MHx8fDE3OTQwNTI4MzZ8MA&ixlib=rb-4.1.0"
+  alt: "Persona probando un plato con una cuchara"
+  author: "Henrique Felix"
+  authorUrl: "https://unsplash.com/@henriquefelix?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/white-ceramic-bowl-JVkGUwTYQag?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Las papilas son los bultitos de la lengua; dentro de ellas están los botones gustativos, que son los que detectan el sabor."
   - "Un adulto tiene entre 2.000 y 4.000 botones gustativos, según InformedHealth. Otras fuentes, que cuentan también el paladar y la garganta, dan entre 5.000 y 10.000."
