@@ -13,14 +13,8 @@ secondaryKeywords:
   - "sangre de un hombre y de una mujer"
 datePublished: 2026-12-23
 dateModified: 2026-12-23
-imageQuery: "blood donation bag in hospital"
-imageAlt: "Bolsa de sangre de una donación en un hospital"
-cover:
-  url: "https://images.unsplash.com/photo-1648224394432-8830fec15349?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Ymxvb2QlMjBkb25hdGlvbiUyMGJhZyUyMGluJTIwaG9zcGl0YWx8ZW58MXwwfHx8MTc5NDA1OTA5NHww&ixlib=rb-4.1.0"
-  alt: "Bolsa de sangre de una donación en un hospital"
-  author: "Annie Spratt"
-  authorUrl: "https://unsplash.com/@anniespratt?utm_source=teomundo&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/a-hospital-room-with-a-bed-and-medical-equipment-RfanFy_lHp8?utm_source=teomundo&utm_medium=referral"
+imageQuery: "blood donation"
+imageAlt: "Persona donando sangre"
 keyTakeaways:
   - "Un adulto tiene unos 5 litros de sangre: entre el 7 y el 8 % de su peso corporal."
   - "La regla de los libros de texto es de unos 75 ml por kilo en los hombres y 65 ml por kilo en las mujeres."

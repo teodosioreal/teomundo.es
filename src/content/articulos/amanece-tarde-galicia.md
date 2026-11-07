@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2027-01-16
 dateModified: 2027-01-16
 imageQuery: "dark winter morning street lights rainy city early commute"
-imageAlt: "Calle con farolas encendidas en una mañana oscura de invierno"
+imageAlt: "Calle mojada con las farolas encendidas al amanecer"
 cover:
   url: "https://images.unsplash.com/photo-1585978075589-fc6561e20296?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGFyayUyMHdpbnRlciUyMG1vcm5pbmclMjBzdHJlZXQlMjBsaWdodHMlMjByYWlueSUyMGNpdHklMjBlYXJseSUyMGNvbW11dGV8ZW58MXwwfHx8MTc5NDA1OTA4OHww&ixlib=rb-4.1.0"
-  alt: "Calle con farolas encendidas en una mañana oscura de invierno"
+  alt: "Calle mojada con las farolas encendidas al amanecer"
   author: "James Harrison"
   authorUrl: "https://unsplash.com/@jstrippa?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/cars-on-road-between-high-rise-buildings-during-daytime-W8dnrFLKKOI?utm_source=teomundo&utm_medium=referral"
@@ -79,7 +79,7 @@ Haz esta prueba de dos minutos:
 Si el paso 3 te sale con más de una hora a oscuras, lo que viene a continuación te interesa.
 
 <figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1763037583719-1230a5033730?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwZHJpbmtpbmclMjBjb2ZmZWUlMjBieSUyMHdpbmRvdyUyMG1vcm5pbmclMjBzdW5saWdodHxlbnwxfDB8fHwxNzk0MDU5MDg5fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1763037583719-1230a5033730?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwZHJpbmtpbmclMjBjb2ZmZWUlMjBieSUyMHdpbmRvdyUyMG1vcm5pbmclMjBzdW5saWdodHxlbnwxfDB8fHwxNzk0MDU5MDg5fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1763037583719-1230a5033730?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwZHJpbmtpbmclMjBjb2ZmZWUlMjBieSUyMHdpbmRvdyUyMG1vcm5pbmclMjBzdW5saWdodHxlbnwxfDB8fHwxNzk0MDU5MDg5fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1763037583719-1230a5033730?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwZHJpbmtpbmclMjBjb2ZmZWUlMjBieSUyMHdpbmRvdyUyMG1vcm5pbmclMjBzdW5saWdodHxlbnwxfDB8fHwxNzk0MDU5MDg5fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona tomando café junto a una ventana con la luz de la mañana" loading="lazy" decoding="async">
+<img src="https://images.unsplash.com/photo-1763037583719-1230a5033730?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwZHJpbmtpbmclMjBjb2ZmZWUlMjBieSUyMHdpbmRvdyUyMG1vcm5pbmclMjBzdW5saWdodHxlbnwxfDB8fHwxNzk0MDU5MDg5fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1763037583719-1230a5033730?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwZHJpbmtpbmclMjBjb2ZmZWUlMjBieSUyMHdpbmRvdyUyMG1vcm5pbmclMjBzdW5saWdodHxlbnwxfDB8fHwxNzk0MDU5MDg5fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1763037583719-1230a5033730?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwZHJpbmtpbmclMjBjb2ZmZWUlMjBieSUyMHdpbmRvdyUyMG1vcm5pbmclMjBzdW5saWdodHxlbnwxfDB8fHwxNzk0MDU5MDg5fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1763037583719-1230a5033730?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwZHJpbmtpbmclMjBjb2ZmZWUlMjBieSUyMHdpbmRvdyUyMG1vcm5pbmclMjBzdW5saWdodHxlbnwxfDB8fHwxNzk0MDU5MDg5fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Ventana con luz de la mañana y una taza sobre la mesa" loading="lazy" decoding="async">
 <figcaption>Foto de <a href="https://unsplash.com/@soflightsto?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Soyoung HAN</a> en <a href="https://unsplash.com/photos/iced-coffee-on-a-wooden-table-near-window-f4q4QejWENw?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 

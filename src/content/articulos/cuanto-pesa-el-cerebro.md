@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-12-17
 dateModified: 2026-12-17
 imageQuery: "small melon on kitchen scale"
-imageAlt: "Un melón pequeño sobre una báscula de cocina"
+imageAlt: "Calabaza sobre una báscula de cocina"
 cover:
   url: "https://images.unsplash.com/photo-1792160624972-6053eec828d4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c21hbGwlMjBtZWxvbiUyMG9uJTIwa2l0Y2hlbiUyMHNjYWxlfGVufDF8MHx8fDE3OTQwNTkwOTd8MA&ixlib=rb-4.1.0"
-  alt: "Un melón pequeño sobre una báscula de cocina"
+  alt: "Calabaza sobre una báscula de cocina"
   author: "Liana S"
   authorUrl: "https://unsplash.com/@cherstve_pechivo?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/orange-pumpkin-on-blue-kitchen-scale-BqrYcxpD5j0?utm_source=teomundo&utm_medium=referral"

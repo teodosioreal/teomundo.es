@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-11-27
 dateModified: 2026-11-27
 imageQuery: "orange sky dust storm"
-imageAlt: "Cielo anaranjado por el polvo en suspensión sobre una carretera"
+imageAlt: "Nubes anaranjadas por el polvo en suspensión"
 cover:
   url: "https://images.unsplash.com/photo-1608922804825-b546ae16006b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8b3JhbmdlJTIwc2t5JTIwZHVzdCUyMHN0b3JtfGVufDF8MHx8fDE3OTQwNTkwOTB8MA&ixlib=rb-4.1.0"
-  alt: "Cielo anaranjado por el polvo en suspensión sobre una carretera"
+  alt: "Nubes anaranjadas por el polvo en suspensión"
   author: "Hafsa Tj"
   authorUrl: "https://unsplash.com/@lettersofmysoul?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/white-clouds-and-blue-sky-ffM5Vv7Gssg?utm_source=teomundo&utm_medium=referral"
