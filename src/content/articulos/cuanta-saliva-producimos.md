@@ -36,6 +36,7 @@ sources:
   - title: "Watanabe et al. (1995): estimación de la producción diaria de saliva"
     url: "https://www.gwern.net/doc/biology/1995-watanabe.pdf"
 related:
+  - cuantas-lagrimas-lloramos
   - esmalte-lo-mas-duro
   - higado-se-regenera
   - velocidad-estornudo

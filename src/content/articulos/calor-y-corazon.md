@@ -40,6 +40,7 @@ sources:
   - title: "Ministerio de Sanidad: Decálogo de recomendaciones frente a las altas temperaturas"
     url: "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6111"
 related:
+  - frio-y-corazon
   - mal-de-altura-teide
   - cambio-de-hora-salud
   - vivir-en-madrid-o-en-la-costa

@@ -36,6 +36,7 @@ sources:
   - title: "Mental Floss: What's the smallest bone in the human body?"
     url: "https://www.mentalfloss.com/science/body/smallest-bone-human-body"
 related:
+  - femur-hueso-mas-largo
   - musculo-mas-pequeno
   - cuanto-tiempo-sin-dormir
   - musculo-mas-fuerte

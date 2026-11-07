@@ -38,6 +38,7 @@ sources:
   - title: "Consumer (Eroski): La siesta"
     url: "https://www.consumer.es/salud/la-siesta.html"
 related:
+  - sueno-tras-comidas-navidad
   - cenar-tarde
   - cambio-de-hora-salud
   - resaca-por-que

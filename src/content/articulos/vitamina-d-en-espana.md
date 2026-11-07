@@ -45,6 +45,7 @@ sources:
   - title: "AEMET: Resumen mensual de la radiación ultravioleta y la capa de ozono, enero de 2025"
     url: "https://www.aemet.es/documentos/es/serviciosclimaticos/vigilancia_clima/radiacion_ozono/radiacionUVI_ozono/2025/InformeRad_UVByOzono_2025_01.pdf"
 related:
+  - sol-en-la-nieve
   - dieta-mediterranea-beneficios
   - vivir-en-madrid-o-en-la-costa
   - esperanza-de-vida-espana

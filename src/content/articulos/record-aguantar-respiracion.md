@@ -45,6 +45,7 @@ sources:
   - title: "CDC (MMWR): Fatal and Nonfatal Drowning Outcomes Related to Dangerous Underwater Breath-Holding Behaviors"
     url: "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6419a3.htm"
 related:
+  - hipo-mas-largo
   - cuanto-tiempo-sin-dormir
   - latidos-del-corazon-en-una-vida
   - corte-de-digestion

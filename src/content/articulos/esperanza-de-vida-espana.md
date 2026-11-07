@@ -38,6 +38,7 @@ sources:
   - title: "World Economic Forum (2018): Spain will soon overtake Japan in life expectancy rankings (Foreman et al., The Lancet)"
     url: "https://weforum.org/agenda/2018/10/spain-is-about-to-overtake-japan-in-life-expectancy"
 related:
+  - propositos-de-ano-nuevo
   - dieta-mediterranea-beneficios
   - beneficios-de-la-siesta
   - calor-y-corazon

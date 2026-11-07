@@ -36,6 +36,7 @@ sources:
   - title: "Guinness World Records: Tallest man ever"
     url: "https://www.guinnessworldrecords.com/world-records/tallest-man-ever"
 related:
+  - unas-mas-largas
   - cuanta-saliva-producimos
   - hueso-mas-pequeno
   - latidos-del-corazon-en-una-vida

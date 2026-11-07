@@ -36,6 +36,7 @@ sources:
   - title: "Sociedad Española del Sueño: Posicionamiento sobre el cambio de hora (2018)"
     url: "https://ses.org.es/wp-content/uploads/2018/10/ses-posicionamiento-cambio-de-hora.pdf"
 related:
+  - amanece-tarde-galicia
   - cenar-tarde
   - beneficios-de-la-siesta
   - calor-y-corazon

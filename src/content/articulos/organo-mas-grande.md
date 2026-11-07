@@ -45,6 +45,7 @@ sources:
   - title: "AEMET: Interpretación de la radiación ultravioleta (UVI)"
     url: "https://www.aemet.es/en/eltiempo/prediccion/radiacionuv/ayuda"
 related:
+  - cuanto-pesa-el-cerebro
   - higado-se-regenera
   - celulas-que-se-renuevan
   - longitud-vasos-sanguineos

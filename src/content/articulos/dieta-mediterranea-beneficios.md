@@ -36,6 +36,7 @@ sources:
   - title: "Harvard T.H. Chan School of Public Health, The Nutrition Source: PREDIMED Study Retraction and Republication"
     url: "https://nutritionsource.hsph.harvard.edu/2018/06/22/predimed-retraction-republication"
 related:
+  - polvorones-boca-seca
   - aceite-de-oliva-cerebro
   - jamon-iberico-salud
   - esperanza-de-vida-espana

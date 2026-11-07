@@ -36,6 +36,7 @@ sources:
   - title: "Live Science: What's the strongest muscle in the human body?"
     url: "https://www.livescience.com/32823-strongest-human-muscles.html"
 related:
+  - lengua-mas-larga
   - hueso-mas-pequeno
   - latidos-del-corazon-en-una-vida
   - cuanto-tiempo-sin-dormir
