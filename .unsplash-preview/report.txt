@@ -228,3 +228,26 @@ frio-seco-o-humedo | cover | rainy street umbrella winter northern spain | https
 frio-seco-o-humedo | inline 1 | wet wool coat raindrops close up | https://unsplash.com/photos/water-droplets-on-black-wooden-fence-bI423DxLEYk | water droplets on black wooden fence
 hierro-del-cuerpo-clavo | cover | iron nails on wooden workbench close up | https://unsplash.com/photos/a-wooden-bench-in-a-room-SPQJBnzqmoY | a wooden bench in a room
 hierro-del-cuerpo-clavo | inline 1 | plate of lentils with vegetables on kitchen table | https://unsplash.com/photos/white-and-brown-ceramic-bowl-on-brown-wooden-table-7kEHz-SyXS0 | white and brown ceramic bowl on brown wooden table
+calefaccion-aire-seco | inline 1 | humidifier steam living room | https://unsplash.com/photos/brown-wooden-chair-beside-white-table-aPD1yNUYP0w | brown wooden chair beside white table
+canas-por-un-susto | cover | gray hair close up | https://unsplash.com/photos/womans-face-in-close-up-photography-eNM04HRsVLU | womans face in close up photography
+canas-por-un-susto | inline 1 | older man gray beard portrait | https://unsplash.com/photos/a-man-with-a-beard-wearing-a-cowboy-hat-2f115fbMG1o | A man with a beard wearing a cowboy hat
+costilla-de-menos-hombres | cover | anatomy skeleton model classroom | https://unsplash.com/photos/an-empty-science-classroom-with-desks-and-a-green-blackboard-W949DE3ia0g | An empty science classroom with desks and a green blackboard
+cuantas-veces-respiramos | inline 1 | woman sitting on sofa eyes closed calm | https://unsplash.com/photos/a-woman-relaxes-on-a-brown-couch-Iukdi0VvNEE | A woman relaxes on a brown couch
+cuanto-mide-el-intestino | cover | tape measure close up | https://unsplash.com/photos/a-close-up-of-a-yellow-medical-tape-2-hmVrhqflg | a close up of a yellow medical tape
+estornudar-ojos-abiertos | cover | woman sneezing into tissue | https://unsplash.com/photos/a-woman-wearing-glasses-covers-her-face-with-her-hands-m6rq7ix0Y3M | a woman wearing glasses covers her face with her hands
+hierro-del-cuerpo-clavo | inline 1 | bowl of lentil stew | https://unsplash.com/photos/a-bowl-of-food-lrtfNWl3dsE | a bowl of food
+horas-de-sueno-espanoles | inline 1 | city apartment windows lit at night | https://unsplash.com/photos/city-skyline-during-night-time-OflP2eE5pnU | city skyline during night time
+kilometros-en-una-vida | cover | people walking on city street pedestrian | https://unsplash.com/photos/man-and-woman-walking-beside-street-UxGk3cNAnlM | man and woman walking beside street
+kilometros-en-una-vida | inline 1 | hiking boots on mountain trail | https://unsplash.com/photos/person-in-black-shorts-and-white-sneakers-sitting-on-rock-formation-during-daytime-63FmAhy7-fY | person in black shorts and white sneakers sitting on rock formation during daytime
+mal-de-altura-teide | inline 1 | hikers resting on volcanic trail high altitude | https://unsplash.com/photos/hikers-rest-on-a-barren-rocky-mountainside-under-clouds-2z0e2ey-Sdc | Hikers rest on a barren, rocky mountainside under clouds
+musculo-mas-pequeno | cover | woman covering ears with hands | https://unsplash.com/photos/young-woman-with-hands-raised-in-park-3-wJEbHLWlo | Young woman with hands raised in park
+musculo-mas-pequeno | inline 1 | people at outdoor music concert crowd | https://unsplash.com/photos/excited-crowd-cheering-at-concert-or-event-nPz8akkUmDI | excited crowd cheering at concert or event
+oidos-tapados-avion | cover | airplane window view clouds descent | https://unsplash.com/photos/aerial-photography-of-sea-clouds-d4xr5jN5f3g | aerial photography of sea clouds
+oidos-tapados-avion | inline 1 | high speed train tunnel entrance | https://unsplash.com/photos/time-lapse-photography-of-vehicle-under-tunnel-7pqS06wgvEw | time lapse photography of vehicle under tunnel
+olvidamos-los-suenos | cover | notebook pen bedside table morning light | https://unsplash.com/photos/orange-lamp-on-transparent-side-table-AQOfpVqP22M | An orange lamp, glasses, and a small book on a transparent side table beside a bed
+olvidamos-los-suenos | inline 1 | person waking up stretching bed morning | https://unsplash.com/photos/a-person-lying-in-a-bed-tgMKcE-Qo5o | a person lying in a bed
+palabras-que-decimos-al-dia | cover | friends talking at outdoor cafe table | https://unsplash.com/photos/two-women-talking-at-an-outdoor-cafe-table-9ZNNeEUM7Q4 | Two women talking at an outdoor cafe table
+palabras-que-decimos-al-dia | inline 1 | grandmother and granddaughter talking on sofa | https://unsplash.com/photos/two-elderly-women-sitting-and-talking-6RZXBjjAtbU | Two elderly women sitting and talking
+papilas-gustativas | cover | tongue close up macro pink | https://unsplash.com/photos/background-pattern-PiPsmbnNedc | background pattern
+papilas-gustativas | inline 1 | person drinking hot soup from spoon kitchen | https://unsplash.com/photos/hands-garnishing-soup-with-herbs-and-cream-RnawErGtxO4 | Hands garnishing soup with herbs and cream
+picor-contagioso | cover | man scratching arm close up | https://unsplash.com/photos/wrist-and-hand-in-red-light-rTU1FiJDcsU | A person's wrist and hand illuminated by warm red light in a dark setting

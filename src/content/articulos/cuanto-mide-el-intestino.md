@@ -15,6 +15,12 @@ datePublished: 2026-11-24
 dateModified: 2026-11-24
 imageQuery: "tape measure close up"
 imageAlt: "Primer plano de una cinta métrica"
+cover:
+  url: "https://images.unsplash.com/photo-1716698286947-5e79f3d623a8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8dGFwZSUyMG1lYXN1cmUlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTQwMTAxMjB8MA&ixlib=rb-4.1.0"
+  alt: "Primer plano de una cinta métrica"
+  author: "josh A. D."
+  authorUrl: "https://unsplash.com/@mista_j?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-close-up-of-a-yellow-medical-tape-2-hmVrhqflg?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "En una persona viva, el tubo digestivo de la boca al ano mide unos 5 metros, y dos tercios son intestino delgado."
   - "El intestino delgado ronda los 3 metros en mediciones con radiología o sondas: más o menos la mitad de lo que se medía en quirófano."

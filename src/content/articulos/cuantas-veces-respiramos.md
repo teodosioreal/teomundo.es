@@ -76,7 +76,10 @@ Es una aproximación. Nadie pasa el día entero en reposo: subes escaleras, habl
 
 Tu corazón, en cambio, late bastante más rápido que tú respiras. Si quieres ver la cifra de toda una vida, lee [cuántas veces late el corazón a lo largo de la vida](/records/latidos-del-corazon-en-una-vida/).
 
-<!-- unsplash: woman sitting on sofa eyes closed calm | Mujer sentada en el sofá con los ojos cerrados, respirando con calma -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1749390002163-0d151e3550d8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzaXR0aW5nJTIwb24lMjBzb2ZhJTIwZXllcyUyMGNsb3NlZCUyMGNhbG18ZW58MXwwfHx8MTc5NDAxMDExOHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1749390002163-0d151e3550d8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzaXR0aW5nJTIwb24lMjBzb2ZhJTIwZXllcyUyMGNsb3NlZCUyMGNhbG18ZW58MXwwfHx8MTc5NDAxMDExOHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1749390002163-0d151e3550d8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzaXR0aW5nJTIwb24lMjBzb2ZhJTIwZXllcyUyMGNsb3NlZCUyMGNhbG18ZW58MXwwfHx8MTc5NDAxMDExOHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1749390002163-0d151e3550d8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzaXR0aW5nJTIwb24lMjBzb2ZhJTIwZXllcyUyMGNsb3NlZCUyMGNhbG18ZW58MXwwfHx8MTc5NDAxMDExOHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Mujer sentada en el sofá con los ojos cerrados, respirando con calma" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@p_kuzovkova?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Polina Kuzovkova</a> en <a href="https://unsplash.com/photos/a-woman-relaxes-on-a-brown-couch-Iukdi0VvNEE?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Mide tu propia frecuencia en un minuto
 

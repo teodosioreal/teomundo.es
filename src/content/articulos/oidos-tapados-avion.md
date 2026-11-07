@@ -16,6 +16,12 @@ datePublished: 2026-11-25
 dateModified: 2026-11-25
 imageQuery: "airplane window view clouds descent"
 imageAlt: "Vista de las nubes desde la ventanilla de un avión"
+cover:
+  url: "https://images.unsplash.com/photo-1511747779856-fd751a79aa22?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YWlycGxhbmUlMjB3aW5kb3clMjB2aWV3JTIwY2xvdWRzJTIwZGVzY2VudHxlbnwxfDB8fHwxNzk0MDEwMTI4fDA&ixlib=rb-4.1.0"
+  alt: "Vista de las nubes desde la ventanilla de un avión"
+  author: "Emmanuel Appiah"
+  authorUrl: "https://unsplash.com/@exappiah?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/aerial-photography-of-sea-clouds-d4xr5jN5f3g?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Los oídos se tapan cuando cambia la presión del aire y la del oído medio no se iguala a tiempo."
   - "La encargada de igualarla es la trompa de Eustaquio, un conducto que une el oído medio con la parte de atrás de la nariz y se abre al tragar o bostezar."
@@ -74,7 +80,10 @@ Un estudio publicado en 2019 en la revista [IJERPH](https://pmc.ncbi.nlm.nih.gov
 
 Por eso en unos trenes lo notas y en otros casi no. Y si al salir del túnel te deslumbra el sol y estornudas, eso ya es otro reflejo: [el estornudo fótico](/por-que/estornudar-con-el-sol/).
 
-<!-- unsplash: high speed train tunnel entrance | Tren de alta velocidad entrando en un túnel -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1534590158618-73acb7d3641d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGlnaCUyMHNwZWVkJTIwdHJhaW4lMjB0dW5uZWwlMjBlbnRyYW5jZXxlbnwxfDB8fHwxNzk0MDEwMTI5fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1534590158618-73acb7d3641d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGlnaCUyMHNwZWVkJTIwdHJhaW4lMjB0dW5uZWwlMjBlbnRyYW5jZXxlbnwxfDB8fHwxNzk0MDEwMTI5fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1534590158618-73acb7d3641d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGlnaCUyMHNwZWVkJTIwdHJhaW4lMjB0dW5uZWwlMjBlbnRyYW5jZXxlbnwxfDB8fHwxNzk0MDEwMTI5fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1534590158618-73acb7d3641d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGlnaCUyMHNwZWVkJTIwdHJhaW4lMjB0dW5uZWwlMjBlbnRyYW5jZXxlbnwxfDB8fHwxNzk0MDEwMTI5fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Tren de alta velocidad entrando en un túnel" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@mygallery?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">KS KYUNG</a> en <a href="https://unsplash.com/photos/time-lapse-photography-of-vehicle-under-tunnel-7pqS06wgvEw?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Tu plan para el próximo vuelo
 

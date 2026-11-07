@@ -63,7 +63,10 @@ Aquí conviene ser honestos. La frase "los españoles somos los que menos dormim
 
 Lo que sí está bien documentado es otra cosa: **el horario**. En España nos acostamos, cenamos y vemos la tele más tarde que en buena parte del continente. Y si el despertador suena a la misma hora que en Berlín o en Londres, la cuenta es sencilla: lo que retrasas por la noche se lo quitas al sueño.
 
-<!-- unsplash: city apartment windows lit at night | Ventanas de pisos iluminadas por la noche en una ciudad -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1612726381005-d87b40d5b123?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2l0eSUyMGFwYXJ0bWVudCUyMHdpbmRvd3MlMjBsaXQlMjBhdCUyMG5pZ2h0fGVufDF8MHx8fDE3OTQwMTAxMjN8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1612726381005-d87b40d5b123?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2l0eSUyMGFwYXJ0bWVudCUyMHdpbmRvd3MlMjBsaXQlMjBhdCUyMG5pZ2h0fGVufDF8MHx8fDE3OTQwMTAxMjN8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1612726381005-d87b40d5b123?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2l0eSUyMGFwYXJ0bWVudCUyMHdpbmRvd3MlMjBsaXQlMjBhdCUyMG5pZ2h0fGVufDF8MHx8fDE3OTQwMTAxMjN8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1612726381005-d87b40d5b123?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2l0eSUyMGFwYXJ0bWVudCUyMHdpbmRvd3MlMjBsaXQlMjBhdCUyMG5pZ2h0fGVufDF8MHx8fDE3OTQwMTAxMjN8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Ventanas de pisos iluminadas por la noche en una ciudad" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@eugenechystiakov?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Eugene Chystiakov</a> en <a href="https://unsplash.com/photos/city-skyline-during-night-time-OflP2eE5pnU?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Huso horario o latitud: el debate de los relojes
 

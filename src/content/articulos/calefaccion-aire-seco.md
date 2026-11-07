@@ -69,7 +69,10 @@ La [Clínica Mayo](https://www.mayoclinic.org/diseases-conditions/common-cold/in
 
 Los ojos también lo notan. MedlinePlus incluye los [ambientes secos y con corrientes de aire](https://medlineplus.gov/spanish/ency/article/000426.htm) entre las causas del ojo seco y aconseja evitar el chorro directo de aire. Si además pasas horas ante una pantalla, parpadeas menos de lo normal; lo contamos en [cuántas veces parpadeamos al día](/en-1-minuto/cuantas-veces-parpadeamos/).
 
-<!-- unsplash: humidifier steam living room | Humidificador soltando vapor en un salón -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1617228133035-2347f159e755?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aHVtaWRpZmllciUyMHN0ZWFtJTIwbGl2aW5nJTIwcm9vbXxlbnwxfDB8fHwxNzk0MDEwMTE2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1617228133035-2347f159e755?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aHVtaWRpZmllciUyMHN0ZWFtJTIwbGl2aW5nJTIwcm9vbXxlbnwxfDB8fHwxNzk0MDEwMTE2fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1617228133035-2347f159e755?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aHVtaWRpZmllciUyMHN0ZWFtJTIwbGl2aW5nJTIwcm9vbXxlbnwxfDB8fHwxNzk0MDEwMTE2fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1617228133035-2347f159e755?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aHVtaWRpZmllciUyMHN0ZWFtJTIwbGl2aW5nJTIwcm9vbXxlbnwxfDB8fHwxNzk0MDEwMTE2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Humidificador soltando vapor en un salón" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@figmentprints?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Cat Han</a> en <a href="https://unsplash.com/photos/brown-wooden-chair-beside-white-table-aPD1yNUYP0w?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Qué dice la norma española sobre temperatura y humedad
 

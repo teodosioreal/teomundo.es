@@ -14,6 +14,12 @@ datePublished: 2026-12-14
 dateModified: 2026-12-14
 imageQuery: "woman sneezing into tissue"
 imageAlt: "Mujer estornudando en un pañuelo de papel"
+cover:
+  url: "https://images.unsplash.com/photo-1653050233940-947f07ae6ca1?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzbmVlemluZyUyMGludG8lMjB0aXNzdWV8ZW58MXwwfHx8MTc5NDAxMDEyMXww&ixlib=rb-4.1.0"
+  alt: "Mujer estornudando en un pañuelo de papel"
+  author: "Mehrpouya H"
+  authorUrl: "https://unsplash.com/@mehrpouya?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-woman-wearing-glasses-covers-her-face-with-her-hands-m6rq7ix0Y3M?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Se puede estornudar con los ojos abiertos, pero cuesta: hay que vencer un reflejo que los cierra solos."
   - "Los ojos no se salen al estornudar. Un alergólogo de la Universidad de Texas A&M lo califica de extremadamente improbable."

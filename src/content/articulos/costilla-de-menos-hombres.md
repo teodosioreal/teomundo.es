@@ -15,6 +15,12 @@ datePublished: 2026-12-01
 dateModified: 2026-12-01
 imageQuery: "anatomy skeleton model classroom"
 imageAlt: "Esqueleto humano de anatomía en un aula"
+cover:
+  url: "https://images.unsplash.com/photo-1784989966317-3007bbb2ce1c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YW5hdG9teSUyMHNrZWxldG9uJTIwbW9kZWwlMjBjbGFzc3Jvb218ZW58MXwwfHx8MTc5NDAxMDExOHww&ixlib=rb-4.1.0"
+  alt: "Esqueleto humano de anatomía en un aula"
+  author: "Brecht Corbeel"
+  authorUrl: "https://unsplash.com/@brechtcorbeel?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/an-empty-science-classroom-with-desks-and-a-green-blackboard-W949DE3ia0g?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es falso: hombres y mujeres tienen el mismo número de costillas, normalmente 12 pares (24 en total)."
   - "El mito viene del relato bíblico de Eva creada a partir de una costilla de Adán."

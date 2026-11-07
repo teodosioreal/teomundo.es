@@ -15,6 +15,12 @@ datePublished: 2026-12-15
 dateModified: 2026-12-15
 imageQuery: "notebook pen bedside table morning light"
 imageAlt: "Libreta y bolígrafo sobre la mesilla de noche con luz de mañana"
+cover:
+  url: "https://images.unsplash.com/photo-1791754783121-4439980c6789?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bm90ZWJvb2slMjBwZW4lMjBiZWRzaWRlJTIwdGFibGUlMjBtb3JuaW5nJTIwbGlnaHR8ZW58MXwwfHx8MTc5NDAxMDEzMXww&ixlib=rb-4.1.0"
+  alt: "Libreta y bolígrafo sobre la mesilla de noche con luz de mañana"
+  author: "masha.uu"
+  authorUrl: "https://unsplash.com/@mashauu?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/orange-lamp-on-transparent-side-table-AQOfpVqP22M?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Pasamos unas dos horas por noche soñando, pero olvidamos la mayoría de los sueños."
   - "Mientras sueñas, la noradrenalina, una sustancia clave para fijar recuerdos, está muy baja en el cerebro."
@@ -73,7 +79,10 @@ Según el [Inserm](https://presse.inserm.fr/en/why-does-the-brain-remember-dream
 
 Los propios autores advierten de que no saben si estas personas recuerdan mejor o, simplemente, sueñan más.
 
-<!-- unsplash: person waking up stretching bed morning | Persona despertándose y estirándose en la cama por la mañana -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1658928784381-6f68bbcf92f6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwd2FraW5nJTIwdXAlMjBzdHJldGNoaW5nJTIwYmVkJTIwbW9ybmluZ3xlbnwxfDB8fHwxNzk0MDEwMTMyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1658928784381-6f68bbcf92f6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwd2FraW5nJTIwdXAlMjBzdHJldGNoaW5nJTIwYmVkJTIwbW9ybmluZ3xlbnwxfDB8fHwxNzk0MDEwMTMyfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1658928784381-6f68bbcf92f6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwd2FraW5nJTIwdXAlMjBzdHJldGNoaW5nJTIwYmVkJTIwbW9ybmluZ3xlbnwxfDB8fHwxNzk0MDEwMTMyfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1658928784381-6f68bbcf92f6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwd2FraW5nJTIwdXAlMjBzdHJldGNoaW5nJTIwYmVkJTIwbW9ybmluZ3xlbnwxfDB8fHwxNzk0MDEwMTMyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona despertándose y estirándose en la cama por la mañana" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@iam_os?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">iam_os</a> en <a href="https://unsplash.com/photos/a-person-lying-in-a-bed-tgMKcE-Qo5o?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Lo que cuenta tu forma de ser
 

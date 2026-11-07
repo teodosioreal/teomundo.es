@@ -15,6 +15,12 @@ datePublished: 2026-12-09
 dateModified: 2026-12-09
 imageQuery: "tongue close up macro pink"
 imageAlt: "Primer plano de una lengua con sus papilas"
+cover:
+  url: "https://images.unsplash.com/photo-1663014763515-065b4d205f4b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dG9uZ3VlJTIwY2xvc2UlMjB1cCUyMG1hY3JvJTIwcGlua3xlbnwxfDB8fHwxNzk0MDEwMTM0fDA&ixlib=rb-4.1.0"
+  alt: "Primer plano de una lengua con sus papilas"
+  author: "Maria Mihalchuk"
+  authorUrl: "https://unsplash.com/@siberiannairebis?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/background-pattern-PiPsmbnNedc?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Las papilas son los bultitos de la lengua; dentro de ellas están los botones gustativos, que son los que detectan el sabor."
   - "Un adulto tiene entre 2.000 y 4.000 botones gustativos, según InformedHealth. Otras fuentes, que cuentan también el paladar y la garganta, dan entre 5.000 y 10.000."
@@ -67,7 +73,10 @@ Según InformedHealth, en la lengua hay tres tipos de papilas con botones gustat
 
 Ningún tipo de papila se encarga de un solo sabor: los cinco sabores básicos se detectan en todas las zonas con botones gustativos. El famoso dibujo del colegio con una zona para cada sabor es falso, y te contamos de dónde salió en [el mito del mapa de la lengua](/mitos/mapa-de-la-lengua/).
 
-<!-- unsplash: person drinking hot soup from spoon kitchen | Persona tomando sopa caliente con una cuchara en la cocina -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1759689975472-c302b63b3b71?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwZHJpbmtpbmclMjBob3QlMjBzb3VwJTIwZnJvbSUyMHNwb29uJTIwa2l0Y2hlbnxlbnwxfDB8fHwxNzk0MDEwMTM1fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1759689975472-c302b63b3b71?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwZHJpbmtpbmclMjBob3QlMjBzb3VwJTIwZnJvbSUyMHNwb29uJTIwa2l0Y2hlbnxlbnwxfDB8fHwxNzk0MDEwMTM1fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1759689975472-c302b63b3b71?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwZHJpbmtpbmclMjBob3QlMjBzb3VwJTIwZnJvbSUyMHNwb29uJTIwa2l0Y2hlbnxlbnwxfDB8fHwxNzk0MDEwMTM1fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1759689975472-c302b63b3b71?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwZHJpbmtpbmclMjBob3QlMjBzb3VwJTIwZnJvbSUyMHNwb29uJTIwa2l0Y2hlbnxlbnwxfDB8fHwxNzk0MDEwMTM1fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona tomando sopa caliente con una cuchara en la cocina" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@adela_?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Adéla Dvořáková</a> en <a href="https://unsplash.com/photos/hands-garnishing-soup-with-herbs-and-cream-RnawErGtxO4?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Un recambio cada semana
 

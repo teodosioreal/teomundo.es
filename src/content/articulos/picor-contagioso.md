@@ -15,6 +15,12 @@ datePublished: 2026-12-10
 dateModified: 2026-12-10
 imageQuery: "man scratching arm close up"
 imageAlt: "Hombre rascándose el brazo"
+cover:
+  url: "https://images.unsplash.com/photo-1791042959023-4fb4daebd24e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWFuJTIwc2NyYXRjaGluZyUyMGFybSUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5NDAxMDEzNnww&ixlib=rb-4.1.0"
+  alt: "Hombre rascándose el brazo"
+  author: "engin akyurt"
+  authorUrl: "https://unsplash.com/@enginakyurt?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/wrist-and-hand-in-red-light-rTU1FiJDcsU?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Ver a alguien rascarse hace que mucha gente note picor y se rasque, aunque no tenga nada en la piel."
   - "En escáneres cerebrales, ver vídeos de gente rascándose activa en buena parte la misma red que un picor real."
