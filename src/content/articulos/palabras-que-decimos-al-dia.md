@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-11-28
 dateModified: 2026-11-28
 imageQuery: "friends talking at outdoor cafe table"
-imageAlt: "Grupo de amigos conversando en la terraza de un bar"
+imageAlt: "Dos amigas conversando en una terraza"
 cover:
   url: "https://images.unsplash.com/photo-1758274252296-a63b1d7d4bb8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJpZW5kcyUyMHRhbGtpbmclMjBhdCUyMG91dGRvb3IlMjBjYWZlJTIwdGFibGV8ZW58MXwwfHx8MTc5NDAxMDEzMnww&ixlib=rb-4.1.0"
-  alt: "Grupo de amigos conversando en la terraza de un bar"
+  alt: "Dos amigas conversando en una terraza"
   author: "Vitaly Gariev"
   authorUrl: "https://unsplash.com/@silverkblack?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/two-women-talking-at-an-outdoor-cafe-table-9ZNNeEUM7Q4?utm_source=teomundo&utm_medium=referral"
@@ -83,7 +83,7 @@ En el otro extremo, el hombre más callado se quedó en poco más de 500 palabra
 Dicho de otro modo: entre dos personas cualesquiera hay mucha más diferencia que entre la media de los hombres y la de las mujeres.
 
 <figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1773227059784-c1e36cc8c8c9?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3JhbmRtb3RoZXIlMjBhbmQlMjBncmFuZGRhdWdodGVyJTIwdGFsa2luZyUyMG9uJTIwc29mYXxlbnwxfDB8fHwxNzk0MDEwMTMzfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1773227059784-c1e36cc8c8c9?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3JhbmRtb3RoZXIlMjBhbmQlMjBncmFuZGRhdWdodGVyJTIwdGFsa2luZyUyMG9uJTIwc29mYXxlbnwxfDB8fHwxNzk0MDEwMTMzfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1773227059784-c1e36cc8c8c9?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3JhbmRtb3RoZXIlMjBhbmQlMjBncmFuZGRhdWdodGVyJTIwdGFsa2luZyUyMG9uJTIwc29mYXxlbnwxfDB8fHwxNzk0MDEwMTMzfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1773227059784-c1e36cc8c8c9?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3JhbmRtb3RoZXIlMjBhbmQlMjBncmFuZGRhdWdodGVyJTIwdGFsa2luZyUyMG9uJTIwc29mYXxlbnwxfDB8fHwxNzk0MDEwMTMzfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Abuela y nieta charlando en el sofá de casa" loading="lazy" decoding="async">
+<img src="https://images.unsplash.com/photo-1773227059784-c1e36cc8c8c9?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3JhbmRtb3RoZXIlMjBhbmQlMjBncmFuZGRhdWdodGVyJTIwdGFsa2luZyUyMG9uJTIwc29mYXxlbnwxfDB8fHwxNzk0MDEwMTMzfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1773227059784-c1e36cc8c8c9?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3JhbmRtb3RoZXIlMjBhbmQlMjBncmFuZGRhdWdodGVyJTIwdGFsa2luZyUyMG9uJTIwc29mYXxlbnwxfDB8fHwxNzk0MDEwMTMzfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1773227059784-c1e36cc8c8c9?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3JhbmRtb3RoZXIlMjBhbmQlMjBncmFuZGRhdWdodGVyJTIwdGFsa2luZyUyMG9uJTIwc29mYXxlbnwxfDB8fHwxNzk0MDEwMTMzfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1773227059784-c1e36cc8c8c9?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3JhbmRtb3RoZXIlMjBhbmQlMjBncmFuZGRhdWdodGVyJTIwdGFsa2luZyUyMG9uJTIwc29mYXxlbnwxfDB8fHwxNzk0MDEwMTMzfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Dos mujeres mayores charlando en el sofá" loading="lazy" decoding="async">
 <figcaption>Foto de <a href="https://unsplash.com/@agecymru?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Age Cymru</a> en <a href="https://unsplash.com/photos/two-elderly-women-sitting-and-talking-6RZXBjjAtbU?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 

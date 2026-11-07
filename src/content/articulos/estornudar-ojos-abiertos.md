@@ -13,10 +13,10 @@ secondaryKeywords:
 datePublished: 2026-12-14
 dateModified: 2026-12-14
 imageQuery: "woman sneezing into tissue"
-imageAlt: "Mujer estornudando en un pañuelo de papel"
+imageAlt: "Mujer tapándose la nariz y la boca con las manos"
 cover:
   url: "https://images.unsplash.com/photo-1653050233940-947f07ae6ca1?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzbmVlemluZyUyMGludG8lMjB0aXNzdWV8ZW58MXwwfHx8MTc5NDAxMDEyMXww&ixlib=rb-4.1.0"
-  alt: "Mujer estornudando en un pañuelo de papel"
+  alt: "Mujer tapándose la nariz y la boca con las manos"
   author: "Mehrpouya H"
   authorUrl: "https://unsplash.com/@mehrpouya?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/a-woman-wearing-glasses-covers-her-face-with-her-hands-m6rq7ix0Y3M?utm_source=teomundo&utm_medium=referral"

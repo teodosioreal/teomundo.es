@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-12-13
 dateModified: 2026-12-13
 imageQuery: "people walking on city street pedestrian"
-imageAlt: "Personas caminando por una calle peatonal de una ciudad"
+imageAlt: "Personas caminando por la calle de una ciudad"
 cover:
   url: "https://images.unsplash.com/photo-1543879830-ba01ea532776?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVvcGxlJTIwd2Fsa2luZyUyMG9uJTIwY2l0eSUyMHN0cmVldCUyMHBlZGVzdHJpYW58ZW58MXwwfHx8MTc5NDAxMDEyM3ww&ixlib=rb-4.1.0"
-  alt: "Personas caminando por una calle peatonal de una ciudad"
+  alt: "Personas caminando por la calle de una ciudad"
   author: "Marcos Rivas"
   authorUrl: "https://unsplash.com/@marcosrivas?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/man-and-woman-walking-beside-street-UxGk3cNAnlM?utm_source=teomundo&utm_medium=referral"
@@ -87,7 +87,7 @@ Con la media mundial de 4.961 pasos, la misma cuenta da unos 3,7 km al día y un
 Es una estimación con mucho margen: un niño, un repartidor y una persona mayor no caminan igual, y nadie da los mismos pasos todos los días de su vida.
 
 <figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1628112602172-9176a7889412?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGlraW5nJTIwYm9vdHMlMjBvbiUyMG1vdW50YWluJTIwdHJhaWx8ZW58MXwwfHx8MTc5NDAxMDEyNHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1628112602172-9176a7889412?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGlraW5nJTIwYm9vdHMlMjBvbiUyMG1vdW50YWluJTIwdHJhaWx8ZW58MXwwfHx8MTc5NDAxMDEyNHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1628112602172-9176a7889412?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGlraW5nJTIwYm9vdHMlMjBvbiUyMG1vdW50YWluJTIwdHJhaWx8ZW58MXwwfHx8MTc5NDAxMDEyNHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1628112602172-9176a7889412?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGlraW5nJTIwYm9vdHMlMjBvbiUyMG1vdW50YWluJTIwdHJhaWx8ZW58MXwwfHx8MTc5NDAxMDEyNHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Botas de montaña caminando por un sendero" loading="lazy" decoding="async">
+<img src="https://images.unsplash.com/photo-1628112602172-9176a7889412?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGlraW5nJTIwYm9vdHMlMjBvbiUyMG1vdW50YWluJTIwdHJhaWx8ZW58MXwwfHx8MTc5NDAxMDEyNHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1628112602172-9176a7889412?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGlraW5nJTIwYm9vdHMlMjBvbiUyMG1vdW50YWluJTIwdHJhaWx8ZW58MXwwfHx8MTc5NDAxMDEyNHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1628112602172-9176a7889412?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGlraW5nJTIwYm9vdHMlMjBvbiUyMG1vdW50YWluJTIwdHJhaWx8ZW58MXwwfHx8MTc5NDAxMDEyNHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1628112602172-9176a7889412?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGlraW5nJTIwYm9vdHMlMjBvbiUyMG1vdW50YWluJTIwdHJhaWx8ZW58MXwwfHx8MTc5NDAxMDEyNHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Pies con zapatillas de montaña frente a un cañón" loading="lazy" decoding="async">
 <figcaption>Foto de <a href="https://unsplash.com/@ktpolansky12?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Katie Polansky</a> en <a href="https://unsplash.com/photos/person-in-black-shorts-and-white-sneakers-sitting-on-rock-formation-during-daytime-63FmAhy7-fY?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 
