@@ -15,6 +15,12 @@ datePublished: 2027-01-06
 dateModified: 2027-01-06
 imageQuery: "older man wearing scarf and hat walking in cold winter street"
 imageAlt: "Hombre mayor con bufanda y gorro paseando por una calle en invierno"
+cover:
+  url: "https://images.unsplash.com/photo-1771761234433-bae95821e29c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8b2xkZXIlMjBtYW4lMjB3ZWFyaW5nJTIwc2NhcmYlMjBhbmQlMjBoYXQlMjB3YWxraW5nJTIwaW4lMjBjb2xkJTIwd2ludGVyJTIwc3RyZWV0fGVufDF8MHx8fDE3OTQwNTkxMDR8MA&ixlib=rb-4.1.0"
+  alt: "Hombre mayor con bufanda y gorro paseando por una calle en invierno"
+  author: "Dali Bek"
+  authorUrl: "https://unsplash.com/@dali_shots?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/man-wearing-a-blue-beanie-and-yellow-and-blue-flag-E9c_PrXJED0?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Con el frío, los vasos sanguíneos se estrechan, la tensión sube y el corazón tiene que trabajar más."
   - "Un metaanálisis de 26 estudios encontró más riesgo de infarto en las estaciones frías que en las cálidas, con diferencias según el clima de cada región."

@@ -15,6 +15,12 @@ datePublished: 2027-01-13
 dateModified: 2027-01-13
 imageQuery: "grandmother and granddaughter measuring height"
 imageAlt: "Abuela y nieta comparando su altura"
+cover:
+  url: "https://images.unsplash.com/photo-1742676971866-edc9a855d227?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3JhbmRtb3RoZXIlMjBhbmQlMjBncmFuZGRhdWdodGVyJTIwbWVhc3VyaW5nJTIwaGVpZ2h0fGVufDF8MHx8fDE3OTQwNTkwOTh8MA&ixlib=rb-4.1.0"
+  alt: "Abuela y nieta comparando su altura"
+  author: "Vantage Point Photographers"
+  authorUrl: "https://unsplash.com/@vpphotographers?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-helps-another-with-clothing-kueNd_S9Bzg?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Sí, encogemos: según un estudio del Baltimore Longitudinal Study of Aging, la pérdida de altura empieza hacia los 30 años y se acelera con la edad."
   - "De los 30 a los 70 años, la media fue de unos 3 cm en los hombres y 5 cm en las mujeres; a los 80, de 5 y 8 cm."
@@ -70,7 +76,10 @@ Con los años, ese centro cambia. Según una revisión sobre [el envejecimiento 
 
 Es el mismo principio que explica por qué [eres más alto por la mañana que por la noche](/en-1-minuto/mas-alto-por-la-manana/): los discos se aplastan un poco durante el día y se recuperan al dormir. Con la edad, lo que cambia es que esa pérdida ya no se recupera del todo. Y si te preguntas cuánta agua llevas repartida por el resto del cuerpo, lee [cuánta agua hay en tu cuerpo](/en-1-minuto/agua-en-el-cuerpo/).
 
-<!-- unsplash: senior woman walking in park | Mujer mayor paseando por un parque -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1786462886392-f15ac395fc99?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c2VuaW9yJTIwd29tYW4lMjB3YWxraW5nJTIwaW4lMjBwYXJrfGVufDF8MHx8fDE3OTQwNTkwOTl8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1786462886392-f15ac395fc99?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c2VuaW9yJTIwd29tYW4lMjB3YWxraW5nJTIwaW4lMjBwYXJrfGVufDF8MHx8fDE3OTQwNTkwOTl8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1786462886392-f15ac395fc99?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c2VuaW9yJTIwd29tYW4lMjB3YWxraW5nJTIwaW4lMjBwYXJrfGVufDF8MHx8fDE3OTQwNTkwOTl8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1786462886392-f15ac395fc99?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c2VuaW9yJTIwd29tYW4lMjB3YWxraW5nJTIwaW4lMjBwYXJrfGVufDF8MHx8fDE3OTQwNTkwOTl8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Mujer mayor paseando por un parque" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@zoshuacolah?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Zoshua Colah</a> en <a href="https://unsplash.com/photos/person-walking-on-paved-courtyard-path-zHRgoTcGWlw?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Cuando los huesos de la espalda ceden
 

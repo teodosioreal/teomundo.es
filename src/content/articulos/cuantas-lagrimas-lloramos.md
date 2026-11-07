@@ -15,6 +15,12 @@ datePublished: 2027-01-17
 dateModified: 2027-01-17
 imageQuery: "close up of human eye with tear"
 imageAlt: "Primer plano de un ojo humano con una lágrima"
+cover:
+  url: "https://images.unsplash.com/photo-1483519173755-be893fab1f46?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvc2UlMjB1cCUyMG9mJTIwaHVtYW4lMjBleWUlMjB3aXRoJTIwdGVhcnxlbnwxfDB8fHwxNzk0MDU5MDk1fDA&ixlib=rb-4.1.0"
+  alt: "Primer plano de un ojo humano con una lágrima"
+  author: "v2osk"
+  authorUrl: "https://unsplash.com/@v2osk?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/macro-photography-of-human-eye-In4XVKhYaiI?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Tus ojos producen lágrimas todo el tiempo: la Academia Americana de Oftalmología calcula unos 1,2 microlitros por minuto de lágrima basal."
   - "Si ese ritmo se mantuviera día y noche, saldrían 1,7 ml al día, unos 630 ml al año y unos 52 litros en 83 años. Es una estimación nuestra, no una medición."
@@ -69,7 +75,10 @@ La Academia Americana de Oftalmología indica que la lágrima basal se produce a
 
 ¿Y adónde van? Una parte sale por los lagrimales, unos agujeritos en el borde de los párpados que desembocan en la nariz, a unos 0,6 microlitros por minuto según la misma fuente. El resto se evapora. Por eso, cuando lloras mucho, también te moquea la nariz.
 
-<!-- unsplash: woman wiping tears with tissue on sofa | Mujer secándose las lágrimas con un pañuelo en el sofá -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1622297765902-ffbf4e04f43f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3aXBpbmclMjB0ZWFycyUyMHdpdGglMjB0aXNzdWUlMjBvbiUyMHNvZmF8ZW58MXwwfHx8MTc5NDA1OTA5Nnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1622297765902-ffbf4e04f43f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3aXBpbmclMjB0ZWFycyUyMHdpdGglMjB0aXNzdWUlMjBvbiUyMHNvZmF8ZW58MXwwfHx8MTc5NDA1OTA5Nnww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1622297765902-ffbf4e04f43f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3aXBpbmclMjB0ZWFycyUyMHdpdGglMjB0aXNzdWUlMjBvbiUyMHNvZmF8ZW58MXwwfHx8MTc5NDA1OTA5Nnww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1622297765902-ffbf4e04f43f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3aXBpbmclMjB0ZWFycyUyMHdpdGglMjB0aXNzdWUlMjBvbiUyMHNvZmF8ZW58MXwwfHx8MTc5NDA1OTA5Nnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Mujer secándose las lágrimas con un pañuelo en el sofá" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@reganography?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Samuel Regan-Asante</a> en <a href="https://unsplash.com/photos/woman-in-black-long-sleeve-shirt-sitting-on-gray-couch-bUzaKHGBChw?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## La cuenta de toda una vida, gota a gota
 

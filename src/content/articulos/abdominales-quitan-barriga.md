@@ -15,6 +15,12 @@ datePublished: 2027-01-05
 dateModified: 2027-01-05
 imageQuery: "person doing crunches on exercise mat at home"
 imageAlt: "Persona haciendo abdominales sobre una esterilla en casa"
+cover:
+  url: "https://images.unsplash.com/photo-1683758575782-a632dbbe9eed?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwZG9pbmclMjBjcnVuY2hlcyUyMG9uJTIwZXhlcmNpc2UlMjBtYXQlMjBhdCUyMGhvbWV8ZW58MXwwfHx8MTc5NDA1OTA4NXww&ixlib=rb-4.1.0"
+  alt: "Persona haciendo abdominales sobre una esterilla en casa"
+  author: "Giorgio Trovato"
+  authorUrl: "https://unsplash.com/@giorgiotrovato?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-man-is-doing-exercises-on-a-mat-with-a-barbell-3c7tpmlJxXo?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es falso que los abdominales quiten la barriga por sí solos: no puedes elegir de qué zona del cuerpo se va la grasa."
   - "En un ensayo de 6 semanas, 24 adultos hicieron 7 ejercicios de abdominales cinco días por semana y la grasa de la tripa no bajó más que en el grupo que no los hizo."
@@ -74,7 +80,10 @@ Otro ensayo, recogido en [PubMed](https://pubmed.ncbi.nlm.nih.gov/25766455/), di
 
 Es decir, el músculo se entrena por zonas. La grasa, no. Por cierto, el título de músculo más fuerte tampoco se lo lleva el abdomen: lo contamos en [cuál es el músculo más fuerte](/records/musculo-mas-fuerte/).
 
-<!-- unsplash: people walking briskly on a city promenade in winter | Personas caminando a buen paso por un paseo de la ciudad en invierno -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1785844313168-e738cc6b0ef8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVvcGxlJTIwd2Fsa2luZyUyMGJyaXNrbHklMjBvbiUyMGElMjBjaXR5JTIwcHJvbWVuYWRlJTIwaW4lMjB3aW50ZXJ8ZW58MXwwfHx8MTc5NDA1OTA4Nnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1785844313168-e738cc6b0ef8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVvcGxlJTIwd2Fsa2luZyUyMGJyaXNrbHklMjBvbiUyMGElMjBjaXR5JTIwcHJvbWVuYWRlJTIwaW4lMjB3aW50ZXJ8ZW58MXwwfHx8MTc5NDA1OTA4Nnww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1785844313168-e738cc6b0ef8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVvcGxlJTIwd2Fsa2luZyUyMGJyaXNrbHklMjBvbiUyMGElMjBjaXR5JTIwcHJvbWVuYWRlJTIwaW4lMjB3aW50ZXJ8ZW58MXwwfHx8MTc5NDA1OTA4Nnww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1785844313168-e738cc6b0ef8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVvcGxlJTIwd2Fsa2luZyUyMGJyaXNrbHklMjBvbiUyMGElMjBjaXR5JTIwcHJvbWVuYWRlJTIwaW4lMjB3aW50ZXJ8ZW58MXwwfHx8MTc5NDA1OTA4Nnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Personas caminando a buen paso por un paseo de la ciudad en invierno" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@igorhnes?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Igor Hnes</a> en <a href="https://unsplash.com/photos/woman-photographs-friend-posing-by-water-man-looks-at-phone-TVN1BmOFNOg?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## La grasa de la barriga que más importa no se ve
 

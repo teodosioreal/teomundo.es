@@ -15,6 +15,12 @@ datePublished: 2026-12-29
 dateModified: 2026-12-29
 imageQuery: "glass of water on wooden table sunlight"
 imageAlt: "Vaso de agua sobre una mesa de madera iluminado por el sol"
+cover:
+  url: "https://images.unsplash.com/photo-1779954816227-26d4a43e863a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHdhdGVyJTIwb24lMjB3b29kZW4lMjB0YWJsZSUyMHN1bmxpZ2h0fGVufDF8MHx8fDE3OTQwNTkwODZ8MA&ixlib=rb-4.1.0"
+  alt: "Vaso de agua sobre una mesa de madera iluminado por el sol"
+  author: "Phước Sang"
+  authorUrl: "https://unsplash.com/@phuocsangvn?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/iced-water-and-dark-beverage-on-a-rustic-wooden-table-t7MpdhgqMsw?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El agua supone entre el 50 % y el 60 % del peso de un adulto, y cerca del 75 % en un bebé."
   - "En un adulto de 70 kilos son unos 42 litros: dos tercios dentro de las células y un tercio fuera."
@@ -74,7 +80,10 @@ Fíjate en la fila del plasma: de 42 litros, solo 3,5 van por la sangre como pla
 
 El líquido que rodea las células también se mueve. Al final del día, la gravedad hace que se acumule un poco en los tobillos, y por eso [los pies se hinchan por la tarde](/en-1-minuto/pies-hinchados-por-la-tarde/).
 
-<!-- unsplash: person stepping on bathroom scale | Persona subiéndose a una báscula en el baño -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1755462629219-059dca9b1487?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3RlcHBpbmclMjBvbiUyMGJhdGhyb29tJTIwc2NhbGV8ZW58MXwwfHx8MTc5NDA1OTA4Nnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1755462629219-059dca9b1487?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3RlcHBpbmclMjBvbiUyMGJhdGhyb29tJTIwc2NhbGV8ZW58MXwwfHx8MTc5NDA1OTA4Nnww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1755462629219-059dca9b1487?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3RlcHBpbmclMjBvbiUyMGJhdGhyb29tJTIwc2NhbGV8ZW58MXwwfHx8MTc5NDA1OTA4Nnww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1755462629219-059dca9b1487?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc3RlcHBpbmclMjBvbiUyMGJhdGhyb29tJTIwc2NhbGV8ZW58MXwwfHx8MTc5NDA1OTA4Nnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona subiéndose a una báscula en el baño" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@cherstve_pechivo?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Liana S</a> en <a href="https://unsplash.com/photos/person-wearing-blue-sneakers-on-tiled-ground-hvrIUDsL9ys?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Calcula tu agua en litros
 

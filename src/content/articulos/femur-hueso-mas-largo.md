@@ -15,6 +15,12 @@ datePublished: 2027-01-02
 dateModified: 2027-01-02
 imageQuery: "person climbing stone stairs legs"
 imageAlt: "Piernas de una persona subiendo unas escaleras de piedra"
+cover:
+  url: "https://images.unsplash.com/photo-1758364576969-9134d9a3371c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwY2xpbWJpbmclMjBzdG9uZSUyMHN0YWlycyUyMGxlZ3N8ZW58MXwwfHx8MTc5NDA1OTEwM3ww&ixlib=rb-4.1.0"
+  alt: "Piernas de una persona subiendo unas escaleras de piedra"
+  author: "Galih Jelih"
+  authorUrl: "https://unsplash.com/@nixiesh?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/person-walking-down-stone-stairs-in-black-and-white-y7q50-5T_hg?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El fémur, el hueso del muslo, es el más largo, el más pesado y el más fuerte del cuerpo humano."
   - "En la mayoría de los adultos mide unos 46 centímetros, según la Cleveland Clinic."
@@ -70,7 +76,10 @@ El antropólogo Marc Feldesman y su equipo estudiaron la relación entre el fém
 
 No es una regla perfecta. Otros trabajos han visto que en los niños y adolescentes la proporción cambia, y que en algunos grupos funciona peor. Pero para una estimación rápida, sirve.
 
-<!-- unsplash: tape measure on wooden table | Cinta métrica sobre una mesa de madera -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1477955433441-51d0a2955c60?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGFwZSUyMG1lYXN1cmUlMjBvbiUyMHdvb2RlbiUyMHRhYmxlfGVufDF8MHx8fDE3OTQwNTkxMDN8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1477955433441-51d0a2955c60?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGFwZSUyMG1lYXN1cmUlMjBvbiUyMHdvb2RlbiUyMHRhYmxlfGVufDF8MHx8fDE3OTQwNTkxMDN8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1477955433441-51d0a2955c60?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGFwZSUyMG1lYXN1cmUlMjBvbiUyMHdvb2RlbiUyMHRhYmxlfGVufDF8MHx8fDE3OTQwNTkxMDN8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1477955433441-51d0a2955c60?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGFwZSUyMG1lYXN1cmUlMjBvbiUyMHdvb2RlbiUyMHRhYmxlfGVufDF8MHx8fDE3OTQwNTkxMDN8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Cinta métrica sobre una mesa de madera" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@brina_blum?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Brina Blum</a> en <a href="https://unsplash.com/photos/a-wooden-table-with-a-knife-and-fork-on-it-aaMH9aqEm1U?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Calcula cuánto mide tu fémur
 

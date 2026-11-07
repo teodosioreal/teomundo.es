@@ -15,6 +15,12 @@ datePublished: 2027-01-03
 dateModified: 2027-01-03
 imageQuery: "hand on chest close up"
 imageAlt: "Mano apoyada sobre el pecho"
+cover:
+  url: "https://images.unsplash.com/photo-1605553703411-73938914721b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZCUyMG9uJTIwY2hlc3QlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTQwNTkwOTJ8MA&ixlib=rb-4.1.0"
+  alt: "Mano apoyada sobre el pecho"
+  author: "Nsey Benajah"
+  authorUrl: "https://unsplash.com/@nseylubangi?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/brown-textile-on-black-textile-P-0xj_CW86Y?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El corazón está detrás del esternón, en el centro del pecho, ligeramente desplazado a la izquierda."
   - "Su punta apunta hacia la izquierda y es lo que notas latir, a la altura del quinto espacio entre costillas."

@@ -15,6 +15,12 @@ datePublished: 2026-12-17
 dateModified: 2026-12-17
 imageQuery: "small melon on kitchen scale"
 imageAlt: "Un melón pequeño sobre una báscula de cocina"
+cover:
+  url: "https://images.unsplash.com/photo-1792160624972-6053eec828d4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c21hbGwlMjBtZWxvbiUyMG9uJTIwa2l0Y2hlbiUyMHNjYWxlfGVufDF8MHx8fDE3OTQwNTkwOTd8MA&ixlib=rb-4.1.0"
+  alt: "Un melón pequeño sobre una báscula de cocina"
+  author: "Liana S"
+  authorUrl: "https://unsplash.com/@cherstve_pechivo?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/orange-pumpkin-on-blue-kitchen-scale-BqrYcxpD5j0?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El cerebro adulto pesa algo más de un kilo: en torno al 2 % del peso del cuerpo, según una revisión publicada en PNAS."
   - "Un gran estudio de autopsias de 1978 vio que el cerebro cuadruplica su peso en los tres primeros años y llega a su máximo hacia los 19."
@@ -70,7 +76,10 @@ Estos fueron sus hallazgos principales:
 
 El estudio también vio que el cerebro de los hombres pesaba de media **un 9,8 % más** que el de las mujeres. Antes de sacar conclusiones, el propio título del trabajo da la pista: relacionaron el peso del cerebro con la altura y el peso del cuerpo. Un cuerpo más grande suele llevar un cerebro más grande, y eso no dice nada de quién razona mejor.
 
-<!-- unsplash: grandmother and grandson doing puzzle together | Abuela y nieto haciendo un puzle juntos en casa -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1665389666769-9a3300eb4805?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3JhbmRtb3RoZXIlMjBhbmQlMjBncmFuZHNvbiUyMGRvaW5nJTIwcHV6emxlJTIwdG9nZXRoZXJ8ZW58MXwwfHx8MTc5NDA1OTA5OHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1665389666769-9a3300eb4805?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3JhbmRtb3RoZXIlMjBhbmQlMjBncmFuZHNvbiUyMGRvaW5nJTIwcHV6emxlJTIwdG9nZXRoZXJ8ZW58MXwwfHx8MTc5NDA1OTA5OHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1665389666769-9a3300eb4805?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3JhbmRtb3RoZXIlMjBhbmQlMjBncmFuZHNvbiUyMGRvaW5nJTIwcHV6emxlJTIwdG9nZXRoZXJ8ZW58MXwwfHx8MTc5NDA1OTA5OHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1665389666769-9a3300eb4805?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3JhbmRtb3RoZXIlMjBhbmQlMjBncmFuZHNvbiUyMGRvaW5nJTIwcHV6emxlJTIwdG9nZXRoZXJ8ZW58MXwwfHx8MTc5NDA1OTA5OHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Abuela y nieto haciendo un puzle juntos en casa" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@wadeybha?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Anthony Wade</a> en <a href="https://unsplash.com/photos/a-boy-and-girl-playing-with-a-toy-wLpRFHJ_d24?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Tu cerebro, etapa a etapa
 

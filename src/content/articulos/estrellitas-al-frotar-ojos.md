@@ -15,6 +15,12 @@ datePublished: 2026-12-30
 dateModified: 2026-12-30
 imageQuery: "tired man rubbing eyes with hands"
 imageAlt: "Hombre cansado frotándose los ojos con las manos"
+cover:
+  url: "https://images.unsplash.com/photo-1554188572-9d184b57d8e2?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGlyZWQlMjBtYW4lMjBydWJiaW5nJTIwZXllcyUyMHdpdGglMjBoYW5kc3xlbnwxfDB8fHwxNzk0MDU5MTAxfDA&ixlib=rb-4.1.0"
+  alt: "Hombre cansado frotándose los ojos con las manos"
+  author: "Adrian Swancar"
+  authorUrl: "https://unsplash.com/@a_d_s_w?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/man-wearing-black-crew-neck-top-roCfgvkBLVY?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Las estrellitas que ves al frotarte los ojos se llaman fosfenos."
   - "La presión sobre el ojo estimula células de la retina igual que lo haría la luz, y el cerebro no nota la diferencia."
@@ -65,7 +71,10 @@ No todo el mundo los describe igual: puntitos que bailan, manchas de colores, di
 
 Tampoco hace falta frotarse. Un golpe en el ojo produce el mismo efecto, y también un estornudo fuerte, según explica Science Focus. Si alguna vez te has preguntado [si puedes estornudar con los ojos abiertos](/en-1-minuto/estornudar-ojos-abiertos/), ahí tienes otro motivo por el que los párpados se aprietan tanto.
 
-<!-- unsplash: closed eyes face close up soft light | Primer plano de una cara con los ojos cerrados bajo una luz suave -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1644903751036-adeda377f28d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvc2VkJTIwZXllcyUyMGZhY2UlMjBjbG9zZSUyMHVwJTIwc29mdCUyMGxpZ2h0fGVufDF8MHx8fDE3OTQwNTkxMDJ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1644903751036-adeda377f28d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvc2VkJTIwZXllcyUyMGZhY2UlMjBjbG9zZSUyMHVwJTIwc29mdCUyMGxpZ2h0fGVufDF8MHx8fDE3OTQwNTkxMDJ8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1644903751036-adeda377f28d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvc2VkJTIwZXllcyUyMGZhY2UlMjBjbG9zZSUyMHVwJTIwc29mdCUyMGxpZ2h0fGVufDF8MHx8fDE3OTQwNTkxMDJ8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1644903751036-adeda377f28d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvc2VkJTIwZXllcyUyMGZhY2UlMjBjbG9zZSUyMHVwJTIwc29mdCUyMGxpZ2h0fGVufDF8MHx8fDE3OTQwNTkxMDJ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Primer plano de una cara con los ojos cerrados bajo una luz suave" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@katelyn_g?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Katelyn G</a> en <a href="https://unsplash.com/photos/a-close-up-of-a-persons-eyes-with-freckled-hair-8BrQXKsDRIg?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Tres tipos de "estrellitas" y qué significan
 

@@ -15,6 +15,12 @@ datePublished: 2026-12-21
 dateModified: 2026-12-21
 imageQuery: "snowy empty street at night winter streetlights"
 imageAlt: "Calle vacía y nevada de noche, iluminada por farolas"
+cover:
+  url: "https://images.unsplash.com/photo-1609264516311-706afaf3d80e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c25vd3klMjBlbXB0eSUyMHN0cmVldCUyMGF0JTIwbmlnaHQlMjB3aW50ZXIlMjBzdHJlZXRsaWdodHN8ZW58MXwwfHx8MTc5NDA1OTA4N3ww&ixlib=rb-4.1.0"
+  alt: "Calle vacía y nevada de noche, iluminada por farolas"
+  author: "Josh Hild"
+  authorUrl: "https://unsplash.com/@joshhild?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/person-in-black-jacket-standing-on-road-during-snow-VnI741B7l1c?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es falso: el alcohol da sensación de calor en la piel, pero no calienta el cuerpo por dentro."
   - "En el frío, el alcohol se asocia con una bajada mayor de la temperatura interna; los estudios señalan que dificulta tiritar, que es la forma en que el cuerpo fabrica calor."
@@ -65,7 +71,10 @@ Tiritar es tu calefacción de emergencia. Los músculos se contraen sin parar pa
 
 Los propios autores reconocen que los estudios no siempre coinciden. El efecto depende de cuánto se beba, de cuánto frío haga y del estado de cada persona. En el estudio del European Journal, con un frío suave, la temperatura interna no cayó más rápido. El veredicto general, aun así, no cambia: ningún estudio muestra que el alcohol te proteja del frío.
 
-<!-- unsplash: person warming hands with breath in cold winter air | Persona calentándose las manos con el aliento en un día de mucho frío -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1758521959654-17618e77e2e8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwd2FybWluZyUyMGhhbmRzJTIwd2l0aCUyMGJyZWF0aCUyMGluJTIwY29sZCUyMHdpbnRlciUyMGFpcnxlbnwxfDB8fHwxNzk0MDU5MDg3fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1758521959654-17618e77e2e8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwd2FybWluZyUyMGhhbmRzJTIwd2l0aCUyMGJyZWF0aCUyMGluJTIwY29sZCUyMHdpbnRlciUyMGFpcnxlbnwxfDB8fHwxNzk0MDU5MDg3fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1758521959654-17618e77e2e8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwd2FybWluZyUyMGhhbmRzJTIwd2l0aCUyMGJyZWF0aCUyMGluJTIwY29sZCUyMHdpbnRlciUyMGFpcnxlbnwxfDB8fHwxNzk0MDU5MDg3fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1758521959654-17618e77e2e8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwd2FybWluZyUyMGhhbmRzJTIwd2l0aCUyMGJyZWF0aCUyMGluJTIwY29sZCUyMHdpbnRlciUyMGFpcnxlbnwxfDB8fHwxNzk0MDU5MDg3fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona calentándose las manos con el aliento en un día de mucho frío" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@silverkblack?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Vitaly Gariev</a> en <a href="https://unsplash.com/photos/man-exercising-on-monkey-bars-outdoors-9S8amUeYgX4?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## El peligro no está solo en el termómetro
 

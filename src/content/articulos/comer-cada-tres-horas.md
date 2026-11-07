@@ -15,6 +15,12 @@ datePublished: 2026-12-26
 dateModified: 2026-12-26
 imageQuery: "lunch box with fruit and sandwich on office desk"
 imageAlt: "Táper con fruta y un bocadillo sobre una mesa de oficina"
+cover:
+  url: "https://images.unsplash.com/photo-1705329926514-3033604d1733?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bHVuY2glMjBib3glMjB3aXRoJTIwZnJ1aXQlMjBhbmQlMjBzYW5kd2ljaCUyMG9uJTIwb2ZmaWNlJTIwZGVza3xlbnwxfDB8fHwxNzk0MDU5MDkxfDA&ixlib=rb-4.1.0"
+  alt: "Táper con fruta y un bocadillo sobre una mesa de oficina"
+  author: "Sebastian Olivos"
+  authorUrl: "https://unsplash.com/@seeeebaaa44?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-cup-of-tea-and-a-sandwich-on-a-desk-8C1MiYVXGOs?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es falso que comer cada tres horas acelere el metabolismo: los estudios no ven un gasto de energía mayor al repartir la misma comida en más tomas."
   - "En un ensayo de 8 semanas con 16 adultos, hacer 3 comidas o 3 comidas y 3 tentempiés con las mismas calorías dio la misma pérdida de peso."
@@ -67,7 +73,10 @@ Según el estudio, publicado en el [British Journal of Nutrition](https://www.ca
 
 Son pocos participantes, así que no es la última palabra. Pero encaja con el resto: con las mismas calorías, el reloj importa poco.
 
-<!-- unsplash: family eating lunch together at a table at home | Familia comiendo junta en la mesa de casa -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1578496780896-7081cc23c111?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZmFtaWx5JTIwZWF0aW5nJTIwbHVuY2glMjB0b2dldGhlciUyMGF0JTIwYSUyMHRhYmxlJTIwYXQlMjBob21lfGVufDF8MHx8fDE3OTQwNTkwOTF8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1578496780896-7081cc23c111?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZmFtaWx5JTIwZWF0aW5nJTIwbHVuY2glMjB0b2dldGhlciUyMGF0JTIwYSUyMHRhYmxlJTIwYXQlMjBob21lfGVufDF8MHx8fDE3OTQwNTkwOTF8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1578496780896-7081cc23c111?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZmFtaWx5JTIwZWF0aW5nJTIwbHVuY2glMjB0b2dldGhlciUyMGF0JTIwYSUyMHRhYmxlJTIwYXQlMjBob21lfGVufDF8MHx8fDE3OTQwNTkwOTF8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1578496780896-7081cc23c111?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZmFtaWx5JTIwZWF0aW5nJTIwbHVuY2glMjB0b2dldGhlciUyMGF0JTIwYSUyMHRhYmxlJTIwYXQlMjBob21lfGVufDF8MHx8fDE3OTQwNTkwOTF8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Familia comiendo junta en la mesa de casa" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@nci?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">National Cancer Institute</a> en <a href="https://unsplash.com/photos/group-of-person-eating-indoors-cfGG0niafjc?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Por qué el mito tiene media verdad
 
