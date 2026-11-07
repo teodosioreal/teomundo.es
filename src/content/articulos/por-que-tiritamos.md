@@ -45,6 +45,7 @@ sources:
   - title: "NHS 111 Wales: Hypothermia"
     url: "https://111.wales.nhs.uk/encyclopaedia/h/article/hypothermia"
 related:
+  - pies-frios-invierno
   - piel-de-gallina
   - dedos-arrugados-en-el-agua
   - mareo-al-levantarse

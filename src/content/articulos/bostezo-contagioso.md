@@ -38,6 +38,7 @@ sources:
   - title: "Massen y Gallup (2017), Neuroscience & Biobehavioral Reviews: Why contagious yawning does not (yet) equate to empathy"
     url: "https://dspace.sunyconnect.suny.edu/items/a11f4777-14b6-4206-a8f9-4200d65e3e33"
 related:
+  - risa-contagiosa
   - picor-contagioso
   - sacudida-al-dormirse
   - estornudar-con-el-sol

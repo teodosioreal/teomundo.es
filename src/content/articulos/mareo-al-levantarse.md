@@ -45,6 +45,7 @@ sources:
   - title: "MedlinePlus Genetics (NIH): Orthostatic hypotension"
     url: "https://medlineplus.gov/genetics/condition/orthostatic-hypotension"
 related:
+  - estrellitas-al-frotar-ojos
   - pierna-dormida
   - sacudida-al-dormirse
   - dolor-de-cabeza-por-helado

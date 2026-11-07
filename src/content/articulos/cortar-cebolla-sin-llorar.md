@@ -38,6 +38,7 @@ sources:
   - title: "AARP: How to Cut Onions Without Crying"
     url: "https://www.aarp.org/health/healthy-living/how-to-cut-onions-without-crying/"
 related:
+  - ojos-lloran-con-frio
   - piel-de-gallina
   - por-que-suenan-las-tripas
   - estornudar-con-el-sol

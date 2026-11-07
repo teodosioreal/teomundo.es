@@ -36,6 +36,7 @@ sources:
   - title: "NHS: Pins and needles"
     url: "https://www.nhs.uk/conditions/pins-and-needles/"
 related:
+  - por-que-salen-agujetas
   - sacudida-al-dormirse
   - por-que-crujen-los-dedos
   - dedos-arrugados-en-el-agua

@@ -45,6 +45,7 @@ sources:
   - title: "Mount Sinai Health Library: Skin blushing/flushing"
     url: "https://www.mountsinai.org/health-library/symptoms/skin-blushing-flushing"
 related:
+  - manos-sudan-nervios
   - piel-de-gallina
   - cosquillas-a-uno-mismo
   - bostezo-contagioso
