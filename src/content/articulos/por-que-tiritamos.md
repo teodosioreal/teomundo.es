@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-12-05
 dateModified: 2026-12-05
 imageQuery: "person shivering cold winter scarf street"
-imageAlt: "Persona abrigada con bufanda encogida por el frío en la calle en invierno"
+imageAlt: "Persona abrigada con gorro y bufanda en la calle en invierno"
 cover:
   url: "https://images.unsplash.com/photo-1768471126278-73ba65e18829?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc2hpdmVyaW5nJTIwY29sZCUyMHdpbnRlciUyMHNjYXJmJTIwc3RyZWV0fGVufDF8MHx8fDE3OTQwNTI4NDB8MA&ixlib=rb-4.1.0"
-  alt: "Persona abrigada con bufanda encogida por el frío en la calle en invierno"
+  alt: "Persona abrigada con gorro y bufanda en la calle en invierno"
   author: "Hanna Lazar"
   authorUrl: "https://unsplash.com/@potokvarte?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/woman-in-winter-clothes-drinks-from-a-cup-bd9UPAnAS7E?utm_source=teomundo&utm_medium=referral"

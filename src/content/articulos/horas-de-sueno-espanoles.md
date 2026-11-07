@@ -13,7 +13,7 @@ secondaryKeywords:
   - "dormir menos de 7 horas"
 datePublished: 2026-12-12
 dateModified: 2026-12-12
-imageQuery: "alarm clock bedside table morning bed"
+imageQuery: "alarm clock on nightstand"
 imageAlt: "Despertador sobre la mesilla junto a una cama por la mañana"
 keyTakeaways:
   - "Según una encuesta de la Sociedad Española de Neurología presentada en 2025, el 56 % de los adultos duerme menos de las 7 a 9 horas recomendadas."

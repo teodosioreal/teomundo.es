@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-12-09
 dateModified: 2026-12-09
 imageQuery: "tasting soup with spoon kitchen"
-imageAlt: "Persona probando un plato con una cuchara"
+imageAlt: "Persona tomando una cucharada de sopa"
 cover:
   url: "https://images.unsplash.com/photo-1469307517101-0b99d8fb0c33?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGFzdGluZyUyMHNvdXAlMjB3aXRoJTIwc3Bvb24lMjBraXRjaGVufGVufDF8MHx8fDE3OTQwNTI4MzZ8MA&ixlib=rb-4.1.0"
-  alt: "Persona probando un plato con una cuchara"
+  alt: "Persona tomando una cucharada de sopa"
   author: "Henrique Felix"
   authorUrl: "https://unsplash.com/@henriquefelix?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/white-ceramic-bowl-JVkGUwTYQag?utm_source=teomundo&utm_medium=referral"

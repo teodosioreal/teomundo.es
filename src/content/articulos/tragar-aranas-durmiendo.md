@@ -13,14 +13,8 @@ secondaryKeywords:
   - "arañas en la cama"
 datePublished: 2026-12-11
 dateModified: 2026-12-11
-imageQuery: "spider web in corner of ceiling"
-imageAlt: "Telaraña en la esquina del techo de una habitación"
-cover:
-  url: "https://images.unsplash.com/photo-1774971109365-0638c729b248?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3BpZGVyJTIwd2ViJTIwaW4lMjBjb3JuZXIlMjBvZiUyMGNlaWxpbmd8ZW58MXwwfHx8MTc5NDA1Mjg0Mnww&ixlib=rb-4.1.0"
-  alt: "Telaraña en la esquina del techo de una habitación"
-  author: "Jannick Nijholt"
-  authorUrl: "https://unsplash.com/@jannicknijholt?utm_source=teomundo&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/a-plain-white-surface-overlaps-a-dark-textured-background-7YeUwxyi3r4?utm_source=teomundo&utm_medium=referral"
+imageQuery: "spider web close up"
+imageAlt: "Primer plano de una telaraña"
 keyTakeaways:
   - "Es un mito: no existe ningún caso registrado en la literatura científica o médica de alguien que se tragara una araña dormido."
   - "Una persona dormida respira, tiene latido y a veces ronca: esas vibraciones avisan a las arañas para que se alejen."
@@ -71,7 +65,7 @@ Para las arañas, las vibraciones funcionan como una alarma. Bill Shear, que pre
 Por la noche pasan cosas mucho más reales que una araña en la boca, como levantarse y [caminar dormido](/mitos/despertar-sonambulo/).
 
 <figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1688382575775-9aaa5025524e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwc2xlZXBpbmclMjBwZWFjZWZ1bGx5JTIwaW4lMjBiZWQlMjBtb3JuaW5nJTIwbGlnaHR8ZW58MXwwfHx8MTc5NDA1Mjg0M3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1688382575775-9aaa5025524e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwc2xlZXBpbmclMjBwZWFjZWZ1bGx5JTIwaW4lMjBiZWQlMjBtb3JuaW5nJTIwbGlnaHR8ZW58MXwwfHx8MTc5NDA1Mjg0M3ww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1688382575775-9aaa5025524e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwc2xlZXBpbmclMjBwZWFjZWZ1bGx5JTIwaW4lMjBiZWQlMjBtb3JuaW5nJTIwbGlnaHR8ZW58MXwwfHx8MTc5NDA1Mjg0M3ww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1688382575775-9aaa5025524e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwc2xlZXBpbmclMjBwZWFjZWZ1bGx5JTIwaW4lMjBiZWQlMjBtb3JuaW5nJTIwbGlnaHR8ZW58MXwwfHx8MTc5NDA1Mjg0M3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona durmiendo tranquila en la cama con luz de mañana" loading="lazy" decoding="async">
+<img src="https://images.unsplash.com/photo-1688382575775-9aaa5025524e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwc2xlZXBpbmclMjBwZWFjZWZ1bGx5JTIwaW4lMjBiZWQlMjBtb3JuaW5nJTIwbGlnaHR8ZW58MXwwfHx8MTc5NDA1Mjg0M3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1688382575775-9aaa5025524e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwc2xlZXBpbmclMjBwZWFjZWZ1bGx5JTIwaW4lMjBiZWQlMjBtb3JuaW5nJTIwbGlnaHR8ZW58MXwwfHx8MTc5NDA1Mjg0M3ww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1688382575775-9aaa5025524e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwc2xlZXBpbmclMjBwZWFjZWZ1bGx5JTIwaW4lMjBiZWQlMjBtb3JuaW5nJTIwbGlnaHR8ZW58MXwwfHx8MTc5NDA1Mjg0M3ww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1688382575775-9aaa5025524e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwc2xlZXBpbmclMjBwZWFjZWZ1bGx5JTIwaW4lMjBiZWQlMjBtb3JuaW5nJTIwbGlnaHR8ZW58MXwwfHx8MTc5NDA1Mjg0M3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Mujer durmiendo tranquila en la cama" loading="lazy" decoding="async">
 <figcaption>Foto de <a href="https://unsplash.com/@slaapwijsheid?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Slaapwijsheid.nl</a> en <a href="https://unsplash.com/photos/a-woman-sleeping-on-a-bed-with-a-blue-blanket-6qxUg4jTWdE?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 

@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-11-21
 dateModified: 2026-11-21
 imageQuery: "woman with gray streak in hair"
-imageAlt: "Mujer con un mechón de canas en el pelo"
+imageAlt: "Mujer joven con el pelo de color gris claro"
 cover:
   url: "https://images.unsplash.com/flagged/photo-1556588885-40cf2516157f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3aXRoJTIwZ3JheSUyMHN0cmVhayUyMGluJTIwaGFpcnxlbnwxfDB8fHwxNzk0MDUyODMzfDA&ixlib=rb-4.1.0"
-  alt: "Mujer con un mechón de canas en el pelo"
+  alt: "Mujer joven con el pelo de color gris claro"
   author: "Doğukan Şahin"
   authorUrl: "https://unsplash.com/@dogukan?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/woman-wearing-pink-spaghetti-strap-top-bGXcC_dK3t4?utm_source=teomundo&utm_medium=referral"

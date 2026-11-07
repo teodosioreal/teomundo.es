@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-12-06
 dateModified: 2026-12-06
 imageQuery: "child sitting close to television screen living room"
-imageAlt: "Niño sentado muy cerca de la pantalla de la televisión en el salón"
+imageAlt: "Dos personas viendo la televisión desde el sofá"
 cover:
   url: "https://images.unsplash.com/photo-1692188071339-2825a8a997f1?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hpbGQlMjBzaXR0aW5nJTIwY2xvc2UlMjB0byUyMHRlbGV2aXNpb24lMjBzY3JlZW4lMjBsaXZpbmclMjByb29tfGVufDF8MHx8fDE3OTQwNTI4NDZ8MA&ixlib=rb-4.1.0"
-  alt: "Niño sentado muy cerca de la pantalla de la televisión en el salón"
+  alt: "Dos personas viendo la televisión desde el sofá"
   author: "Kevin Woblick"
   authorUrl: "https://unsplash.com/@kovah?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/a-couple-of-women-sitting-on-top-of-a-couch-439WmdedHVA?utm_source=teomundo&utm_medium=referral"

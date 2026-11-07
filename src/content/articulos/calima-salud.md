@@ -13,7 +13,7 @@ secondaryKeywords:
   - "qué hacer con calima"
 datePublished: 2026-11-27
 dateModified: 2026-11-27
-imageQuery: "orange dusty haze over road"
+imageQuery: "orange sky dust storm"
 imageAlt: "Cielo anaranjado por el polvo en suspensión sobre una carretera"
 keyTakeaways:
   - "La calima es polvo del desierto en suspensión: llena el aire de partículas finas que respiras."

@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-11-20
 dateModified: 2026-11-20
 imageQuery: "person listening voice message smartphone headphones"
-imageAlt: "Persona escuchando un mensaje de voz en el móvil con auriculares"
+imageAlt: "Joven con auriculares escuchando el móvil"
 cover:
   url: "https://images.unsplash.com/photo-1594434533760-02e0f3faaa68?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwbGlzdGVuaW5nJTIwdm9pY2UlMjBtZXNzYWdlJTIwc21hcnRwaG9uZSUyMGhlYWRwaG9uZXN8ZW58MXwwfHx8MTc5NDA1Mjg0OXww&ixlib=rb-4.1.0"
-  alt: "Persona escuchando un mensaje de voz en el móvil con auriculares"
+  alt: "Joven con auriculares escuchando el móvil"
   author: "Ilias Chebbi"
   authorUrl: "https://unsplash.com/@ilias_cgb?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/man-in-black-nike-hoodie-wearing-black-headphones-2gpfqhEFVZ8?utm_source=teomundo&utm_medium=referral"

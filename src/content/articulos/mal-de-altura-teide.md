@@ -13,7 +13,7 @@ secondaryKeywords:
   - "mal agudo de montaña"
 datePublished: 2026-12-02
 dateModified: 2026-12-02
-imageQuery: "teide volcano summit snow tenerife"
+imageQuery: "mount teide"
 imageAlt: "Cumbre del Teide con nieve sobre un mar de nubes"
 keyTakeaways:
   - "En altura el aire sigue teniendo un 21 % de oxígeno, pero está menos comprimido: cada bocanada lleva menos moléculas."
