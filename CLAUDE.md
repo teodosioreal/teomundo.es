@@ -15,7 +15,7 @@
 - **Prioridade do dono:** mais páginas por visita. Todo artigo dá um próximo passo claro (blocos de leitura, links internos), **sem clickbait** nem dividir artigo em páginas.
 - Afiliados, produtos ou reviews: **pergunte antes**; exigem mudar as páginas legais e identificar a publicidade (LSSI art. 20).
 
-- **Próximas pautas:** `docs/pautas-lote-5.md` (aprovado em 07/11/2026): 2 adiados (17 e 18/12) + 30 temas de 20/12 a 18/01. Escrever numa sessão com cota de pesquisa disponível, até ~10/12.
+- **Lote 5 escrito e agendado em 07/11/2026** (`docs/pautas-lote-5.md`): 32 artigos de 17/12/2026 a 18/01/2027. Fila sem buracos até 18/01/2027. Próxima pauta: planejar o lote 6 até ~05/01/2027.
 
 ## 3. Anti-alucinação (regra mais importante)
 
