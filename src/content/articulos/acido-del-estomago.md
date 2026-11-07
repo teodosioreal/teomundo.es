@@ -38,6 +38,7 @@ sources:
   - title: "AEPap (Asociación Española de Pediatría de Atención Primaria): Ingesta de pila de botón"
     url: "https://pap.es/files/1116-3104-pdf/08_Ingesta_pila.pdf"
 related:
+  - tiempo-de-digestion
   - cuanto-mide-el-intestino
   - estomago-se-renueva
   - cerebro-consume-energia

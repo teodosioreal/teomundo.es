@@ -45,6 +45,7 @@ sources:
   - title: "BioNumbers (Harvard Medical School): Average diameter & length of small & large intestine"
     url: "https://bionumbers.hms.harvard.edu/bionumber.aspx?id=111127"
 related:
+  - por-que-dos-rinones
   - acido-del-estomago
   - estomago-se-renueva
   - mariposas-en-el-estomago

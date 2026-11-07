@@ -46,6 +46,7 @@ sources:
   - title: "Cleveland Clinic: When is leg swelling a sign of something serious?"
     url: "https://health.clevelandclinic.org/when-is-leg-swelling-a-sign-of-something-serious"
 related:
+  - agua-en-el-cuerpo
   - mas-alto-por-la-manana
   - mareo-al-levantarse
   - calor-y-corazon

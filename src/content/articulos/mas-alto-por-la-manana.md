@@ -36,6 +36,7 @@ sources:
   - title: "ScienceBlog: You are measurably taller when you wake than when you go to bed"
     url: "https://scienceblog.com/m-you-are-measurably-taller-when-you-wake-than-when-you-go-to-bed-and-lose-it-again-by-nightfall-the-soft-discs-between-your-vertebrae-compress-under-load-across-the-day-often-costing-you-around-a-ce/"
 related:
+  - encogemos-con-la-edad
   - cuantos-olores-distingue-la-nariz
   - cuantos-huesos-tiene-un-bebe
   - los-ojos-crecen

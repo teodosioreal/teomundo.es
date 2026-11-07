@@ -36,6 +36,7 @@ sources:
   - title: "Cedars-Sinai: Anatomy and Function of the Electrical System"
     url: "https://www.cedars-sinai.org/health-topics/anatomy-and-function-of-the-electrical-system"
 related:
+  - corazon-a-la-izquierda
   - huella-de-la-lengua
   - cerebro-consume-energia
   - cuerpo-humano-brilla
