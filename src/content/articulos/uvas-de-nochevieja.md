@@ -15,6 +15,12 @@ datePublished: 2026-12-18
 dateModified: 2026-12-18
 imageQuery: "bowl of green grapes"
 imageAlt: "Cuenco de uvas verdes"
+cover:
+  url: "https://images.unsplash.com/photo-1725195398648-f3454b552b20?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Ym93bCUyMG9mJTIwZ3JlZW4lMjBncmFwZXN8ZW58MXwwfHx8MTc5NDE3OTUwNnww&ixlib=rb-4.1.0"
+  alt: "Cuenco de uvas verdes"
+  author: "Yasaman Abedini"
+  authorUrl: "https://unsplash.com/@yas_abedini?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-wooden-bowl-filled-with-green-grapes-MfrXtyOe8vw?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El reloj de la Puerta del Sol separa las doce campanadas con un intervalo pensado para que dé tiempo a comer una uva en cada una; antes suenan los cuatro cuartos, que no cuentan."
   - "La Asociación Española de Pediatría aconseja no dar uvas enteras a niños hasta al menos los 4 o 5 años y, hasta entonces, pelarlas, quitar las pepitas y partirlas en cuatro a lo largo."

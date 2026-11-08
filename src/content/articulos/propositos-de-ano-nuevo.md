@@ -72,7 +72,10 @@ Otro hallazgo del estudio de Lally debería estar pegado en la nevera: **perder 
 
 Los propósitos tipo "este año me pongo en forma" fallan por otro motivo: no dicen qué hacer, ni cuándo, ni dónde. En cambio, los participantes del estudio ataban su conducta a algo que ya hacían cada día. Ese "después de..." es el gancho del hábito.
 
-<!-- unsplash: person tying running shoes | Persona atándose las zapatillas para salir a correr -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1600712662084-e54770a9668e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwdHlpbmclMjBydW5uaW5nJTIwc2hvZXN8ZW58MXwwfHx8MTc5NDE3OTUwNHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1600712662084-e54770a9668e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwdHlpbmclMjBydW5uaW5nJTIwc2hvZXN8ZW58MXwwfHx8MTc5NDE3OTUwNHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1600712662084-e54770a9668e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwdHlpbmclMjBydW5uaW5nJTIwc2hvZXN8ZW58MXwwfHx8MTc5NDE3OTUwNHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1600712662084-e54770a9668e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwdHlpbmclMjBydW5uaW5nJTIwc2hvZXN8ZW58MXwwfHx8MTc5NDE3OTUwNHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona atándose las zapatillas para salir a correr" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@freestockpro?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Alexandr Podvalny</a> en <a href="https://unsplash.com/photos/person-in-red-nike-sneakers-sitting-on-concrete-floor-BFmvDCBIWiM?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## El truco del "si pasa esto, hago aquello"
 

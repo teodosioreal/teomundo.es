@@ -15,6 +15,12 @@ datePublished: 2026-12-31
 dateModified: 2026-12-31
 imageQuery: "left hand writing in notebook with pen"
 imageAlt: "Mano izquierda escribiendo con un bolígrafo en un cuaderno"
+cover:
+  url: "https://images.unsplash.com/photo-1550592704-6c76defa9985?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGVmdCUyMGhhbmQlMjB3cml0aW5nJTIwaW4lMjBub3RlYm9vayUyMHdpdGglMjBwZW58ZW58MXwwfHx8MTc5NDE3OTUwOXww&ixlib=rb-4.1.0"
+  alt: "Mano izquierda escribiendo con un bolígrafo en un cuaderno"
+  author: "lilartsy"
+  authorUrl: "https://unsplash.com/@lilartsy?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/person-holding-on-red-pen-while-writing-on-book-333oj7zFsdg?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es falso: no hay pruebas de que los zurdos vivan menos que los diestros."
   - "El dato de los 9 años salió de un estudio de 1991 con certificados de defunción y entrevistas a familiares, y tenía un sesgo: antes se corregía a muchos niños zurdos."
@@ -61,7 +67,10 @@ Entre los más jóvenes, en cambio, ya se dejaba escribir con la izquierda. Resu
 
 La revisión de 2023 hizo la prueba con una simulación. Concluyó que el cambio en la proporción de zurdos a lo largo de los años explica por completo aquella diferencia de nueve años. La diferencia que ellos estimaron fue de 0,43 años de media, apenas cinco meses.
 
-<!-- unsplash: elderly couple walking together in a park | Pareja de personas mayores paseando juntas por un parque -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1791753258344-ddddc95fc49e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWxkZXJseSUyMGNvdXBsZSUyMHdhbGtpbmclMjB0b2dldGhlciUyMGluJTIwYSUyMHBhcmt8ZW58MXwwfHx8MTc5NDE3OTUxMHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1791753258344-ddddc95fc49e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWxkZXJseSUyMGNvdXBsZSUyMHdhbGtpbmclMjB0b2dldGhlciUyMGluJTIwYSUyMHBhcmt8ZW58MXwwfHx8MTc5NDE3OTUxMHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1791753258344-ddddc95fc49e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWxkZXJseSUyMGNvdXBsZSUyMHdhbGtpbmclMjB0b2dldGhlciUyMGluJTIwYSUyMHBhcmt8ZW58MXwwfHx8MTc5NDE3OTUxMHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1791753258344-ddddc95fc49e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWxkZXJseSUyMGNvdXBsZSUyMHdhbGtpbmclMjB0b2dldGhlciUyMGluJTIwYSUyMHBhcmt8ZW58MXwwfHx8MTc5NDE3OTUxMHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Pareja de personas mayores paseando juntas por un parque" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@sanateddy?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Oxana Lyashenko</a> en <a href="https://unsplash.com/photos/people-walking-on-autumn-forest-path-F0N-xyBa698?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Lo que pasó cuando siguieron a 3.774 personas mayores
 

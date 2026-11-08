@@ -347,3 +347,12 @@ unas-mas-largas | cover | hands with long natural fingernails | https://unsplash
 unas-mas-largas | inline 1 | nail clipper on bathroom shelf | https://unsplash.com/photos/white-metal-caddy-with-toiletries-on-a-green-wooden-wall-w9vkXTDc9pc | White metal caddy with toiletries on a green wooden wall
 uvas-de-nochevieja | cover | bowl of green grapes on festive table candles | https://unsplash.com/photos/candles-lit-on-a-dinner-table-setting-PyTBsZMWSJI | Candles lit on a dinner table setting
 uvas-de-nochevieja | inline 1 | peeled grapes cut in quarters on white plate | https://unsplash.com/photos/a-white-bowl-filled-with-nuts-on-top-of-a-table-Lua1K7-vGV0 | a white bowl filled with nuts on top of a table
+corazon-a-la-izquierda | inline | doctor listening to patient chest with stethoscope | NO RESULT
+cuanta-sangre-tenemos | inline | people waiting at blood donation center | NO RESULT
+propositos-de-ano-nuevo | inline 1 | person tying running shoes | https://unsplash.com/photos/person-in-red-nike-sneakers-sitting-on-concrete-floor-BFmvDCBIWiM | person in red nike sneakers sitting on concrete floor
+risa-contagiosa | inline 1 | friends laughing together park | https://unsplash.com/photos/three-women-walking-on-brown-wooden-dock-near-high-rise-building-during-daytime-mKJUoZPy70I | three women walking on brown wooden dock near high rise building during daytime
+uvas-de-nochevieja | cover | bowl of green grapes | https://unsplash.com/photos/a-wooden-bowl-filled-with-green-grapes-MfrXtyOe8vw | A wooden bowl filled with green grapes
+vitamina-d-a-traves-del-cristal | cover | sunlight streaming through window onto wooden floor | https://unsplash.com/photos/a-cat-sitting-on-a-wooden-floor-next-to-a-window-wlf-oLB-t5s | A cat sitting on a wooden floor next to a window
+vitamina-d-a-traves-del-cristal | inline 1 | person sitting by sunny window reading a book | https://unsplash.com/photos/people-relaxing-in-a-sunny-piazza-with-historic-buildings-CFxJpXsdpDQ | People relaxing in a sunny piazza with historic buildings
+zurdos-viven-menos | cover | left hand writing in notebook with pen | https://unsplash.com/photos/person-holding-on-red-pen-while-writing-on-book-333oj7zFsdg | person holding on red pen while writing on book
+zurdos-viven-menos | inline 1 | elderly couple walking together in a park | https://unsplash.com/photos/people-walking-on-autumn-forest-path-F0N-xyBa698 | Two people walking along a paved path through a forest with golden autumn leaves
