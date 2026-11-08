@@ -73,7 +73,7 @@ Esa línea queda a la izquierda del esternón, y por eso asociamos el corazón c
 
 Lo que mueve esos latidos es un sistema eléctrico propio, que funciona sin que el cerebro dé la orden. Te lo contamos en [la electricidad del corazón](/en-1-minuto/electricidad-del-corazon/).
 
-<!-- unsplash: doctor listening to patient chest with stethoscope | Médica escuchando el pecho de un paciente con el fonendoscopio -->
+<!-- unsplash: stethoscope | Fonendoscopio sobre una mesa -->
 
 ## Encuentra tu latido en un minuto
 

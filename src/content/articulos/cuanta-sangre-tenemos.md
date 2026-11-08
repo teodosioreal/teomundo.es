@@ -81,7 +81,7 @@ Haz la cuenta tú mismo:
 
 Para hacerte una idea en casa: un hombre de 70 kilos lleva dentro algo más que cinco bricks de leche de un litro. Una mujer de 60 kilos, casi cuatro.
 
-<!-- unsplash: people waiting at blood donation center | Personas esperando para donar sangre en un centro de donación -->
+<!-- unsplash: blood donor | Persona donando sangre en un centro de donación -->
 
 ## Qué parte das cuando donas
 
