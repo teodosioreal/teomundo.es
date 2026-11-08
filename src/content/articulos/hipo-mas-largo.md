@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-12-28
 dateModified: 2026-12-28
 imageQuery: "man holding breath puffed cheeks"
-imageAlt: "Hombre aguantando la respiración con las mejillas hinchadas"
+imageAlt: "Hombre con la mano en la boca y los ojos cerrados"
 cover:
   url: "https://images.unsplash.com/photo-1527167484260-43ca4f1cc204?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWFuJTIwaG9sZGluZyUyMGJyZWF0aCUyMHB1ZmZlZCUyMGNoZWVrc3xlbnwxfDB8fHwxNzk0MTc1NTYzfDA&ixlib=rb-4.1.0"
-  alt: "Hombre aguantando la respiración con las mejillas hinchadas"
+  alt: "Hombre con la mano en la boca y los ojos cerrados"
   author: "Kyle Glenn"
   authorUrl: "https://unsplash.com/@kylejglenn?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/man-covering-his-mouth-uFjORuZQczQ?utm_source=teomundo&utm_medium=referral"

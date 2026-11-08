@@ -69,10 +69,7 @@ Robert Provine, investigador de la Universidad de Maryland, Condado de Baltimore
 
 Si lo piensas, encaja con la cena de Nochebuena. La mesa no se ríe por el chiste, se ríe con tu prima. Igual que pasa con el [bostezo contagioso](/por-que/bostezo-contagioso/), el contagio se da más entre la gente que tienes cerca.
 
-<figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1557804506-d8017c1e4856?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8ZnJpZW5kcyUyMGxhdWdoaW5nJTIwdG9nZXRoZXIlMjBvdXRkb29ycyUyMGNhZmV8ZW58MXwwfHx8MTc5NDE3NTU3Mnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1557804506-d8017c1e4856?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8ZnJpZW5kcyUyMGxhdWdoaW5nJTIwdG9nZXRoZXIlMjBvdXRkb29ycyUyMGNhZmV8ZW58MXwwfHx8MTc5NDE3NTU3Mnww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1557804506-d8017c1e4856?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8ZnJpZW5kcyUyMGxhdWdoaW5nJTIwdG9nZXRoZXIlMjBvdXRkb29ycyUyMGNhZmV8ZW58MXwwfHx8MTc5NDE3NTU3Mnww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1557804506-d8017c1e4856?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8ZnJpZW5kcyUyMGxhdWdoaW5nJTIwdG9nZXRoZXIlMjBvdXRkb29ycyUyMGNhZmV8ZW58MXwwfHx8MTc5NDE3NTU3Mnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Grupo de amigos riéndose juntos en la terraza de un bar" loading="lazy" decoding="async">
-<figcaption>Foto de <a href="https://unsplash.com/@austindistel?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Austin Distel</a> en <a href="https://unsplash.com/photos/men-sitting-on-chairs-60caCHdOqH0?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
-</figure>
+<!-- unsplash: friends laughing together park | Grupo de amigos riéndose juntos en un parque -->
 
 ## La trampa de las risas enlatadas
 

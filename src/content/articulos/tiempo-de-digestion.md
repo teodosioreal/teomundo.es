@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-12-24
 dateModified: 2026-12-24
 imageQuery: "family christmas dinner table spain"
-imageAlt: "Mesa familiar preparada para la cena de Nochebuena"
+imageAlt: "Comedor con una mesa larga de madera preparada"
 cover:
   url: "https://images.unsplash.com/photo-1682194576230-ac438132c09d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZmFtaWx5JTIwY2hyaXN0bWFzJTIwZGlubmVyJTIwdGFibGUlMjBzcGFpbnxlbnwxfDB8fHwxNzk0MTc1NTgwfDA&ixlib=rb-4.1.0"
-  alt: "Mesa familiar preparada para la cena de Nochebuena"
+  alt: "Comedor con una mesa larga de madera preparada"
   author: "Monika Guzikowska"
   authorUrl: "https://unsplash.com/@monik_guzik?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/a-dining-room-table-with-a-vase-of-flowers-on-it-USWraX5w3rg?utm_source=teomundo&utm_medium=referral"
@@ -74,7 +74,7 @@ Como referencia, en un artículo sobre esta prueba publicado en PMC se considera
 Mientras tanto, la pared del estómago aguanta un ácido muy potente sin dañarse. Si te preguntas cómo lo consigue, lee [por qué tu estómago no se digiere a sí mismo](/en-1-minuto/estomago-se-renueva/).
 
 <figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1758273706261-bf264d3dbc38?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwcmVzdGluZyUyMG9uJTIwc29mYSUyMGFmdGVyJTIwYmlnJTIwbWVhbHxlbnwxfDB8fHwxNzk0MTc1NTgxfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1758273706261-bf264d3dbc38?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwcmVzdGluZyUyMG9uJTIwc29mYSUyMGFmdGVyJTIwYmlnJTIwbWVhbHxlbnwxfDB8fHwxNzk0MTc1NTgxfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1758273706261-bf264d3dbc38?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwcmVzdGluZyUyMG9uJTIwc29mYSUyMGFmdGVyJTIwYmlnJTIwbWVhbHxlbnwxfDB8fHwxNzk0MTc1NTgxfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1758273706261-bf264d3dbc38?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwcmVzdGluZyUyMG9uJTIwc29mYSUyMGFmdGVyJTIwYmlnJTIwbWVhbHxlbnwxfDB8fHwxNzk0MTc1NTgxfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona descansando en el sofá después de una comida copiosa" loading="lazy" decoding="async">
+<img src="https://images.unsplash.com/photo-1758273706261-bf264d3dbc38?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwcmVzdGluZyUyMG9uJTIwc29mYSUyMGFmdGVyJTIwYmlnJTIwbWVhbHxlbnwxfDB8fHwxNzk0MTc1NTgxfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1758273706261-bf264d3dbc38?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwcmVzdGluZyUyMG9uJTIwc29mYSUyMGFmdGVyJTIwYmlnJTIwbWVhbHxlbnwxfDB8fHwxNzk0MTc1NTgxfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1758273706261-bf264d3dbc38?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwcmVzdGluZyUyMG9uJTIwc29mYSUyMGFmdGVyJTIwYmlnJTIwbWVhbHxlbnwxfDB8fHwxNzk0MTc1NTgxfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1758273706261-bf264d3dbc38?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwcmVzdGluZyUyMG9uJTIwc29mYSUyMGFmdGVyJTIwYmlnJTIwbWVhbHxlbnwxfDB8fHwxNzk0MTc1NTgxfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Mujer descansando tumbada en el sofá" loading="lazy" decoding="async">
 <figcaption>Foto de <a href="https://unsplash.com/@silverkblack?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Vitaly Gariev</a> en <a href="https://unsplash.com/photos/woman-relaxing-on-a-sofa-with-hands-behind-head-0j2sFmCGhY4?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 
