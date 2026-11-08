@@ -13,14 +13,8 @@ secondaryKeywords:
   - "polvorones de Estepa"
 datePublished: 2026-12-22
 dateModified: 2026-12-22
-imageQuery: "crumbly shortbread cookies wrapped in paper on wooden table"
-imageAlt: "Dulces de Navidad envueltos en papel sobre una mesa de madera"
-cover:
-  url: "https://images.unsplash.com/photo-1657999717053-2a0160e42da6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y3J1bWJseSUyMHNob3J0YnJlYWQlMjBjb29raWVzJTIwd3JhcHBlZCUyMGluJTIwcGFwZXIlMjBvbiUyMHdvb2RlbiUyMHRhYmxlfGVufDF8MHx8fDE3OTQxNzE2NDB8MA&ixlib=rb-4.1.0"
-  alt: "Dulces de Navidad envueltos en papel sobre una mesa de madera"
-  author: "Lina Step"
-  authorUrl: "https://unsplash.com/@aosiya?utm_source=teomundo&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/a-bag-of-donuts-on-a-table-3vumUqZl9X0?utm_source=teomundo&utm_medium=referral"
+imageQuery: "christmas cookies plate"
+imageAlt: "Plato de dulces de Navidad"
 keyTakeaways:
   - "El polvorón es harina de trigo, manteca y azúcar glas, más almendra y canela en el de Estepa: una masa muy seca que se deshace en polvo."
   - "Para tragar, la saliva tiene que mojar la comida y convertirla en una bola blanda; con un bocado tan seco y harinoso, la saliva se queda corta."
@@ -69,10 +63,7 @@ El [Instituto Nacional de Investigación Dental de Estados Unidos](https://www.n
 
 Con un bocadillo, el pan ya trae su humedad y la saliva solo termina el trabajo. Con un polvorón, el polvo se reparte por toda la boca, se pega a la lengua y al paladar y tiene que esperar a que llegue saliva suficiente. Si quieres saber cuánta fabricas al día, lo contamos en [cuánta saliva produces en tu vida](/records/cuanta-saliva-producimos/).
 
-<figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1670617022886-1a8dd4d345ed?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHdhdGVyJTIwbmV4dCUyMHRvJTIwY2hyaXN0bWFzJTIwc3dlZXRzJTIwb24lMjB0YWJsZXxlbnwxfDB8fHwxNzk0MTcxNjQxfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1670617022886-1a8dd4d345ed?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHdhdGVyJTIwbmV4dCUyMHRvJTIwY2hyaXN0bWFzJTIwc3dlZXRzJTIwb24lMjB0YWJsZXxlbnwxfDB8fHwxNzk0MTcxNjQxfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1670617022886-1a8dd4d345ed?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHdhdGVyJTIwbmV4dCUyMHRvJTIwY2hyaXN0bWFzJTIwc3dlZXRzJTIwb24lMjB0YWJsZXxlbnwxfDB8fHwxNzk0MTcxNjQxfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1670617022886-1a8dd4d345ed?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHdhdGVyJTIwbmV4dCUyMHRvJTIwY2hyaXN0bWFzJTIwc3dlZXRzJTIwb24lMjB0YWJsZXxlbnwxfDB8fHwxNzk0MTcxNjQxfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Vaso de agua junto a dulces navideños en la mesa" loading="lazy" decoding="async">
-<figcaption>Foto de <a href="https://unsplash.com/@lancereis?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Lance Reis</a> en <a href="https://unsplash.com/photos/a-plate-of-cookies-and-candy-canes-on-a-table-tRu6MohXtZk?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
-</figure>
+<!-- unsplash: glass of water on table | Vaso de agua sobre la mesa -->
 
 ## Cómo comer un polvorón sin quedarte mudo
 

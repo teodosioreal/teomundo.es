@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2027-01-14
 dateModified: 2027-01-14
 imageQuery: "nervous student hands holding pen exam desk"
-imageAlt: "Manos de una persona sujetando un bolígrafo sobre un examen en una mesa"
+imageAlt: "Manos nerviosas sujetando un bolígrafo sobre un papel"
 cover:
   url: "https://images.unsplash.com/photo-1643877325038-f9a19083f6eb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bmVydm91cyUyMHN0dWRlbnQlMjBoYW5kcyUyMGhvbGRpbmclMjBwZW4lMjBleGFtJTIwZGVza3xlbnwxfDB8fHwxNzk0MTcxNjMyfDA&ixlib=rb-4.1.0"
-  alt: "Manos de una persona sujetando un bolígrafo sobre un examen en una mesa"
+  alt: "Manos nerviosas sujetando un bolígrafo sobre un papel"
   author: "Julia Taubitz"
   authorUrl: "https://unsplash.com/@justmejuliee?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/a-person-sitting-at-a-table-writing-on-a-piece-of-paper-kiVciIFK3xI?utm_source=teomundo&utm_medium=referral"

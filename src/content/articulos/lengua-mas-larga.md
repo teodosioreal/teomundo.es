@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2027-01-07
 dateModified: 2027-01-07
 imageQuery: "child sticking out tongue playful"
-imageAlt: "Niño sacando la lengua de forma divertida"
+imageAlt: "Niña sacando la lengua con azúcar en la punta"
 cover:
   url: "https://images.unsplash.com/photo-1601699260699-f72540b7d42d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hpbGQlMjBzdGlja2luZyUyMG91dCUyMHRvbmd1ZSUyMHBsYXlmdWx8ZW58MXwwfHx8MTc5NDE3MTYyOXww&ixlib=rb-4.1.0"
-  alt: "Niño sacando la lengua de forma divertida"
+  alt: "Niña sacando la lengua con azúcar en la punta"
   author: "Nicole Elliott"
   authorUrl: "https://unsplash.com/@elliottnep?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/person-in-gray-hoodie-showing-tongue-e2_ZeDesuBI?utm_source=teomundo&utm_medium=referral"
@@ -72,7 +72,7 @@ Puede parecer raro, pero para Guinness no cuenta la lengua entera. La parte de a
 Con ese mismo método, Guinness calcula que la lengua media mide **unos 8,5 centímetros en los hombres y 7,9 en las mujeres** ([Guinness World Records](https://www.guinnessworldrecords.com/news/2023/3/man-with-longest-tongue-in-the-world-laps-up-new-record-title-740894)). La organización no detalla de qué estudio salen esas medias, así que tómalas como una referencia orientativa.
 
 <figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1608751444940-a8ea4c0696ee?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29vZGVuJTIwcnVsZXIlMjBvbiUyMHdoaXRlJTIwdGFibGV8ZW58MXwwfHx8MTc5NDE3MTYzMHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1608751444940-a8ea4c0696ee?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29vZGVuJTIwcnVsZXIlMjBvbiUyMHdoaXRlJTIwdGFibGV8ZW58MXwwfHx8MTc5NDE3MTYzMHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1608751444940-a8ea4c0696ee?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29vZGVuJTIwcnVsZXIlMjBvbiUyMHdoaXRlJTIwdGFibGV8ZW58MXwwfHx8MTc5NDE3MTYzMHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1608751444940-a8ea4c0696ee?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29vZGVuJTIwcnVsZXIlMjBvbiUyMHdoaXRlJTIwdGFibGV8ZW58MXwwfHx8MTc5NDE3MTYzMHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Regla de madera sobre una mesa blanca" loading="lazy" decoding="async">
+<img src="https://images.unsplash.com/photo-1608751444940-a8ea4c0696ee?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29vZGVuJTIwcnVsZXIlMjBvbiUyMHdoaXRlJTIwdGFibGV8ZW58MXwwfHx8MTc5NDE3MTYzMHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1608751444940-a8ea4c0696ee?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29vZGVuJTIwcnVsZXIlMjBvbiUyMHdoaXRlJTIwdGFibGV8ZW58MXwwfHx8MTc5NDE3MTYzMHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1608751444940-a8ea4c0696ee?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29vZGVuJTIwcnVsZXIlMjBvbiUyMHdoaXRlJTIwdGFibGV8ZW58MXwwfHx8MTc5NDE3MTYzMHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1608751444940-a8ea4c0696ee?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29vZGVuJTIwcnVsZXIlMjBvbiUyMHdoaXRlJTIwdGFibGV8ZW58MXwwfHx8MTc5NDE3MTYzMHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Calendario de enero sobre una mesa de madera junto a una planta" loading="lazy" decoding="async">
 <figcaption>Foto de <a href="https://unsplash.com/@hudsoncrafted?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Debby Hudson</a> en <a href="https://unsplash.com/photos/green-plant-on-white-printer-paper-vb0r4K_J1h8?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
 </figure>
 
