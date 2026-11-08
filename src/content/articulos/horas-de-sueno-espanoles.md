@@ -15,6 +15,12 @@ datePublished: 2026-12-12
 dateModified: 2026-12-12
 imageQuery: "alarm clock on nightstand"
 imageAlt: "Despertador sobre la mesilla junto a una cama por la mañana"
+cover:
+  url: "https://images.unsplash.com/photo-1754606581512-222f5ea9d8c9?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YWxhcm0lMjBjbG9jayUyMG9uJTIwbmlnaHRzdGFuZHxlbnwxfDB8fHwxNzk0MTcxNjI3fDA&ixlib=rb-4.1.0"
+  alt: "Despertador sobre la mesilla junto a una cama por la mañana"
+  author: "Allen Y"
+  authorUrl: "https://unsplash.com/@yanahd?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/nightstand-with-a-lamp-clock-and-chargers-2kKThodpTvw?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Según una encuesta de la Sociedad Española de Neurología presentada en 2025, el 56 % de los adultos duerme menos de las 7 a 9 horas recomendadas."
   - "Alrededor de la mitad dice que su sueño no es reparador."

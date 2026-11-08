@@ -76,7 +76,10 @@ El antropólogo Marc Feldesman y su equipo estudiaron la relación entre el fém
 
 No es una regla perfecta. Otros trabajos han visto que en los niños y adolescentes la proporción cambia, y que en algunos grupos funciona peor. Pero para una estimación rápida, sirve.
 
-<!-- unsplash: human leg bones anatomy model | Huesos de la pierna en una maqueta de anatomía -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1508387150737-7ce104ed3b0a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aHVtYW4lMjBsZWclMjBib25lcyUyMGFuYXRvbXklMjBtb2RlbHxlbnwxfDB8fHwxNzk0MTcxNjIzfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1508387150737-7ce104ed3b0a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aHVtYW4lMjBsZWclMjBib25lcyUyMGFuYXRvbXklMjBtb2RlbHxlbnwxfDB8fHwxNzk0MTcxNjIzfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1508387150737-7ce104ed3b0a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aHVtYW4lMjBsZWclMjBib25lcyUyMGFuYXRvbXklMjBtb2RlbHxlbnwxfDB8fHwxNzk0MTcxNjIzfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1508387150737-7ce104ed3b0a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aHVtYW4lMjBsZWclMjBib25lcyUyMGFuYXRvbXklMjBtb2RlbHxlbnwxfDB8fHwxNzk0MTcxNjIzfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Huesos de la pierna en una maqueta de anatomía" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@ninoliverani?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Nino Liverani</a> en <a href="https://unsplash.com/photos/human-leg-skeleton-Z-lOWIRn2IM?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Calcula cuánto mide tu fémur
 

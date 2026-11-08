@@ -15,6 +15,12 @@ datePublished: 2026-12-02
 dateModified: 2026-12-02
 imageQuery: "mount teide"
 imageAlt: "Cumbre del Teide con nieve sobre un mar de nubes"
+cover:
+  url: "https://images.unsplash.com/photo-1581020964928-98b7ed232e07?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bW91bnQlMjB0ZWlkZXxlbnwxfDB8fHwxNzk0MTcxNjMwfDA&ixlib=rb-4.1.0"
+  alt: "Cumbre del Teide con nieve sobre un mar de nubes"
+  author: "Maria Lupan"
+  authorUrl: "https://unsplash.com/@luandmario?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/brown-mountain-under-blue-sky-during-daytime-a1k1fjBUSNY?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "En altura el aire sigue teniendo un 21 % de oxígeno, pero está menos comprimido: cada bocanada lleva menos moléculas."
   - "El Teide mide 3.715 metros y el Mulhacén, en Sierra Nevada, 3.479: alturas en las que el mal de altura es posible."

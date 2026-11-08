@@ -15,6 +15,12 @@ datePublished: 2026-12-28
 dateModified: 2026-12-28
 imageQuery: "man holding breath with cheeks puffed"
 imageAlt: "Hombre aguantando la respiración con las mejillas hinchadas"
+cover:
+  url: "https://images.unsplash.com/photo-1572322606117-b6c08a977f71?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWFuJTIwaG9sZGluZyUyMGJyZWF0aCUyMHdpdGglMjBjaGVla3MlMjBwdWZmZWR8ZW58MXwwfHx8MTc5NDE3MTYyNXww&ixlib=rb-4.1.0"
+  alt: "Hombre aguantando la respiración con las mejillas hinchadas"
+  author: "Nathan Trampe"
+  authorUrl: "https://unsplash.com/@nathantrampe?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/photo-of-man-wearing-white-and-blue-crew-neck-shirt-jpKACwUZVoI?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Según Guinness World Records, el ataque de hipo más largo lo sufrió Charles Osborne, en Estados Unidos: 68 años, de 1922 a 1990."
   - "Se calcula que hipaba entre 20 y 40 veces por minuto y que sumó más de 420 millones de hipos."
@@ -73,7 +79,10 @@ La cifra oficial es bastante menor que la de nuestra cuenta "sin parar". Eso enc
 
 Prueba la versión doméstica la próxima vez que te dé hipo: cuenta los hipos durante un minuto con el cronómetro del móvil y multiplícalo por los minutos que te dure. Un ataque normal de diez minutos a 15 hipos por minuto son 150. Osborne pasaba de esa cifra en menos de ocho minutos.
 
-<!-- unsplash: woman drinking glass of water in kitchen | Mujer bebiendo un vaso de agua en la cocina -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1581269630894-2188ce9f43d3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8d29tYW4lMjBkcmlua2luZyUyMGdsYXNzJTIwb2YlMjB3YXRlciUyMGluJTIwa2l0Y2hlbnxlbnwxfDB8fHwxNzk0MTcxNjI2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1581269630894-2188ce9f43d3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8d29tYW4lMjBkcmlua2luZyUyMGdsYXNzJTIwb2YlMjB3YXRlciUyMGluJTIwa2l0Y2hlbnxlbnwxfDB8fHwxNzk0MTcxNjI2fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1581269630894-2188ce9f43d3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8d29tYW4lMjBkcmlua2luZyUyMGdsYXNzJTIwb2YlMjB3YXRlciUyMGluJTIwa2l0Y2hlbnxlbnwxfDB8fHwxNzk0MTcxNjI2fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1581269630894-2188ce9f43d3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8d29tYW4lMjBkcmlua2luZyUyMGdsYXNzJTIwb2YlMjB3YXRlciUyMGluJTIwa2l0Y2hlbnxlbnwxfDB8fHwxNzk0MTcxNjI2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Mujer bebiendo un vaso de agua en la cocina" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@kellysikkema?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Kelly Sikkema</a> en <a href="https://unsplash.com/photos/man-in-white-t-shirt-holding-black-smartphone-IgrWFKF-d0k?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Qué pasa dentro cuando haces "hic"
 

@@ -15,6 +15,12 @@ datePublished: 2027-01-09
 dateModified: 2027-01-09
 imageQuery: "feet in wool socks on blanket winter"
 imageAlt: "Pies con calcetines de lana sobre una manta en invierno"
+cover:
+  url: "https://images.unsplash.com/photo-1731936757627-f2a1ea5893e6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZmVldCUyMGluJTIwd29vbCUyMHNvY2tzJTIwb24lMjBibGFua2V0JTIwd2ludGVyfGVufDF8MHx8fDE3OTQxNzE2Mzh8MA&ixlib=rb-4.1.0"
+  alt: "Pies con calcetines de lana sobre una manta en invierno"
+  author: "Bare Kind"
+  authorUrl: "https://unsplash.com/@barekind_bamboo_socks?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-persons-feet-with-christmas-socks-on-in-front-of-a-christmas-tree-uETbhgbd8Z8?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Cuando el cuerpo se enfría, los pequeños vasos de manos y pies se estrechan para mandar la sangre a los órganos internos."
   - "Por eso los pies son lo primero que se enfría, aunque lleves el abrigo bien cerrado."
@@ -70,7 +76,10 @@ La [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/23045-cold-
 
 Que en tu casa haga un frío húmedo o seco también cambia la sensación, como explicamos en [la diferencia entre el frío seco y el húmedo](/cuerpo-y-espana/frio-seco-o-humedo/).
 
-<!-- unsplash: person warming hands and feet by window winter home | Persona abrigada con calcetines gruesos junto a una ventana en invierno -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1602891867216-78a0a30c18ea?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwd2FybWluZyUyMGhhbmRzJTIwYW5kJTIwZmVldCUyMGJ5JTIwd2luZG93JTIwd2ludGVyJTIwaG9tZXxlbnwxfDB8fHwxNzk0MTcxNjM5fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1602891867216-78a0a30c18ea?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwd2FybWluZyUyMGhhbmRzJTIwYW5kJTIwZmVldCUyMGJ5JTIwd2luZG93JTIwd2ludGVyJTIwaG9tZXxlbnwxfDB8fHwxNzk0MTcxNjM5fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1602891867216-78a0a30c18ea?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwd2FybWluZyUyMGhhbmRzJTIwYW5kJTIwZmVldCUyMGJ5JTIwd2luZG93JTIwd2ludGVyJTIwaG9tZXxlbnwxfDB8fHwxNzk0MTcxNjM5fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1602891867216-78a0a30c18ea?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwd2FybWluZyUyMGhhbmRzJTIwYW5kJTIwZmVldCUyMGJ5JTIwd2luZG93JTIwd2ludGVyJTIwaG9tZXxlbnwxfDB8fHwxNzk0MTcxNjM5fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona abrigada con calcetines gruesos junto a una ventana en invierno" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@aminhasani?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Amin Hasani</a> en <a href="https://unsplash.com/photos/woman-in-gray-sweater-sitting-beside-window-7Z_2iKq9Nw8?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Tu plan para unos pies calientes sin sustos
 

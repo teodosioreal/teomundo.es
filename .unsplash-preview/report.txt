@@ -295,3 +295,29 @@ estrellitas-al-frotar-ojos | inline 1 | closed eyes face close up soft light | h
 femur-hueso-mas-largo | cover | person climbing stone stairs legs | https://unsplash.com/photos/person-walking-down-stone-stairs-in-black-and-white-y7q50-5T_hg | Person walking down stone stairs in black and white
 femur-hueso-mas-largo | inline 1 | tape measure on wooden table | https://unsplash.com/photos/a-wooden-table-with-a-knife-and-fork-on-it-aaMH9aqEm1U | a wooden table with a knife and fork on it
 frio-y-corazon | cover | older man wearing scarf and hat walking in cold winter street | https://unsplash.com/photos/man-wearing-a-blue-beanie-and-yellow-and-blue-flag-E9c_PrXJED0 | Man wearing a blue beanie and yellow and blue flag
+agua-en-el-cuerpo | inline 1 | bathroom scale on floor | https://unsplash.com/photos/tiled-floor-with-strong-shadow-and-small-objects-dsxel4atU10 | Tiled floor with strong shadow and small objects
+comer-cada-tres-horas | cover | lunch box with fruit and sandwich | https://unsplash.com/photos/a-lunchbox-filled-with-a-sandwich-cucumbers-radishes-and-tomatoes-eZRNJ0eUqtc | A lunchbox filled with a sandwich, cucumbers, radishes, and tomatoes
+corazon-a-la-izquierda | cover | hand on chest | https://unsplash.com/photos/woman-in-glasses-with-hand-on-chest-looking-away-pY21OrGc4yE | Woman in glasses with hand on chest looking away
+corazon-a-la-izquierda | inline | doctor listening to patient chest with stethoscope | NO RESULT
+cuanta-sangre-tenemos | cover | blood donation | https://unsplash.com/photos/healthcare-worker-drawing-blood-2rNHliX6XHk | A healthcare worker in white gloves drawing blood from a person's arm
+cuanta-sangre-tenemos | inline | people waiting at blood donation center | NO RESULT
+cuantas-lagrimas-lloramos | inline 1 | woman wiping tears with tissue | https://unsplash.com/photos/woman-in-black-tank-top-holding-white-textile-NKTJCOHzrUM | woman in black tank top holding white textile
+femur-hueso-mas-largo | inline 1 | human leg bones anatomy model | https://unsplash.com/photos/human-leg-skeleton-Z-lOWIRn2IM | human leg skeleton
+frio-y-corazon | inline 1 | warm wool scarf gloves and hat on wooden bench | https://unsplash.com/photos/a-knitted-hat-rests-on-a-wooden-park-bench-04_4rIx4Wls | A knitted hat rests on a wooden park bench
+hipo-mas-largo | cover | man holding breath with cheeks puffed | https://unsplash.com/photos/photo-of-man-wearing-white-and-blue-crew-neck-shirt-jpKACwUZVoI | photo of man wearing white and blue crew-neck shirt
+hipo-mas-largo | inline 1 | woman drinking glass of water in kitchen | https://unsplash.com/photos/man-in-white-t-shirt-holding-black-smartphone-IgrWFKF-d0k | man in white t-shirt holding black smartphone
+horas-de-sueno-espanoles | cover | alarm clock on nightstand | https://unsplash.com/photos/nightstand-with-a-lamp-clock-and-chargers-2kKThodpTvw | Nightstand with a lamp, clock, and chargers
+lengua-mas-larga | cover | child sticking out tongue playful | https://unsplash.com/photos/person-in-gray-hoodie-showing-tongue-e2_ZeDesuBI | person in gray hoodie showing tongue
+lengua-mas-larga | inline 1 | wooden ruler on white table | https://unsplash.com/photos/green-plant-on-white-printer-paper-vb0r4K_J1h8 | green plant on white printer paper
+mal-de-altura-teide | cover | mount teide | https://unsplash.com/photos/brown-mountain-under-blue-sky-during-daytime-a1k1fjBUSNY | brown mountain under blue sky during daytime
+manos-sudan-nervios | cover | nervous student hands holding pen exam desk | https://unsplash.com/photos/a-person-sitting-at-a-table-writing-on-a-piece-of-paper-kiVciIFK3xI | a person sitting at a table writing on a piece of paper
+manos-sudan-nervios | inline 1 | person shaking hands business meeting close up | https://unsplash.com/photos/a-man-and-a-woman-shaking-hands-in-front-of-a-laptop-qFSQFSmfZkA | a man and a woman shaking hands in front of a laptop
+musculos-al-sonreir | cover | friends laughing together close up | https://unsplash.com/photos/two-young-women-smiling-together-indoors-kMRe63J4t_k | Two young women smiling together indoors
+musculos-al-sonreir | inline 1 | woman smiling in mirror | https://unsplash.com/photos/woman-in-blue-and-white-floral-shirt-holding-her-face-bbjmFMdWYfw | woman in blue and white floral shirt holding her face
+ojos-lloran-con-frio | cover | woman walking cold windy winter street scarf | https://unsplash.com/photos/a-woman-wearing-a-black-hat-and-a-red-scarf-nEaEsceqzcI | a woman wearing a black hat and a red scarf
+ojos-lloran-con-frio | inline 1 | person wearing sunglasses winter wind outdoors | https://unsplash.com/photos/woman-in-sunglasses-p3F3Wa7HI-M | woman in sunglasses
+pies-frios-invierno | cover | feet in wool socks on blanket winter | https://unsplash.com/photos/a-persons-feet-with-christmas-socks-on-in-front-of-a-christmas-tree-uETbhgbd8Z8 | A person's feet with christmas socks on in front of a christmas tree
+pies-frios-invierno | inline 1 | person warming hands and feet by window winter home | https://unsplash.com/photos/woman-in-gray-sweater-sitting-beside-window-7Z_2iKq9Nw8 | woman in gray sweater sitting beside window
+polvorones-boca-seca | cover | crumbly shortbread cookies wrapped in paper on wooden table | https://unsplash.com/photos/a-bag-of-donuts-on-a-table-3vumUqZl9X0 | a bag of donuts on a table
+polvorones-boca-seca | inline 1 | glass of water next to christmas sweets on table | https://unsplash.com/photos/a-plate-of-cookies-and-candy-canes-on-a-table-tRu6MohXtZk | a plate of cookies and candy canes on a table
+por-que-dos-rinones | cover | blood test tubes laboratory | https://unsplash.com/photos/blood-collection-tubes-in-laboratory-rack-0jE8ynV4mis | Rows of medical blood collection tubes with colorful caps in a laboratory rack

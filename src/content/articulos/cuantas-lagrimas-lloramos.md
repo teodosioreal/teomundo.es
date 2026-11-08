@@ -75,7 +75,10 @@ La Academia Americana de Oftalmología indica que la lágrima basal se produce a
 
 ¿Y adónde van? Una parte sale por los lagrimales, unos agujeritos en el borde de los párpados que desembocan en la nariz, a unos 0,6 microlitros por minuto según la misma fuente. El resto se evapora. Por eso, cuando lloras mucho, también te moquea la nariz.
 
-<!-- unsplash: woman wiping tears with tissue | Mujer secándose las lágrimas con un pañuelo -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1602932213623-cc17e9541bb4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3aXBpbmclMjB0ZWFycyUyMHdpdGglMjB0aXNzdWV8ZW58MXwwfHx8MTc5NDE3MTYyMnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1602932213623-cc17e9541bb4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3aXBpbmclMjB0ZWFycyUyMHdpdGglMjB0aXNzdWV8ZW58MXwwfHx8MTc5NDE3MTYyMnww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1602932213623-cc17e9541bb4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3aXBpbmclMjB0ZWFycyUyMHdpdGglMjB0aXNzdWV8ZW58MXwwfHx8MTc5NDE3MTYyMnww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1602932213623-cc17e9541bb4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3aXBpbmclMjB0ZWFycyUyMHdpdGglMjB0aXNzdWV8ZW58MXwwfHx8MTc5NDE3MTYyMnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Mujer secándose las lágrimas con un pañuelo" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@enginakyurt?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">engin akyurt</a> en <a href="https://unsplash.com/photos/woman-in-black-tank-top-holding-white-textile-NKTJCOHzrUM?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## La cuenta de toda una vida, gota a gota
 

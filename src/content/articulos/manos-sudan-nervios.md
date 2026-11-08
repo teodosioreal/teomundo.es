@@ -15,6 +15,12 @@ datePublished: 2027-01-14
 dateModified: 2027-01-14
 imageQuery: "nervous student hands holding pen exam desk"
 imageAlt: "Manos de una persona sujetando un bolígrafo sobre un examen en una mesa"
+cover:
+  url: "https://images.unsplash.com/photo-1643877325038-f9a19083f6eb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bmVydm91cyUyMHN0dWRlbnQlMjBoYW5kcyUyMGhvbGRpbmclMjBwZW4lMjBleGFtJTIwZGVza3xlbnwxfDB8fHwxNzk0MTcxNjMyfDA&ixlib=rb-4.1.0"
+  alt: "Manos de una persona sujetando un bolígrafo sobre un examen en una mesa"
+  author: "Julia Taubitz"
+  authorUrl: "https://unsplash.com/@justmejuliee?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-person-sitting-at-a-table-writing-on-a-piece-of-paper-kiVciIFK3xI?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Las manos sudan con los nervios porque el sistema de alarma del cuerpo, el de lucha o huida, activa las glándulas del sudor."
   - "Las glándulas de las palmas sirven para refrescar el cuerpo, pero también responden a los nervios."
@@ -74,7 +80,10 @@ Así que las palmas sudan por dos motivos distintos: el calor y la emoción. Con
 
 La Cleveland Clinic señala también que las palmas son la zona donde más a menudo aparece el sudor excesivo. Los pies no se quedan atrás, y el sudor que se evapora puede dejarlos helados, como contamos en [por qué se te quedan los pies fríos](/por-que/pies-frios-invierno/).
 
-<!-- unsplash: person shaking hands business meeting close up | Dos personas dándose la mano en una reunión de trabajo -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1686771416282-3888ddaf249b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc2hha2luZyUyMGhhbmRzJTIwYnVzaW5lc3MlMjBtZWV0aW5nJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTcxNjMzfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1686771416282-3888ddaf249b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc2hha2luZyUyMGhhbmRzJTIwYnVzaW5lc3MlMjBtZWV0aW5nJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTcxNjMzfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1686771416282-3888ddaf249b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc2hha2luZyUyMGhhbmRzJTIwYnVzaW5lc3MlMjBtZWV0aW5nJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTcxNjMzfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1686771416282-3888ddaf249b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc2hha2luZyUyMGhhbmRzJTIwYnVzaW5lc3MlMjBtZWV0aW5nJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTcxNjMzfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Dos personas dándose la mano en una reunión de trabajo" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@miinrad?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Mina Rad</a> en <a href="https://unsplash.com/photos/a-man-and-a-woman-shaking-hands-in-front-of-a-laptop-qFSQFSmfZkA?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Normal o demasiado
 

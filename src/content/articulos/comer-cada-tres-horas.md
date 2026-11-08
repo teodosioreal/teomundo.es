@@ -15,6 +15,12 @@ datePublished: 2026-12-26
 dateModified: 2026-12-26
 imageQuery: "lunch box with fruit and sandwich"
 imageAlt: "Fiambrera con fruta y un bocadillo"
+cover:
+  url: "https://images.unsplash.com/photo-1784979472083-dd3c4c109345?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bHVuY2glMjBib3glMjB3aXRoJTIwZnJ1aXQlMjBhbmQlMjBzYW5kd2ljaHxlbnwxfDB8fHwxNzk0MTcxNjE4fDA&ixlib=rb-4.1.0"
+  alt: "Fiambrera con fruta y un bocadillo"
+  author: "Peter Heymans"
+  authorUrl: "https://unsplash.com/@peter_heymans?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-lunchbox-filled-with-a-sandwich-cucumbers-radishes-and-tomatoes-eZRNJ0eUqtc?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es falso que comer cada tres horas acelere el metabolismo: los estudios no ven un gasto de energía mayor al repartir la misma comida en más tomas."
   - "En un ensayo de 8 semanas con 16 adultos, hacer 3 comidas o 3 comidas y 3 tentempiés con las mismas calorías dio la misma pérdida de peso."

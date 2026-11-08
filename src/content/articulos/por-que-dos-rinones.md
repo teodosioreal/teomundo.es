@@ -15,6 +15,12 @@ datePublished: 2027-01-18
 dateModified: 2027-01-18
 imageQuery: "blood test tubes laboratory"
 imageAlt: "Tubos de análisis de sangre en un laboratorio"
+cover:
+  url: "https://images.unsplash.com/photo-1606206591513-adbfbdd7a177?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Ymxvb2QlMjB0ZXN0JTIwdHViZXMlMjBsYWJvcmF0b3J5fGVufDF8MHx8fDE3OTQxNzE2NDN8MA&ixlib=rb-4.1.0"
+  alt: "Tubos de análisis de sangre en un laboratorio"
+  author: "Testalize.me"
+  authorUrl: "https://unsplash.com/@testalizeme?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/blood-collection-tubes-in-laboratory-rack-0jE8ynV4mis?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "La mayoría de las personas con un solo riñón sano lleva una vida sana, según la National Kidney Foundation."
   - "Cuando falta un riñón, el otro crece y trabaja más: en donantes suele recuperar hasta un 60 % a 70 % de la función inicial."
