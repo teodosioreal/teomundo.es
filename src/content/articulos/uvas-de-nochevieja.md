@@ -15,6 +15,12 @@ datePublished: 2026-12-18
 dateModified: 2026-12-18
 imageQuery: "bowl of green grapes on festive table candles"
 imageAlt: "Cuenco de uvas verdes sobre una mesa de fiesta con velas"
+cover:
+  url: "https://images.unsplash.com/photo-1767547909570-c96777094294?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Ym93bCUyMG9mJTIwZ3JlZW4lMjBncmFwZXMlMjBvbiUyMGZlc3RpdmUlMjB0YWJsZSUyMGNhbmRsZXN8ZW58MXwwfHx8MTc5NDE3NTU4NXww&ixlib=rb-4.1.0"
+  alt: "Cuenco de uvas verdes sobre una mesa de fiesta con velas"
+  author: "Emma Eriksson"
+  authorUrl: "https://unsplash.com/@emasproblemas?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/candles-lit-on-a-dinner-table-setting-PyTBsZMWSJI?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El reloj de la Puerta del Sol separa las doce campanadas con un intervalo pensado para que dé tiempo a comer una uva en cada una; antes suenan los cuatro cuartos, que no cuentan."
   - "La Asociación Española de Pediatría aconseja no dar uvas enteras a niños hasta al menos los 4 o 5 años y, hasta entonces, pelarlas, quitar las pepitas y partirlas en cuatro a lo largo."
@@ -63,7 +69,10 @@ La uva es redonda, lisa y resbaladiza. Tiene el tamaño justo para tapar la vía
 
 A eso se suman las condiciones de esa noche: risas, prisa, gente hablando con la boca llena y la presión de no quedarse atrás. Cada una por separado no es grave. Juntas, en doce rondas seguidas, sí suman.
 
-<!-- unsplash: peeled grapes cut in quarters on white plate | Uvas peladas y partidas en cuartos en un plato blanco -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1711602741051-33c58486ed78?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVlbGVkJTIwZ3JhcGVzJTIwY3V0JTIwaW4lMjBxdWFydGVycyUyMG9uJTIwd2hpdGUlMjBwbGF0ZXxlbnwxfDB8fHwxNzk0MTc1NTg2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1711602741051-33c58486ed78?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVlbGVkJTIwZ3JhcGVzJTIwY3V0JTIwaW4lMjBxdWFydGVycyUyMG9uJTIwd2hpdGUlMjBwbGF0ZXxlbnwxfDB8fHwxNzk0MTc1NTg2fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1711602741051-33c58486ed78?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVlbGVkJTIwZ3JhcGVzJTIwY3V0JTIwaW4lMjBxdWFydGVycyUyMG9uJTIwd2hpdGUlMjBwbGF0ZXxlbnwxfDB8fHwxNzk0MTc1NTg2fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1711602741051-33c58486ed78?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVlbGVkJTIwZ3JhcGVzJTIwY3V0JTIwaW4lMjBxdWFydGVycyUyMG9uJTIwd2hpdGUlMjBwbGF0ZXxlbnwxfDB8fHwxNzk0MTc1NTg2fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Uvas peladas y partidas en cuartos en un plato blanco" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@valeriiamiller?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Valeriia Miller</a> en <a href="https://unsplash.com/photos/a-white-bowl-filled-with-nuts-on-top-of-a-table-Lua1K7-vGV0?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Las uvas de los peques y de los mayores
 

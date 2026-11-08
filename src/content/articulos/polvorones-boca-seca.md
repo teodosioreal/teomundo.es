@@ -15,6 +15,12 @@ datePublished: 2026-12-22
 dateModified: 2026-12-22
 imageQuery: "christmas cookies plate"
 imageAlt: "Plato de dulces de Navidad"
+cover:
+  url: "https://images.unsplash.com/photo-1609185915416-cc61ad0a560d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hyaXN0bWFzJTIwY29va2llcyUyMHBsYXRlfGVufDF8MHx8fDE3OTQxNzU1NjR8MA&ixlib=rb-4.1.0"
+  alt: "Plato de dulces de Navidad"
+  author: "Sarbasri Bhaumik"
+  authorUrl: "https://unsplash.com/@sri_clicks?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/brown-cookies-on-black-ceramic-plate-YMGlF6L7ca4?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El polvorón es harina de trigo, manteca y azúcar glas, más almendra y canela en el de Estepa: una masa muy seca que se deshace en polvo."
   - "Para tragar, la saliva tiene que mojar la comida y convertirla en una bola blanda; con un bocado tan seco y harinoso, la saliva se queda corta."
@@ -63,7 +69,10 @@ El [Instituto Nacional de Investigación Dental de Estados Unidos](https://www.n
 
 Con un bocadillo, el pan ya trae su humedad y la saliva solo termina el trabajo. Con un polvorón, el polvo se reparte por toda la boca, se pega a la lengua y al paladar y tiene que esperar a que llegue saliva suficiente. Si quieres saber cuánta fabricas al día, lo contamos en [cuánta saliva produces en tu vida](/records/cuanta-saliva-producimos/).
 
-<!-- unsplash: glass of water on table | Vaso de agua sobre la mesa -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1564644411757-a723deba07a8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Z2xhc3MlMjBvZiUyMHdhdGVyJTIwb24lMjB0YWJsZXxlbnwxfDB8fHwxNzk0MTc1NTY1fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1564644411757-a723deba07a8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Z2xhc3MlMjBvZiUyMHdhdGVyJTIwb24lMjB0YWJsZXxlbnwxfDB8fHwxNzk0MTc1NTY1fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1564644411757-a723deba07a8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Z2xhc3MlMjBvZiUyMHdhdGVyJTIwb24lMjB0YWJsZXxlbnwxfDB8fHwxNzk0MTc1NTY1fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1564644411757-a723deba07a8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Z2xhc3MlMjBvZiUyMHdhdGVyJTIwb24lMjB0YWJsZXxlbnwxfDB8fHwxNzk0MTc1NTY1fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Vaso de agua sobre la mesa" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@paradox21?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">21 swan</a> en <a href="https://unsplash.com/photos/water-filled-cup--hNBS5q5klc?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Cómo comer un polvorón sin quedarte mudo
 

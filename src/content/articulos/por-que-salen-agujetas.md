@@ -15,6 +15,12 @@ datePublished: 2027-01-04
 dateModified: 2027-01-04
 imageQuery: "person walking down stairs gym legs"
 imageAlt: "Piernas de una persona bajando una escalera con ropa de deporte"
+cover:
+  url: "https://images.unsplash.com/photo-1758875568447-aa45a5d3b351?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwd2Fsa2luZyUyMGRvd24lMjBzdGFpcnMlMjBneW0lMjBsZWdzfGVufDF8MHx8fDE3OTQxNzU1Njh8MA&ixlib=rb-4.1.0"
+  alt: "Piernas de una persona bajando una escalera con ropa de deporte"
+  author: "Vitaly Gariev"
+  authorUrl: "https://unsplash.com/@silverkblack?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/man-jumping-rope-in-a-gym-O1igsrxDQzQ?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Las agujetas son un dolor muscular que aparece entre uno y tres días después de un ejercicio intenso o al que no estás acostumbrado."
   - "No las causa el ácido láctico: los estudios de los años ochenta ya descartaron en gran parte esa idea."
@@ -65,7 +71,10 @@ Lo que sí está claro es qué ejercicios las provocan más: los **excéntricos*
 
 La causa exacta todavía se discute. La explicación clásica habla de pequeñas lesiones en las fibras del músculo. Otro artículo científico propone que el origen está en microlesiones de terminaciones nerviosas dentro del músculo, y [sus autores](https://pmc.ncbi.nlm.nih.gov/articles/PMC7139782/) se preguntan si llevamos más de cien años mirando en la dirección equivocada. Es una hipótesis, no una respuesta cerrada.
 
-<!-- unsplash: man stretching legs after workout park | Hombre estirando las piernas en un parque después de hacer ejercicio -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1758521959566-a66e5e909288?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWFuJTIwc3RyZXRjaGluZyUyMGxlZ3MlMjBhZnRlciUyMHdvcmtvdXQlMjBwYXJrfGVufDF8MHx8fDE3OTQxNzU1Njl8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1758521959566-a66e5e909288?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWFuJTIwc3RyZXRjaGluZyUyMGxlZ3MlMjBhZnRlciUyMHdvcmtvdXQlMjBwYXJrfGVufDF8MHx8fDE3OTQxNzU1Njl8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1758521959566-a66e5e909288?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWFuJTIwc3RyZXRjaGluZyUyMGxlZ3MlMjBhZnRlciUyMHdvcmtvdXQlMjBwYXJrfGVufDF8MHx8fDE3OTQxNzU1Njl8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1758521959566-a66e5e909288?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWFuJTIwc3RyZXRjaGluZyUyMGxlZ3MlMjBhZnRlciUyMHdvcmtvdXQlMjBwYXJrfGVufDF8MHx8fDE3OTQxNzU1Njl8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Hombre estirando las piernas en un parque después de hacer ejercicio" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@silverkblack?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Vitaly Gariev</a> en <a href="https://unsplash.com/photos/man-stretching-leg-on-park-bench-during-cold-weather-VHy5PYCEa0U?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## La segunda vez duele menos
 

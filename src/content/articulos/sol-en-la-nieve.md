@@ -15,6 +15,12 @@ datePublished: 2027-01-11
 dateModified: 2027-01-11
 imageQuery: "skier on sunny snowy mountain slope blue sky"
 imageAlt: "Esquiador en una pista nevada de montaña con cielo azul"
+cover:
+  url: "https://images.unsplash.com/photo-1735749328571-a705c1de6cdd?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c2tpZXIlMjBvbiUyMHN1bm55JTIwc25vd3klMjBtb3VudGFpbiUyMHNsb3BlJTIwYmx1ZSUyMHNreXxlbnwxfDB8fHwxNzk0MTc1NTczfDA&ixlib=rb-4.1.0"
+  alt: "Esquiador en una pista nevada de montaña con cielo azul"
+  author: "Angel Balashev"
+  authorUrl: "https://unsplash.com/@angelbalashev?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-man-riding-skis-down-a-snow-covered-slope-JumFXziY9xs?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "La nieve fresca puede reflejar hasta el 80 % de la radiación ultravioleta, frente a un 15 % de la arena seca de la playa."
   - "Con cada 1.000 metros de altitud, la radiación UV aumenta entre un 10 % y un 12 %, según la guía de la OMS que difunde AEMET."
@@ -67,7 +73,10 @@ Dos cosas se suman en una estación de esquí.
 
 Ojo con un detalle: la [predicción de UV de AEMET](https://www.aemet.es/en/eltiempo/prediccion/radiacionuv/ayuda) se da para las capitales de provincia, y la propia agencia advierte de que en zonas de montaña el índice puede ser mucho más alto. El dato de Granada capital no vale para la pista.
 
-<!-- unsplash: ski goggles and wool hat on snow sunny day | Gafas de esquí y gorro de lana sobre la nieve en un día soleado -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1678815927938-0fb01822962c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c2tpJTIwZ29nZ2xlcyUyMGFuZCUyMHdvb2wlMjBoYXQlMjBvbiUyMHNub3clMjBzdW5ueSUyMGRheXxlbnwxfDB8fHwxNzk0MTc1NTc0fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1678815927938-0fb01822962c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c2tpJTIwZ29nZ2xlcyUyMGFuZCUyMHdvb2wlMjBoYXQlMjBvbiUyMHNub3clMjBzdW5ueSUyMGRheXxlbnwxfDB8fHwxNzk0MTc1NTc0fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1678815927938-0fb01822962c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c2tpJTIwZ29nZ2xlcyUyMGFuZCUyMHdvb2wlMjBoYXQlMjBvbiUyMHNub3clMjBzdW5ueSUyMGRheXxlbnwxfDB8fHwxNzk0MTc1NTc0fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1678815927938-0fb01822962c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c2tpJTIwZ29nZ2xlcyUyMGFuZCUyMHdvb2wlMjBoYXQlMjBvbiUyMHNub3clMjBzdW5ueSUyMGRheXxlbnwxfDB8fHwxNzk0MTc1NTc0fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Gafas de esquí y gorro de lana sobre la nieve en un día soleado" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@_karsten?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Karsten Winegeart</a> en <a href="https://unsplash.com/photos/a-man-wearing-a-purple-jacket-and-blue-goggles-vH183sGZmiE?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Tus ojos también se queman
 

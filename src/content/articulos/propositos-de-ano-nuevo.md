@@ -15,6 +15,12 @@ datePublished: 2027-01-01
 dateModified: 2027-01-01
 imageQuery: "notebook with handwritten plan and coffee cup on desk january morning"
 imageAlt: "Cuaderno con un plan escrito a mano y una taza de café sobre la mesa"
+cover:
+  url: "https://images.unsplash.com/photo-1698843813652-2dc8b8d81f4c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bm90ZWJvb2slMjB3aXRoJTIwaGFuZHdyaXR0ZW4lMjBwbGFuJTIwYW5kJTIwY29mZmVlJTIwY3VwJTIwb24lMjBkZXNrJTIwamFudWFyeSUyMG1vcm5pbmd8ZW58MXwwfHx8MTc5NDE3NTU2OXww&ixlib=rb-4.1.0"
+  alt: "Cuaderno con un plan escrito a mano y una taza de café sobre la mesa"
+  author: "Elena Leya"
+  authorUrl: "https://unsplash.com/@foodistika?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-cup-of-coffee-next-to-a-notebook-and-pen-56J8143b7PU?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "En un estudio del University College London, convertir una acción diaria en automática llevó de media 66 días, con enormes diferencias entre personas: de 18 a 254 días."
   - "Saltarse un día suelto no estropeó la formación del hábito en ese estudio: lo que cuenta es volver al día siguiente."
@@ -66,7 +72,10 @@ Otro hallazgo del estudio de Lally debería estar pegado en la nevera: **perder 
 
 Los propósitos tipo "este año me pongo en forma" fallan por otro motivo: no dicen qué hacer, ni cuándo, ni dónde. En cambio, los participantes del estudio ataban su conducta a algo que ya hacían cada día. Ese "después de..." es el gancho del hábito.
 
-<!-- unsplash: person tying running shoes at front door morning | Persona atándose las zapatillas en la puerta de casa por la mañana -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1758925403705-fa120346ad99?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwdHlpbmclMjBydW5uaW5nJTIwc2hvZXMlMjBhdCUyMGZyb250JTIwZG9vciUyMG1vcm5pbmd8ZW58MXwwfHx8MTc5NDE3NTU3MHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1758925403705-fa120346ad99?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwdHlpbmclMjBydW5uaW5nJTIwc2hvZXMlMjBhdCUyMGZyb250JTIwZG9vciUyMG1vcm5pbmd8ZW58MXwwfHx8MTc5NDE3NTU3MHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1758925403705-fa120346ad99?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwdHlpbmclMjBydW5uaW5nJTIwc2hvZXMlMjBhdCUyMGZyb250JTIwZG9vciUyMG1vcm5pbmd8ZW58MXwwfHx8MTc5NDE3NTU3MHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1758925403705-fa120346ad99?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwdHlpbmclMjBydW5uaW5nJTIwc2hvZXMlMjBhdCUyMGZyb250JTIwZG9vciUyMG1vcm5pbmd8ZW58MXwwfHx8MTc5NDE3NTU3MHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona atándose las zapatillas en la puerta de casa por la mañana" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@brookebalentine?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Brooke Balentine</a> en <a href="https://unsplash.com/photos/person-sitting-on-front-porch-steps-of-a-house-cjnSgK_TUcE?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## El truco del "si pasa esto, hago aquello"
 

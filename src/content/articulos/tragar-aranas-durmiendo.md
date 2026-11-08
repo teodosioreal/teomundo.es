@@ -15,6 +15,12 @@ datePublished: 2026-12-11
 dateModified: 2026-12-11
 imageQuery: "spider web close up"
 imageAlt: "Primer plano de una telaraña"
+cover:
+  url: "https://images.unsplash.com/photo-1604149370100-2cf3be3bc845?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3BpZGVyJTIwd2ViJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTc1NTgyfDA&ixlib=rb-4.1.0"
+  alt: "Primer plano de una telaraña"
+  author: "Rafael Garcin"
+  authorUrl: "https://unsplash.com/@nimbus_vulpis?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/spider-web-in-close-up-photography-wlOv3cf41iE?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es un mito: no existe ningún caso registrado en la literatura científica o médica de alguien que se tragara una araña dormido."
   - "Una persona dormida respira, tiene latido y a veces ronca: esas vibraciones avisan a las arañas para que se alejen."

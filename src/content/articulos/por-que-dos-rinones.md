@@ -76,7 +76,10 @@ Para ponerlo en contexto: un adulto de 70 kilos tiene unos 42 litros de agua en 
 
 Lo que comes y bebes también deja su rastro en ese pequeño volumen final de orina, como explicamos en [por qué los espárragos cambian el olor de la orina](/por-que/esparragos-olor-orina/).
 
-<!-- unsplash: kidney shaped beans on wooden table | Judías con forma de riñón sobre una mesa de madera -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1579705745811-a32bef7856a3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8a2lkbmV5JTIwc2hhcGVkJTIwYmVhbnMlMjBvbiUyMHdvb2RlbiUyMHRhYmxlfGVufDF8MHx8fDE3OTQxNzU1NjZ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1579705745811-a32bef7856a3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8a2lkbmV5JTIwc2hhcGVkJTIwYmVhbnMlMjBvbiUyMHdvb2RlbiUyMHRhYmxlfGVufDF8MHx8fDE3OTQxNzU1NjZ8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1579705745811-a32bef7856a3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8a2lkbmV5JTIwc2hhcGVkJTIwYmVhbnMlMjBvbiUyMHdvb2RlbiUyMHRhYmxlfGVufDF8MHx8fDE3OTQxNzU1NjZ8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1579705745811-a32bef7856a3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8a2lkbmV5JTIwc2hhcGVkJTIwYmVhbnMlMjBvbiUyMHdvb2RlbiUyMHRhYmxlfGVufDF8MHx8fDE3OTQxNzU1NjZ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Judías con forma de riñón sobre una mesa de madera" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@izgubljenausvemiru?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Tijana Drndarski</a> en <a href="https://unsplash.com/photos/brown-wooden-spoon-with-red-and-brown-beans-oD7H_J-vJm4?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Si falta uno, el otro crece
 

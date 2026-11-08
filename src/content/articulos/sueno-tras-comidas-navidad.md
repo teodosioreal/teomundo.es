@@ -15,6 +15,12 @@ datePublished: 2026-12-27
 dateModified: 2026-12-27
 imageQuery: "family sofa after holiday lunch relaxing living room"
 imageAlt: "Familia descansando en el sofá después de una comida de fiesta"
+cover:
+  url: "https://images.unsplash.com/photo-1770587899537-23e617e17767?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZmFtaWx5JTIwc29mYSUyMGFmdGVyJTIwaG9saWRheSUyMGx1bmNoJTIwcmVsYXhpbmclMjBsaXZpbmclMjByb29tfGVufDF8MHx8fDE3OTQxNzU1Nzh8MA&ixlib=rb-4.1.0"
+  alt: "Familia descansando en el sofá después de una comida de fiesta"
+  author: "R.D. Smith"
+  authorUrl: "https://unsplash.com/@rd421?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-relaxing-on-couch-with-child-nearby-oLHP8-B43AU?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Hacia primera hora de la tarde, tu reloj biológico baja la guardia: ese bajón aparece incluso en personas que no han comido."
   - "Una comida muy grande lo empeora: en un estudio con simulador, una comida copiosa causó más despistes al volante que una ligera."
@@ -65,7 +71,10 @@ Aquí entra la parte navideña. En un [estudio con simulador de conducción](htt
 
 ¿Y el famoso triptófano del pavo? La [Sleep Foundation](https://sleepfoundation.org/nutrition/does-turkey-make-you-tired) lo considera poco probable como culpable de la modorra de las fiestas. Lo más razonable es pensar en el conjunto: muchas horas de mesa, muchos platos y una sobremesa que coincide de lleno con el bajón natural de la tarde. Si además dormiste poco la noche anterior, como pasa en estas fechas, el cóctel está servido.
 
-<!-- unsplash: winter afternoon walk park family | Familia paseando por un parque una tarde de invierno -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1675345771255-733034aff5a2?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2ludGVyJTIwYWZ0ZXJub29uJTIwd2FsayUyMHBhcmslMjBmYW1pbHl8ZW58MXwwfHx8MTc5NDE3NTU3OXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1675345771255-733034aff5a2?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2ludGVyJTIwYWZ0ZXJub29uJTIwd2FsayUyMHBhcmslMjBmYW1pbHl8ZW58MXwwfHx8MTc5NDE3NTU3OXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1675345771255-733034aff5a2?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2ludGVyJTIwYWZ0ZXJub29uJTIwd2FsayUyMHBhcmslMjBmYW1pbHl8ZW58MXwwfHx8MTc5NDE3NTU3OXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1675345771255-733034aff5a2?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2ludGVyJTIwYWZ0ZXJub29uJTIwd2FsayUyMHBhcmslMjBmYW1pbHl8ZW58MXwwfHx8MTc5NDE3NTU3OXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Familia paseando por un parque una tarde de invierno" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@grayclary57?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Gray Clary</a> en <a href="https://unsplash.com/photos/a-group-of-people-walking-down-a-path-in-a-park-9eU9t4vxQVk?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Tu plan para la sobremesa de las fiestas
 

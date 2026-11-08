@@ -15,6 +15,12 @@ datePublished: 2027-01-12
 dateModified: 2027-01-12
 imageQuery: "hands with long natural fingernails"
 imageAlt: "Manos de una mujer con las uñas largas y naturales"
+cover:
+  url: "https://images.unsplash.com/photo-1652990337463-b79f5759e0b8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8aGFuZHMlMjB3aXRoJTIwbG9uZyUyMG5hdHVyYWwlMjBmaW5nZXJuYWlsc3xlbnwxfDB8fHwxNzk0MTc1NTgzfDA&ixlib=rb-4.1.0"
+  alt: "Manos de una mujer con las uñas largas y naturales"
+  author: "Inga Engele"
+  authorUrl: "https://unsplash.com/@ziedonis50?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-womans-hand-on-a-large-green-leaf-UwDomHuDrnA?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Según Guinness, las uñas más largas en un par de manos son las de Diana Armstrong, de Estados Unidos: 1.306,58 cm en total, medidos en 2022."
   - "El récord de una sola mano es del indio Shridhar Chillal: 909,6 cm en la mano izquierda, con un pulgar de 197,8 cm."
@@ -76,7 +82,10 @@ El récord de una sola mano es de Shridhar Chillal, de la India. Empezó a dejar
 
 Su pulgar tiene además otro récord: el de la uña más larga de la historia.
 
-<!-- unsplash: nail clipper on bathroom shelf | Cortaúñas sobre una repisa del baño -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1784340440820-c5a9c865cc4f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bmFpbCUyMGNsaXBwZXIlMjBvbiUyMGJhdGhyb29tJTIwc2hlbGZ8ZW58MXwwfHx8MTc5NDE3NTU4NHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1784340440820-c5a9c865cc4f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bmFpbCUyMGNsaXBwZXIlMjBvbiUyMGJhdGhyb29tJTIwc2hlbGZ8ZW58MXwwfHx8MTc5NDE3NTU4NHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1784340440820-c5a9c865cc4f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bmFpbCUyMGNsaXBwZXIlMjBvbiUyMGJhdGhyb29tJTIwc2hlbGZ8ZW58MXwwfHx8MTc5NDE3NTU4NHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1784340440820-c5a9c865cc4f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bmFpbCUyMGNsaXBwZXIlMjBvbiUyMGJhdGhyb29tJTIwc2hlbGZ8ZW58MXwwfHx8MTc5NDE3NTU4NHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Cortaúñas sobre una repisa del baño" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@psilocybe53?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Kristiina Klaas</a> en <a href="https://unsplash.com/photos/white-metal-caddy-with-toiletries-on-a-green-wooden-wall-w9vkXTDc9pc?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## La cuenta de cuánto tardarías tú
 

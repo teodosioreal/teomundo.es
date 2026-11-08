@@ -15,6 +15,12 @@ datePublished: 2026-12-28
 dateModified: 2026-12-28
 imageQuery: "man holding breath puffed cheeks"
 imageAlt: "Hombre aguantando la respiración con las mejillas hinchadas"
+cover:
+  url: "https://images.unsplash.com/photo-1527167484260-43ca4f1cc204?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWFuJTIwaG9sZGluZyUyMGJyZWF0aCUyMHB1ZmZlZCUyMGNoZWVrc3xlbnwxfDB8fHwxNzk0MTc1NTYzfDA&ixlib=rb-4.1.0"
+  alt: "Hombre aguantando la respiración con las mejillas hinchadas"
+  author: "Kyle Glenn"
+  authorUrl: "https://unsplash.com/@kylejglenn?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/man-covering-his-mouth-uFjORuZQczQ?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Según Guinness World Records, el ataque de hipo más largo lo sufrió Charles Osborne, en Estados Unidos: 68 años, de 1922 a 1990."
   - "Se calcula que hipaba entre 20 y 40 veces por minuto y que sumó más de 420 millones de hipos."

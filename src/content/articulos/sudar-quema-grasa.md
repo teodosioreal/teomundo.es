@@ -15,6 +15,12 @@ datePublished: 2027-01-10
 dateModified: 2027-01-10
 imageQuery: "runner wiping sweat from forehead after workout"
 imageAlt: "Corredor secándose el sudor de la frente después de entrenar"
+cover:
+  url: "https://images.unsplash.com/photo-1762113903663-c0d94ef2af66?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cnVubmVyJTIwd2lwaW5nJTIwc3dlYXQlMjBmcm9tJTIwZm9yZWhlYWQlMjBhZnRlciUyMHdvcmtvdXR8ZW58MXwwfHx8MTc5NDE3NTU3Nnww&ixlib=rb-4.1.0"
+  alt: "Corredor secándose el sudor de la frente después de entrenar"
+  author: "Zulfugar Karimov"
+  authorUrl: "https://unsplash.com/@zulfugarkarimov?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-in-orange-jumpsuit-sits-by-the-water-wqX_YcK769U?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es falso: sudar no quema grasa. El sudor es sobre todo agua y sales, y sirve para enfriar el cuerpo."
   - "Lo que gasta energía es el trabajo de los músculos, no la cantidad de sudor, según la Cleveland Clinic."
@@ -70,7 +76,10 @@ Con la sauna pasa lo mismo. La Cleveland Clinic explica en su [guía sobre la sa
 | Entrenar en una sala fresca | Casi el mismo peso | Has trabajado igual, solo que sudas menos |
 | Moverte más cada día durante meses | Cambio lento y estable | Ahí sí puede haber pérdida de grasa |
 
-<!-- unsplash: people breathing cold air while jogging in winter park | Personas corriendo por un parque en invierno con el aliento visible -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1758521960027-6ca1cbeb5cbf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVvcGxlJTIwYnJlYXRoaW5nJTIwY29sZCUyMGFpciUyMHdoaWxlJTIwam9nZ2luZyUyMGluJTIwd2ludGVyJTIwcGFya3xlbnwxfDB8fHwxNzk0MTc1NTc3fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1758521960027-6ca1cbeb5cbf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVvcGxlJTIwYnJlYXRoaW5nJTIwY29sZCUyMGFpciUyMHdoaWxlJTIwam9nZ2luZyUyMGluJTIwd2ludGVyJTIwcGFya3xlbnwxfDB8fHwxNzk0MTc1NTc3fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1758521960027-6ca1cbeb5cbf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVvcGxlJTIwYnJlYXRoaW5nJTIwY29sZCUyMGFpciUyMHdoaWxlJTIwam9nZ2luZyUyMGluJTIwd2ludGVyJTIwcGFya3xlbnwxfDB8fHwxNzk0MTc1NTc3fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1758521960027-6ca1cbeb5cbf?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVvcGxlJTIwYnJlYXRoaW5nJTIwY29sZCUyMGFpciUyMHdoaWxlJTIwam9nZ2luZyUyMGluJTIwd2ludGVyJTIwcGFya3xlbnwxfDB8fHwxNzk0MTc1NTc3fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Personas corriendo por un parque en invierno con el aliento visible" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@silverkblack?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Vitaly Gariev</a> en <a href="https://unsplash.com/photos/man-running-in-the-woods-with-headphones-GIlga54VR90?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Adónde se va la grasa cuando adelgazas
 
