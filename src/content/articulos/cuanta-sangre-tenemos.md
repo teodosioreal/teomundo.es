@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2026-12-23
 dateModified: 2026-12-23
 imageQuery: "blood donation"
-imageAlt: "Persona donando sangre"
+imageAlt: "Brazo de una persona durante una donación de sangre"
 cover:
   url: "https://images.unsplash.com/photo-1615461066159-fea0960485d5?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Ymxvb2QlMjBkb25hdGlvbnxlbnwxfDB8fHwxNzk0MTcxNjIxfDA&ixlib=rb-4.1.0"
-  alt: "Persona donando sangre"
+  alt: "Brazo de una persona durante una donación de sangre"
   author: "Nguyễn Hiệp"
   authorUrl: "https://unsplash.com/@hieptltb97?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/healthcare-worker-drawing-blood-2rNHliX6XHk?utm_source=teomundo&utm_medium=referral"

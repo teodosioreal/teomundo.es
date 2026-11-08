@@ -13,14 +13,8 @@ secondaryKeywords:
   - "hipo que no se quita"
 datePublished: 2026-12-28
 dateModified: 2026-12-28
-imageQuery: "man holding breath with cheeks puffed"
+imageQuery: "man holding breath puffed cheeks"
 imageAlt: "Hombre aguantando la respiración con las mejillas hinchadas"
-cover:
-  url: "https://images.unsplash.com/photo-1572322606117-b6c08a977f71?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWFuJTIwaG9sZGluZyUyMGJyZWF0aCUyMHdpdGglMjBjaGVla3MlMjBwdWZmZWR8ZW58MXwwfHx8MTc5NDE3MTYyNXww&ixlib=rb-4.1.0"
-  alt: "Hombre aguantando la respiración con las mejillas hinchadas"
-  author: "Nathan Trampe"
-  authorUrl: "https://unsplash.com/@nathantrampe?utm_source=teomundo&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/photo-of-man-wearing-white-and-blue-crew-neck-shirt-jpKACwUZVoI?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Según Guinness World Records, el ataque de hipo más largo lo sufrió Charles Osborne, en Estados Unidos: 68 años, de 1922 a 1990."
   - "Se calcula que hipaba entre 20 y 40 veces por minuto y que sumó más de 420 millones de hipos."

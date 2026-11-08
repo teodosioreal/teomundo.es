@@ -80,10 +80,7 @@ Fíjate en la fila del plasma: de 42 litros, solo 3,5 van por la sangre como pla
 
 El líquido que rodea las células también se mueve. Al final del día, la gravedad hace que se acumule un poco en los tobillos, y por eso [los pies se hinchan por la tarde](/en-1-minuto/pies-hinchados-por-la-tarde/).
 
-<figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1780220176132-85c107117447?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmF0aHJvb20lMjBzY2FsZSUyMG9uJTIwZmxvb3J8ZW58MXwwfHx8MTc5NDE3MTYxN3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1780220176132-85c107117447?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmF0aHJvb20lMjBzY2FsZSUyMG9uJTIwZmxvb3J8ZW58MXwwfHx8MTc5NDE3MTYxN3ww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1780220176132-85c107117447?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmF0aHJvb20lMjBzY2FsZSUyMG9uJTIwZmxvb3J8ZW58MXwwfHx8MTc5NDE3MTYxN3ww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1780220176132-85c107117447?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmF0aHJvb20lMjBzY2FsZSUyMG9uJTIwZmxvb3J8ZW58MXwwfHx8MTc5NDE3MTYxN3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Báscula en el suelo del baño" loading="lazy" decoding="async">
-<figcaption>Foto de <a href="https://unsplash.com/@chiuchuuu?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Heng Chiu</a> en <a href="https://unsplash.com/photos/tiled-floor-with-strong-shadow-and-small-objects-dsxel4atU10?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
-</figure>
+<!-- unsplash: digital weighing scale | Báscula digital en el suelo -->
 
 ## Calcula tu agua en litros
 
