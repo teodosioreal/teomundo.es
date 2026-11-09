@@ -73,7 +73,10 @@ Esa línea queda a la izquierda del esternón, y por eso asociamos el corazón c
 
 Lo que mueve esos latidos es un sistema eléctrico propio, que funciona sin que el cerebro dé la orden. Te lo contamos en [la electricidad del corazón](/en-1-minuto/electricidad-del-corazon/).
 
-<!-- unsplash: stethoscope | Fonendoscopio sobre una mesa -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1655313719493-16ebe4906441?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3RldGhvc2NvcGV8ZW58MXwwfHx8MTc5NDE4MzM5NHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1655313719493-16ebe4906441?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3RldGhvc2NvcGV8ZW58MXwwfHx8MTc5NDE4MzM5NHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1655313719493-16ebe4906441?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3RldGhvc2NvcGV8ZW58MXwwfHx8MTc5NDE4MzM5NHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1655313719493-16ebe4906441?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3RldGhvc2NvcGV8ZW58MXwwfHx8MTc5NDE4MzM5NHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Fonendoscopio sobre una mesa" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@etactics?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Etactics Inc</a> en <a href="https://unsplash.com/photos/stethoscope-on-blue-medical-background-g3PsF4_y7ZY?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Encuentra tu latido en un minuto
 

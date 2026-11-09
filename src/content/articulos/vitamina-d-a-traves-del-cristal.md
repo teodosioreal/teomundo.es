@@ -78,7 +78,10 @@ En el coche se ha medido. Un oftalmólogo estadounidense analizó en 2016 el cri
 
 El autor relacionó estos datos con que las cataratas sean más frecuentes en el ojo izquierdo y el cáncer de piel en el lado izquierdo de la cara. En Estados Unidos, como en España, el conductor va sentado a la izquierda, junto a esa ventanilla.
 
-<!-- unsplash: person reading by sunny window | Persona leyendo junto a una ventana soleada -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1772864463684-babda085d7d7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwcmVhZGluZyUyMGJ5JTIwc3VubnklMjB3aW5kb3d8ZW58MXwwfHx8MTc5NDE4MzM5Nnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1772864463684-babda085d7d7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwcmVhZGluZyUyMGJ5JTIwc3VubnklMjB3aW5kb3d8ZW58MXwwfHx8MTc5NDE4MzM5Nnww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1772864463684-babda085d7d7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwcmVhZGluZyUyMGJ5JTIwc3VubnklMjB3aW5kb3d8ZW58MXwwfHx8MTc5NDE4MzM5Nnww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1772864463684-babda085d7d7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwcmVhZGluZyUyMGJ5JTIwc3VubnklMjB3aW5kb3d8ZW58MXwwfHx8MTc5NDE4MzM5Nnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona leyendo junto a una ventana soleada" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@solomonikvik?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Viktor SOLOMONIK</a> en <a href="https://unsplash.com/photos/people-relaxing-in-a-sunny-piazza-with-historic-buildings-CFxJpXsdpDQ?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Ventana, terraza o coche: qué te llega en cada sitio
 
