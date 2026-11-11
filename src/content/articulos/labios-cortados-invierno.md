@@ -71,10 +71,7 @@ El [NHS](https://www.nhs.uk/symptoms/sore-or-dry-lips/), el servicio de salud br
 
 Cuando notas los labios tirantes, el gesto instintivo es pasar la lengua. Parece que alivia, pero el NHS desaconseja lamerse una y otra vez los labios secos o agrietados, porque pueden acabar doliendo más. Tampoco conviene arrancar los pellejitos, ya que retrasa la curación.
 
-<figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1603923054647-887b2d34a2ee?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGlwJTIwYmFsbSUyMHN0aWNrJTIwd2ludGVyfGVufDF8MHx8fDE3OTQ0MjQ2MTh8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1603923054647-887b2d34a2ee?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGlwJTIwYmFsbSUyMHN0aWNrJTIwd2ludGVyfGVufDF8MHx8fDE3OTQ0MjQ2MTh8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1603923054647-887b2d34a2ee?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGlwJTIwYmFsbSUyMHN0aWNrJTIwd2ludGVyfGVufDF8MHx8fDE3OTQ0MjQ2MTh8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1603923054647-887b2d34a2ee?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGlwJTIwYmFsbSUyMHN0aWNrJTIwd2ludGVyfGVufDF8MHx8fDE3OTQ0MjQ2MTh8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Bálsamo labial en una mano con guante de lana" loading="lazy" decoding="async">
-<figcaption>Foto de <a href="https://unsplash.com/@arthurpcds?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Arthur Pereira</a> en <a href="https://unsplash.com/photos/blue-and-white-nivea-plastic-bottle-Pyhucppc9c8?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
-</figure>
+<!-- unsplash: woman lips cold winter scarf close up | Labios de una mujer abrigada con bufanda en invierno -->
 
 ## Tu kit de invierno para los labios
 

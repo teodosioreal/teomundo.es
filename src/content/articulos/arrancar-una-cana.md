@@ -63,10 +63,7 @@ Con los años, los folículos fabrican menos melanina. El pelo sale cada vez má
 
 Así que una cana no es un pelo contagioso. Es la señal de que ese folículo concreto ya no tiñe el pelo que fabrica.
 
-<figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1784340440820-c5a9c865cc4f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dHdlZXplcnMlMjBvbiUyMGJhdGhyb29tJTIwc2hlbGZ8ZW58MXwwfHx8MTc5NDQyMDYzNnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1784340440820-c5a9c865cc4f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dHdlZXplcnMlMjBvbiUyMGJhdGhyb29tJTIwc2hlbGZ8ZW58MXwwfHx8MTc5NDQyMDYzNnww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1784340440820-c5a9c865cc4f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dHdlZXplcnMlMjBvbiUyMGJhdGhyb29tJTIwc2hlbGZ8ZW58MXwwfHx8MTc5NDQyMDYzNnww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1784340440820-c5a9c865cc4f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dHdlZXplcnMlMjBvbiUyMGJhdGhyb29tJTIwc2hlbGZ8ZW58MXwwfHx8MTc5NDQyMDYzNnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Pinzas de depilar sobre la repisa de un baño" loading="lazy" decoding="async">
-<figcaption>Foto de <a href="https://unsplash.com/@psilocybe53?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Kristiina Klaas</a> en <a href="https://unsplash.com/photos/white-metal-caddy-with-toiletries-on-a-green-wooden-wall-w9vkXTDc9pc?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
-</figure>
+<!-- unsplash: woman looking at grey hair in mirror | Mujer mirándose las canas en el espejo -->
 
 ## Lo que dice el calendario de tus canas
 
