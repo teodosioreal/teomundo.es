@@ -72,7 +72,10 @@ Pero no todo el mundo tiene el mismo patrón. El estudio recoge que entre el 70 
 | Irregular | Los lados cambian sin un patrón definido |
 | Sin ciclo | Los dos orificios se mantienen parecidos |
 
-<!-- unsplash: woman sleeping on her side pillow | Mujer durmiendo de lado sobre la almohada -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1686828752370-c0398d724e82?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8NHx8d29tYW4lMjBzbGVlcGluZyUyMG9uJTIwaGVyJTIwc2lkZSUyMHBpbGxvd3xlbnwxfDB8fHwxNzk0NDM2MDU3fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1686828752370-c0398d724e82?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8NHx8d29tYW4lMjBzbGVlcGluZyUyMG9uJTIwaGVyJTIwc2lkZSUyMHBpbGxvd3xlbnwxfDB8fHwxNzk0NDM2MDU3fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1686828752370-c0398d724e82?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8NHx8d29tYW4lMjBzbGVlcGluZyUyMG9uJTIwaGVyJTIwc2lkZSUyMHBpbGxvd3xlbnwxfDB8fHwxNzk0NDM2MDU3fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1686828752370-c0398d724e82?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8NHx8d29tYW4lMjBzbGVlcGluZyUyMG9uJTIwaGVyJTIwc2lkZSUyMHBpbGxvd3xlbnwxfDB8fHwxNzk0NDM2MDU3fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Mujer durmiendo de lado sobre la almohada" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@slaapwijsheid?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Slaapwijsheid.nl</a> en <a href="https://unsplash.com/photos/a-woman-sleeping-in-a-bed-with-a-white-comforter-Ip3Z-FoLl1Q?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Por qué al tumbarte se tapa el lado de abajo
 

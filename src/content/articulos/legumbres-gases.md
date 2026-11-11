@@ -15,6 +15,12 @@ datePublished: 2027-01-26
 dateModified: 2027-01-26
 imageQuery: "lentils bowl"
 imageAlt: "Cuenco de lentejas"
+cover:
+  url: "https://images.unsplash.com/photo-1711915408847-ae32b80a3fd0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGVudGlscyUyMGJvd2x8ZW58MXwwfHx8MTc5NDQzNjA1OHww&ixlib=rb-4.1.0"
+  alt: "Cuenco de lentejas"
+  author: "John Vid"
+  authorUrl: "https://unsplash.com/@vanvid?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-bowl-of-soup-with-bacon-on-top-of-it-lAibP0GwAmU?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Las legumbres llevan unos azúcares, los oligosacáridos de la familia de la rafinosa, que el intestino humano no puede romper porque le falta la enzima necesaria."
   - "Esos azúcares llegan intactos al intestino grueso, donde las bacterias los fermentan y producen gases."

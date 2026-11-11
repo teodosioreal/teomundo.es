@@ -15,6 +15,12 @@ datePublished: 2027-02-15
 dateModified: 2027-02-15
 imageQuery: "hand gestures conversation"
 imageAlt: "Persona gesticulando con las manos mientras habla"
+cover:
+  url: "https://images.unsplash.com/photo-1640550444366-b94e5752c479?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZCUyMGdlc3R1cmVzJTIwY29udmVyc2F0aW9ufGVufDF8MHx8fDE3OTQ0MzYwNTh8MA&ixlib=rb-4.1.0"
+  alt: "Persona gesticulando con las manos mientras habla"
+  author: "Nic Rosenau"
+  authorUrl: "https://unsplash.com/@nicreates?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/two-hands-holding-each-other-with-bracelets-on-them-85UvN7XT_CA?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "En todas las culturas, la gente mueve las manos al hablar. No es una costumbre exclusiva de España."
   - "Las personas ciegas de nacimiento, que nunca han visto a nadie gesticular, también mueven las manos cuando hablan."

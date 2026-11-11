@@ -15,6 +15,12 @@ datePublished: 2027-01-25
 dateModified: 2027-01-25
 imageQuery: "woman gray hair portrait"
 imageAlt: "Mujer con el pelo canoso"
+cover:
+  url: "https://images.unsplash.com/flagged/photo-1556588885-40cf2516157f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBncmF5JTIwaGFpciUyMHBvcnRyYWl0fGVufDF8MHx8fDE3OTQ0MzYwNTZ8MA&ixlib=rb-4.1.0"
+  alt: "Mujer con el pelo canoso"
+  author: "Doğukan Şahin"
+  authorUrl: "https://unsplash.com/@dogukan?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-wearing-pink-spaghetti-strap-top-bGXcC_dK3t4?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es un mito: arrancar una cana no hace que salgan más. Cada folículo del cuero cabelludo sigue su propio ciclo, independiente de sus vecinos."
   - "Del mismo folículo volverá a salir un pelo, y si ese folículo ya no fabrica pigmento, saldrá blanco otra vez."
