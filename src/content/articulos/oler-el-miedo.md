@@ -64,7 +64,10 @@ Para conseguir sudor de miedo de verdad, recogieron muestras de las axilas de **
 | Distinguir los dos sudores oliéndolos | Los participantes acertaron igual que si lo hicieran al azar |
 | Juzgar caras ambiguas entre neutras y enfadadas | Con sudor de miedo, distinguían mejor la amenaza |
 
-<!-- unsplash: parachute landing | Paracaídas aterrizando en un campo en un día soleado -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1785603787762-57a97a02291a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGFyYWNodXRlJTIwbGFuZGluZ3xlbnwxfDB8fHwxNzk0NDM0NzU4fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1785603787762-57a97a02291a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGFyYWNodXRlJTIwbGFuZGluZ3xlbnwxfDB8fHwxNzk0NDM0NzU4fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1785603787762-57a97a02291a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGFyYWNodXRlJTIwbGFuZGluZ3xlbnwxfDB8fHwxNzk0NDM0NzU4fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1785603787762-57a97a02291a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGFyYWNodXRlJTIwbGFuZGluZ3xlbnwxfDB8fHwxNzk0NDM0NzU4fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Paracaídas aterrizando en un campo en un día soleado" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@johnfdillinger?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Filip Živaljić</a> en <a href="https://unsplash.com/photos/skydivers-on-a-field-with-a-deployed-blue-parachute-zd_6CG2aV-M?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Por qué es mito y por qué no
 

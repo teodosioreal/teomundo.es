@@ -15,6 +15,12 @@ datePublished: 2027-02-06
 dateModified: 2027-02-06
 imageQuery: "high jump"
 imageAlt: "Atleta saltando el listón en una prueba de salto de altura"
+cover:
+  url: "https://images.unsplash.com/photo-1613122707153-070406e9fd27?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGlnaCUyMGp1bXB8ZW58MXwwfHx8MTc5NDQzNDc2MHww&ixlib=rb-4.1.0"
+  alt: "Atleta saltando el listón en una prueba de salto de altura"
+  author: "Vultar Bahr"
+  authorUrl: "https://unsplash.com/@vultar?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-in-white-tank-top-and-blue-denim-shorts-jumping-on-beach-during-daytime-qaCJ6A0Rfvg?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El salto más alto de la historia lo dio el cubano Javier Sotomayor: 2,45 metros, en Salamanca, el 27 de julio de 1993."
   - "Según Guinness World Records, nadie más ha saltado por encima de 2,44 metros."

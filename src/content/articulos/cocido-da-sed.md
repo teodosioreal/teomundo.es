@@ -15,6 +15,12 @@ datePublished: 2027-01-21
 dateModified: 2027-01-21
 imageQuery: "chickpea stew"
 imageAlt: "Plato de cocido con garbanzos, verduras y carne"
+cover:
+  url: "https://images.unsplash.com/photo-1582576163090-09d3b6f8a969?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hpY2twZWElMjBzdGV3fGVufDF8MHx8fDE3OTQ0MzQ3NTZ8MA&ixlib=rb-4.1.0"
+  alt: "Plato de cocido con garbanzos, verduras y carne"
+  author: "Daniela"
+  authorUrl: "https://unsplash.com/@daniela_curly?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/rice-with-green-leaf-vegetable-on-white-ceramic-plate-RELOvb0rrCE?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Al comer salado, sube la concentración de sodio en la sangre y unas neuronas del cerebro, los osmorreceptores, lo detectan."
   - "Esos sensores activan la sed y la liberación de vasopresina, la hormona que hace que el riñón retenga agua."
