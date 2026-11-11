@@ -15,6 +15,12 @@ datePublished: 2027-02-14
 dateModified: 2027-02-14
 imageQuery: "skydivers tandem jump sky"
 imageAlt: "Dos paracaidistas en un salto en tándem"
+cover:
+  url: "https://images.unsplash.com/photo-1659901981145-dbc056431a8b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c2t5ZGl2ZXJzJTIwdGFuZGVtJTIwanVtcCUyMHNreXxlbnwxfDB8fHwxNzk0NDI0NjIzfDA&ixlib=rb-4.1.0"
+  alt: "Dos paracaidistas en un salto en tándem"
+  author: "Kamil Pietrzak"
+  authorUrl: "https://unsplash.com/@kamilpphotos?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-few-people-skydiving-Glj_cKt9u1I?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Medio mito: nadie distinguió a conciencia el olor del sudor de miedo del sudor de hacer ejercicio."
   - "Aun así, respirar sudor de personas asustadas activó la amígdala, una zona del cerebro clave en las emociones."

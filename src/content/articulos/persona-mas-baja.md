@@ -15,6 +15,12 @@ datePublished: 2027-02-01
 dateModified: 2027-02-01
 imageQuery: "measuring tape height wall"
 imageAlt: "Cinta métrica para medir la altura colocada en una pared"
+cover:
+  url: "https://images.unsplash.com/photo-1640958899825-d688634e2644?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8M3x8bWVhc3VyaW5nJTIwdGFwZSUyMGhlaWdodCUyMHdhbGx8ZW58MXwwfHx8MTc5NDQyNDYzNnww&ixlib=rb-4.1.0"
+  alt: "Cinta métrica para medir la altura colocada en una pared"
+  author: "Gabriel Mihalcea"
+  authorUrl: "https://unsplash.com/@lovelyscape?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-measuring-tape-with-a-white-background-venp3G8zFyo?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Según Guinness World Records, la persona más baja de la historia es Chandra Bahadur Dangi, de Nepal: 54,6 cm, medidos en Katmandú el 26 de febrero de 2012."
   - "Para confirmarlo, Guinness lo midió tres veces en 24 horas."
@@ -61,7 +67,10 @@ Batir este récord no es cuestión de una sola foto con una cinta métrica. Seg�
 
 Con sus 54,6 cm superó la marca del indio Gul Mohammed, que había medido 57 cm. Desde entonces, la ficha oficial del récord del [hombre más bajo de la historia](https://www.guinnessworldrecords.com/world-records/67521-shortest-man-ever) sigue a su nombre.
 
-<!-- unsplash: nepal mountain village houses | Aldea en las montañas de Nepal -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1511215579272-6192432f83bc?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bmVwYWwlMjBtb3VudGFpbiUyMHZpbGxhZ2UlMjBob3VzZXN8ZW58MXwwfHx8MTc5NDQyNDYzOHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1511215579272-6192432f83bc?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bmVwYWwlMjBtb3VudGFpbiUyMHZpbGxhZ2UlMjBob3VzZXN8ZW58MXwwfHx8MTc5NDQyNDYzOHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1511215579272-6192432f83bc?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bmVwYWwlMjBtb3VudGFpbiUyMHZpbGxhZ2UlMjBob3VzZXN8ZW58MXwwfHx8MTc5NDQyNDYzOHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1511215579272-6192432f83bc?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bmVwYWwlMjBtb3VudGFpbiUyMHZpbGxhZ2UlMjBob3VzZXN8ZW58MXwwfHx8MTc5NDQyNDYzOHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Aldea en las montañas de Nepal" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@custodiancontent?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Kalle Kortelainen</a> en <a href="https://unsplash.com/photos/aerial-photography-of-community-on-mountain-6F-uGWod7Xk?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Los récords más pequeños de Guinness
 

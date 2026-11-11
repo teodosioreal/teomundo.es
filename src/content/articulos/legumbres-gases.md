@@ -61,7 +61,10 @@ Según la revisión de Elango y su equipo, las bacterias del colon los fermentan
 
 La parte buena es que esos mismos azúcares actúan como prebióticos: la revisión recoge que favorecen el crecimiento de bacterias beneficiosas en el colon. Por eso las legumbres siguen en lo más alto de las recomendaciones, por muchas risas que provoquen.
 
-<!-- unsplash: dried beans chickpeas lentils jars | Tarros con garbanzos, lentejas y alubias secas -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1641913712124-a58d267b6997?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZHJpZWQlMjBiZWFucyUyMGNoaWNrcGVhcyUyMGxlbnRpbHMlMjBqYXJzfGVufDF8MHx8fDE3OTQ0MjQ2MjB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1641913712124-a58d267b6997?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZHJpZWQlMjBiZWFucyUyMGNoaWNrcGVhcyUyMGxlbnRpbHMlMjBqYXJzfGVufDF8MHx8fDE3OTQ0MjQ2MjB8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1641913712124-a58d267b6997?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZHJpZWQlMjBiZWFucyUyMGNoaWNrcGVhcyUyMGxlbnRpbHMlMjBqYXJzfGVufDF8MHx8fDE3OTQ0MjQ2MjB8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1641913712124-a58d267b6997?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZHJpZWQlMjBiZWFucyUyMGNoaWNrcGVhcyUyMGxlbnRpbHMlMjBqYXJzfGVufDF8MHx8fDE3OTQ0MjQ2MjB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Tarros con garbanzos, lentejas y alubias secas" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@paoalchapar?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Daniela Paola Alchapar</a> en <a href="https://unsplash.com/photos/a-close-up-of-a-bunch-of-nuts-R302KrnO-uc?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## No son las únicas que te hinchan
 

@@ -15,6 +15,12 @@ datePublished: 2027-02-02
 dateModified: 2027-02-02
 imageQuery: "woman very long hair back view"
 imageAlt: "Persona de espaldas con el pelo muy largo"
+cover:
+  url: "https://images.unsplash.com/photo-1528494553736-33532ee22168?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjB2ZXJ5JTIwbG9uZyUyMGhhaXIlMjBiYWNrJTIwdmlld3xlbnwxfDB8fHwxNzk0NDI0NjMxfDA&ixlib=rb-4.1.0"
+  alt: "Persona de espaldas con el pelo muy largo"
+  author: "Rana Sawalha"
+  authorUrl: "https://unsplash.com/@ranasawalha?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-standing-on-green-grass-field-during-daytime-moHYuEHHP3c?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Cada pelo crece solo durante una fase concreta, la anágena; cuando termina, deja de alargarse, descansa y acaba cayéndose."
   - "En el cuero cabelludo esa fase dura de 2 a 8 años; en las cejas, solo de 2 a 3 meses."
@@ -66,7 +72,10 @@ Con tan poco tiempo de crecimiento, una ceja no tiene ocasión de hacerse larga.
 
 Esa diferencia de años explica también por qué unas personas pueden lucir una melena hasta la cintura y otras, por mucho que esperen, nunca pasan de los hombros: su fase de crecimiento es más corta.
 
-<!-- unsplash: close up eyebrow face | Primer plano de una ceja -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1633346152343-5486573d3d50?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvc2UlMjB1cCUyMGV5ZWJyb3clMjBmYWNlfGVufDF8MHx8fDE3OTQ0MjQ2MzN8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1633346152343-5486573d3d50?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvc2UlMjB1cCUyMGV5ZWJyb3clMjBmYWNlfGVufDF8MHx8fDE3OTQ0MjQ2MzN8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1633346152343-5486573d3d50?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvc2UlMjB1cCUyMGV5ZWJyb3clMjBmYWNlfGVufDF8MHx8fDE3OTQ0MjQ2MzN8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1633346152343-5486573d3d50?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvc2UlMjB1cCUyMGV5ZWJyb3clMjBmYWNlfGVufDF8MHx8fDE3OTQ0MjQ2MzN8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Primer plano de una ceja" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@ali_shoaee?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Ali Shoaee</a> en <a href="https://unsplash.com/photos/a-close-up-of-a-persons-eye-with-long-lashes-SdStLjkoWXM?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Una cabeza casi siempre en marcha
 

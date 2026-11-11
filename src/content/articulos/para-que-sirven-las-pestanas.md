@@ -15,6 +15,12 @@ datePublished: 2027-01-28
 dateModified: 2027-01-28
 imageQuery: "close up eyelashes eye"
 imageAlt: "Primer plano de un ojo con sus pestañas"
+cover:
+  url: "https://images.unsplash.com/photo-1639629509821-c54cdd984227?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvc2UlMjB1cCUyMGV5ZWxhc2hlcyUyMGV5ZXxlbnwxfDB8fHwxNzk0NDI0NjI0fDA&ixlib=rb-4.1.0"
+  alt: "Primer plano de un ojo con sus pestañas"
+  author: "Milky Way Lashes"
+  authorUrl: "https://unsplash.com/@milkywaylashes?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-close-up-of-a-persons-eye-with-long-lashes-GEct9d7zgos?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Las pestañas no solo adornan: desvían el aire que llega al ojo y frenan el polvo y la evaporación de la lágrima."
   - "Un estudio con 22 especies de mamíferos encontró que las pestañas miden alrededor de un tercio del ancho del ojo."
@@ -61,7 +67,10 @@ Según el estudio, esa longitud reduce **por un factor de dos** tanto las partí
 
 Además, las pestañas son un sensor. Los autores recuerdan que, al rozarlas, el ojo parpadea por reflejo, una defensa rápida contra lo que se acerca demasiado. Si te interesa ese gesto, aquí tienes [cuántas veces parpadeas al día](/en-1-minuto/cuantas-veces-parpadeamos/).
 
-<!-- unsplash: windy beach sand blowing | Playa con viento levantando arena -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1537110008491-de25aefaf46a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2luZHklMjBiZWFjaCUyMHNhbmQlMjBibG93aW5nfGVufDF8MHx8fDE3OTQ0MjQ2MjV8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1537110008491-de25aefaf46a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2luZHklMjBiZWFjaCUyMHNhbmQlMjBibG93aW5nfGVufDF8MHx8fDE3OTQ0MjQ2MjV8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1537110008491-de25aefaf46a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2luZHklMjBiZWFjaCUyMHNhbmQlMjBibG93aW5nfGVufDF8MHx8fDE3OTQ0MjQ2MjV8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1537110008491-de25aefaf46a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2luZHklMjBiZWFjaCUyMHNhbmQlMjBibG93aW5nfGVufDF8MHx8fDE3OTQ0MjQ2MjV8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Playa con viento levantando arena" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@elenart?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Elena Ktenopoulou</a> en <a href="https://unsplash.com/photos/brown-sands-near-seashore-at-daytime-cjzV4WK46qY?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Cuando más largo no es mejor
 

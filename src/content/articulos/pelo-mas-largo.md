@@ -15,6 +15,12 @@ datePublished: 2027-02-11
 dateModified: 2027-02-11
 imageQuery: "woman very long hair back view"
 imageAlt: "Mujer de espaldas con una melena muy larga"
+cover:
+  url: "https://images.unsplash.com/photo-1525264512745-a9701646196a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8d29tYW4lMjB2ZXJ5JTIwbG9uZyUyMGhhaXIlMjBiYWNrJTIwdmlld3xlbnwxfDB8fHwxNzk0NDI0NjMxfDA&ixlib=rb-4.1.0"
+  alt: "Mujer de espaldas con una melena muy larga"
+  author: "Ömürden Cengiz"
+  authorUrl: "https://unsplash.com/@omurden?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-standing-on-terrace-SlyJCtjhtA4?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El pelo más largo documentado es el de la china Xie Qiuping: 5,627 metros, medido el 8 de mayo de 2004."
   - "El récord de una persona viva es de la india Renu Dhariyal: 271,50 cm, medidos el 15 de abril de 2026."
@@ -62,7 +68,10 @@ El récord entre las personas vivas cambió en 2026. La organización certificó
 | Récord anterior entre personas vivas | 257,33 cm | Aliia Nasyrova, Ucrania |
 | Lo que crece tu pelo, de media | Unos 12 cm al año | Cualquiera de nosotros |
 
-<!-- unsplash: hairdresser cutting hair salon | Peluquera cortando el pelo en una peluquería -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1613754773306-532ec48b0de5?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFpcmRyZXNzZXIlMjBjdXR0aW5nJTIwaGFpciUyMHNhbG9ufGVufDF8MHx8fDE3OTQ0MjQ2MzV8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1613754773306-532ec48b0de5?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFpcmRyZXNzZXIlMjBjdXR0aW5nJTIwaGFpciUyMHNhbG9ufGVufDF8MHx8fDE3OTQ0MjQ2MzV8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1613754773306-532ec48b0de5?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFpcmRyZXNzZXIlMjBjdXR0aW5nJTIwaGFpciUyMHNhbG9ufGVufDF8MHx8fDE3OTQ0MjQ2MzV8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1613754773306-532ec48b0de5?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFpcmRyZXNzZXIlMjBjdXR0aW5nJTIwaGFpciUyMHNhbG9ufGVufDF8MHx8fDE3OTQ0MjQ2MzV8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Peluquera cortando el pelo en una peluquería" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@gisellelazcano?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Giselle Lazcano</a> en <a href="https://unsplash.com/photos/person-holding-black-and-silver-hand-tool-TnyHlxVnyhk?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## La cuenta que explica tu melena
 

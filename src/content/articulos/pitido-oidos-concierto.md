@@ -15,6 +15,12 @@ datePublished: 2027-01-19
 dateModified: 2027-01-19
 imageQuery: "crowd at concert stage lights"
 imageAlt: "Público en un concierto con las luces del escenario de fondo"
+cover:
+  url: "https://images.unsplash.com/photo-1573152958734-1922c188fba3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y3Jvd2QlMjBhdCUyMGNvbmNlcnQlMjBzdGFnZSUyMGxpZ2h0c3xlbnwxfDB8fHwxNzk0NDI0NjQxfDA&ixlib=rb-4.1.0"
+  alt: "Público en un concierto con las luces del escenario de fondo"
+  author: "Nathan Fertig"
+  authorUrl: "https://unsplash.com/@nathanfertig?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/grayscale-photography-of-crowd-at-concert-IW5Bm4rB9OA?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Según la OMS, el ruido alto fatiga las células sensoriales del oído y deja un pitido o un zumbido temporal, el llamado acúfeno o tinnitus."
   - "Suele mejorar en horas o días, a medida que esas células se recuperan."
@@ -63,7 +69,10 @@ El problema llega con la repetición. Si te expones a menudo a ruido fuerte o pr
 
 No es un riesgo raro: según la [nota de la OMS sobre la sordera](https://www.who.int/news-room/fact-sheets/detail/deafness-and-hearing-loss), más de 1.000 millones de jóvenes adultos están en riesgo de una pérdida de audición permanente y evitable por cómo escuchan música y sonido.
 
-<!-- unsplash: person wearing earplugs at music festival | Persona con tapones para los oídos en un festival de música -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1520095972714-909e91b038e5?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwd2VhcmluZyUyMGVhcnBsdWdzJTIwYXQlMjBtdXNpYyUyMGZlc3RpdmFsfGVufDF8MHx8fDE3OTQ0MjQ2NDJ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1520095972714-909e91b038e5?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwd2VhcmluZyUyMGVhcnBsdWdzJTIwYXQlMjBtdXNpYyUyMGZlc3RpdmFsfGVufDF8MHx8fDE3OTQ0MjQ2NDJ8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1520095972714-909e91b038e5?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwd2VhcmluZyUyMGVhcnBsdWdzJTIwYXQlMjBtdXNpYyUyMGZlc3RpdmFsfGVufDF8MHx8fDE3OTQ0MjQ2NDJ8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1520095972714-909e91b038e5?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwd2VhcmluZyUyMGVhcnBsdWdzJTIwYXQlMjBtdXNpYyUyMGZlc3RpdmFsfGVufDF8MHx8fDE3OTQ0MjQ2NDJ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona con tapones para los oídos en un festival de música" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@kristsll?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Krists Luhaers</a> en <a href="https://unsplash.com/photos/a-woman-raising-her-arms-in-the-air-in-front-of-tents-DSB1MZWsGco?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Los decibelios que tu oído aguanta a la semana
 

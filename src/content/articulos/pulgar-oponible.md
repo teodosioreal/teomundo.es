@@ -15,6 +15,12 @@ datePublished: 2027-02-17
 dateModified: 2027-02-17
 imageQuery: "hand holding small object between thumb and finger"
 imageAlt: "Mano sujetando un objeto pequeño entre el pulgar y el índice"
+cover:
+  url: "https://images.unsplash.com/photo-1602703291624-d470dbd741a7?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZCUyMGhvbGRpbmclMjBzbWFsbCUyMG9iamVjdCUyMGJldHdlZW4lMjB0aHVtYiUyMGFuZCUyMGZpbmdlcnxlbnwxfDB8fHwxNzk0NDI0NjQzfDA&ixlib=rb-4.1.0"
+  alt: "Mano sujetando un objeto pequeño entre el pulgar y el índice"
+  author: "Franco Antonio Giovanella"
+  authorUrl: "https://unsplash.com/@francogio?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/person-showing-right-middle-finger-Lzys6r1xFD8?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Oponer el pulgar es llevarlo hasta la yema de los otros dedos: es la base de la pinza con la que coges objetos pequeños."
   - "Un músculo de la base del pulgar, el oponente del pulgar, es clave en ese movimiento."

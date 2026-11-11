@@ -15,6 +15,12 @@ datePublished: 2027-02-03
 dateModified: 2027-02-03
 imageQuery: "everyday object that looks like a face"
 imageAlt: "Objeto cotidiano que parece tener una cara"
+cover:
+  url: "https://images.unsplash.com/photo-1683702423165-b9a52fda6c89?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZXZlcnlkYXklMjBvYmplY3QlMjB0aGF0JTIwbG9va3MlMjBsaWtlJTIwYSUyMGZhY2V8ZW58MXwwfHx8MTc5NDQyNDYyNnww&ixlib=rb-4.1.0"
+  alt: "Objeto cotidiano que parece tener una cara"
+  author: "本草圈"
+  authorUrl: "https://unsplash.com/@bencaoquan?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-piece-of-wood-with-a-face-drawn-on-it-OPAKReFrE30?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Ver caras en objetos se llama pareidolia facial, y los científicos la describen como un error natural del sistema que detecta caras."
   - "Las zonas del cerebro especializadas en caras reaccionan ante estas caras ilusorias; las que se ocupan de otros objetos, no."
@@ -69,7 +75,10 @@ Las expectativas también cuentan. En un estudio publicado en la revista [Cortex
 
 Aun así, los participantes dijeron ver caras el 34 % de las veces y letras el 38 %. Y cuando creían ver una cara, se activaba de forma específica una zona del lado derecho del cerebro especializada en caras, el área fusiforme de las caras. Por eso sabes perfectamente que el enchufe no te mira, aunque siga pareciendo que sí.
 
-<!-- unsplash: clouds shape sky face | Nubes en el cielo con formas caprichosas -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1536236485396-10185ca38cb6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvdWRzJTIwc2hhcGUlMjBza3klMjBmYWNlfGVufDF8MHx8fDE3OTQ0MjQ2Mjh8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1536236485396-10185ca38cb6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvdWRzJTIwc2hhcGUlMjBza3klMjBmYWNlfGVufDF8MHx8fDE3OTQ0MjQ2Mjh8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1536236485396-10185ca38cb6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvdWRzJTIwc2hhcGUlMjBza3klMjBmYWNlfGVufDF8MHx8fDE3OTQ0MjQ2Mjh8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1536236485396-10185ca38cb6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvdWRzJTIwc2hhcGUlMjBza3klMjBmYWNlfGVufDF8MHx8fDE3OTQ0MjQ2Mjh8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Nubes en el cielo con formas caprichosas" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@michaelbweidner?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Michael &amp; Diane Weidner</a> en <a href="https://unsplash.com/photos/clear-sky-u8X0HCV2X1Y?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## El juego de las caras escondidas
 

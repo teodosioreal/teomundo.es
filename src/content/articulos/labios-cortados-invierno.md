@@ -15,6 +15,12 @@ datePublished: 2027-01-29
 dateModified: 2027-01-29
 imageQuery: "woman scarf winter cold lips close up"
 imageAlt: "Persona con bufanda en un día frío de invierno"
+cover:
+  url: "https://images.unsplash.com/photo-1609362065704-0e1da86d582a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBzY2FyZiUyMHdpbnRlciUyMGNvbGQlMjBsaXBzJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0NDI0NjE3fDA&ixlib=rb-4.1.0"
+  alt: "Persona con bufanda en un día frío de invierno"
+  author: "Simona Sergi"
+  authorUrl: "https://unsplash.com/@i_am_simoesse?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-in-white-and-black-scarf-KYBzCBBGyvg?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "La piel de los labios es distinta a la del resto de la cara: tiene una capa córnea más fina, con menos ceramidas, y no tiene glándulas del sudor."
   - "Por eso pierde agua más deprisa que otras zonas de la piel y se reseca con facilidad."
@@ -65,7 +71,10 @@ El [NHS](https://www.nhs.uk/symptoms/sore-or-dry-lips/), el servicio de salud br
 
 Cuando notas los labios tirantes, el gesto instintivo es pasar la lengua. Parece que alivia, pero el NHS desaconseja lamerse una y otra vez los labios secos o agrietados, porque pueden acabar doliendo más. Tampoco conviene arrancar los pellejitos, ya que retrasa la curación.
 
-<!-- unsplash: lip balm stick winter | Bálsamo labial en una mano con guante de lana -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1603923054647-887b2d34a2ee?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGlwJTIwYmFsbSUyMHN0aWNrJTIwd2ludGVyfGVufDF8MHx8fDE3OTQ0MjQ2MTh8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1603923054647-887b2d34a2ee?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGlwJTIwYmFsbSUyMHN0aWNrJTIwd2ludGVyfGVufDF8MHx8fDE3OTQ0MjQ2MTh8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1603923054647-887b2d34a2ee?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGlwJTIwYmFsbSUyMHN0aWNrJTIwd2ludGVyfGVufDF8MHx8fDE3OTQ0MjQ2MTh8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1603923054647-887b2d34a2ee?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGlwJTIwYmFsbSUyMHN0aWNrJTIwd2ludGVyfGVufDF8MHx8fDE3OTQ0MjQ2MTh8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Bálsamo labial en una mano con guante de lana" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@arthurpcds?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Arthur Pereira</a> en <a href="https://unsplash.com/photos/blue-and-white-nivea-plastic-bottle-Pyhucppc9c8?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Tu kit de invierno para los labios
 

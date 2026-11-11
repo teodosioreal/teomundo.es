@@ -15,6 +15,12 @@ datePublished: 2027-02-12
 dateModified: 2027-02-12
 imageQuery: "dental x-ray teeth panoramic"
 imageAlt: "Radiografía panorámica de una dentadura"
+cover:
+  url: "https://images.unsplash.com/photo-1777445374290-eedda5be8e5b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGVudGFsJTIweC1yYXklMjB0ZWV0aCUyMHBhbm9yYW1pY3xlbnwxfDB8fHwxNzk0NDI0NjIxfDA&ixlib=rb-4.1.0"
+  alt: "Radiografía panorámica de una dentadura"
+  author: "Harold Hisona"
+  authorUrl: "https://unsplash.com/@harold_angus?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/panoramic-dental-x-ray-showing-teeth-and-jawbone-QWgq6Rjw0SE?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Las muelas del juicio, o terceros molares, son las últimas en desarrollarse: suelen asomar en la adolescencia o al principio de los veinte."
   - "Según un análisis de 49 estudios con 83.484 personas, alrededor del 22,6 % de la población mundial no tiene al menos una muela del juicio."
@@ -57,7 +63,10 @@ Pero no siempre llegan. Los autores K. Carter y S. Worthington reunieron 49 estu
 | Mujeres frente a hombres | A ellas les falta alguna un 14 % más a menudo |
 | Arriba frente a abajo | Faltan un 36 % más en la mandíbula superior |
 
-<!-- unsplash: dentist examining patient teeth clinic | Dentista revisando la boca de un paciente en la clínica -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1684607633138-6cc13613369b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGVudGlzdCUyMGV4YW1pbmluZyUyMHBhdGllbnQlMjB0ZWV0aCUyMGNsaW5pY3xlbnwxfDB8fHwxNzk0NDI0NjIyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1684607633138-6cc13613369b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGVudGlzdCUyMGV4YW1pbmluZyUyMHBhdGllbnQlMjB0ZWV0aCUyMGNsaW5pY3xlbnwxfDB8fHwxNzk0NDI0NjIyfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1684607633138-6cc13613369b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGVudGlzdCUyMGV4YW1pbmluZyUyMHBhdGllbnQlMjB0ZWV0aCUyMGNsaW5pY3xlbnwxfDB8fHwxNzk0NDI0NjIyfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1684607633138-6cc13613369b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGVudGlzdCUyMGV4YW1pbmluZyUyMHBhdGllbnQlMjB0ZWV0aCUyMGNsaW5pY3xlbnwxfDB8fHwxNzk0NDI0NjIyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Dentista revisando la boca de un paciente en la clínica" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@xtrovarts?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Shedrack Salami</a> en <a href="https://unsplash.com/photos/a-woman-getting-her-teeth-checked-by-a-dentist-IX5vs6sjSFo?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Cuando existen, pero no salen
 
