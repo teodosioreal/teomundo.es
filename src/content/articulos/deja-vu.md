@@ -49,6 +49,7 @@ related:
   - sacudida-al-dormirse
   - cosquillas-a-uno-mismo
   - bostezo-contagioso
+  - pareidolia-caras
 next: sacudida-al-dormirse
 ---
 

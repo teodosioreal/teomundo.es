@@ -49,6 +49,7 @@ related:
   - huellas-dactilares-gemelos
   - estomago-se-renueva
   - los-ojos-crecen
+  - pelo-cabeza-crece-mas
 next: huellas-dactilares-gemelos
 ---
 

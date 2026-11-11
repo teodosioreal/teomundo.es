@@ -40,6 +40,7 @@ related:
   - aceite-de-oliva-cerebro
   - dieta-mediterranea-beneficios
   - resaca-por-que
+  - cocido-da-sed
 next: esperanza-de-vida-espana
 ---
 

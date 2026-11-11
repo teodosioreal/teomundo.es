@@ -40,6 +40,7 @@ related:
   - tragar-chicle
   - leer-con-poca-luz
   - azucar-hiperactividad-ninos
+  - cerebro-izquierdo-derecho
 next: tragar-chicle
 ---
 

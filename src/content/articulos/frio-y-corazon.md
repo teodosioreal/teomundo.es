@@ -50,6 +50,7 @@ related:
   - calor-y-corazon
   - frio-seco-o-humedo
   - calefaccion-aire-seco
+  - bano-agua-fria-invierno
 next: calor-y-corazon
 ---
 

@@ -50,6 +50,7 @@ related:
   - los-ojos-crecen
   - cuantos-olores-distingue-la-nariz
   - huella-de-la-lengua
+  - para-que-sirven-las-pestanas
 next: los-ojos-crecen
 ---
 

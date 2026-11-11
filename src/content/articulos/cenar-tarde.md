@@ -42,6 +42,7 @@ related:
   - beneficios-de-la-siesta
   - cambio-de-hora-salud
   - dieta-mediterranea-beneficios
+  - legumbres-gases
 next: cambio-de-hora-salud
 ---
 

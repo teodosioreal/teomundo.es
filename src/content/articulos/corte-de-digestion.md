@@ -40,6 +40,7 @@ related:
   - tragar-chicle
   - cuanta-agua-beber-al-dia
   - calor-por-la-cabeza
+  - agua-fria-con-la-comida
 next: leer-con-poca-luz
 ---
 

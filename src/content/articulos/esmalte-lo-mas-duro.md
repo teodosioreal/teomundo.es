@@ -48,6 +48,7 @@ related:
   - cuanta-saliva-producimos
   - hueso-mas-pequeno
   - musculo-mas-fuerte
+  - dientes-en-una-vida
 next: cuanta-saliva-producimos
 ---
 

@@ -40,6 +40,7 @@ related:
   - aceite-de-oliva-cerebro
   - jamon-iberico-salud
   - esperanza-de-vida-espana
+  - aliento-a-ajo
 next: aceite-de-oliva-cerebro
 ---
 

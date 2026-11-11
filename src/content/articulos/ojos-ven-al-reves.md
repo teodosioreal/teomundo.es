@@ -46,6 +46,7 @@ related:
   - los-ojos-crecen
   - cuantas-veces-parpadeamos
   - cerebro-consume-energia
+  - punto-ciego
 next: los-ojos-crecen
 ---
 

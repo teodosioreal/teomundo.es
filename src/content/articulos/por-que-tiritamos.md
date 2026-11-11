@@ -49,6 +49,7 @@ related:
   - piel-de-gallina
   - dedos-arrugados-en-el-agua
   - mareo-al-levantarse
+  - vaho-al-respirar
 next: piel-de-gallina
 ---
 

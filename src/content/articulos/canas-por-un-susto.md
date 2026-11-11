@@ -48,6 +48,7 @@ related:
   - afeitarse-pelo-mas-fuerte
   - unas-crecen-despues-de-morir
   - pelo-mojado-resfriado
+  - arrancar-una-cana
 next: afeitarse-pelo-mas-fuerte
 ---
 

@@ -48,6 +48,7 @@ related:
   - organo-mas-grande
   - celulas-que-se-renuevan
   - celula-mas-grande-y-mas-pequena
+  - pelo-mas-largo
 next: organo-mas-grande
 ---
 

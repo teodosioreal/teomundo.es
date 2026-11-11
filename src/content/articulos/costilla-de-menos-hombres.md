@@ -48,6 +48,7 @@ related:
   - cinco-sentidos
   - mito-10-por-ciento-cerebro
   - mapa-de-la-lengua
+  - sangre-azul
 next: cinco-sentidos
 ---
 

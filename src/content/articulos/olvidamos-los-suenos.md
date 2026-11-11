@@ -48,6 +48,7 @@ related:
   - deja-vu
   - sacudida-al-dormirse
   - bostezo-contagioso
+  - hablar-dormido
 next: deja-vu
 ---
 

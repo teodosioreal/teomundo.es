@@ -50,6 +50,7 @@ related:
   - cortar-cebolla-sin-llorar
   - por-que-tiritamos
   - piel-de-gallina
+  - labios-cortados-invierno
 next: cortar-cebolla-sin-llorar
 ---
 

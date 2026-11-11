@@ -48,6 +48,7 @@ related:
   - cuantas-veces-parpadeamos
   - electricidad-del-corazon
   - cerebro-consume-energia
+  - ciclo-nasal
 next: cuantas-veces-parpadeamos
 ---
 

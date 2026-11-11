@@ -48,6 +48,7 @@ related:
   - musculo-mas-fuerte
   - record-aguantar-respiracion
   - velocidad-estornudo
+  - salto-mas-alto
 next: musculo-mas-fuerte
 ---
 

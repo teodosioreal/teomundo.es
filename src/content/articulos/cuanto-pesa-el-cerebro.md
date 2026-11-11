@@ -48,6 +48,7 @@ related:
   - organo-mas-grande
   - nervio-mas-largo
   - celula-mas-grande-y-mas-pequena
+  - cuantas-neuronas
 next: nervio-mas-largo
 ---
 

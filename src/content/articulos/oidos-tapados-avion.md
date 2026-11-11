@@ -49,6 +49,7 @@ related:
   - mareo-al-levantarse
   - estornudar-con-el-sol
   - bostezo-contagioso
+  - pitido-oidos-concierto
 next: mareo-al-levantarse
 ---
 

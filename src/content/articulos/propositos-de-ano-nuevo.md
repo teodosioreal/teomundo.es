@@ -48,6 +48,7 @@ related:
   - horas-de-sueno-espanoles
   - dieta-mediterranea-beneficios
   - sueno-tras-comidas-navidad
+  - enamorarse-cerebro
 next: dieta-mediterranea-beneficios
 ---
 
