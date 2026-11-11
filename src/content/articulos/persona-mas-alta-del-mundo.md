@@ -41,6 +41,7 @@ related:
   - hueso-mas-pequeno
   - latidos-del-corazon-en-una-vida
   - persona-mas-baja
+  - pies-y-manos-mas-grandes
 next: latidos-del-corazon-en-una-vida
 ---
 

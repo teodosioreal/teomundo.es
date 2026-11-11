@@ -39,6 +39,7 @@ related:
   - bostezo-contagioso
   - pierna-dormida
   - como-quitar-el-hipo
+  - hablar-dormido
 next: pierna-dormida
 ---
 

@@ -49,6 +49,7 @@ related:
   - mapa-de-la-lengua
   - mito-10-por-ciento-cerebro
   - zanahorias-vista
+  - oler-el-miedo
 next: mapa-de-la-lengua
 ---
 

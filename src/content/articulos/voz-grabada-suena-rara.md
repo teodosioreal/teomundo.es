@@ -48,6 +48,7 @@ related:
   - cosquillas-a-uno-mismo
   - estornudar-con-el-sol
   - bostezo-contagioso
+  - grima-unas-pizarra
 next: cosquillas-a-uno-mismo
 ---
 

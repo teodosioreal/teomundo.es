@@ -48,6 +48,7 @@ related:
   - huellas-dactilares-gemelos
   - cuanto-crecen-las-unas
   - huella-de-la-lengua
+  - pulgar-oponible
 next: huellas-dactilares-gemelos
 ---
 
