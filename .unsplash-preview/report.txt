@@ -435,3 +435,4 @@ arrancar-una-cana | cover | woman gray hair portrait | https://unsplash.com/phot
 ciclo-nasal | inline 1 | woman sleeping on her side pillow | https://unsplash.com/photos/a-woman-sleeping-in-a-bed-with-a-white-comforter-Ip3Z-FoLl1Q | a woman sleeping in a bed with a white comforter
 hablar-con-las-manos | cover | hand gestures conversation | https://unsplash.com/photos/two-hands-holding-each-other-with-bracelets-on-them-85UvN7XT_CA | two hands holding each other with bracelets on them
 legumbres-gases | cover | lentils bowl | https://unsplash.com/photos/a-bowl-of-soup-with-bacon-on-top-of-it-lAibP0GwAmU | a bowl of soup with bacon on top of it
+legumbres-gases | cover | dried legumes | https://unsplash.com/photos/assorted-colored-bean-lot-t4X660oKiYs | assorted-colored bean lot

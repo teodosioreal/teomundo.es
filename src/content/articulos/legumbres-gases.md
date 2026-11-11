@@ -15,6 +15,12 @@ datePublished: 2027-01-26
 dateModified: 2027-01-26
 imageQuery: "dried legumes"
 imageAlt: "Legumbres secas variadas"
+cover:
+  url: "https://images.unsplash.com/photo-1564894809611-1742fc40ed80?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZHJpZWQlMjBsZWd1bWVzfGVufDF8MHx8fDE3OTQ0Mzc0ODB8MA&ixlib=rb-4.1.0"
+  alt: "Legumbres secas variadas"
+  author: "Shelley Pauls"
+  authorUrl: "https://unsplash.com/@shelleypauls?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/assorted-colored-bean-lot-t4X660oKiYs?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Las legumbres llevan unos azúcares, los oligosacáridos de la familia de la rafinosa, que el intestino humano no puede romper porque le falta la enzima necesaria."
   - "Esos azúcares llegan intactos al intestino grueso, donde las bacterias los fermentan y producen gases."
