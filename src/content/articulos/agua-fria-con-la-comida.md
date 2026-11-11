@@ -15,6 +15,12 @@ datePublished: 2027-02-09
 dateModified: 2027-02-09
 imageQuery: "glass of ice water at lunch table"
 imageAlt: "Vaso de agua con hielo junto a un plato de comida"
+cover:
+  url: "https://images.unsplash.com/photo-1718203817319-8e1ca8a0d233?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMGljZSUyMHdhdGVyJTIwYXQlMjBsdW5jaCUyMHRhYmxlfGVufDF8MHx8fDE3OTQ0MjA2MzF8MA&ixlib=rb-4.1.0"
+  alt: "Vaso de agua con hielo junto a un plato de comida"
+  author: "Peyman Shojaei"
+  authorUrl: "https://unsplash.com/@withpeyman?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-wooden-table-topped-with-plates-and-glasses-ueqjc6WSoRg?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es un mito que el agua fría corte la digestión: no la detiene."
   - "En un experimento publicado en la revista Gut, una bebida a 4 °C salía del estómago algo más despacio al principio que una a la temperatura del cuerpo."
@@ -68,7 +74,10 @@ Los autores vieron, además, que cuanto más se enfriaba el estómago, más se f
 
 Nada en el estudio indica que el agua fría «corte» la digestión, la pare o haga daño a una persona sana.
 
-<!-- unsplash: water jug with ice cubes restaurant table | Jarra de agua con hielo en la mesa de un restaurante -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1650323714451-805f0b4d4917?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2F0ZXIlMjBqdWclMjB3aXRoJTIwaWNlJTIwY3ViZXMlMjByZXN0YXVyYW50JTIwdGFibGV8ZW58MXwwfHx8MTc5NDQyMDYzMnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1650323714451-805f0b4d4917?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2F0ZXIlMjBqdWclMjB3aXRoJTIwaWNlJTIwY3ViZXMlMjByZXN0YXVyYW50JTIwdGFibGV8ZW58MXwwfHx8MTc5NDQyMDYzMnww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1650323714451-805f0b4d4917?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2F0ZXIlMjBqdWclMjB3aXRoJTIwaWNlJTIwY3ViZXMlMjByZXN0YXVyYW50JTIwdGFibGV8ZW58MXwwfHx8MTc5NDQyMDYzMnww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1650323714451-805f0b4d4917?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2F0ZXIlMjBqdWclMjB3aXRoJTIwaWNlJTIwY3ViZXMlMjByZXN0YXVyYW50JTIwdGFibGV8ZW58MXwwfHx8MTc5NDQyMDYzMnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Jarra de agua con hielo en la mesa de un restaurante" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@electronphotography?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Electron Photography</a> en <a href="https://unsplash.com/photos/a-glass-vase-sitting-on-top-of-a-wooden-table--dK9pd0-lD4?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## La frase de la abuela, en su contexto
 

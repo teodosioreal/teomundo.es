@@ -15,6 +15,12 @@ datePublished: 2027-01-27
 dateModified: 2027-01-27
 imageQuery: "child smiling missing front tooth"
 imageAlt: "Niño sonriendo con un diente de leche caído"
+cover:
+  url: "https://images.unsplash.com/photo-1552873816-636e43209957?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hpbGQlMjBzbWlsaW5nJTIwbWlzc2luZyUyMGZyb250JTIwdG9vdGh8ZW58MXwwfHx8MTc5NDQyMDY0OXww&ixlib=rb-4.1.0"
+  alt: "Niño sonriendo con un diente de leche caído"
+  author: "Moses Vega"
+  authorUrl: "https://unsplash.com/@mosesvega?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/smiling-boy-wearing-white-crew-neck-t-shirt-during-daytime-_YfoApRxd4I?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "A lo largo de la vida tienes dos juegos de dientes: 20 de leche y 32 definitivos, 52 en total si te salen todos."
   - "Según MedlinePlus, los 20 de leche deberían estar en la boca antes de los 30 meses."
@@ -78,7 +84,10 @@ Son ocho tipos de diente en cada cuarto de la boca: arriba y abajo, a la izquier
 
 Fíjate en el primer molar: es de los primeros definitivos en salir, hacia los 6 años, y aparece al fondo de la boca, detrás de las muelas de leche.
 
-<!-- unsplash: dentist checking teeth model | Dentista mostrando un modelo de dentadura -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1468493858157-0da44aaf1d13?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGVudGlzdCUyMGNoZWNraW5nJTIwdGVldGglMjBtb2RlbHxlbnwxfDB8fHwxNzk0NDIwNjUwfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1468493858157-0da44aaf1d13?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGVudGlzdCUyMGNoZWNraW5nJTIwdGVldGglMjBtb2RlbHxlbnwxfDB8fHwxNzk0NDIwNjUwfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1468493858157-0da44aaf1d13?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGVudGlzdCUyMGNoZWNraW5nJTIwdGVldGglMjBtb2RlbHxlbnwxfDB8fHwxNzk0NDIwNjUwfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1468493858157-0da44aaf1d13?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGVudGlzdCUyMGNoZWNraW5nJTIwdGVldGglMjBtb2RlbHxlbnwxfDB8fHwxNzk0NDIwNjUwfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Dentista mostrando un modelo de dentadura" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@petekasprzyk?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Peter Kasprzyk</a> en <a href="https://unsplash.com/photos/person-wearing-silver-colored-ring-while-holding-denture-U1gvhqVQ2kQ?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Las muelas del juicio, las rezagadas
 

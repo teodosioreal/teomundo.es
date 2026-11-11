@@ -64,7 +64,10 @@ Que la amiga de la terraza dibuje la jugada en el aire no es solo teatro. Según
 
 Un ejemplo de la revisión: si alguien hace un gesto circular mientras dice «la pelota rodó colina abajo», ese gesto puede activar la palabra «rodar» y hacer que salga más fácilmente.
 
-<!-- unsplash: hands gesturing while talking close up | Manos gesticulando durante una conversación -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1582728961801-baef481c712c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZHMlMjBnZXN0dXJpbmclMjB3aGlsZSUyMHRhbGtpbmclMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTQ0MjA2NTZ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1582728961801-baef481c712c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZHMlMjBnZXN0dXJpbmclMjB3aGlsZSUyMHRhbGtpbmclMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTQ0MjA2NTZ8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1582728961801-baef481c712c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZHMlMjBnZXN0dXJpbmclMjB3aGlsZSUyMHRhbGtpbmclMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTQ0MjA2NTZ8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1582728961801-baef481c712c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZHMlMjBnZXN0dXJpbmclMjB3aGlsZSUyMHRhbGtpbmclMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTQ0MjA2NTZ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Manos gesticulando durante una conversación" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@markusspiske?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Markus Spiske</a> en <a href="https://unsplash.com/photos/person-in-gray-long-sleeve-shirt-holding-babys-hand-X9kWnqicO3s?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Lo que tus manos le cuentan al otro
 

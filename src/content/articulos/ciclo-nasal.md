@@ -15,6 +15,12 @@ datePublished: 2027-02-07
 dateModified: 2027-02-07
 imageQuery: "person breathing fresh air nose close up"
 imageAlt: "Perfil de una persona respirando aire fresco"
+cover:
+  url: "https://images.unsplash.com/photo-1762114468187-971a71a5fe70?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwYnJlYXRoaW5nJTIwZnJlc2glMjBhaXIlMjBub3NlJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0NDIwNjQyfDA&ixlib=rb-4.1.0"
+  alt: "Perfil de una persona respirando aire fresco"
+  author: "Zulfugar Karimov"
+  authorUrl: "https://unsplash.com/@zulfugarkarimov?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/close-up-profile-of-a-womans-mouth-and-chin-cGUuNMJvkmE?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "A lo largo del día, el tejido del interior de la nariz se hincha en un lado y se deshincha en el otro, de forma espontánea: es el ciclo nasal."
   - "Entre el 70 y el 80 % de los adultos tiene un ciclo nasal regular, aunque solo en un 21 a 39 % sigue un ritmo realmente alterno y periódico."

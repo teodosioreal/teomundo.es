@@ -15,6 +15,12 @@ datePublished: 2027-02-05
 dateModified: 2027-02-05
 imageQuery: "people swimming cold sea winter beach"
 imageAlt: "Personas bañándose en el mar en una playa de invierno"
+cover:
+  url: "https://images.unsplash.com/photo-1670969542635-5a3b03dd4121?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVvcGxlJTIwc3dpbW1pbmclMjBjb2xkJTIwc2VhJTIwd2ludGVyJTIwYmVhY2h8ZW58MXwwfHx8MTc5NDQyMDYzNnww&ixlib=rb-4.1.0"
+  alt: "Personas bañándose en el mar en una playa de invierno"
+  author: "Alex jiang"
+  authorUrl: "https://unsplash.com/@aleex1809?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-person-standing-on-a-beach-next-to-the-ocean-F5fSo5tn-XY?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Al entrar de golpe en agua fría, la piel dispara un reflejo llamado choque por frío: un jadeo involuntario, respiración acelerada sin control, el corazón más rápido y la tensión más alta."
   - "Ese primer jadeo puede mover de 2 a 3 litros de aire, así que, si tienes la cabeza bajo el agua, es fácil tragar agua."
@@ -64,7 +70,10 @@ Tipton y Hugh Montgomery repasan qué pasa en el agua fría en un artículo de 2
 
 El problema del primer jadeo es su tamaño: puede mover **de 2 a 3 litros de aire**. Si en ese instante tienes la cabeza bajo el agua, por ejemplo porque te has tirado de golpe, es fácil tragar agua. Y además ese reflejo hace mucho más difícil aguantar la respiración.
 
-<!-- unsplash: winter sea waves beach cold | Olas del mar en una playa en invierno -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1768210558542-d675e63a9545?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2ludGVyJTIwc2VhJTIwd2F2ZXMlMjBiZWFjaCUyMGNvbGR8ZW58MXwwfHx8MTc5NDQyMDYzN3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1768210558542-d675e63a9545?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2ludGVyJTIwc2VhJTIwd2F2ZXMlMjBiZWFjaCUyMGNvbGR8ZW58MXwwfHx8MTc5NDQyMDYzN3ww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1768210558542-d675e63a9545?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2ludGVyJTIwc2VhJTIwd2F2ZXMlMjBiZWFjaCUyMGNvbGR8ZW58MXwwfHx8MTc5NDQyMDYzN3ww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1768210558542-d675e63a9545?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d2ludGVyJTIwc2VhJTIwd2F2ZXMlMjBiZWFjaCUyMGNvbGR8ZW58MXwwfHx8MTc5NDQyMDYzN3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Olas del mar en una playa en invierno" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@glaskova?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Antonia Glaskova</a> en <a href="https://unsplash.com/photos/sandy-beach-with-gentle-waves-under-a-clear-blue-sky-CQtx6iM2JL8?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Lo que le pasa al cuerpo, minuto a minuto
 

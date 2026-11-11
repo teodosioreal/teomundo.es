@@ -15,6 +15,12 @@ datePublished: 2027-01-22
 dateModified: 2027-01-22
 imageQuery: "neurons microscope illustration"
 imageAlt: "Ilustración de neuronas conectadas entre sí"
+cover:
+  url: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8bmV1cm9ucyUyMG1pY3Jvc2NvcGUlMjBpbGx1c3RyYXRpb258ZW58MXwwfHx8MTc5NDQyMDY0N3ww&ixlib=rb-4.1.0"
+  alt: "Ilustración de neuronas conectadas entre sí"
+  author: "Hal Gatewood"
+  authorUrl: "https://unsplash.com/@halacious?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/purple-and-pink-plasma-ball-OgvqXGL7XO4?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Un cerebro adulto de unos 1,5 kg tiene de media unos 86.000 millones de neuronas y unos 85.000 millones de otras células."
   - "La cifra redonda de 100.000 millones de neuronas, y diez veces más células gliales, circuló durante décadas sin que nadie la hubiera medido."
@@ -59,7 +65,10 @@ El resultado: un cerebro adulto de una media de 1,5 kilos tiene unos **86.000 mi
 
 Según Herculano-Houzel, esa proporción de diez células gliales por neurona solo se da en zonas concretas, como el tálamo.
 
-<!-- unsplash: human brain model anatomy | Modelo anatómico de un cerebro humano -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1644648479153-2a3dbee76212?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aHVtYW4lMjBicmFpbiUyMG1vZGVsJTIwYW5hdG9teXxlbnwxfDB8fHwxNzk0NDIwNjQ4fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1644648479153-2a3dbee76212?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aHVtYW4lMjBicmFpbiUyMG1vZGVsJTIwYW5hdG9teXxlbnwxfDB8fHwxNzk0NDIwNjQ4fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1644648479153-2a3dbee76212?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aHVtYW4lMjBicmFpbiUyMG1vZGVsJTIwYW5hdG9teXxlbnwxfDB8fHwxNzk0NDIwNjQ4fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1644648479153-2a3dbee76212?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aHVtYW4lMjBicmFpbiUyMG1vZGVsJTIwYW5hdG9teXxlbnwxfDB8fHwxNzk0NDIwNjQ4fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Modelo anatómico de un cerebro humano" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@aresbuddhi?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">BUDDHI Kumar SHRESTHA</a> en <a href="https://unsplash.com/photos/a-close-up-of-a-human-brain-on-a-white-background-iW_n3MqVVtU?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Dónde viven tus neuronas
 

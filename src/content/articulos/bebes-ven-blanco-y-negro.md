@@ -15,6 +15,12 @@ datePublished: 2027-02-04
 dateModified: 2027-02-04
 imageQuery: "newborn baby looking at colorful toy"
 imageAlt: "Bebé mirando un juguete de colores"
+cover:
+  url: "https://images.unsplash.com/photo-1709380824789-233745078904?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bmV3Ym9ybiUyMGJhYnklMjBsb29raW5nJTIwYXQlMjBjb2xvcmZ1bCUyMHRveXxlbnwxfDB8fHwxNzk0NDIwNjM4fDA&ixlib=rb-4.1.0"
+  alt: "Bebé mirando un juguete de colores"
+  author: "Mina Rad"
+  authorUrl: "https://unsplash.com/@miinrad?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-baby-is-playing-with-toys-on-the-floor-SVS5VOV9nbE?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es un mito: incluso los recién nacidos detectan algunos colores, aunque solo si son muy intensos y ocupan mucho espacio."
   - "En un estudio, más del 75 % de los recién nacidos se fijaron en una mancha roja intensa sobre gris, pero más del 80 % no reaccionaron a una azul."
@@ -65,7 +71,10 @@ El motivo es que sus ojos y su cerebro aún no están maduros. Los conos, las c�
 
 Aun así, la visión de color no termina de madurar en los primeros meses. Según la revisión, la capacidad de distinguir los colores apagados no alcanza el nivel adulto hasta el final de la adolescencia.
 
-<!-- unsplash: baby crib mobile colorful | Móvil de colores colgado sobre una cuna -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1705164297470-ab318a79f93a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmFieSUyMGNyaWIlMjBtb2JpbGUlMjBjb2xvcmZ1bHxlbnwxfDB8fHwxNzk0NDIwNjQwfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1705164297470-ab318a79f93a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmFieSUyMGNyaWIlMjBtb2JpbGUlMjBjb2xvcmZ1bHxlbnwxfDB8fHwxNzk0NDIwNjQwfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1705164297470-ab318a79f93a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmFieSUyMGNyaWIlMjBtb2JpbGUlMjBjb2xvcmZ1bHxlbnwxfDB8fHwxNzk0NDIwNjQwfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1705164297470-ab318a79f93a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmFieSUyMGNyaWIlMjBtb2JpbGUlMjBjb2xvcmZ1bHxlbnwxfDB8fHwxNzk0NDIwNjQwfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Móvil de colores colgado sobre una cuna" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@deepavalig?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Deepavali Gaind</a> en <a href="https://unsplash.com/photos/a-wind-chime-with-a-red-and-yellow-boat-on-it-hhli5s_Mkus?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Por qué se repite lo del blanco y negro
 

@@ -15,6 +15,12 @@ datePublished: 2027-02-13
 dateModified: 2027-02-13
 imageQuery: "chalk writing on blackboard classroom"
 imageAlt: "Mano escribiendo con tiza en una pizarra de clase"
+cover:
+  url: "https://images.unsplash.com/photo-1711062717319-393e424a3538?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hhbGslMjB3cml0aW5nJTIwb24lMjBibGFja2JvYXJkJTIwY2xhc3Nyb29tfGVufDF8MHx8fDE3OTQ0MjA2NTN8MA&ixlib=rb-4.1.0"
+  alt: "Mano escribiendo con tiza en una pizarra de clase"
+  author: "Aleyna Çatak"
+  authorUrl: "https://unsplash.com/@asoloweirdo?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/chalkboard-with-blue-chalk-sticks-iCyEPaLdPAs?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Ante un sonido muy desagradable, el cerebro activa a la vez la corteza auditiva y la amígdala, una zona clave en las emociones."
   - "En un estudio de la Universidad de Newcastle, los sonidos de raspado, como la tiza en la pizarra o un cuchillo sobre una botella, estaban entre los más desagradables de 74."
@@ -71,7 +77,10 @@ El recorrido es este:
 
 Los autores lo describen como una conversación de ida y vuelta entre las dos zonas.
 
-<!-- unsplash: knife and fork on white plate | Cuchillo y tenedor sobre un plato blanco -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1607674215780-3bdfc57ce61a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8a25pZmUlMjBhbmQlMjBmb3JrJTIwb24lMjB3aGl0ZSUyMHBsYXRlfGVufDF8MHx8fDE3OTQ0MjA2NTR8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1607674215780-3bdfc57ce61a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8a25pZmUlMjBhbmQlMjBmb3JrJTIwb24lMjB3aGl0ZSUyMHBsYXRlfGVufDF8MHx8fDE3OTQ0MjA2NTR8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1607674215780-3bdfc57ce61a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8a25pZmUlMjBhbmQlMjBmb3JrJTIwb24lMjB3aGl0ZSUyMHBsYXRlfGVufDF8MHx8fDE3OTQ0MjA2NTR8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1607674215780-3bdfc57ce61a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8a25pZmUlMjBhbmQlMjBmb3JrJTIwb24lMjB3aGl0ZSUyMHBsYXRlfGVufDF8MHx8fDE3OTQ0MjA2NTR8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Cuchillo y tenedor sobre un plato blanco" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@julianwallnerphotoworks?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Julian Wallner</a> en <a href="https://unsplash.com/photos/silver-fork-on-white-ceramic-plate-KHgSurk57V4?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Tu lista de sonidos que dan grima
 

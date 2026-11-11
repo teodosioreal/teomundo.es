@@ -15,6 +15,12 @@ datePublished: 2027-02-08
 dateModified: 2027-02-08
 imageQuery: "person sleeping in bed at night"
 imageAlt: "Persona dormida en la cama por la noche"
+cover:
+  url: "https://images.unsplash.com/photo-1586294310477-243d2beb0be1?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8cGVyc29uJTIwc2xlZXBpbmclMjBpbiUyMGJlZCUyMGF0JTIwbmlnaHR8ZW58MXwwfHx8MTc5NDQyMDY1N3ww&ixlib=rb-4.1.0"
+  alt: "Persona dormida en la cama por la noche"
+  author: "Tatiana Rodriguez"
+  authorUrl: "https://unsplash.com/@tata186?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/person-lying-on-bed-covered-with-blanket-PdPfWNW_GTM?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Hablar dormido se llama somniloquia y está clasificado como una variante normal entre los trastornos del sueño: suele ser inofensivo."
   - "En una encuesta de la Universidad Sapienza de Roma, 151 de 1.043 jóvenes de 18 a 35 años se reconocieron como habladores nocturnos muy frecuentes."

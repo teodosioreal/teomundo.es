@@ -15,6 +15,12 @@ datePublished: 2027-01-30
 dateModified: 2027-01-30
 imageQuery: "brain hemispheres illustration colorful"
 imageAlt: "Ilustración de un cerebro con los dos hemisferios en colores distintos"
+cover:
+  url: "https://images.unsplash.com/photo-1617791160536-598cf32026fb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YnJhaW4lMjBoZW1pc3BoZXJlcyUyMGlsbHVzdHJhdGlvbiUyMGNvbG9yZnVsfGVufDF8MHx8fDE3OTQ0MjA2NDF8MA&ixlib=rb-4.1.0"
+  alt: "Ilustración de un cerebro con los dos hemisferios en colores distintos"
+  author: "Milad Fakurian"
+  authorUrl: "https://unsplash.com/@fakurian?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/iridescent-brain-render-on-blue-purple-background-58Z17lnVS4U?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es un mito que haya personas de «cerebro izquierdo», lógicas, y de «cerebro derecho», creativas."
   - "Un estudio de la Universidad de Utah analizó los escáneres de 1.011 personas y no encontró ese patrón de todo el cerebro: la especialización de cada lado es local, no un rasgo de la persona."
@@ -63,7 +69,10 @@ Un siglo después, en los años sesenta, llegaron los estudios de pacientes de *
 
 Según Corballis, a partir de ahí se desató una ola de especulación, en su mayor parte exagerada o mal fundada. Libros, cursos y test populares convirtieron el hemisferio derecho en la sede de la creatividad.
 
-<!-- unsplash: person taking online quiz laptop | Persona haciendo un test en un ordenador portátil -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwdGFraW5nJTIwb25saW5lJTIwcXVpeiUyMGxhcHRvcHxlbnwxfDB8fHwxNzk0NDIwNjQyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwdGFraW5nJTIwb25saW5lJTIwcXVpeiUyMGxhcHRvcHxlbnwxfDB8fHwxNzk0NDIwNjQyfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwdGFraW5nJTIwb25saW5lJTIwcXVpeiUyMGxhcHRvcHxlbnwxfDB8fHwxNzk0NDIwNjQyfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwdGFraW5nJTIwb25saW5lJTIwcXVpeiUyMGxhcHRvcHxlbnwxfDB8fHwxNzk0NDIwNjQyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona haciendo un test en un ordenador portátil" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@christinhumephoto?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Christin Hume</a> en <a href="https://unsplash.com/photos/person-sitting-front-of-laptop-mfB1B1s4sMc?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Lo que es verdad y lo que es mito
 

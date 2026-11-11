@@ -15,6 +15,12 @@ datePublished: 2027-02-10
 dateModified: 2027-02-10
 imageQuery: "couple holding hands walking city street"
 imageAlt: "Pareja paseando de la mano por una calle de la ciudad"
+cover:
+  url: "https://images.unsplash.com/photo-1786565750454-3026cfa59268?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y291cGxlJTIwaG9sZGluZyUyMGhhbmRzJTIwd2Fsa2luZyUyMGNpdHklMjBzdHJlZXR8ZW58MXwwfHx8MTc5NDQyMDY1MXww&ixlib=rb-4.1.0"
+  alt: "Pareja paseando de la mano por una calle de la ciudad"
+  author: "atelierbyvineeth ..."
+  authorUrl: "https://unsplash.com/@atelierbyvineeth?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/two-people-walking-on-city-street-Oj2b6Zr2-Wg?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Los escáneres muestran que el enamoramiento activa zonas del sistema de recompensa del cerebro, como el área tegmental ventral y el núcleo accumbens."
   - "También se han medido cambios en sustancias como la serotonina, la dopamina, el cortisol, la testosterona y el factor de crecimiento nervioso."
@@ -70,7 +76,10 @@ La misma revisión reúne los estudios que compararon a personas enamoradas con 
 
 Lo del cortisol muestra lo difícil que es medir el amor: los resultados se contradicen, quizá porque cada estudio pilló a las parejas en un momento distinto de la relación.
 
-<!-- unsplash: red roses bouquet flower shop | Ramo de rosas rojas en una floristería -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1763379557051-f62483b50556?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cmVkJTIwcm9zZXMlMjBib3VxdWV0JTIwZmxvd2VyJTIwc2hvcHxlbnwxfDB8fHwxNzk0NDIwNjUyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1763379557051-f62483b50556?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cmVkJTIwcm9zZXMlMjBib3VxdWV0JTIwZmxvd2VyJTIwc2hvcHxlbnwxfDB8fHwxNzk0NDIwNjUyfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1763379557051-f62483b50556?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cmVkJTIwcm9zZXMlMjBib3VxdWV0JTIwZmxvd2VyJTIwc2hvcHxlbnwxfDB8fHwxNzk0NDIwNjUyfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1763379557051-f62483b50556?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cmVkJTIwcm9zZXMlMjBib3VxdWV0JTIwZmxvd2VyJTIwc2hvcHxlbnwxfDB8fHwxNzk0NDIwNjUyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Ramo de rosas rojas en una floristería" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@aminzabardast?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Amin Zabardast</a> en <a href="https://unsplash.com/photos/a-bouquet-of-red-roses-with-purple-and-white-flowers-VLkqn1illl4?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Por qué se parece a una adicción
 

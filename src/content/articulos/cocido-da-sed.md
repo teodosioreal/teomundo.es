@@ -61,7 +61,10 @@ La sed no suele aparecer en el primer plato. Tu cuerpo va absorbiendo la sal a m
 
 Mientras tanto, el cuerpo también ahorra agua. La vasopresina, conocida también como hormona antidiurética, hace que el riñón retenga agua, explican Danziger y Zeidel. Por eso, tras una comida muy salada, es normal ir menos al baño durante unas horas.
 
-<!-- unsplash: glass of water on wooden table | Vaso de agua sobre una mesa de madera -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1790655618432-35d01e87f780?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHdhdGVyJTIwb24lMjB3b29kZW4lMjB0YWJsZXxlbnwxfDB8fHwxNzk0NDIwNjQ0fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1790655618432-35d01e87f780?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHdhdGVyJTIwb24lMjB3b29kZW4lMjB0YWJsZXxlbnwxfDB8fHwxNzk0NDIwNjQ0fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1790655618432-35d01e87f780?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHdhdGVyJTIwb24lMjB3b29kZW4lMjB0YWJsZXxlbnwxfDB8fHwxNzk0NDIwNjQ0fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1790655618432-35d01e87f780?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z2xhc3MlMjBvZiUyMHdhdGVyJTIwb24lMjB3b29kZW4lMjB0YWJsZXxlbnwxfDB8fHwxNzk0NDIwNjQ0fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Vaso de agua sobre una mesa de madera" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@enginakyurt?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">engin akyurt</a> en <a href="https://unsplash.com/photos/glass-with-ice-on-wooden-table-WqOClTzKVPc?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Lo que cuenta la sal de España
 

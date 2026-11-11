@@ -15,6 +15,12 @@ datePublished: 2027-01-31
 dateModified: 2027-01-31
 imageQuery: "garlic bulbs on wooden table kitchen"
 imageAlt: "Cabezas de ajo sobre una mesa de madera en una cocina"
+cover:
+  url: "https://images.unsplash.com/photo-1791181675640-e99bf01f984e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z2FybGljJTIwYnVsYnMlMjBvbiUyMHdvb2RlbiUyMHRhYmxlJTIwa2l0Y2hlbnxlbnwxfDB8fHwxNzk0NDIwNjM0fDA&ixlib=rb-4.1.0"
+  alt: "Cabezas de ajo sobre una mesa de madera en una cocina"
+  author: "Sokil Сокіл"
+  authorUrl: "https://unsplash.com/@sokil?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/garlic-bulb-and-metal-press-HRCzSA8KSfk?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Al cortar o machacar el ajo se forma la alicina, que da lugar a varios compuestos de azufre olorosos."
   - "La mayoría huele en la boca y desaparece pronto, pero uno, el alil metil sulfuro, pasa del intestino a la sangre y sale después por los pulmones."
@@ -61,7 +67,10 @@ Casi todos los gases estaban mucho más concentrados en la boca que en los pulmo
 
 La razón, según los autores, es que ni el intestino ni el hígado lo descomponen, a diferencia de los demás. A las tres horas, ya era el principal gas de azufre del aliento. Su conclusión: el olor a ajo nace primero en la boca y después llega desde el intestino.
 
-<!-- unsplash: spanish garlic shrimp gambas al ajillo | Cazuela de gambas al ajillo -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1625943553852-781c6dd46faa?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3BhbmlzaCUyMGdhcmxpYyUyMHNocmltcCUyMGdhbWJhcyUyMGFsJTIwYWppbGxvfGVufDF8MHx8fDE3OTQ0MjA2MzV8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1625943553852-781c6dd46faa?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3BhbmlzaCUyMGdhcmxpYyUyMHNocmltcCUyMGdhbWJhcyUyMGFsJTIwYWppbGxvfGVufDF8MHx8fDE3OTQ0MjA2MzV8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1625943553852-781c6dd46faa?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3BhbmlzaCUyMGdhcmxpYyUyMHNocmltcCUyMGdhbWJhcyUyMGFsJTIwYWppbGxvfGVufDF8MHx8fDE3OTQ0MjA2MzV8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1625943553852-781c6dd46faa?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3BhbmlzaCUyMGdhcmxpYyUyMHNocmltcCUyMGdhbWJhcyUyMGFsJTIwYWppbGxvfGVufDF8MHx8fDE3OTQ0MjA2MzV8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Cazuela de gambas al ajillo" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@ferhadd?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Farhad Ibrahimzade</a> en <a href="https://unsplash.com/photos/cooked-food-on-black-ceramic-bowl-HNmcgpzPHag?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## El viaje del olor por tu cuerpo
 
