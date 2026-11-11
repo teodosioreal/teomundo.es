@@ -71,7 +71,10 @@ El [NHS](https://www.nhs.uk/symptoms/sore-or-dry-lips/), el servicio de salud br
 
 Cuando notas los labios tirantes, el gesto instintivo es pasar la lengua. Parece que alivia, pero el NHS desaconseja lamerse una y otra vez los labios secos o agrietados, porque pueden acabar doliendo más. Tampoco conviene arrancar los pellejitos, ya que retrasa la curación.
 
-<!-- unsplash: woman lips cold winter scarf close up | Labios de una mujer abrigada con bufanda en invierno -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1520732969974-5136da8a42f4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8d29tYW4lMjBsaXBzJTIwY29sZCUyMHdpbnRlciUyMHNjYXJmJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0NDMyODA1fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1520732969974-5136da8a42f4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8d29tYW4lMjBsaXBzJTIwY29sZCUyMHdpbnRlciUyMHNjYXJmJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0NDMyODA1fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1520732969974-5136da8a42f4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8d29tYW4lMjBsaXBzJTIwY29sZCUyMHdpbnRlciUyMHNjYXJmJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0NDMyODA1fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1520732969974-5136da8a42f4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8d29tYW4lMjBsaXBzJTIwY29sZCUyMHdpbnRlciUyMHNjYXJmJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0NDMyODA1fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Labios de una mujer abrigada con bufanda en invierno" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@vadimpng?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Vadim Fomenok</a> en <a href="https://unsplash.com/photos/woman-wearing-hoodie-under-green-scarf-Xstgvg1TWj8?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Tu kit de invierno para los labios
 

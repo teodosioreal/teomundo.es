@@ -15,6 +15,12 @@ datePublished: 2027-02-16
 dateModified: 2027-02-16
 imageQuery: "bare feet on wooden floor"
 imageAlt: "Pies descalzos sobre un suelo de madera"
+cover:
+  url: "https://images.unsplash.com/photo-1773058730846-afd97503d096?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmFyZSUyMGZlZXQlMjBvbiUyMHdvb2RlbiUyMGZsb29yfGVufDF8MHx8fDE3OTQ0MzI4MDZ8MA&ixlib=rb-4.1.0"
+  alt: "Pies descalzos sobre un suelo de madera"
+  author: "Meghan Holmes"
+  authorUrl: "https://unsplash.com/@yellowteapot?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/bare-feet-and-sandals-on-a-wooden-floor-Jc7UV19xcKU?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Los pies más grandes de una persona viva son del venezolano Jeison Orlando Rodríguez Hernández: 40,55 cm el derecho y 40,47 cm el izquierdo."
   - "Los más grandes de la historia fueron los de Robert Wadlow, el hombre más alto que ha existido: unos 47 cm, el equivalente aproximado a un 75 europeo."
@@ -66,7 +72,10 @@ Las manos también tienen su récord. Se miden desde la muñeca hasta la punta d
 - **Las más grandes de la historia** fueron, otra vez, las de Robert Wadlow: [32,3 cm](https://www.guinnessworldrecords.com/world-records/largest-hands-ever). Según Guinness, usaba un anillo de la talla 25.
 - **Las más grandes de una persona viva** son las de Sultan Kösen, de Turquía, el hombre vivo más alto del mundo, con 2,51 metros. Según [Guinness](https://www.guinnessworldrecords.com/world-records/tallest-man-living), cada una de sus manos mide **28,5 cm**.
 
-<!-- unsplash: measuring tape close up | Cinta métrica enrollada -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1508188317434-1fd219bb636f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWVhc3VyaW5nJTIwdGFwZSUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5NDQzMjgwN3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1508188317434-1fd219bb636f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWVhc3VyaW5nJTIwdGFwZSUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5NDQzMjgwN3ww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1508188317434-1fd219bb636f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWVhc3VyaW5nJTIwdGFwZSUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5NDQzMjgwN3ww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1508188317434-1fd219bb636f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWVhc3VyaW5nJTIwdGFwZSUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5NDQzMjgwN3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Cinta métrica enrollada" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@sernarial?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Patricia Serna</a> en <a href="https://unsplash.com/photos/assorted-tape-measures-zPZ9vqqDNBA?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Los récords, de un vistazo
 

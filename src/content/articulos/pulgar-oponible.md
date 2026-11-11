@@ -15,6 +15,12 @@ datePublished: 2027-02-17
 dateModified: 2027-02-17
 imageQuery: "fingers holding a coin close up"
 imageAlt: "Dedos sujetando una moneda en pinza"
+cover:
+  url: "https://images.unsplash.com/photo-1533988902751-0fad628013cb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZmluZ2VycyUyMGhvbGRpbmclMjBhJTIwY29pbiUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5NDQzMjgwOHww&ixlib=rb-4.1.0"
+  alt: "Dedos sujetando una moneda en pinza"
+  author: "ZSun Fu"
+  authorUrl: "https://unsplash.com/@zisun_word?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/grayscale-photography-of-person-holding-coin-b4D7FKAghoE?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Oponer el pulgar es llevarlo hasta la yema de los otros dedos: es la base de la pinza con la que coges objetos pequeños."
   - "Un músculo de la base del pulgar, el oponente del pulgar, es clave en ese movimiento."
@@ -62,7 +68,10 @@ Un equipo de la Universidad de Tubinga, en Alemania, encabezado por Fotios Alexa
 
 Lo curioso es *Australopithecus sediba*: se había dicho que tenía unas proporciones del pulgar parecidas a las humanas, pero en eficacia quedó cerca de los chimpancés. Para los autores, eso muestra que no basta con que un hueso se parezca al nuestro.
 
-<!-- unsplash: hands buttoning shirt close up | Manos abrochando los botones de una camisa -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1791327107465-549620876b9c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZHMlMjBidXR0b25pbmclMjBzaGlydCUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5NDQzMjgwOHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1791327107465-549620876b9c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZHMlMjBidXR0b25pbmclMjBzaGlydCUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5NDQzMjgwOHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1791327107465-549620876b9c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZHMlMjBidXR0b25pbmclMjBzaGlydCUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5NDQzMjgwOHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1791327107465-549620876b9c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGFuZHMlMjBidXR0b25pbmclMjBzaGlydCUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5NDQzMjgwOHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Manos abrochando los botones de una camisa" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@fsmari?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Mari Neroli</a> en <a href="https://unsplash.com/photos/person-in-black-and-white-shirt-NnEeIRtLxRw?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Compruébalo con una prueba de 1 minuto
 

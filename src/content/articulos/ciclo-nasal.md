@@ -15,6 +15,12 @@ datePublished: 2027-02-07
 dateModified: 2027-02-07
 imageQuery: "woman breathing deeply outdoors fresh air"
 imageAlt: "Mujer respirando hondo al aire libre"
+cover:
+  url: "https://images.unsplash.com/photo-1559657283-693d97f0d55a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8d29tYW4lMjBicmVhdGhpbmclMjBkZWVwbHklMjBvdXRkb29ycyUyMGZyZXNoJTIwYWlyfGVufDF8MHx8fDE3OTQ0MzI4MDN8MA&ixlib=rb-4.1.0"
+  alt: "Mujer respirando hondo al aire libre"
+  author: "Lucas Caixeta"
+  authorUrl: "https://unsplash.com/@lucasetaks?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-standing-while-closing-her-eyes-and-looking-up--hXCsAe-MSQ?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "A lo largo del día, el tejido del interior de la nariz se hincha en un lado y se deshincha en el otro, de forma espontánea: es el ciclo nasal."
   - "Entre el 70 y el 80 % de los adultos tiene un ciclo nasal regular, aunque solo en un 21 a 39 % sigue un ritmo realmente alterno y periódico."

@@ -15,6 +15,12 @@ datePublished: 2027-01-23
 dateModified: 2027-01-23
 imageQuery: "close up human eye iris"
 imageAlt: "Primer plano de un ojo humano"
+cover:
+  url: "https://images.unsplash.com/flagged/photo-1552065172-4f7d73c31fca?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2xvc2UlMjB1cCUyMGh1bWFuJTIwZXllJTIwaXJpc3xlbnwxfDB8fHwxNzk0NDMyODEwfDA&ixlib=rb-4.1.0"
+  alt: "Primer plano de un ojo humano"
+  author: "Marc Schulte"
+  authorUrl: "https://unsplash.com/@marc_schulte?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/yellow-and-gray-eyeball-KJCyvlA_aAQ?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Cada ojo tiene un punto ciego justo donde el nervio óptico sale de la retina, una zona sin células sensibles a la luz."
   - "Está unos 16 grados hacia el lado de la sien respecto al punto que miras y mide unos 6 por 7 grados."
@@ -63,7 +69,10 @@ Los autores repasaron los estudios publicados hasta 2019 y calcularon una media.
 
 Pero es una media. El mismo trabajo insiste en que la posición y el tamaño del punto ciego cambian de una persona a otra, y por eso los laboratorios lo miden en cada participante antes de investigar con él.
 
-<!-- unsplash: person covering one eye with hand | Persona tapándose un ojo con la mano -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1512799906445-d591d53082c0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwY292ZXJpbmclMjBvbmUlMjBleWUlMjB3aXRoJTIwaGFuZHxlbnwxfDB8fHwxNzk0NDMyODExfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1512799906445-d591d53082c0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwY292ZXJpbmclMjBvbmUlMjBleWUlMjB3aXRoJTIwaGFuZHxlbnwxfDB8fHwxNzk0NDMyODExfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1512799906445-d591d53082c0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwY292ZXJpbmclMjBvbmUlMjBleWUlMjB3aXRoJTIwaGFuZHxlbnwxfDB8fHwxNzk0NDMyODExfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1512799906445-d591d53082c0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwY292ZXJpbmclMjBvbmUlMjBleWUlMjB3aXRoJTIwaGFuZHxlbnwxfDB8fHwxNzk0NDMyODExfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona tapándose un ojo con la mano" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@ryoji__iwata?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Ryoji Iwata</a> en <a href="https://unsplash.com/photos/person-covering-the-eyes-of-woman-on-dark-room-_dVxl4eE1rk?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## La prueba de los 10 segundos
 

@@ -63,7 +63,10 @@ El salto de altura es una de las pruebas clásicas del atletismo. Ya estaba en l
 | Récord de longitud anterior | 8,90 m | Bob Beamon, EE. UU., 1968 |
 | Altura ganadora en los Juegos de 1896 | 1,80 m | Ellery Clark, EE. UU., Atenas |
 
-<!-- unsplash: long jump athlete sand pit | Atleta en el aire en una prueba de salto de longitud -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1772475625553-038d9d7e600c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bG9uZyUyMGp1bXAlMjBhdGhsZXRlJTIwc2FuZCUyMHBpdHxlbnwxfDB8fHwxNzk0NDMyODEyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1772475625553-038d9d7e600c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bG9uZyUyMGp1bXAlMjBhdGhsZXRlJTIwc2FuZCUyMHBpdHxlbnwxfDB8fHwxNzk0NDMyODEyfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1772475625553-038d9d7e600c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bG9uZyUyMGp1bXAlMjBhdGhsZXRlJTIwc2FuZCUyMHBpdHxlbnwxfDB8fHwxNzk0NDMyODEyfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1772475625553-038d9d7e600c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bG9uZyUyMGp1bXAlMjBhdGhsZXRlJTIwc2FuZCUyMHBpdHxlbnwxfDB8fHwxNzk0NDMyODEyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Atleta en el aire en una prueba de salto de longitud" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@peterzhan?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Peter Zhan</a> en <a href="https://unsplash.com/photos/athlete-mid-jump-during-a-long-jump-competition-RWpEFLH86jA?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Mahuchikh y Powell, los otros saltos de leyenda
 

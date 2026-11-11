@@ -15,6 +15,12 @@ datePublished: 2027-01-20
 dateModified: 2027-01-20
 imageQuery: "veins on wrist close up"
 imageAlt: "Primer plano de las venas de una muñeca"
+cover:
+  url: "https://images.unsplash.com/photo-1627738641656-aebd944716cb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dmVpbnMlMjBvbiUyMHdyaXN0JTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0NDMyODEyfDA&ixlib=rb-4.1.0"
+  alt: "Primer plano de las venas de una muñeca"
+  author: "Towfiqu barbhuiya"
+  authorUrl: "https://unsplash.com/@towfiqu999999?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/person-holding-hands-of-another-person-3AsiVDsZnHg?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "La sangre humana es siempre roja, también la que circula por las venas con menos oxígeno."
   - "Las venas parecen azules porque la luz roja penetra más en la piel y la vena absorbe buena parte de ella, así que esa zona refleja menos rojo que la piel de alrededor."
@@ -68,7 +74,10 @@ Ya en 1996, el equipo de Kienle concluyó en la revista [Applied Optics](https:/
 
 A todo eso se suma tu propio cerebro, que no mide el color como una cámara: lo juzga comparándolo con el de la piel de alrededor. Zoller y Kienle recurren precisamente a esa forma de percibir el color para explicar por qué el tono de la vena acaba pareciéndote azul.
 
-<!-- unsplash: blood sample tube laboratory | Tubo con una muestra de sangre en un laboratorio -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Ymxvb2QlMjBzYW1wbGUlMjB0dWJlJTIwbGFib3JhdG9yeXxlbnwxfDB8fHwxNzk0NDMyODEzfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Ymxvb2QlMjBzYW1wbGUlMjB0dWJlJTIwbGFib3JhdG9yeXxlbnwxfDB8fHwxNzk0NDMyODEzfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Ymxvb2QlMjBzYW1wbGUlMjB0dWJlJTIwbGFib3JhdG9yeXxlbnwxfDB8fHwxNzk0NDMyODEzfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Ymxvb2QlMjBzYW1wbGUlMjB0dWJlJTIwbGFib3JhdG9yeXxlbnwxfDB8fHwxNzk0NDMyODEzfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Tubo con una muestra de sangre en un laboratorio" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@nci?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">National Cancer Institute</a> en <a href="https://unsplash.com/photos/white-and-red-plastic-tools-9k4Fglw6eFQ?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## De dónde sale el mito
 

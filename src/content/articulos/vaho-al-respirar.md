@@ -15,6 +15,12 @@ datePublished: 2027-01-24
 dateModified: 2027-01-24
 imageQuery: "person breathing cold air visible breath winter"
 imageAlt: "Persona abrigada con vaho saliendo de la boca en una mañana fría"
+cover:
+  url: "https://images.unsplash.com/photo-1609612840807-4cced40bdd4f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwYnJlYXRoaW5nJTIwY29sZCUyMGFpciUyMHZpc2libGUlMjBicmVhdGglMjB3aW50ZXJ8ZW58MXwwfHx8MTc5NDQzMjgxNHww&ixlib=rb-4.1.0"
+  alt: "Persona abrigada con vaho saliendo de la boca en una mañana fría"
+  author: "Liza Pooor"
+  authorUrl: "https://unsplash.com/@pooorliza?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-in-green-jacket-and-black-knit-cap-covering-her-face-with-her-hand-qPaQMQ1HptQ?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Tus pulmones calientan el aire que respiras y lo cargan de vapor de agua: al salir de los alvéolos está saturado de humedad y a la temperatura del cuerpo."
   - "Cuando ese aire caliente y húmedo choca con el aire frío de la calle, se enfría de golpe y el vapor se condensa en millones de gotitas: eso es el vaho."
@@ -63,7 +69,10 @@ El agua sobrante cambia de estado: pasa de gas a líquido y forma gotitas diminu
 
 Esas gotitas son tan pequeñas que flotan y reflejan la luz, por eso ves una nubecilla blanca. Al cabo de un segundo se mezclan con más aire seco, se evaporan otra vez y la nube desaparece.
 
-<!-- unsplash: foggy winter morning street spain | Calle con niebla en una mañana de invierno -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1517610725865-58531a8a5a02?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Zm9nZ3klMjB3aW50ZXIlMjBtb3JuaW5nJTIwc3RyZWV0JTIwc3BhaW58ZW58MXwwfHx8MTc5NDQzMjgxNXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1517610725865-58531a8a5a02?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Zm9nZ3klMjB3aW50ZXIlMjBtb3JuaW5nJTIwc3RyZWV0JTIwc3BhaW58ZW58MXwwfHx8MTc5NDQzMjgxNXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1517610725865-58531a8a5a02?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Zm9nZ3klMjB3aW50ZXIlMjBtb3JuaW5nJTIwc3RyZWV0JTIwc3BhaW58ZW58MXwwfHx8MTc5NDQzMjgxNXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1517610725865-58531a8a5a02?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Zm9nZ3klMjB3aW50ZXIlMjBtb3JuaW5nJTIwc3RyZWV0JTIwc3BhaW58ZW58MXwwfHx8MTc5NDQzMjgxNXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Calle con niebla en una mañana de invierno" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@davidpisnoy?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">David Pisnoy</a> en <a href="https://unsplash.com/photos/gray-asphalt-road-4ZiIbTubDrI?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Por qué unos días se ve más que otros
 

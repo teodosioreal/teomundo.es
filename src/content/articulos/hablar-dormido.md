@@ -76,7 +76,10 @@ Esto es lo que encontraron:
 
 Para los autores, todo esto indica que el cerebro dormido puede funcionar a un nivel bastante alto: la gramática, el sentido de las frases y los turnos de palabra se parecen a los de una conversación despierta.
 
-<!-- unsplash: couple sleeping in bed bedroom | Pareja durmiendo en la cama -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1758524941236-6de64e3a94d8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y291cGxlJTIwc2xlZXBpbmclMjBpbiUyMGJlZCUyMGJlZHJvb218ZW58MXwwfHx8MTc5NDQzMjgwNHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1758524941236-6de64e3a94d8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y291cGxlJTIwc2xlZXBpbmclMjBpbiUyMGJlZCUyMGJlZHJvb218ZW58MXwwfHx8MTc5NDQzMjgwNHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1758524941236-6de64e3a94d8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y291cGxlJTIwc2xlZXBpbmclMjBpbiUyMGJlZCUyMGJlZHJvb218ZW58MXwwfHx8MTc5NDQzMjgwNHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1758524941236-6de64e3a94d8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y291cGxlJTIwc2xlZXBpbmclMjBpbiUyMGJlZCUyMGJlZHJvb218ZW58MXwwfHx8MTc5NDQzMjgwNHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Pareja durmiendo en la cama" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@silverkblack?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Vitaly Gariev</a> en <a href="https://unsplash.com/photos/a-couple-lying-in-bed-smiling-at-each-other-sRPUcUWqm1Y?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## ¿Ayuda a memorizar lo del día?
 
