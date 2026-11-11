@@ -13,7 +13,7 @@ secondaryKeywords:
   - "canas en las sienes"
 datePublished: 2027-01-25
 dateModified: 2027-01-25
-imageQuery: "gray hair strand close up"
+imageQuery: "gray hair"
 imageAlt: "Primer plano de un pelo cano entre pelos oscuros"
 keyTakeaways:
   - "Es un mito: arrancar una cana no hace que salgan más. Cada folículo del cuero cabelludo sigue su propio ciclo, independiente de sus vecinos."

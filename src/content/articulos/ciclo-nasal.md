@@ -72,7 +72,7 @@ Pero no todo el mundo tiene el mismo patrón. El estudio recoge que entre el 70 
 | Irregular | Los lados cambian sin un patrón definido |
 | Sin ciclo | Los dos orificios se mantienen parecidos |
 
-<!-- unsplash: person sleeping on side bed | Persona durmiendo de lado en la cama -->
+<!-- unsplash: sleeping on side | Persona durmiendo de lado en la cama -->
 
 ## Por qué al tumbarte se tapa el lado de abajo
 

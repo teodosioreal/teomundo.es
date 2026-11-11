@@ -64,7 +64,7 @@ Para conseguir sudor de miedo de verdad, recogieron muestras de las axilas de **
 | Distinguir los dos sudores oliéndolos | Los participantes acertaron igual que si lo hicieran al azar |
 | Juzgar caras ambiguas entre neutras y enfadadas | Con sudor de miedo, distinguían mejor la amenaza |
 
-<!-- unsplash: parachute landing field sunny day | Paracaídas aterrizando en un campo en un día soleado -->
+<!-- unsplash: parachute landing | Paracaídas aterrizando en un campo en un día soleado -->
 
 ## Por qué es mito y por qué no
 

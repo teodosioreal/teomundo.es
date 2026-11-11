@@ -13,7 +13,7 @@ secondaryKeywords:
   - "cuántas legumbres a la semana"
 datePublished: 2027-01-26
 dateModified: 2027-01-26
-imageQuery: "lentil stew spanish bowl"
+imageQuery: "lentil soup"
 imageAlt: "Plato de lentejas estofadas con verduras"
 keyTakeaways:
   - "Las legumbres llevan unos azúcares, los oligosacáridos de la familia de la rafinosa, que el intestino humano no puede romper porque le falta la enzima necesaria."

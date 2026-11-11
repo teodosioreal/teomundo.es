@@ -13,7 +13,7 @@ secondaryKeywords:
   - "ciegos gesticulan"
 datePublished: 2027-02-15
 dateModified: 2027-02-15
-imageQuery: "friends talking gesturing hands cafe terrace"
+imageQuery: "people talking hands"
 imageAlt: "Amigos conversando y gesticulando con las manos en una terraza"
 keyTakeaways:
   - "En todas las culturas, la gente mueve las manos al hablar. No es una costumbre exclusiva de España."

@@ -13,7 +13,7 @@ secondaryKeywords:
   - "cuánto puede saltar una persona"
 datePublished: 2027-02-06
 dateModified: 2027-02-06
-imageQuery: "high jump athlete bar stadium"
+imageQuery: "high jump"
 imageAlt: "Atleta saltando el listón en una prueba de salto de altura"
 keyTakeaways:
   - "El salto más alto de la historia lo dio el cubano Javier Sotomayor: 2,45 metros, en Salamanca, el 27 de julio de 1993."

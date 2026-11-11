@@ -13,7 +13,7 @@ secondaryKeywords:
   - "por qué tengo sed después de comer"
 datePublished: 2027-01-21
 dateModified: 2027-01-21
-imageQuery: "spanish chickpea stew cocido madrileno"
+imageQuery: "chickpea stew"
 imageAlt: "Plato de cocido con garbanzos, verduras y carne"
 keyTakeaways:
   - "Al comer salado, sube la concentración de sodio en la sangre y unas neuronas del cerebro, los osmorreceptores, lo detectan."
