@@ -13,14 +13,8 @@ secondaryKeywords:
   - "canas en las sienes"
 datePublished: 2027-01-25
 dateModified: 2027-01-25
-imageQuery: "gray hair"
-imageAlt: "Primer plano de un pelo cano entre pelos oscuros"
-cover:
-  url: "https://images.unsplash.com/photo-1626200600232-2cc83c746655?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3JheSUyMGhhaXJ8ZW58MXwwfHx8MTc5NDQzNDc1NXww&ixlib=rb-4.1.0"
-  alt: "Primer plano de un pelo cano entre pelos oscuros"
-  author: "Giorgio Trovato"
-  authorUrl: "https://unsplash.com/@giorgiotrovato?utm_source=teomundo&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/black-leather-padded-chair-in-grayscale-photography-HdpLi4wmasM?utm_source=teomundo&utm_medium=referral"
+imageQuery: "woman gray hair portrait"
+imageAlt: "Mujer con el pelo canoso"
 keyTakeaways:
   - "Es un mito: arrancar una cana no hace que salgan más. Cada folículo del cuero cabelludo sigue su propio ciclo, independiente de sus vecinos."
   - "Del mismo folículo volverá a salir un pelo, y si ese folículo ya no fabrica pigmento, saldrá blanco otra vez."

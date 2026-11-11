@@ -13,14 +13,8 @@ secondaryKeywords:
   - "ciegos gesticulan"
 datePublished: 2027-02-15
 dateModified: 2027-02-15
-imageQuery: "people talking hands"
-imageAlt: "Amigos conversando y gesticulando con las manos en una terraza"
-cover:
-  url: "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVvcGxlJTIwdGFsa2luZyUyMGhhbmRzfGVufDF8MHx8fDE3OTQ0MzQ3NTd8MA&ixlib=rb-4.1.0"
-  alt: "Amigos conversando y gesticulando con las manos en una terraza"
-  author: "Hannah Busing"
-  authorUrl: "https://unsplash.com/@hannahbusing?utm_source=teomundo&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/group-stacking-hands-in-colorful-sweaters-Zyx1bK9mqmA?utm_source=teomundo&utm_medium=referral"
+imageQuery: "hand gestures conversation"
+imageAlt: "Persona gesticulando con las manos mientras habla"
 keyTakeaways:
   - "En todas las culturas, la gente mueve las manos al hablar. No es una costumbre exclusiva de España."
   - "Las personas ciegas de nacimiento, que nunca han visto a nadie gesticular, también mueven las manos cuando hablan."

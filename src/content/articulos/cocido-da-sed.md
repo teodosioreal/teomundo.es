@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2027-01-21
 dateModified: 2027-01-21
 imageQuery: "chickpea stew"
-imageAlt: "Plato de cocido con garbanzos, verduras y carne"
+imageAlt: "Plato de garbanzos guisados con verduras"
 cover:
   url: "https://images.unsplash.com/photo-1582576163090-09d3b6f8a969?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hpY2twZWElMjBzdGV3fGVufDF8MHx8fDE3OTQ0MzQ3NTZ8MA&ixlib=rb-4.1.0"
-  alt: "Plato de cocido con garbanzos, verduras y carne"
+  alt: "Plato de garbanzos guisados con verduras"
   author: "Daniela"
   authorUrl: "https://unsplash.com/@daniela_curly?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/rice-with-green-leaf-vegetable-on-white-ceramic-plate-RELOvb0rrCE?utm_source=teomundo&utm_medium=referral"

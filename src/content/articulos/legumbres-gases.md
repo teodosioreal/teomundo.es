@@ -13,14 +13,8 @@ secondaryKeywords:
   - "cuántas legumbres a la semana"
 datePublished: 2027-01-26
 dateModified: 2027-01-26
-imageQuery: "lentil soup"
-imageAlt: "Plato de lentejas estofadas con verduras"
-cover:
-  url: "https://images.unsplash.com/photo-1530734575165-ce39d996fbaa?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bGVudGlsJTIwc291cHxlbnwxfDB8fHwxNzk0NDM0NzU4fDA&ixlib=rb-4.1.0"
-  alt: "Plato de lentejas estofadas con verduras"
-  author: "Jade Aucamp"
-  authorUrl: "https://unsplash.com/@jadeaucamp?utm_source=teomundo&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/soup-with-sesame-seeds-and-bread-OMcrCX6wDpU?utm_source=teomundo&utm_medium=referral"
+imageQuery: "lentils bowl"
+imageAlt: "Cuenco de lentejas"
 keyTakeaways:
   - "Las legumbres llevan unos azúcares, los oligosacáridos de la familia de la rafinosa, que el intestino humano no puede romper porque le falta la enzima necesaria."
   - "Esos azúcares llegan intactos al intestino grueso, donde las bacterias los fermentan y producen gases."

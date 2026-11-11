@@ -72,10 +72,7 @@ Pero no todo el mundo tiene el mismo patrón. El estudio recoge que entre el 70 
 | Irregular | Los lados cambian sin un patrón definido |
 | Sin ciclo | Los dos orificios se mantienen parecidos |
 
-<figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1572196220980-afb75a075a13?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c2xlZXBpbmclMjBvbiUyMHNpZGV8ZW58MXwwfHx8MTc5NDQzNDc1NXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1572196220980-afb75a075a13?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c2xlZXBpbmclMjBvbiUyMHNpZGV8ZW58MXwwfHx8MTc5NDQzNDc1NXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1572196220980-afb75a075a13?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c2xlZXBpbmclMjBvbiUyMHNpZGV8ZW58MXwwfHx8MTc5NDQzNDc1NXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1572196220980-afb75a075a13?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c2xlZXBpbmclMjBvbiUyMHNpZGV8ZW58MXwwfHx8MTc5NDQzNDc1NXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona durmiendo de lado en la cama" loading="lazy" decoding="async">
-<figcaption>Foto de <a href="https://unsplash.com/@lucian_alexe?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Lucian Alexe</a> en <a href="https://unsplash.com/photos/red-van-near-seashore-viewing-blue-sea-during-daytime-VETOiAfn0G8?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
-</figure>
+<!-- unsplash: woman sleeping on her side pillow | Mujer durmiendo de lado sobre la almohada -->
 
 ## Por qué al tumbarte se tapa el lado de abajo
 

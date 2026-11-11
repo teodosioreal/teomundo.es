@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2027-02-06
 dateModified: 2027-02-06
 imageQuery: "high jump"
-imageAlt: "Atleta saltando el listón en una prueba de salto de altura"
+imageAlt: "Mujer saltando en el aire en una playa"
 cover:
   url: "https://images.unsplash.com/photo-1613122707153-070406e9fd27?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGlnaCUyMGp1bXB8ZW58MXwwfHx8MTc5NDQzNDc2MHww&ixlib=rb-4.1.0"
-  alt: "Atleta saltando el listón en una prueba de salto de altura"
+  alt: "Mujer saltando en el aire en una playa"
   author: "Vultar Bahr"
   authorUrl: "https://unsplash.com/@vultar?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/woman-in-white-tank-top-and-blue-denim-shorts-jumping-on-beach-during-daytime-qaCJ6A0Rfvg?utm_source=teomundo&utm_medium=referral"
