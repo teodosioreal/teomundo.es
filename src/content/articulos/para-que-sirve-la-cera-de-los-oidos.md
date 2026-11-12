@@ -1,0 +1,83 @@
+---
+title: "¿Para qué sirve la cera de los oídos?"
+description: "La cera de los oídos atrapa polvo y gérmenes y protege la piel del conducto. Sale sola, así que no hace falta quitarla con bastoncillos. Cuándo consultar."
+h1: "¿Para qué sirve la cera de los oídos? Un escudo que se limpia solo"
+category: en-1-minuto
+primaryKeyword: "para qué sirve la cera de los oídos"
+secondaryKeywords:
+  - "cera de los oídos"
+  - "cerumen"
+  - "tapón de cera"
+  - "bastoncillos para los oídos"
+  - "oído taponado"
+  - "cómo limpiar los oídos"
+datePublished: 2027-03-19
+dateModified: 2027-03-19
+imageQuery: "human ear close up profile"
+imageAlt: "Oreja de una persona vista de perfil"
+keyTakeaways:
+  - "La cera, o cerumen, la fabrican unas glándulas del conducto del oído."
+  - "Sirve para atrapar polvo, bacterias, otros gérmenes y objetos pequeños, y para proteger la piel del conducto cuando entra agua."
+  - "Normalmente sale sola hacia la entrada del oído, donde cae o se va al lavarse."
+  - "Meter los dedos o bastoncillos empuja la cera hacia dentro y puede formar un tapón."
+faq:
+  - q: "¿Para qué sirve la cera de los oídos?"
+    a: "Según MedlinePlus, atrapa el polvo, las bacterias, otros gérmenes y objetos pequeños para que no dañen el oído, y protege la delicada piel del conducto para que no se irrite cuando entra agua."
+  - q: "¿Hay que limpiarse la cera de los oídos?"
+    a: "Normalmente no. El NHS británico explica que la cera suele salir sola. MedlinePlus añade que, al intentar limpiarla, puedes empujarla más adentro y taponar el oído."
+  - q: "¿Los bastoncillos sirven para limpiar los oídos?"
+    a: "No para el interior. El NHS desaconseja usar los dedos o cualquier objeto, como los bastoncillos, para sacar la cera, porque la empujan hacia dentro y lo empeoran."
+  - q: "¿Cómo sé si tengo un tapón de cera?"
+    a: "Puede dar dolor de oído o sensación de oído tapado, pitidos o zumbidos, oír menos o incluso mareo. Si los síntomas duran más de unos días o no oyes nada por un oído, consulta en tu centro de salud."
+sources:
+  - title: "MedlinePlus: Earwax"
+    url: "https://medlineplus.gov/ency/article/000979.htm"
+  - title: "NHS: Earwax build-up"
+    url: "https://www.nhs.uk/conditions/earwax-build-up/"
+related:
+  - cuantos-olores-distingue-la-nariz
+  - huella-de-la-lengua
+  - papilas-gustativas
+next: cuantos-olores-distingue-la-nariz
+---
+
+Domingo por la mañana en un piso de Oviedo. Al salir de la ducha, alguien coge un bastoncillo y se lo mete en el oído con decisión, como cada semana. Lo saca con un poco de cera amarilla y siente que ha hecho limpieza. En realidad, acaba de llevarle la contraria a su propio oído.
+
+**La cera de los oídos no es suciedad: es un escudo. Atrapa el polvo y los gérmenes y protege la piel del conducto, y normalmente sale sola. Meter bastoncillos o los dedos la empuja hacia dentro y puede acabar formando un tapón.**
+
+## Un producto de fábrica propia
+
+[MedlinePlus](https://medlineplus.gov/ency/article/000979.htm), el servicio de información médica de la Biblioteca Nacional de Medicina de Estados Unidos, lo explica así: el conducto del oído está recubierto de folículos de vello y tiene glándulas que producen una sustancia aceitosa y cerosa, el **cerumen**.
+
+Esa cera va avanzando poco a poco hacia la entrada del oído. Allí cae sola o se va al lavarte. Es decir, el oído tiene su propio sistema de limpieza.
+
+## Para qué sirve
+
+| Función | Qué hace |
+|---|---|
+| Filtro | Atrapa polvo, bacterias, otros gérmenes y objetos pequeños para que no dañen el oído |
+| Protección | Evita que la delicada piel del conducto se irrite cuando entra agua |
+| Autolimpieza | Se desplaza sola hacia fuera y se lleva con ella lo que ha atrapado |
+
+El [NHS](https://www.nhs.uk/conditions/earwax-build-up/), el servicio de salud británico, lo resume en una frase: la cera no se puede evitar, porque está ahí para proteger los oídos de la suciedad y los gérmenes.
+
+<!-- unsplash: cotton swabs bathroom shelf | Bastoncillos de algodón en la repisa de un baño -->
+
+## Cuando la cera se atasca
+
+En algunas personas, las glándulas producen más cera de la que el oído puede expulsar. Esa cera se endurece y puede taponar el conducto. Según MedlinePlus, los tapones de cera son una de las causas más comunes de pérdida de audición.
+
+Y hay un error muy extendido que lo empeora: al intentar limpiar el oído por dentro, **empujas la cera más adentro**. Por eso tanto MedlinePlus como el NHS desaconsejan meter los dedos o bastoncillos. El NHS añade que no hay pruebas de que las velas de oído funcionen.
+
+## Señales de tapón de cera
+
+Según el NHS, un tapón puede dar:
+
+- [ ] Dolor de oído o sensación de tenerlo tapado.
+- [ ] Pitidos o zumbidos.
+- [ ] Mareo con sensación de malestar.
+- [ ] Oír menos por ese oído.
+
+Si los síntomas no se van en unos días o no oyes nada por un oído, pide consejo en la farmacia o cita en tu centro de salud. No intentes sacar el tapón con objetos.
+
+Al salir de la ducha, sécate solo la parte de fuera de la oreja con la toalla y deja que el oído haga el resto. Y si te interesan otros sentidos, descubre [cuántos olores distingue la nariz](/en-1-minuto/cuantos-olores-distingue-la-nariz/).

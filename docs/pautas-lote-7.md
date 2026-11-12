@@ -36,4 +36,4 @@
 | 16/03/2027 | mitos | `rascarse-pica-mas` | ¿Rascarse hace que pique más? |
 | 17/03/2027 | cuerpo-y-espana | `ampollas-camino-de-santiago` | Ampollas del Camino de Santiago |
 | 18/03/2027 | records | `everest-sin-oxigeno` | El Everest sin oxígeno |
-| 19/03/2027 | en-1-minuto | `nuez-de-adan` | ¿Para qué sirve la nuez de Adán? |
+| 19/03/2027 | en-1-minuto | `para-que-sirve-la-cera-de-los-oidos` | ¿Para qué sirve la cera de los oídos? (trocado: nuez de Adán sem fonte primária acessível) |
