@@ -15,6 +15,12 @@ datePublished: 2027-03-17
 dateModified: 2027-03-17
 imageQuery: "hiking boots trail"
 imageAlt: "Botas de montaña en un sendero"
+cover:
+  url: "https://images.unsplash.com/photo-1575987116913-e96e7d490b8a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGlraW5nJTIwYm9vdHMlMjB0cmFpbHxlbnwxfDB8fHwxNzk0NDU2OTA2fDA&ixlib=rb-4.1.0"
+  alt: "Botas de montaña en un sendero"
+  author: "Clay Banks"
+  authorUrl: "https://unsplash.com/@claybanks?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/pair-of-brown-leather-boots-BSL837tTPAw?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Una ampolla es una pequeña bolsa de líquido bajo la piel que se forma para proteger la piel dañada y ayudarla a curar."
   - "Al caminar, se deben sobre todo al roce; las de sangre aparecen cuando también se dañan pequeños vasos de la piel."

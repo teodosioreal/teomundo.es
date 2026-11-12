@@ -15,6 +15,12 @@ datePublished: 2027-03-16
 dateModified: 2027-03-16
 imageQuery: "scratching arm"
 imageAlt: "Persona rascándose el brazo"
+cover:
+  url: "https://images.unsplash.com/photo-1578848547990-5d3e0de52f0e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c2NyYXRjaGluZyUyMGFybXxlbnwxfDB8fHwxNzk0NDU2OTEwfDA&ixlib=rb-4.1.0"
+  alt: "Persona rascándose el brazo"
+  author: "Sincerely Media"
+  authorUrl: "https://unsplash.com/@sincerelymedia?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/person-showing-left-hand-QyzlAZjm0r0?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "No es un mito: rascarse alivia un momento, pero puede hacer que pique más."
   - "El rascado, que la piel percibe como un pequeño dolor, frena el picor en el momento, pero también inflama la piel, y esa inflamación provoca más picor."
@@ -66,7 +72,10 @@ Los ratones sin serotonina, o sin las neuronas que la fabrican en el tronco del 
 
 Ojo: es un estudio en ratones. Los autores proponen que algo parecido podría ocurrir en personas, pero eso está por demostrar.
 
-<!-- unsplash: mosquito bite skin | Picadura de mosquito en la piel -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1707943768467-84fe5c76a40c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8bW9zcXVpdG8lMjBiaXRlJTIwc2tpbnxlbnwxfDB8fHwxNzk0NDU2OTExfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1707943768467-84fe5c76a40c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8bW9zcXVpdG8lMjBiaXRlJTIwc2tpbnxlbnwxfDB8fHwxNzk0NDU2OTExfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1707943768467-84fe5c76a40c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8bW9zcXVpdG8lMjBiaXRlJTIwc2tpbnxlbnwxfDB8fHwxNzk0NDU2OTExfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1707943768467-84fe5c76a40c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8bW9zcXVpdG8lMjBiaXRlJTIwc2tpbnxlbnwxfDB8fHwxNzk0NDU2OTExfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Picadura de mosquito en la piel" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@niaid?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">National Institute of Allergy and Infectious Diseases</a> en <a href="https://unsplash.com/photos/a-close-up-of-a-mosquito-on-a-persons-arm-oXh6ZUdW-gg?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Cómo cortar el círculo
 

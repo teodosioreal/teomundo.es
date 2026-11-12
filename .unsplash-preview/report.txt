@@ -499,3 +499,9 @@ rascarse-pica-mas | cover | person scratching arm itchy skin | https://unsplash.
 rascarse-pica-mas | inline 1 | mosquito bite ankle summer | https://unsplash.com/photos/a-close-up-of-a-persons-foot-with-tattoos-I6tk92edRiQ | A close up of a person's foot with tattoos
 vertigo-de-altura | cover | person looking down from cliff viewpoint | https://unsplash.com/photos/hiker-overlooks-autumn-forest-from-rocky-cliff-5pOLigXtz8M | Hiker overlooks autumn forest from rocky cliff
 vertigo-de-altura | inline 1 | wooden walkway canyon gorge | https://unsplash.com/photos/wooden-walkways-through-a-rocky-gorge-with-a-stream-JG8F_1PGefg | Wooden walkways through a rocky gorge with a stream
+ampollas-camino-de-santiago | cover | hiking boots trail | https://unsplash.com/photos/pair-of-brown-leather-boots-BSL837tTPAw | pair of brown leather boots
+para-que-sirve-el-apendice | cover | anatomy model | https://unsplash.com/photos/woman-in-red-and-white-dress-DuEHkSHvXUQ | woman in red and white dress
+picante-patatas-bravas | cover | spicy potatoes | https://unsplash.com/photos/a-white-plate-topped-with-potatoes-and-parsley-9DEggBoY8CY | a white plate topped with potatoes and parsley
+por-que-roncamos | inline 1 | pillow over head bed | https://unsplash.com/photos/white-bed-linen-with-white-pillows-nclN_J0UtJ8 | white bed linen with white pillows
+rascarse-pica-mas | cover | scratching arm | https://unsplash.com/photos/person-showing-left-hand-QyzlAZjm0r0 | person showing left hand
+rascarse-pica-mas | inline 1 | mosquito bite skin | https://unsplash.com/photos/a-close-up-of-a-mosquito-on-a-persons-arm-oXh6ZUdW-gg | a close up of a mosquito on a person's arm

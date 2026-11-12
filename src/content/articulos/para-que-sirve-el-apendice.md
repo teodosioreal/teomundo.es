@@ -15,6 +15,12 @@ datePublished: 2027-02-22
 dateModified: 2027-02-22
 imageQuery: "anatomy model"
 imageAlt: "Maqueta anatómica del cuerpo humano"
+cover:
+  url: "https://images.unsplash.com/photo-1615505368758-8a3af2a4c379?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YW5hdG9teSUyMG1vZGVsfGVufDF8MHx8fDE3OTQ0NTY5MDd8MA&ixlib=rb-4.1.0"
+  alt: "Maqueta anatómica del cuerpo humano"
+  author: "Alan Calvert"
+  authorUrl: "https://unsplash.com/@alancalvert?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/woman-in-red-and-white-dress-DuEHkSHvXUQ?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Durante mucho tiempo se pensó que el apéndice era un resto inútil de la evolución; hoy se sabe que tiene funciones inmunitarias."
   - "Contiene tejido linfoide, parte del sistema de defensa del intestino."

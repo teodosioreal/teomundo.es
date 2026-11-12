@@ -15,6 +15,12 @@ datePublished: 2027-03-02
 dateModified: 2027-03-02
 imageQuery: "spicy potatoes"
 imageAlt: "Patatas fritas con salsa picante"
+cover:
+  url: "https://images.unsplash.com/photo-1633959639799-6d3f66e05710?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3BpY3klMjBwb3RhdG9lc3xlbnwxfDB8fHwxNzk0NDU2OTA4fDA&ixlib=rb-4.1.0"
+  alt: "Patatas fritas con salsa picante"
+  author: "Markus Winkler"
+  authorUrl: "https://unsplash.com/@markuswinkler?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-white-plate-topped-with-potatoes-and-parsley-9DEggBoY8CY?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El picante no es un sabor: es una señal de calor y dolor."
   - "La capsaicina, la sustancia que pica en los pimientos y guindillas, activa un receptor llamado TRPV1."
