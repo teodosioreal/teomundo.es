@@ -48,6 +48,6 @@
 
 ## Observações de fontes
 
-- `nariz-sangra-cabeza-atras`, `mujeres-mas-frio` (estudo PNAS 2024): dados do PNAS tirados do resumo do PubMed (PMC bloqueado na hora).
+- `mujeres-mas-frio`: os dados do estudo PNAS 2024 vêm do resumo do PubMed (PMC bloqueado na hora).
 - `rascarse-pica-mas`: estudo em ratos; o texto deixa isso claro.
 - Cada artigo novo entrou no `related` de 1 artigo antigo da mesma categoria.
