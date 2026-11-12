@@ -16,7 +16,8 @@
 - Afiliados, produtos ou reviews: **pergunte antes**; exigem mudar as páginas legais e identificar a publicidade (LSSI art. 20).
 
 - **Lote 5 escrito e agendado em 07/11/2026** (`docs/pautas-lote-5.md`): 32 artigos de 17/12/2026 a 18/01/2027.
-- **Lote 6 escrito e agendado em 11/11/2026** (`docs/pautas-lote-6.md`): 30 artigos de 19/01/2027 a 17/02/2027. Fila sem buracos até 17/02/2027. Próxima pauta: planejar o lote 7 até ~05/02/2027.
+- **Lote 6 escrito e agendado em 11/11/2026** (`docs/pautas-lote-6.md`): 30 artigos de 19/01/2027 a 17/02/2027.
+- **Lote 7 escrito e agendado em 12/11/2026** (`docs/pautas-lote-7.md`): 30 artigos de 18/02/2027 a 19/03/2027. Fila sem buracos até 19/03/2027. Próxima pauta: planejar o lote 8 até ~05/03/2027.
 
 ## 3. Anti-alucinação (regra mais importante)
 

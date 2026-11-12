@@ -37,3 +37,17 @@
 | 17/03/2027 | cuerpo-y-espana | `ampollas-camino-de-santiago` | Ampollas del Camino de Santiago |
 | 18/03/2027 | records | `everest-sin-oxigeno` | El Everest sin oxígeno |
 | 19/03/2027 | en-1-minuto | `para-que-sirve-la-cera-de-los-oidos` | ¿Para qué sirve la cera de los oídos? (trocado: nuez de Adán sem fonte primária acessível) |
+
+## Trocas feitas durante a redação
+
+| Tema planejado | Trocado por | Motivo |
+|---|---|---|
+| Temperatura corporal extrema (récords) | `plancha-mas-larga` | A página do Guinness não abriu e não havia outra fonte primária acessível |
+| Nuez de Adán | `para-que-sirve-la-cera-de-los-oidos` | A única fonte boa (StatPearls/NCBI Books) fica bloqueada |
+| ¿Por qué da hambre oler comida? | Mesmo slug, ângulo "boca agua" | A fonte trata das respostas da fase cefálica (saliva, ácido, insulina), não do apetite |
+
+## Observações de fontes
+
+- `nariz-sangra-cabeza-atras`, `mujeres-mas-frio` (estudo PNAS 2024): dados do PNAS tirados do resumo do PubMed (PMC bloqueado na hora).
+- `rascarse-pica-mas`: estudo em ratos; o texto deixa isso claro.
+- Cada artigo novo entrou no `related` de 1 artigo antigo da mesma categoria.
