@@ -460,3 +460,27 @@ hambre-al-oler-comida | inline 1 | freshly baked bread loaves | https://unsplash
 hueso-roto-cuanto-tarda | cover | arm in plaster cast sling | https://unsplash.com/photos/childs-arm-in-a-colorful-cast--STe0s-pmu0 | Child's arm in a colorful cast
 hueso-roto-cuanto-tarda | inline 1 | x-ray image bone hand | https://unsplash.com/photos/x-ray-result-_GpJpHnyCSw | x-ray result
 luna-llena-sueno | cover | full moon night sky over city | https://unsplash.com/photos/full-moon-over-city-skyline-during-night-time-ddJ9PNYjric | full moon over city skyline during night time
+cafe-cafeina-espana | cover | espresso cup | https://unsplash.com/photos/white-ceramic-mug-Ha5_JcYArf0 | white ceramic mug
+cuanta-orina-al-dia | cover | drinking water glass | https://unsplash.com/photos/clear-drinking-glass-filled-with-water-zFEY4DP4h6c | clear drinking glass filled with water
+estornudo-mas-largo | inline 1 | tissue box | https://unsplash.com/photos/white-tissue-paper-in-blue-box-AzkX_56p-KQ | white tissue paper in blue box
+luna-llena-sueno | inline 1 | moonlight through bedroom window | https://unsplash.com/photos/bed-in-dim-room-with-shadows-i5F9TVKhmHs | A bed in a dim room with warm light casting tree shadows on the wall
+maraton-mas-rapido | cover | marathon runners city street | https://unsplash.com/photos/runners-in-a-city-marathon-race-9bmzFkLt1r0 | Runners in a city marathon race
+maraton-mas-rapido | inline 1 | runners finish line marathon | https://unsplash.com/photos/people-running-on-gray-asphalt-road-during-daytime-QDv-uBc-poY | people running on gray asphalt road during daytime
+mas-tiempo-en-el-espacio | cover | astronaut space station earth view | https://unsplash.com/photos/view-of-earth-and-satellite-yZygONrUBe8 | view of Earth and satellite
+mas-tiempo-en-el-espacio | inline 1 | night sky stars mountains | https://unsplash.com/photos/silhouette-of-trees-under-blue-sky-0289jpHHk0o | silhouette of trees under blue sky
+memoria-fotografica | cover | old photographs memories box | https://unsplash.com/photos/person-opening-photo-album-displaying-grayscale-photos-73OJLcahQHg | person opening photo album displaying grayscale photos
+memoria-fotografica | inline 1 | student studying library books | https://unsplash.com/photos/person-wearing-black-and-gray-jacket-in-front-of-bookshelf-Nwkh-n6l25w | person wearing black and gray jacket in front of bookshelf
+mujeres-mas-frio | cover | woman wrapped in scarf office cold | https://unsplash.com/photos/a-woman-holding-a-tablet-W8hoW9sZYRM | a woman holding a tablet
+mujeres-mas-frio | inline 1 | thermostat wall heating home | https://unsplash.com/photos/gray-nest-thermostat-displaying-at-63-RFAHj4tI37Y | gray Nest thermostat displaying at 63
+nariz-sangra-cabeza-atras | cover | person holding tissue to nose | https://unsplash.com/photos/sick-man-blowing-nose-into-tissue--CDN2nTKfrA | sick man blowing nose into tissue
+nariz-sangra-cabeza-atras | inline 1 | child sitting school playground | https://unsplash.com/photos/boy-sitting-on-swing-chair-WNAO036c6FM | boy sitting on swing chair
+neuronas-se-regeneran | cover | neurons illustration brain cells | https://unsplash.com/photos/nervous-tissue-spinal-cord-motor-neuron-wDH7c3pXkpY | Nervous Tissue: Spinal Cord Motor Neuron
+neuronas-se-regeneran | inline 1 | elderly people playing chess park | https://unsplash.com/photos/men-playing-chess-XHK4wqY-V_I | men playing chess
+ojos-rojos-piscina | cover | indoor swimming pool lanes | https://unsplash.com/photos/modern-indoor-swimming-pool-with-lanes-and-natural-light-7D9d-2hnOho | Modern indoor swimming pool with lanes and natural light
+ojos-rojos-piscina | inline 1 | child swimming goggles pool | https://unsplash.com/photos/blue-framed-swimming-goggles-near-pool-at-daytime-VAdFzJJDzgg | blue framed swimming goggles near pool at daytime
+para-que-sirve-el-apendice | inline 1 | microscope laboratory research | https://unsplash.com/photos/white-microscope-on-top-of-black-table-gKUC4TMhOiY | white microscope on top of black table
+para-que-sirve-la-cera-de-los-oidos | cover | human ear close up profile | https://unsplash.com/photos/a-black-and-white-photo-of-a-womans-profile-4bB8t6fWYsE | a black and white photo of a woman's profile
+para-que-sirve-la-cera-de-los-oidos | inline 1 | cotton swabs bathroom shelf | https://unsplash.com/photos/a-bathroom-sink-with-a-soap-dispenser-and-a-soap-dish-ioazSWHfmzY | a bathroom sink with a soap dispenser and a soap dish
+parpado-tiembla | cover | tired person rubbing eyes at laptop | https://unsplash.com/photos/a-woman-sitting-in-front-of-a-laptop-computer-f2JMVDnarks | a woman sitting in front of a laptop computer
+parpado-tiembla | inline 1 | cup of coffee on office desk | https://unsplash.com/photos/macbook-pro-white-ceramic-mugand-black-smartphone-on-table-cckf4TsHAuw | MacBook Pro, white ceramic mug,and black smartphone on table
+paseo-despues-de-comer | cover | people walking promenade after lunch spain | https://unsplash.com/photos/a-group-of-people-walking-along-a-beach-next-to-a-palm-tree-UfMsxRlELco | a group of people walking along a beach next to a palm tree

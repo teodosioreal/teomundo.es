@@ -15,6 +15,12 @@ datePublished: 2027-02-19
 dateModified: 2027-02-19
 imageQuery: "person holding tissue to nose"
 imageAlt: "Persona sujetándose un pañuelo en la nariz"
+cover:
+  url: "https://images.unsplash.com/photo-1529386317747-0a2a51add902?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwaG9sZGluZyUyMHRpc3N1ZSUyMHRvJTIwbm9zZXxlbnwxfDB8fHwxNzk0NDQ4ODgwfDA&ixlib=rb-4.1.0"
+  alt: "Persona sujetándose un pañuelo en la nariz"
+  author: "Brittany Colette"
+  authorUrl: "https://unsplash.com/@candidbcolette?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/sick-man-blowing-nose-into-tissue--CDN2nTKfrA?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Echar la cabeza hacia atrás es un mito: la sangre baja por la garganta y acabas tragándola."
   - "Lo correcto es sentarse, inclinarse hacia delante, respirar por la boca y apretar la parte blanda de la nariz entre 10 y 15 minutos."
@@ -62,7 +68,10 @@ Esto es lo que recomiendan el [NHS](https://www.nhs.uk/conditions/nosebleed/), e
 5. **Frío opcional:** un poco de hielo envuelto en un trapo sobre el puente de la nariz puede ayudar, aunque el NHS advierte que las pruebas de que funcione no son muy sólidas.
 6. **No metas** gasas ni algodón dentro de la nariz, según MedlinePlus.
 
-<!-- unsplash: child sitting school playground | Niño sentado en el patio del colegio -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1460788150444-d9dc07fa9dba?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hpbGQlMjBzaXR0aW5nJTIwc2Nob29sJTIwcGxheWdyb3VuZHxlbnwxfDB8fHwxNzk0NDQ4ODgxfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1460788150444-d9dc07fa9dba?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hpbGQlMjBzaXR0aW5nJTIwc2Nob29sJTIwcGxheWdyb3VuZHxlbnwxfDB8fHwxNzk0NDQ4ODgxfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1460788150444-d9dc07fa9dba?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hpbGQlMjBzaXR0aW5nJTIwc2Nob29sJTIwcGxheWdyb3VuZHxlbnwxfDB8fHwxNzk0NDQ4ODgxfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1460788150444-d9dc07fa9dba?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hpbGQlMjBzaXR0aW5nJTIwc2Nob29sJTIwcGxheWdyb3VuZHxlbnwxfDB8fHwxNzk0NDQ4ODgxfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Niño sentado en el patio del colegio" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@mylestan?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Myles Tan</a> en <a href="https://unsplash.com/photos/boy-sitting-on-swing-chair-WNAO036c6FM?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Por qué sangra tanto la nariz
 

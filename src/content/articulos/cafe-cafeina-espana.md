@@ -15,6 +15,12 @@ datePublished: 2027-03-12
 dateModified: 2027-03-12
 imageQuery: "espresso cup"
 imageAlt: "Taza de café solo"
+cover:
+  url: "https://images.unsplash.com/photo-1570784332176-fdd73da66f03?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZXNwcmVzc28lMjBjdXB8ZW58MXwwfHx8MTc5NDQ0ODg2N3ww&ixlib=rb-4.1.0"
+  alt: "Taza de café solo"
+  author: "Samantha Ram"
+  authorUrl: "https://unsplash.com/@samantharam?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/white-ceramic-mug-Ha5_JcYArf0?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Según MedlinePlus, un expreso de unos 30 ml tiene alrededor de 40 mg de cafeína, y una taza de café de filtro de unos 180 ml, de 75 a 100 mg."
   - "Unos 400 mg al día se consideran una cantidad media o moderada para la mayoría de las personas; más de 1.200 mg en poco tiempo pueden ser tóxicos."

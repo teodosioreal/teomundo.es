@@ -15,6 +15,12 @@ datePublished: 2027-02-23
 dateModified: 2027-02-23
 imageQuery: "tired person rubbing eyes at laptop"
 imageAlt: "Persona cansada frotándose los ojos delante del portátil"
+cover:
+  url: "https://images.unsplash.com/photo-1698047681465-a75bcf38379e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGlyZWQlMjBwZXJzb24lMjBydWJiaW5nJTIwZXllcyUyMGF0JTIwbGFwdG9wfGVufDF8MHx8fDE3OTQ0NDg4ODh8MA&ixlib=rb-4.1.0"
+  alt: "Persona cansada frotándose los ojos delante del portátil"
+  author: "Resume Genius"
+  authorUrl: "https://unsplash.com/@resumegenius?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-woman-sitting-in-front-of-a-laptop-computer-f2JMVDnarks?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El temblor del párpado son pequeños espasmos de sus músculos que no puedes controlar; casi siempre afecta al párpado de arriba."
   - "Las causas más frecuentes son el cansancio, el estrés, la cafeína y el exceso de alcohol."
@@ -60,7 +66,10 @@ Casi todo el mundo lo nota de vez en cuando. Es molesto, pero en general no tien
 
 Además, el temblor puede aparecer por irritación de la conjuntiva, la membrana que recubre el interior de los párpados. Y en algunas personas se acompaña de más sensibilidad a la luz.
 
-<!-- unsplash: cup of coffee on office desk | Taza de café sobre una mesa de oficina -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y3VwJTIwb2YlMjBjb2ZmZWUlMjBvbiUyMG9mZmljZSUyMGRlc2t8ZW58MXwwfHx8MTc5NDQ0ODg4OXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y3VwJTIwb2YlMjBjb2ZmZWUlMjBvbiUyMG9mZmljZSUyMGRlc2t8ZW58MXwwfHx8MTc5NDQ0ODg4OXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y3VwJTIwb2YlMjBjb2ZmZWUlMjBvbiUyMG9mZmljZSUyMGRlc2t8ZW58MXwwfHx8MTc5NDQ0ODg4OXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y3VwJTIwb2YlMjBjb2ZmZWUlMjBvbiUyMG9mZmljZSUyMGRlc2t8ZW58MXwwfHx8MTc5NDQ0ODg4OXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Taza de café sobre una mesa de oficina" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@andrewtneel?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Andrew Neel</a> en <a href="https://unsplash.com/photos/macbook-pro-white-ceramic-mugand-black-smartphone-on-table-cckf4TsHAuw?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Tu plan de una semana
 

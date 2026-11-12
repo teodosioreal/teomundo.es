@@ -15,6 +15,12 @@ datePublished: 2027-03-11
 dateModified: 2027-03-11
 imageQuery: "old photographs memories box"
 imageAlt: "Caja con fotografías antiguas"
+cover:
+  url: "https://images.unsplash.com/photo-1528569937393-ee892b976859?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8b2xkJTIwcGhvdG9ncmFwaHMlMjBtZW1vcmllcyUyMGJveHxlbnwxfDB8fHwxNzk0NDQ4ODc1fDA&ixlib=rb-4.1.0"
+  alt: "Caja con fotografías antiguas"
+  author: "Laura Fuhrman"
+  authorUrl: "https://unsplash.com/@lauracathleen?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/person-opening-photo-album-displaying-grayscale-photos-73OJLcahQHg?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "La memoria fotográfica de las películas, la de una cámara en la cabeza, no es lo que describen los estudios sobre la memoria autobiográfica superior."
   - "Lo más parecido es la memoria autobiográfica muy superior (HSAM): personas que recuerdan con mucha precisión detalles de su vida diaria de hace décadas."
@@ -65,7 +71,10 @@ El equipo comparó a personas con HSAM y a un grupo de control. Les preguntaron 
 
 La conclusión de los autores es reveladora: las personas con HSAM **guardan los recuerdos de forma normal al principio**, pero los consolidan y los recuperan mucho mejor con el paso del tiempo. También encontraron una relación entre esa coherencia y ciertas tendencias obsesivo-compulsivas.
 
-<!-- unsplash: student studying library books | Estudiante repasando apuntes en una biblioteca -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1522211988038-6fcbb8c12c7e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3R1ZGVudCUyMHN0dWR5aW5nJTIwbGlicmFyeSUyMGJvb2tzfGVufDF8MHx8fDE3OTQ0NDg4NzV8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1522211988038-6fcbb8c12c7e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3R1ZGVudCUyMHN0dWR5aW5nJTIwbGlicmFyeSUyMGJvb2tzfGVufDF8MHx8fDE3OTQ0NDg4NzV8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1522211988038-6fcbb8c12c7e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3R1ZGVudCUyMHN0dWR5aW5nJTIwbGlicmFyeSUyMGJvb2tzfGVufDF8MHx8fDE3OTQ0NDg4NzV8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1522211988038-6fcbb8c12c7e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3R1ZGVudCUyMHN0dWR5aW5nJTIwbGlicmFyeSUyMGJvb2tzfGVufDF8MHx8fDE3OTQ0NDg4NzV8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Estudiante repasando apuntes en una biblioteca" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@matt__feeney?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">matthew Feeney</a> en <a href="https://unsplash.com/photos/person-wearing-black-and-gray-jacket-in-front-of-bookshelf-Nwkh-n6l25w?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Por qué esto es un mito a medias
 

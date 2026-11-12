@@ -15,6 +15,12 @@ datePublished: 2027-02-25
 dateModified: 2027-02-25
 imageQuery: "people walking promenade after lunch spain"
 imageAlt: "Personas paseando por un paseo marítimo después de comer"
+cover:
+  url: "https://images.unsplash.com/photo-1700908608272-14425ac565e9?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVvcGxlJTIwd2Fsa2luZyUyMHByb21lbmFkZSUyMGFmdGVyJTIwbHVuY2glMjBzcGFpbnxlbnwxfDB8fHwxNzk0NDQ4ODkwfDA&ixlib=rb-4.1.0"
+  alt: "Personas paseando por un paseo marítimo después de comer"
+  author: "Annie Spratt"
+  authorUrl: "https://unsplash.com/@anniespratt?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-group-of-people-walking-along-a-beach-next-to-a-palm-tree-UfMsxRlELco?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Una revisión de siete estudios encontró que interrumpir el tiempo sentado con paseos cortos y suaves reduce la subida de azúcar en sangre tras las comidas."
   - "De media, caminar redujo esa subida un 17 % frente a quedarse sentado; ponerse de pie, un 9,5 %."

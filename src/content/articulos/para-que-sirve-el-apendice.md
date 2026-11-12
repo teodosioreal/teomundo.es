@@ -62,7 +62,10 @@ La fama de inútil venía de una comparación: en algunos mamíferos, como los c
 
 La idea del refugio, en inglés «safe house», funciona así: durante una diarrea, el intestino pierde buena parte de su capa protectora de bacterias. El apéndice, en un rincón y con forma de tubo estrecho, quedaría a salvo. Después, sus bacterias podrían ayudar a repoblar el resto. Es una hipótesis con apoyos, no un hecho cerrado.
 
-<!-- unsplash: microscope laboratory research | Microscopio en un laboratorio de investigación -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1518152006812-edab29b069ac?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWljcm9zY29wZSUyMGxhYm9yYXRvcnklMjByZXNlYXJjaHxlbnwxfDB8fHwxNzk0NDQ4ODg1fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1518152006812-edab29b069ac?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWljcm9zY29wZSUyMGxhYm9yYXRvcnklMjByZXNlYXJjaHxlbnwxfDB8fHwxNzk0NDQ4ODg1fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1518152006812-edab29b069ac?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWljcm9zY29wZSUyMGxhYm9yYXRvcnklMjByZXNlYXJjaHxlbnwxfDB8fHwxNzk0NDQ4ODg1fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1518152006812-edab29b069ac?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWljcm9zY29wZSUyMGxhYm9yYXRvcnklMjByZXNlYXJjaHxlbnwxfDB8fHwxNzk0NDQ4ODg1fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Microscopio en un laboratorio de investigación" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@cheaousa?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Ousa Chea</a> en <a href="https://unsplash.com/photos/white-microscope-on-top-of-black-table-gKUC4TMhOiY?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Cuándo el apéndice da la cara
 

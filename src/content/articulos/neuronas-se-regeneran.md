@@ -15,6 +15,12 @@ datePublished: 2027-03-06
 dateModified: 2027-03-06
 imageQuery: "neurons illustration brain cells"
 imageAlt: "Ilustración de neuronas conectadas"
+cover:
+  url: "https://images.unsplash.com/photo-1716833322990-acbeae5cc3eb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8bmV1cm9ucyUyMGlsbHVzdHJhdGlvbiUyMGJyYWluJTIwY2VsbHN8ZW58MXwwfHx8MTc5NDQ0ODg4Mnww&ixlib=rb-4.1.0"
+  alt: "Ilustración de neuronas conectadas"
+  author: "Bioscience Image Library by Fayette Reynolds"
+  authorUrl: "https://unsplash.com/@berkshirecommunitycollege?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/nervous-tissue-spinal-cord-motor-neuron-wDH7c3pXkpY?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "La idea de que las neuronas adultas no se renuevan se apoyó durante décadas en una frase de Santiago Ramón y Cajal."
   - "Hoy varios estudios encuentran neuronas nuevas en el hipocampo de personas adultas, incluso de edad avanzada."
@@ -59,7 +65,10 @@ Cajal escribió que, una vez terminado el desarrollo, las fuentes de crecimiento
 | 2018 | Otro estudio, con 28 personas sanas de 14 a 79 años, halló miles de neuronas inmaduras incluso en ancianos |
 | 2019 | Un equipo español halló miles de neuronas nuevas en personas sanas de 43 a 87 años, y menos en personas con alzhéimer |
 
-<!-- unsplash: elderly people playing chess park | Personas mayores jugando al ajedrez en un parque -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1565096413625-af1d38174759?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWxkZXJseSUyMHBlb3BsZSUyMHBsYXlpbmclMjBjaGVzcyUyMHBhcmt8ZW58MXwwfHx8MTc5NDQ0ODg4M3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1565096413625-af1d38174759?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWxkZXJseSUyMHBlb3BsZSUyMHBsYXlpbmclMjBjaGVzcyUyMHBhcmt8ZW58MXwwfHx8MTc5NDQ0ODg4M3ww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1565096413625-af1d38174759?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWxkZXJseSUyMHBlb3BsZSUyMHBsYXlpbmclMjBjaGVzcyUyMHBhcmt8ZW58MXwwfHx8MTc5NDQ0ODg4M3ww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1565096413625-af1d38174759?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWxkZXJseSUyMHBlb3BsZSUyMHBsYXlpbmclMjBjaGVzcyUyMHBhcmt8ZW58MXwwfHx8MTc5NDQ0ODg4M3ww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Personas mayores jugando al ajedrez en un parque" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@jusfilm?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Julia Vivcharyk</a> en <a href="https://unsplash.com/photos/men-playing-chess-XHK4wqY-V_I?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Por qué los estudios no coincidían
 

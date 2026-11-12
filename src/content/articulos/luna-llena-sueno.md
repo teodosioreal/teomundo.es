@@ -71,7 +71,10 @@ La idea era ver si la luna influye solo donde no hay luz artificial o también e
 
 El efecto más fuerte no coincide con la noche de luna llena, sino con los días anteriores, cuando la luna ya brilla en las primeras horas tras la puesta de sol.
 
-<!-- unsplash: moonlight through bedroom window | Luz de luna entrando por la ventana de un dormitorio -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1793376567644-b379d24c77bb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bW9vbmxpZ2h0JTIwdGhyb3VnaCUyMGJlZHJvb20lMjB3aW5kb3d8ZW58MXwwfHx8MTc5NDQ0ODg2OXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1793376567644-b379d24c77bb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bW9vbmxpZ2h0JTIwdGhyb3VnaCUyMGJlZHJvb20lMjB3aW5kb3d8ZW58MXwwfHx8MTc5NDQ0ODg2OXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1793376567644-b379d24c77bb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bW9vbmxpZ2h0JTIwdGhyb3VnaCUyMGJlZHJvb20lMjB3aW5kb3d8ZW58MXwwfHx8MTc5NDQ0ODg2OXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1793376567644-b379d24c77bb?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bW9vbmxpZ2h0JTIwdGhyb3VnaCUyMGJlZHJvb20lMjB3aW5kb3d8ZW58MXwwfHx8MTc5NDQ0ODg2OXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Luz de luna entrando por la ventana de un dormitorio" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@my_j0urney?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Dorian Labbe</a> en <a href="https://unsplash.com/photos/bed-in-dim-room-with-shadows-i5F9TVKhmHs?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Una explicación que viene de lejos
 

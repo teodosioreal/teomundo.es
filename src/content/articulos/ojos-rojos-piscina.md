@@ -15,6 +15,12 @@ datePublished: 2027-03-10
 dateModified: 2027-03-10
 imageQuery: "indoor swimming pool lanes"
 imageAlt: "Calles de una piscina cubierta"
+cover:
+  url: "https://images.unsplash.com/photo-1782958995190-75701221aab4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aW5kb29yJTIwc3dpbW1pbmclMjBwb29sJTIwbGFuZXN8ZW58MXwwfHx8MTc5NDQ0ODg4M3ww&ixlib=rb-4.1.0"
+  alt: "Calles de una piscina cubierta"
+  author: "Andy Wang"
+  authorUrl: "https://unsplash.com/@space_launch_system?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/modern-indoor-swimming-pool-with-lanes-and-natural-light-7D9d-2hnOho?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El cloro mata gérmenes, pero al reaccionar con el sudor, la orina, restos de piel y cremas forma cloraminas."
   - "Las cloraminas pueden quedarse en el agua o pasar al aire, y son las que dan el olor fuerte a piscina y la irritación."
@@ -64,7 +70,10 @@ Así que ese olor que asociamos a «mucho cloro» es, en realidad, señal de clo
 
 En uno de los hoteles, el sistema de ventilación de la piscina estaba averiado durante el brote. Los autores recuerdan que la cantidad de cloraminas en el aire depende también de la ventilación, y que mejorar el mantenimiento y la ventilación podría evitar estos problemas.
 
-<!-- unsplash: child swimming goggles pool | Niño nadando con gafas de piscina -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1467044705596-744699fa8931?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hpbGQlMjBzd2ltbWluZyUyMGdvZ2dsZXMlMjBwb29sfGVufDF8MHx8fDE3OTQ0NDg4ODR8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1467044705596-744699fa8931?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hpbGQlMjBzd2ltbWluZyUyMGdvZ2dsZXMlMjBwb29sfGVufDF8MHx8fDE3OTQ0NDg4ODR8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1467044705596-744699fa8931?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hpbGQlMjBzd2ltbWluZyUyMGdvZ2dsZXMlMjBwb29sfGVufDF8MHx8fDE3OTQ0NDg4ODR8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1467044705596-744699fa8931?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y2hpbGQlMjBzd2ltbWluZyUyMGdvZ2dsZXMlMjBwb29sfGVufDF8MHx8fDE3OTQ0NDg4ODR8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Niño nadando con gafas de piscina" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@mvdheuvel?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Maarten van den Heuvel</a> en <a href="https://unsplash.com/photos/blue-framed-swimming-goggles-near-pool-at-daytime-VAdFzJJDzgg?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Qué influye en las cloraminas
 

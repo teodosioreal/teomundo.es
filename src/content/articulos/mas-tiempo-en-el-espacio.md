@@ -15,6 +15,12 @@ datePublished: 2027-03-08
 dateModified: 2027-03-08
 imageQuery: "astronaut space station earth view"
 imageAlt: "Astronauta en una estación espacial con la Tierra al fondo"
+cover:
+  url: "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YXN0cm9uYXV0JTIwc3BhY2UlMjBzdGF0aW9uJTIwZWFydGglMjB2aWV3fGVufDF8MHx8fDE3OTQ0NDg4NzN8MA&ixlib=rb-4.1.0"
+  alt: "Astronauta en una estación espacial con la Tierra al fondo"
+  author: "NASA"
+  authorUrl: "https://unsplash.com/@nasa?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/view-of-earth-and-satellite-yZygONrUBe8?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El vuelo espacial más largo lo hizo el médico ruso Valeri Poliakov: 437 días, 17 horas, 58 minutos y 31 segundos, entre enero de 1994 y marzo de 1995."
   - "Un análisis de 148 viajeros espaciales encontró que, tras el vuelo, la densidad de los huesos bajaba un 6,2 % en la zona lumbar y la pelvis y un 5,4 % en las piernas."
@@ -63,7 +69,10 @@ En la Tierra, los huesos de las piernas y la columna soportan el peso del cuerpo
 | Piernas | −5,4 % |
 | Ritmo de pérdida en las piernas | Alrededor de −0,8 % al mes |
 
-<!-- unsplash: night sky stars mountains | Cielo estrellado sobre las montañas -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1595520519880-a86c48ea536c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bmlnaHQlMjBza3klMjBzdGFycyUyMG1vdW50YWluc3xlbnwxfDB8fHwxNzk0NDQ4ODc0fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1595520519880-a86c48ea536c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bmlnaHQlMjBza3klMjBzdGFycyUyMG1vdW50YWluc3xlbnwxfDB8fHwxNzk0NDQ4ODc0fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1595520519880-a86c48ea536c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bmlnaHQlMjBza3klMjBzdGFycyUyMG1vdW50YWluc3xlbnwxfDB8fHwxNzk0NDQ4ODc0fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1595520519880-a86c48ea536c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bmlnaHQlMjBza3klMjBzdGFycyUyMG1vdW50YWluc3xlbnwxfDB8fHwxNzk0NDQ4ODc0fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Cielo estrellado sobre las montañas" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@joshuaworoniecki?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Joshua Woroniecki</a> en <a href="https://unsplash.com/photos/silhouette-of-trees-under-blue-sky-0289jpHHk0o?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Cómo se recupera el hueso al volver
 

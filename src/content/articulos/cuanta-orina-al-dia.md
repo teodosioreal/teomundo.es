@@ -15,6 +15,12 @@ datePublished: 2027-03-04
 dateModified: 2027-03-04
 imageQuery: "drinking water glass"
 imageAlt: "Persona bebiendo un vaso de agua"
+cover:
+  url: "https://images.unsplash.com/photo-1534616042650-80f5c9b61f09?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8M3x8ZHJpbmtpbmclMjB3YXRlciUyMGdsYXNzfGVufDF8MHx8fDE3OTQ0NDg4Njh8MA&ixlib=rb-4.1.0"
+  alt: "Persona bebiendo un vaso de agua"
+  author: "manu schwendener"
+  authorUrl: "https://unsplash.com/@manuschwendener?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/clear-drinking-glass-filled-with-water-zFEY4DP4h6c?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Con una ingesta normal de unos 2 litros de líquido al día, lo normal es producir entre 800 y 2.000 ml de orina."
   - "La mayoría de los adultos produce al menos 500 ml de orina en 24 horas."

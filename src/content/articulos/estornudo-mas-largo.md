@@ -71,7 +71,10 @@ Años después, Griffiths contó su historia en un libro. Y cuando un humorista 
 
 Un millón de estornudos en un año salen a unos 2.700 al día, más de uno cada 30 segundos si los repartes entre las horas despierta.
 
-<!-- unsplash: tissue box | Caja de pañuelos de papel -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1609840112990-4265448268d1?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGlzc3VlJTIwYm94fGVufDF8MHx8fDE3OTQ0NDg4Njh8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1609840112990-4265448268d1?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGlzc3VlJTIwYm94fGVufDF8MHx8fDE3OTQ0NDg4Njh8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1609840112990-4265448268d1?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGlzc3VlJTIwYm94fGVufDF8MHx8fDE3OTQ0NDg4Njh8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1609840112990-4265448268d1?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGlzc3VlJTIwYm94fGVufDF8MHx8fDE3OTQ0NDg4Njh8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Caja de pañuelos de papel" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@diana_pole?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Diana Polekhina</a> en <a href="https://unsplash.com/photos/white-tissue-paper-in-blue-box-AzkX_56p-KQ?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Lo que pasa en cada estornudo
 

@@ -15,6 +15,12 @@ datePublished: 2027-03-19
 dateModified: 2027-03-19
 imageQuery: "human ear close up profile"
 imageAlt: "Oreja de una persona vista de perfil"
+cover:
+  url: "https://images.unsplash.com/photo-1650056201297-4a6d7ec6ca6c?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8aHVtYW4lMjBlYXIlMjBjbG9zZSUyMHVwJTIwcHJvZmlsZXxlbnwxfDB8fHwxNzk0NDQ4ODg3fDA&ixlib=rb-4.1.0"
+  alt: "Oreja de una persona vista de perfil"
+  author: "Alexander Krivitskiy"
+  authorUrl: "https://unsplash.com/@krivitskiy?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-black-and-white-photo-of-a-womans-profile-4bB8t6fWYsE?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "La cera, o cerumen, la fabrican unas glándulas del conducto del oído."
   - "Sirve para atrapar polvo, bacterias, otros gérmenes y objetos pequeños, y para proteger la piel del conducto cuando entra agua."
@@ -61,7 +67,10 @@ Esa cera va avanzando poco a poco hacia la entrada del oído. Allí cae sola o s
 
 El [NHS](https://www.nhs.uk/conditions/earwax-build-up/), el servicio de salud británico, lo resume en una frase: la cera no se puede evitar, porque está ahí para proteger los oídos de la suciedad y los gérmenes.
 
-<!-- unsplash: cotton swabs bathroom shelf | Bastoncillos de algodón en la repisa de un baño -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1645567455251-334ed4702f9b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Y290dG9uJTIwc3dhYnMlMjBiYXRocm9vbSUyMHNoZWxmfGVufDF8MHx8fDE3OTQ0NDg4ODd8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1645567455251-334ed4702f9b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Y290dG9uJTIwc3dhYnMlMjBiYXRocm9vbSUyMHNoZWxmfGVufDF8MHx8fDE3OTQ0NDg4ODd8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1645567455251-334ed4702f9b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Y290dG9uJTIwc3dhYnMlMjBiYXRocm9vbSUyMHNoZWxmfGVufDF8MHx8fDE3OTQ0NDg4ODd8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1645567455251-334ed4702f9b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Y290dG9uJTIwc3dhYnMlMjBiYXRocm9vbSUyMHNoZWxmfGVufDF8MHx8fDE3OTQ0NDg4ODd8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Bastoncillos de algodón en la repisa de un baño" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@steveungermann?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Steven Ungermann</a> en <a href="https://unsplash.com/photos/a-bathroom-sink-with-a-soap-dispenser-and-a-soap-dish-ioazSWHfmzY?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Cuando la cera se atasca
 

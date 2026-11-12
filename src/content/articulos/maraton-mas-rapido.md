@@ -15,6 +15,12 @@ datePublished: 2027-02-26
 dateModified: 2027-02-26
 imageQuery: "marathon runners city street"
 imageAlt: "Corredores de maratón por una calle de la ciudad"
+cover:
+  url: "https://images.unsplash.com/photo-1761064039885-afa38ab58a21?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWFyYXRob24lMjBydW5uZXJzJTIwY2l0eSUyMHN0cmVldHxlbnwxfDB8fHwxNzk0NDQ4ODcxfDA&ixlib=rb-4.1.0"
+  alt: "Corredores de maratón por una calle de la ciudad"
+  author: "Jerry Wei"
+  authorUrl: "https://unsplash.com/@findway_jerry?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/runners-in-a-city-marathon-race-9bmzFkLt1r0?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El maratón más rápido de la historia es de 1 h 59 min 30 s, del keniano Sabastian Sawe, en Londres, el 26 de abril de 2026."
   - "Fue la primera vez que alguien bajó de las dos horas en un maratón de competición."
@@ -65,7 +71,10 @@ Kiptum, a su vez, había quitado 34 segundos al récord de Eliud Kipchoge, segú
 
 El ritmo y la velocidad son una simple cuenta: 7.170 segundos repartidos entre 42,195 kilómetros.
 
-<!-- unsplash: runners finish line marathon | Corredores cruzando la meta de un maratón -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1613936360976-8f35cf0e5461?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cnVubmVycyUyMGZpbmlzaCUyMGxpbmUlMjBtYXJhdGhvbnxlbnwxfDB8fHwxNzk0NDQ4ODcyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1613936360976-8f35cf0e5461?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cnVubmVycyUyMGZpbmlzaCUyMGxpbmUlMjBtYXJhdGhvbnxlbnwxfDB8fHwxNzk0NDQ4ODcyfDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1613936360976-8f35cf0e5461?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cnVubmVycyUyMGZpbmlzaCUyMGxpbmUlMjBtYXJhdGhvbnxlbnwxfDB8fHwxNzk0NDQ4ODcyfDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1613936360976-8f35cf0e5461?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cnVubmVycyUyMGZpbmlzaCUyMGxpbmUlMjBtYXJhdGhvbnxlbnwxfDB8fHwxNzk0NDQ4ODcyfDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Corredores cruzando la meta de un maratón" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@amutiomi?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Miguel A Amutio</a> en <a href="https://unsplash.com/photos/people-running-on-gray-asphalt-road-during-daytime-QDv-uBc-poY?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Y el récord femenino
 
