@@ -15,6 +15,12 @@ datePublished: 2027-02-27
 dateModified: 2027-02-27
 imageQuery: "red blood cells illustration"
 imageAlt: "Ilustración de glóbulos rojos circulando"
+cover:
+  url: "https://images.unsplash.com/photo-1680279019882-d0317164a394?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8M3x8cmVkJTIwYmxvb2QlMjBjZWxscyUyMGlsbHVzdHJhdGlvbnxlbnwxfDB8fHwxNzk0NDQ0ODEzfDA&ixlib=rb-4.1.0"
+  alt: "Ilustración de glóbulos rojos circulando"
+  author: "digitale.de"
+  authorUrl: "https://unsplash.com/@digital_e?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-group-of-red-blood-cells-in-a-vein-S7-nZGW4-N8?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Un glóbulo rojo sano vive entre 90 y 120 días, es decir, de 3 a 4 meses."
   - "Se fabrica sobre todo en la médula ósea, el tejido blando del interior de los huesos."
@@ -69,7 +75,10 @@ Según [MedlinePlus](https://medlineplus.gov/ency/article/003644.htm), los valor
 
 Un microlitro es una gota diminuta, la milésima parte de un mililitro. Los valores de referencia pueden variar un poco de un laboratorio a otro, así que fíjate en los que aparecen en tu propio informe.
 
-<!-- unsplash: blood test tubes laboratory | Tubos de análisis de sangre en un laboratorio -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1599556147783-7edf67c327e0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8M3x8Ymxvb2QlMjB0ZXN0JTIwdHViZXMlMjBsYWJvcmF0b3J5fGVufDF8MHx8fDE3OTQ0NDQ4MTR8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1599556147783-7edf67c327e0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8M3x8Ymxvb2QlMjB0ZXN0JTIwdHViZXMlMjBsYWJvcmF0b3J5fGVufDF8MHx8fDE3OTQ0NDQ4MTR8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1599556147783-7edf67c327e0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8M3x8Ymxvb2QlMjB0ZXN0JTIwdHViZXMlMjBsYWJvcmF0b3J5fGVufDF8MHx8fDE3OTQ0NDQ4MTR8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1599556147783-7edf67c327e0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8M3x8Ymxvb2QlMjB0ZXN0JTIwdHViZXMlMjBsYWJvcmF0b3J5fGVufDF8MHx8fDE3OTQ0NDQ4MTR8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Tubos de análisis de sangre en un laboratorio" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@testalizeme?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Testalize.me</a> en <a href="https://unsplash.com/photos/white-and-orange-plastic-tube-KWb_41kG0GE?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Por qué importa que se renueven
 

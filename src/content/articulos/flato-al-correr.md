@@ -15,6 +15,12 @@ datePublished: 2027-02-18
 dateModified: 2027-02-18
 imageQuery: "runner holding side park"
 imageAlt: "Corredora sujetándose el costado en un parque"
+cover:
+  url: "https://images.unsplash.com/photo-1778705635181-95bdd0a5ffbd?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cnVubmVyJTIwaG9sZGluZyUyMHNpZGUlMjBwYXJrfGVufDF8MHx8fDE3OTQ0NDQ4MTF8MA&ixlib=rb-4.1.0"
+  alt: "Corredora sujetándose el costado en un parque"
+  author: "Mark Ashford"
+  authorUrl: "https://unsplash.com/@ashforma?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/autumn-trees-line-a-park-path-beside-a-lake-mFt2X_R2-yA?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El flato es un dolor localizado en el costado que aparece al hacer ejercicio; en inglés científico se llama ETAP."
   - "Alrededor del 70 % de los corredores dice haberlo sufrido en el último año, y en una sola carrera lo nota aproximadamente 1 de cada 5."
@@ -62,7 +68,10 @@ Según su resumen, el flato es un dolor **localizado**, más frecuente en los la
 
 En uno de los estudios con corredores que cita la revisión, el dolor en el lado **derecho** fue el doble de frecuente que en el izquierdo.
 
-<!-- unsplash: people running city race | Corredores en una carrera popular por la ciudad -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1760315972424-1637530daead?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVvcGxlJTIwcnVubmluZyUyMGNpdHklMjByYWNlfGVufDF8MHx8fDE3OTQ0NDQ4MTJ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1760315972424-1637530daead?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVvcGxlJTIwcnVubmluZyUyMGNpdHklMjByYWNlfGVufDF8MHx8fDE3OTQ0NDQ4MTJ8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1760315972424-1637530daead?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVvcGxlJTIwcnVubmluZyUyMGNpdHklMjByYWNlfGVufDF8MHx8fDE3OTQ0NDQ4MTJ8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1760315972424-1637530daead?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVvcGxlJTIwcnVubmluZyUyMGNpdHklMjByYWNlfGVufDF8MHx8fDE3OTQ0NDQ4MTJ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Corredores en una carrera popular por la ciudad" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@iprefermike?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Mike Cox</a> en <a href="https://unsplash.com/photos/a-group-of-runners-participating-in-a-marathon-race-laxDhpYqZZc?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Las teorías sobre su causa
 

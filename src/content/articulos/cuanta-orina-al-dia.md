@@ -15,6 +15,12 @@ datePublished: 2027-03-04
 dateModified: 2027-03-04
 imageQuery: "glass of water on bedside table"
 imageAlt: "Vaso de agua sobre la mesilla de noche"
+cover:
+  url: "https://images.unsplash.com/photo-1757796859729-270d1e3ad4d5?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Z2xhc3MlMjBvZiUyMHdhdGVyJTIwb24lMjBiZWRzaWRlJTIwdGFibGV8ZW58MXwwfHx8MTc5NDQ0NDgwNHww&ixlib=rb-4.1.0"
+  alt: "Vaso de agua sobre la mesilla de noche"
+  author: "Clay Banks"
+  authorUrl: "https://unsplash.com/@claybanks?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/open-book-on-bedside-table-with-lamp-QEVwQcqKRRM?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Con una ingesta normal de unos 2 litros de líquido al día, lo normal es producir entre 800 y 2.000 ml de orina."
   - "La mayoría de los adultos produce al menos 500 ml de orina en 24 horas."
@@ -68,7 +74,10 @@ Para saber cuánto orinas en un día, los médicos piden una prueba de orina de 
 3. **El segundo día**, al levantarte, orinas por última vez en el recipiente.
 4. **Lo guardas** tapado, en la nevera o en un sitio fresco, y lo entregas como te indiquen.
 
-<!-- unsplash: kidney anatomy model | Maqueta anatómica de los riñones -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1559757175-053139280de2?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8a2lkbmV5JTIwYW5hdG9teSUyMG1vZGVsfGVufDF8MHx8fDE3OTQ0NDQ4MDV8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1559757175-053139280de2?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8a2lkbmV5JTIwYW5hdG9teSUyMG1vZGVsfGVufDF8MHx8fDE3OTQ0NDQ4MDV8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1559757175-053139280de2?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8a2lkbmV5JTIwYW5hdG9teSUyMG1vZGVsfGVufDF8MHx8fDE3OTQ0NDQ4MDV8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1559757175-053139280de2?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8a2lkbmV5JTIwYW5hdG9teSUyMG1vZGVsfGVufDF8MHx8fDE3OTQ0NDQ4MDV8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Maqueta anatómica de los riñones" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@averey?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Robina Weermeijer</a> en <a href="https://unsplash.com/photos/kidney-scale-model-in-hand-sRXCFkJahGk?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Cuándo la cantidad merece una consulta
 

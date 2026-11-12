@@ -436,3 +436,27 @@ ciclo-nasal | inline 1 | woman sleeping on her side pillow | https://unsplash.co
 hablar-con-las-manos | cover | hand gestures conversation | https://unsplash.com/photos/two-hands-holding-each-other-with-bracelets-on-them-85UvN7XT_CA | two hands holding each other with bracelets on them
 legumbres-gases | cover | lentils bowl | https://unsplash.com/photos/a-bowl-of-soup-with-bacon-on-top-of-it-lAibP0GwAmU | a bowl of soup with bacon on top of it
 legumbres-gases | cover | dried legumes | https://unsplash.com/photos/assorted-colored-bean-lot-t4X660oKiYs | assorted-colored bean lot
+ampollas-camino-de-santiago | inline 1 | hiking boots socks wooden floor | https://unsplash.com/photos/a-persons-legs-wearing-tan-boots-on-a-wooden-floor-tBF9SoEi8MQ | A person's legs wearing tan boots on a wooden floor
+cafe-cafeina-espana | cover | espresso coffee cup bar counter | https://unsplash.com/photos/bottles-of-alcohol-displayed-behind-a-bar-counter-M8avLU2Enz8 | Bottles of alcohol displayed behind a bar counter
+cafe-cafeina-espana | inline 1 | coffee cups on bar counter morning | https://unsplash.com/photos/woman-leaning-on-bar-counter-0fqZqDKJWkg | A woman in a black top leaning on a bar counter with a coffee cup
+coxis-cola | cover | monkey tail tree branch | https://unsplash.com/photos/emperor-tamarin-monkey-with-prominent-white-mustache-on-branch-wEmluGb-zU0 | Emperor tamarin monkey with prominent white mustache on branch
+coxis-cola | inline 1 | human spine skeleton model | https://unsplash.com/photos/white-pasta-on-white-paper-OijVdM3Zx4I | white pasta on white paper
+cuanta-orina-al-dia | cover | glass of water on bedside table | https://unsplash.com/photos/open-book-on-bedside-table-with-lamp-QEVwQcqKRRM | Open book on bedside table with lamp
+cuanta-orina-al-dia | inline 1 | kidney anatomy model | https://unsplash.com/photos/kidney-scale-model-in-hand-sRXCFkJahGk | kidney scale model in hand
+espanoles-mas-altos | cover | old family photo black and white | https://unsplash.com/photos/grayscale-photo-of-family-standing-near-trees-Ar9j8V6oMzo | grayscale photo of family standing near trees
+espanoles-mas-altos | inline 1 | measuring child height wall | https://unsplash.com/photos/a-white-measuring-tape-with-a-white-background-oXosnj63Tqs | a white measuring tape with a white background
+estornudo-mas-largo | cover | woman sneezing tissue | https://unsplash.com/photos/a-close-up-of-a-person-covering-their-face-J7m0KPK5bps | A close up of a person covering their face
+estornudo-mas-largo | inline 1 | tissue box on table | https://unsplash.com/photos/two-chairs-and-a-table-with-sunlight-streaming-in-EClL92YshcE | Two chairs and a table with sunlight streaming in
+everest-sin-oxigeno | cover | mount everest summit snow | https://unsplash.com/photos/a-snow-covered-mountain-with-clouds-in-the-sky-eyn0LjpNWV4 | a snow covered mountain with clouds in the sky
+everest-sin-oxigeno | inline 1 | mountaineers climbing snowy ridge | https://unsplash.com/photos/mountaineers-climbing-narrow-snow-ridge-aIgcHRWvcEs | A line of mountaineers climbing a narrow snow ridge on a steep mountain face
+flato-al-correr | cover | runner holding side park | https://unsplash.com/photos/autumn-trees-line-a-park-path-beside-a-lake-mFt2X_R2-yA | Autumn trees line a park path beside a lake
+flato-al-correr | inline 1 | people running city race | https://unsplash.com/photos/a-group-of-runners-participating-in-a-marathon-race-laxDhpYqZZc | A group of runners participating in a marathon race
+globulos-rojos-vida | cover | red blood cells illustration | https://unsplash.com/photos/a-group-of-red-blood-cells-in-a-vein-S7-nZGW4-N8 | a group of red blood cells in a vein
+globulos-rojos-vida | inline 1 | blood test tubes laboratory | https://unsplash.com/photos/white-and-orange-plastic-tube-KWb_41kG0GE | white and orange plastic tube
+grito-mas-fuerte | cover | person screaming loud outdoors | https://unsplash.com/photos/a-woman-holding-her-fists-up-in-the-air-ktCPb9OnJqw | a woman holding her fists up in the air
+grito-mas-fuerte | inline 1 | football fans cheering bar | https://unsplash.com/photos/crowd-of-people-cheering-in-stadium-WrNbw7UeNqI | A crowd of people in a stadium cheering with arms raised in celebration
+hambre-al-oler-comida | cover | bakery fresh bread morning | https://unsplash.com/photos/brown-bread-on-brown-wicker-basket-N4gtuEZ5gWc | brown bread on brown wicker basket
+hambre-al-oler-comida | inline 1 | freshly baked bread loaves | https://unsplash.com/photos/bread-on-brown-wooden-table-USg-3Z9T4uY | bread on brown wooden table
+hueso-roto-cuanto-tarda | cover | arm in plaster cast sling | https://unsplash.com/photos/childs-arm-in-a-colorful-cast--STe0s-pmu0 | Child's arm in a colorful cast
+hueso-roto-cuanto-tarda | inline 1 | x-ray image bone hand | https://unsplash.com/photos/x-ray-result-_GpJpHnyCSw | x-ray result
+luna-llena-sueno | cover | full moon night sky over city | https://unsplash.com/photos/full-moon-over-city-skyline-during-night-time-ddJ9PNYjric | full moon over city skyline during night time

@@ -15,6 +15,12 @@ datePublished: 2027-03-15
 dateModified: 2027-03-15
 imageQuery: "bakery fresh bread morning"
 imageAlt: "Panadería con pan recién hecho por la mañana"
+cover:
+  url: "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YmFrZXJ5JTIwZnJlc2glMjBicmVhZCUyMG1vcm5pbmd8ZW58MXwwfHx8MTc5NDQ0NDgxOHww&ixlib=rb-4.1.0"
+  alt: "Panadería con pan recién hecho por la mañana"
+  author: "mohamed hassouna"
+  authorUrl: "https://unsplash.com/@mhassouna931?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/brown-bread-on-brown-wicker-basket-N4gtuEZ5gWc?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Oler, ver o incluso pensar en comida pone en marcha la llamada fase cefálica: respuestas del cuerpo que preparan la digestión antes del primer bocado."
   - "Incluyen más saliva, más ácido en el estómago, cambios en sus movimientos y la liberación de hormonas como la insulina."
@@ -63,7 +69,10 @@ La revisión recuerda un detalle curioso: algunas de estas respuestas, como la *
 
 Así que el olor del pan no solo te avisa de que hay comida cerca. Pone en marcha la maquinaria antes de que decidas si vas a entrar a comprar.
 
-<!-- unsplash: freshly baked bread loaves | Panes recién horneados en una bandeja -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1586765501019-cbe3973ef8fa?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlc2hseSUyMGJha2VkJTIwYnJlYWQlMjBsb2F2ZXN8ZW58MXwwfHx8MTc5NDQ0NDgxOXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1586765501019-cbe3973ef8fa?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlc2hseSUyMGJha2VkJTIwYnJlYWQlMjBsb2F2ZXN8ZW58MXwwfHx8MTc5NDQ0NDgxOXww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1586765501019-cbe3973ef8fa?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlc2hseSUyMGJha2VkJTIwYnJlYWQlMjBsb2F2ZXN8ZW58MXwwfHx8MTc5NDQ0NDgxOXww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1586765501019-cbe3973ef8fa?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnJlc2hseSUyMGJha2VkJTIwYnJlYWQlMjBsb2F2ZXN8ZW58MXwwfHx8MTc5NDQ0NDgxOXww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Panes recién horneados en una bandeja" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@tunnuz?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Tommaso Urli</a> en <a href="https://unsplash.com/photos/bread-on-brown-wooden-table-USg-3Z9T4uY?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## La insulina que se adelanta
 

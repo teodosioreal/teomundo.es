@@ -15,6 +15,12 @@ datePublished: 2027-03-18
 dateModified: 2027-03-18
 imageQuery: "mount everest summit snow"
 imageAlt: "Cumbre del monte Everest cubierta de nieve"
+cover:
+  url: "https://images.unsplash.com/photo-1676471049029-f93852da351d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bW91bnQlMjBldmVyZXN0JTIwc3VtbWl0JTIwc25vd3xlbnwxfDB8fHwxNzk0NDQ0ODA5fDA&ixlib=rb-4.1.0"
+  alt: "Cumbre del monte Everest cubierta de nieve"
+  author: "Weichao Deng"
+  authorUrl: "https://unsplash.com/@juniperphoton?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-snow-covered-mountain-with-clouds-in-the-sky-eyn0LjpNWV4?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "La primera ascensión al Everest sin oxígeno embotellado la hicieron el italiano Reinhold Messner y el austriaco Peter Habeler el 8 de mayo de 1978."
   - "Según Guinness World Records, algunos montañeros la consideran la primera ascensión «verdadera», porque superar la falta de oxígeno es el mayor reto de la altitud."
@@ -57,7 +63,10 @@ En lo alto de una montaña, el aire tiene el mismo porcentaje de oxígeno que en
 
 Por eso cuesta tanto respirar en la cumbre del Everest, y por eso subir sin botellas se considera una de las grandes hazañas del alpinismo.
 
-<!-- unsplash: mountaineers climbing snowy ridge | Alpinistas subiendo por una arista nevada -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1791063905897-5ef2ff937a29?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bW91bnRhaW5lZXJzJTIwY2xpbWJpbmclMjBzbm93eSUyMHJpZGdlfGVufDF8MHx8fDE3OTQ0NDQ4MTB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1791063905897-5ef2ff937a29?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bW91bnRhaW5lZXJzJTIwY2xpbWJpbmclMjBzbm93eSUyMHJpZGdlfGVufDF8MHx8fDE3OTQ0NDQ4MTB8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1791063905897-5ef2ff937a29?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bW91bnRhaW5lZXJzJTIwY2xpbWJpbmclMjBzbm93eSUyMHJpZGdlfGVufDF8MHx8fDE3OTQ0NDQ4MTB8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1791063905897-5ef2ff937a29?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bW91bnRhaW5lZXJzJTIwY2xpbWJpbmclMjBzbm93eSUyMHJpZGdlfGVufDF8MHx8fDE3OTQ0NDQ4MTB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Alpinistas subiendo por una arista nevada" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@kate_lipa?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Katherina Lipatnikova</a> en <a href="https://unsplash.com/photos/mountaineers-climbing-narrow-snow-ridge-aIgcHRWvcEs?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Las señales del mal de altura
 

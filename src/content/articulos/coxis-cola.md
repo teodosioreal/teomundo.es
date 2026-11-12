@@ -15,6 +15,12 @@ datePublished: 2027-03-14
 dateModified: 2027-03-14
 imageQuery: "monkey tail tree branch"
 imageAlt: "Mono con la cola enrollada en una rama"
+cover:
+  url: "https://images.unsplash.com/photo-1779117061019-965aa174414d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bW9ua2V5JTIwdGFpbCUyMHRyZWUlMjBicmFuY2h8ZW58MXwwfHx8MTc5NDQ0NDgwM3ww&ixlib=rb-4.1.0"
+  alt: "Mono con la cola enrollada en una rama"
+  author: "Smithsonian"
+  authorUrl: "https://unsplash.com/@smithsonian?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/emperor-tamarin-monkey-with-prominent-white-mustache-on-branch-wEmluGb-zU0?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El coxis está formado por 3 a 5 vértebras: es lo que queda de la cola en los humanos."
   - "Nuestros antepasados perdieron la cola hace unos 25 millones de años, cuando el linaje de los simios se separó del de los monos del Viejo Mundo."
@@ -62,7 +68,10 @@ De aquella cola nos quedaron **3 a 5 vértebras caudales**, que forman el coxis.
 
 El equipo de Bo Xia, de la Universidad de Nueva York, vio además que los ratones con esa versión del gen desarrollaban defectos del tubo neural, un problema que afecta a alrededor de 1 de cada 1.000 recién nacidos humanos. Los autores sugieren que perder la cola pudo tener ese precio.
 
-<!-- unsplash: human spine skeleton model | Maqueta de una columna vertebral humana -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1624716346720-6c96dfd07807?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aHVtYW4lMjBzcGluZSUyMHNrZWxldG9uJTIwbW9kZWx8ZW58MXwwfHx8MTc5NDQ0NDgwNHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1624716346720-6c96dfd07807?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aHVtYW4lMjBzcGluZSUyMHNrZWxldG9uJTIwbW9kZWx8ZW58MXwwfHx8MTc5NDQ0NDgwNHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1624716346720-6c96dfd07807?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aHVtYW4lMjBzcGluZSUyMHNrZWxldG9uJTIwbW9kZWx8ZW58MXwwfHx8MTc5NDQ0NDgwNHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1624716346720-6c96dfd07807?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aHVtYW4lMjBzcGluZSUyMHNrZWxldG9uJTIwbW9kZWx8ZW58MXwwfHx8MTc5NDQ0NDgwNHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Maqueta de una columna vertebral humana" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@chuttersnap?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">CHUTTERSNAP</a> en <a href="https://unsplash.com/photos/white-pasta-on-white-paper-OijVdM3Zx4I?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Cuando el coxis duele
 

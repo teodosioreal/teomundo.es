@@ -15,6 +15,12 @@ datePublished: 2027-03-12
 dateModified: 2027-03-12
 imageQuery: "espresso coffee cup bar counter"
 imageAlt: "Taza de café solo sobre la barra de un bar"
+cover:
+  url: "https://images.unsplash.com/photo-1775850201902-1418bc12594a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZXNwcmVzc28lMjBjb2ZmZWUlMjBjdXAlMjBiYXIlMjBjb3VudGVyfGVufDF8MHx8fDE3OTQ0NDQ4MDF8MA&ixlib=rb-4.1.0"
+  alt: "Taza de café solo sobre la barra de un bar"
+  author: "Soroush H. Zargarbashi"
+  authorUrl: "https://unsplash.com/@soroushzargar?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/bottles-of-alcohol-displayed-behind-a-bar-counter-M8avLU2Enz8?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Según MedlinePlus, un expreso de unos 30 ml tiene alrededor de 40 mg de cafeína, y una taza de café de filtro de unos 180 ml, de 75 a 100 mg."
   - "Unos 400 mg al día se consideran una cantidad media o moderada para la mayoría de las personas; más de 1.200 mg en poco tiempo pueden ser tóxicos."
@@ -67,7 +73,10 @@ El café que te sirven en un bar varía mucho según la máquina, el tipo de gra
 - **Embarazo:** MedlinePlus aconseja no pasar de 200 mg al día.
 - **El sueño:** la [AESAN](https://www.aesan.gob.es/actualidad/campanyas-seguridad-alimentaria/recomendaciones_de_consumo_de_bebidas_energeticas), la Agencia Española de Seguridad Alimentaria y Nutrición, indica que más de **1,4 mg por kilo de peso al día** puede provocar insomnio y acortar el sueño, y que a partir de 3 mg por kilo aparecen riesgos para el corazón, la sangre, el sistema nervioso y el comportamiento.
 
-<!-- unsplash: coffee cups on bar counter morning | Tazas de café sobre la barra de un bar por la mañana -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1788999422915-81246819a93e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y29mZmVlJTIwY3VwcyUyMG9uJTIwYmFyJTIwY291bnRlciUyMG1vcm5pbmd8ZW58MXwwfHx8MTc5NDQ0NDgwMnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1788999422915-81246819a93e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y29mZmVlJTIwY3VwcyUyMG9uJTIwYmFyJTIwY291bnRlciUyMG1vcm5pbmd8ZW58MXwwfHx8MTc5NDQ0NDgwMnww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1788999422915-81246819a93e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y29mZmVlJTIwY3VwcyUyMG9uJTIwYmFyJTIwY291bnRlciUyMG1vcm5pbmd8ZW58MXwwfHx8MTc5NDQ0NDgwMnww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1788999422915-81246819a93e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y29mZmVlJTIwY3VwcyUyMG9uJTIwYmFyJTIwY291bnRlciUyMG1vcm5pbmd8ZW58MXwwfHx8MTc5NDQ0NDgwMnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Tazas de café sobre la barra de un bar por la mañana" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@thealiaziz?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Ali Aziz</a> en <a href="https://unsplash.com/photos/woman-leaning-on-bar-counter-0fqZqDKJWkg?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Calcula tu límite para dormir bien
 

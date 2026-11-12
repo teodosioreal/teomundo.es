@@ -15,6 +15,12 @@ datePublished: 2027-03-09
 dateModified: 2027-03-09
 imageQuery: "arm in plaster cast sling"
 imageAlt: "Brazo escayolado sujeto con un cabestrillo"
+cover:
+  url: "https://images.unsplash.com/photo-1762347921012-79c5b5a7b9a0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8YXJtJTIwaW4lMjBwbGFzdGVyJTIwY2FzdCUyMHNsaW5nfGVufDF8MHx8fDE3OTQ0NDQ4MTl8MA&ixlib=rb-4.1.0"
+  alt: "Brazo escayolado sujeto con un cabestrillo"
+  author: "shraga kopstein"
+  authorUrl: "https://unsplash.com/@sfkopstein?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/childs-arm-in-a-colorful-cast--STe0s-pmu0?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "La mayoría de las fracturas sencillas tardan entre 4 y 12 semanas en curar, según el hueso."
   - "Un brazo, una muñeca o una pierna rotos suelen tardar de 6 a 12 semanas; un dedo del pie, de 4 a 6."
@@ -71,7 +77,10 @@ Que el médico te quite la escayola no significa que todo haya vuelto a la norma
 
 Una vez curado el hueso, mover la zona con normalidad ayuda a que no se quede rígida, y tu médico puede darte ejercicios suaves.
 
-<!-- unsplash: x-ray image bone hand | Radiografía de los huesos de una mano -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1564725075388-cc8338732289?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8eC1yYXklMjBpbWFnZSUyMGJvbmUlMjBoYW5kfGVufDF8MHx8fDE3OTQ0NDQ4MjB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1564725075388-cc8338732289?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8eC1yYXklMjBpbWFnZSUyMGJvbmUlMjBoYW5kfGVufDF8MHx8fDE3OTQ0NDQ4MjB8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1564725075388-cc8338732289?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8eC1yYXklMjBpbWFnZSUyMGJvbmUlMjBoYW5kfGVufDF8MHx8fDE3OTQ0NDQ4MjB8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1564725075388-cc8338732289?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8eC1yYXklMjBpbWFnZSUyMGJvbmUlMjBoYW5kfGVufDF8MHx8fDE3OTQ0NDQ4MjB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Radiografía de los huesos de una mano" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@socalcaral?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Cara Shelton</a> en <a href="https://unsplash.com/photos/x-ray-result-_GpJpHnyCSw?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Señales de que puede haber rotura
 

@@ -15,6 +15,12 @@ datePublished: 2027-03-13
 dateModified: 2027-03-13
 imageQuery: "person screaming loud outdoors"
 imageAlt: "Persona gritando con fuerza al aire libre"
+cover:
+  url: "https://images.unsplash.com/photo-1688398159040-5aea0cd2a919?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwc2NyZWFtaW5nJTIwbG91ZCUyMG91dGRvb3JzfGVufDF8MHx8fDE3OTQ0NDQ4MTV8MA&ixlib=rb-4.1.0"
+  alt: "Persona gritando con fuerza al aire libre"
+  author: "engin akyurt"
+  authorUrl: "https://unsplash.com/@enginakyurt?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-woman-holding-her-fists-up-in-the-air-ktCPb9OnJqw?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El récord de grito, en inglés «scream», es de 129 dBA y lo tiene Jill Drake, auxiliar de aula."
   - "El récord de voz alta gritando una palabra, «shout», es de 121,7 dBA: Annalisa Wray gritó «quiet» («silencio») en Belfast en 1994."
@@ -68,7 +74,10 @@ La [OMS](https://www.who.int/news-room/questions-and-answers/item/deafness-and-h
 
 Los decibelios no suben de forma lineal: cada pocos decibelios más, el sonido es mucho más intenso. Por eso la distancia entre una charla y un grito de récord es enorme.
 
-<!-- unsplash: football fans cheering bar | Aficionados celebrando un gol en un bar -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1558151748-f2621b5e52f0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Zm9vdGJhbGwlMjBmYW5zJTIwY2hlZXJpbmclMjBiYXJ8ZW58MXwwfHx8MTc5NDQ0NDgxNnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1558151748-f2621b5e52f0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Zm9vdGJhbGwlMjBmYW5zJTIwY2hlZXJpbmclMjBiYXJ8ZW58MXwwfHx8MTc5NDQ0NDgxNnww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1558151748-f2621b5e52f0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Zm9vdGJhbGwlMjBmYW5zJTIwY2hlZXJpbmclMjBiYXJ8ZW58MXwwfHx8MTc5NDQ0NDgxNnww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1558151748-f2621b5e52f0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Zm9vdGJhbGwlMjBmYW5zJTIwY2hlZXJpbmclMjBiYXJ8ZW58MXwwfHx8MTc5NDQ0NDgxNnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Aficionados celebrando un gol en un bar" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@hansonluu?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Hanson Lu</a> en <a href="https://unsplash.com/photos/crowd-of-people-cheering-in-stadium-WrNbw7UeNqI?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Lo que aguanta tu oído
 

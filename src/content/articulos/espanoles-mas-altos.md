@@ -15,6 +15,12 @@ datePublished: 2027-02-20
 dateModified: 2027-02-20
 imageQuery: "old family photo black and white"
 imageAlt: "Fotografía familiar antigua en blanco y negro"
+cover:
+  url: "https://images.unsplash.com/photo-1542216515-4e6a586c1ca0?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8b2xkJTIwZmFtaWx5JTIwcGhvdG8lMjBibGFjayUyMGFuZCUyMHdoaXRlfGVufDF8MHx8fDE3OTQ0NDQ4MDZ8MA&ixlib=rb-4.1.0"
+  alt: "Fotografía familiar antigua en blanco y negro"
+  author: "Annie Spratt"
+  authorUrl: "https://unsplash.com/@anniespratt?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/grayscale-photo-of-family-standing-near-trees-Ar9j8V6oMzo?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Un estudio con más de 18,6 millones de personas de 200 países midió cómo cambió la altura de los nacidos entre 1896 y 1996."
   - "Según ese estudio, España es uno de los países del sur de Europa en los que la estatura todavía sigue aumentando."
@@ -62,7 +68,10 @@ Una de sus conclusiones afecta de lleno a España. Mientras en países como Finl
 
 No todo el mundo creció igual. En algunos países del África subsahariana y del sur de Asia, la altura apenas cambió en todo el siglo.
 
-<!-- unsplash: measuring child height wall | Niño midiéndose la altura contra la pared -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1640958899059-7fd295c17aac?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8bWVhc3VyaW5nJTIwY2hpbGQlMjBoZWlnaHQlMjB3YWxsfGVufDF8MHx8fDE3OTQ0NDQ4MDd8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1640958899059-7fd295c17aac?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8bWVhc3VyaW5nJTIwY2hpbGQlMjBoZWlnaHQlMjB3YWxsfGVufDF8MHx8fDE3OTQ0NDQ4MDd8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1640958899059-7fd295c17aac?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8bWVhc3VyaW5nJTIwY2hpbGQlMjBoZWlnaHQlMjB3YWxsfGVufDF8MHx8fDE3OTQ0NDQ4MDd8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1640958899059-7fd295c17aac?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8bWVhc3VyaW5nJTIwY2hpbGQlMjBoZWlnaHQlMjB3YWxsfGVufDF8MHx8fDE3OTQ0NDQ4MDd8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Niño midiéndose la altura contra la pared" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@lovelyscape?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Gabriel Mihalcea</a> en <a href="https://unsplash.com/photos/a-white-measuring-tape-with-a-white-background-oXosnj63Tqs?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Genes dentro de casa, ambiente entre países
 

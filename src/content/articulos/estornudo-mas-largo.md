@@ -15,6 +15,12 @@ datePublished: 2027-02-21
 dateModified: 2027-02-21
 imageQuery: "woman sneezing tissue"
 imageAlt: "Mujer estornudando en un pañuelo"
+cover:
+  url: "https://images.unsplash.com/photo-1737443327812-0d058ad5a91d?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8d29tYW4lMjBzbmVlemluZyUyMHRpc3N1ZXxlbnwxfDB8fHwxNzk0NDQ0ODA3fDA&ixlib=rb-4.1.0"
+  alt: "Mujer estornudando en un pañuelo"
+  author: "Markus Kammermann"
+  authorUrl: "https://unsplash.com/@makabera?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-close-up-of-a-person-covering-their-face-J7m0KPK5bps?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El ataque de estornudos más largo registrado es el de la británica Donna Griffiths, nacida en 1969."
   - "Empezó a estornudar el 13 de enero de 1981 y no tuvo su primer día sin estornudos hasta el 16 de septiembre de 1983, el día 977."
@@ -65,7 +71,10 @@ Años después, Griffiths contó su historia en un libro. Y cuando un humorista 
 
 Un millón de estornudos en un año salen a unos 2.700 al día, más de uno cada 30 segundos si los repartes entre las horas despierta.
 
-<!-- unsplash: tissue box on table | Caja de pañuelos de papel sobre una mesa -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1765447041709-9f1efbc81606?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGlzc3VlJTIwYm94JTIwb24lMjB0YWJsZXxlbnwxfDB8fHwxNzk0NDQ0ODA4fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1765447041709-9f1efbc81606?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGlzc3VlJTIwYm94JTIwb24lMjB0YWJsZXxlbnwxfDB8fHwxNzk0NDQ0ODA4fDA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1765447041709-9f1efbc81606?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGlzc3VlJTIwYm94JTIwb24lMjB0YWJsZXxlbnwxfDB8fHwxNzk0NDQ0ODA4fDA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1765447041709-9f1efbc81606?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8dGlzc3VlJTIwYm94JTIwb24lMjB0YWJsZXxlbnwxfDB8fHwxNzk0NDQ0ODA4fDA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Caja de pañuelos de papel sobre una mesa" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@hypernature?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Maximilian Bungart</a> en <a href="https://unsplash.com/photos/two-chairs-and-a-table-with-sunlight-streaming-in-EClL92YshcE?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Lo que pasa en cada estornudo
 

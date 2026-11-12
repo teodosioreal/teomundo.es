@@ -65,7 +65,10 @@ Lo que recomienda el NHS si sueles tener ampollas en los pies:
 - [ ] **Cambia de calcetines** a menudo si te sudan los pies.
 - [ ] **Si usas bastones**, lleva guantes para proteger también las manos.
 
-<!-- unsplash: hiking boots socks wooden floor | Botas de montaña y calcetines en el suelo de un albergue -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1772051593542-9d00c5acf8e8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGlraW5nJTIwYm9vdHMlMjBzb2NrcyUyMHdvb2RlbiUyMGZsb29yfGVufDF8MHx8fDE3OTQ0NDQ4MDB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1772051593542-9d00c5acf8e8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGlraW5nJTIwYm9vdHMlMjBzb2NrcyUyMHdvb2RlbiUyMGZsb29yfGVufDF8MHx8fDE3OTQ0NDQ4MDB8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1772051593542-9d00c5acf8e8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGlraW5nJTIwYm9vdHMlMjBzb2NrcyUyMHdvb2RlbiUyMGZsb29yfGVufDF8MHx8fDE3OTQ0NDQ4MDB8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1772051593542-9d00c5acf8e8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8aGlraW5nJTIwYm9vdHMlMjBzb2NrcyUyMHdvb2RlbiUyMGZsb29yfGVufDF8MHx8fDE3OTQ0NDQ4MDB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Botas de montaña y calcetines en el suelo de un albergue" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@cherstve_pechivo?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Liana S</a> en <a href="https://unsplash.com/photos/a-persons-legs-wearing-tan-boots-on-a-wooden-floor-tBF9SoEi8MQ?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Qué hacer si ya ha salido
 

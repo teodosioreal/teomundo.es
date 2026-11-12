@@ -15,6 +15,12 @@ datePublished: 2027-03-01
 dateModified: 2027-03-01
 imageQuery: "full moon night sky over city"
 imageAlt: "Luna llena sobre una ciudad de noche"
+cover:
+  url: "https://images.unsplash.com/photo-1599939571322-792a326991f2?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZnVsbCUyMG1vb24lMjBuaWdodCUyMHNreSUyMG92ZXIlMjBjaXR5fGVufDF8MHx8fDE3OTQ0NDQ4MjF8MA&ixlib=rb-4.1.0"
+  alt: "Luna llena sobre una ciudad de noche"
+  author: "Thula Na"
+  authorUrl: "https://unsplash.com/@thula25?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/full-moon-over-city-skyline-during-night-time-ddJ9PNYjric?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "No es del todo un mito: un estudio publicado en Science Advances encontró que el sueño cambia con las fases de la luna."
   - "En los 3 a 5 días anteriores a la luna llena, la gente se acostaba más tarde y dormía menos."
