@@ -15,6 +15,12 @@ datePublished: 2027-03-05
 dateModified: 2027-03-05
 imageQuery: "person looking down from cliff viewpoint"
 imageAlt: "Persona mirando hacia abajo desde un mirador en un acantilado"
+cover:
+  url: "https://images.unsplash.com/photo-1762194154655-18df7866eef8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwbG9va2luZyUyMGRvd24lMjBmcm9tJTIwY2xpZmYlMjB2aWV3cG9pbnR8ZW58MXwwfHx8MTc5NDQ1Mjg3M3ww&ixlib=rb-4.1.0"
+  alt: "Persona mirando hacia abajo desde un mirador en un acantilado"
+  author: "Austin Rucker"
+  authorUrl: "https://unsplash.com/@unavailabl?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/hiker-overlooks-autumn-forest-from-rocky-cliff-5pOLigXtz8M?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "La llamada intolerancia visual a la altura afecta a alrededor del 28 % de la población general, según investigadores del Centro Alemán de Vértigo y Equilibrio."
   - "Para mantener el equilibrio usamos, entre otras cosas, la vista. En lo alto, las referencias quedan muy lejos y los ojos ayudan menos a corregir el balanceo del cuerpo."
@@ -60,7 +66,10 @@ No es lo mismo que la acrofobia, el miedo intenso que limita la vida: los autore
 
 Los autores explican que el miedo a las alturas **depende de la postura** y de cómo controlamos el equilibrio, y que en lo alto el control visual ya no puede compensar como en el suelo.
 
-<!-- unsplash: wooden walkway canyon gorge | Pasarela de madera sobre un desfiladero -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1761049750211-bc0b75696883?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29vZGVuJTIwd2Fsa3dheSUyMGNhbnlvbiUyMGdvcmdlfGVufDF8MHx8fDE3OTQ0NTI4NzR8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1761049750211-bc0b75696883?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29vZGVuJTIwd2Fsa3dheSUyMGNhbnlvbiUyMGdvcmdlfGVufDF8MHx8fDE3OTQ0NTI4NzR8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1761049750211-bc0b75696883?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29vZGVuJTIwd2Fsa3dheSUyMGNhbnlvbiUyMGdvcmdlfGVufDF8MHx8fDE3OTQ0NTI4NzR8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1761049750211-bc0b75696883?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29vZGVuJTIwd2Fsa3dheSUyMGNhbnlvbiUyMGdvcmdlfGVufDF8MHx8fDE3OTQ0NTI4NzR8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Pasarela de madera sobre un desfiladero" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@omikron?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Valentin</a> en <a href="https://unsplash.com/photos/wooden-walkways-through-a-rocky-gorge-with-a-stream-JG8F_1PGefg?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Un miedo que viene de serie
 

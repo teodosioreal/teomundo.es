@@ -15,6 +15,12 @@ datePublished: 2027-02-24
 dateModified: 2027-02-24
 imageQuery: "woman cold scarf indoors"
 imageAlt: "Mujer abrigada con una bufanda dentro de casa"
+cover:
+  url: "https://images.unsplash.com/photo-1675430510513-bb64d30009b8?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjBjb2xkJTIwc2NhcmYlMjBpbmRvb3JzfGVufDF8MHx8fDE3OTQ0NTI4NjF8MA&ixlib=rb-4.1.0"
+  alt: "Mujer abrigada con una bufanda dentro de casa"
+  author: "Resat Kuleli"
+  authorUrl: "https://unsplash.com/@resat?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-woman-is-looking-out-of-a-window-_8ajqHSPMQ8?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "Es un mito a medias: depende de qué parte del cuerpo y de qué se mida."
   - "En un estudio japonés, al bajar la temperatura de la sala, el flujo de sangre y la temperatura de las manos y los dedos bajaban más en las mujeres que en los hombres."

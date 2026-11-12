@@ -67,7 +67,10 @@ Aquí está la parte interesante para la vida real: no eran caminatas exigentes.
 
 Es decir, algo muy parecido a levantarse, dar una vuelta por la casa o por la calle y volver. Los autores reconocen que eran experimentos de un solo día en condiciones controladas, y piden estudios en la vida diaria.
 
-<!-- unsplash: elderly couple walking seaside promenade | Pareja mayor paseando por un paseo marítimo -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1766928102338-203d0e91d290?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWxkZXJseSUyMGNvdXBsZSUyMHdhbGtpbmclMjBzZWFzaWRlJTIwcHJvbWVuYWRlfGVufDF8MHx8fDE3OTQ0NTI4NjJ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1766928102338-203d0e91d290?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWxkZXJseSUyMGNvdXBsZSUyMHdhbGtpbmclMjBzZWFzaWRlJTIwcHJvbWVuYWRlfGVufDF8MHx8fDE3OTQ0NTI4NjJ8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1766928102338-203d0e91d290?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWxkZXJseSUyMGNvdXBsZSUyMHdhbGtpbmclMjBzZWFzaWRlJTIwcHJvbWVuYWRlfGVufDF8MHx8fDE3OTQ0NTI4NjJ8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1766928102338-203d0e91d290?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZWxkZXJseSUyMGNvdXBsZSUyMHdhbGtpbmclMjBzZWFzaWRlJTIwcHJvbWVuYWRlfGVufDF8MHx8fDE3OTQ0NTI4NjJ8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Pareja mayor paseando por un paseo marítimo" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@alainr?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Alain ROUILLER</a> en <a href="https://unsplash.com/photos/people-walk-by-a-seaside-restaurant-with-outdoor-seating-24Ua9SqZEqM?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Tu sobremesa activa, a la española
 

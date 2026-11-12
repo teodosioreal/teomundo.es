@@ -67,7 +67,10 @@ Esa cera va avanzando poco a poco hacia la entrada del oído. Allí cae sola o s
 
 El [NHS](https://www.nhs.uk/conditions/earwax-build-up/), el servicio de salud británico, lo resume en una frase: la cera no se puede evitar, porque está ahí para proteger los oídos de la suciedad y los gérmenes.
 
-<!-- unsplash: cotton swabs | Bastoncillos de algodón -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1655313719494-1d700d4aedd4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Y290dG9uJTIwc3dhYnN8ZW58MXwwfHx8MTc5NDQ1Mjg2Mnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1655313719494-1d700d4aedd4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Y290dG9uJTIwc3dhYnN8ZW58MXwwfHx8MTc5NDQ1Mjg2Mnww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1655313719494-1d700d4aedd4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Y290dG9uJTIwc3dhYnN8ZW58MXwwfHx8MTc5NDQ1Mjg2Mnww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1655313719494-1d700d4aedd4?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Y290dG9uJTIwc3dhYnN8ZW58MXwwfHx8MTc5NDQ1Mjg2Mnww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Bastoncillos de algodón" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@etactics?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Etactics Inc</a> en <a href="https://unsplash.com/photos/a-group-of-yellow-and-white-dandelions-rXqTfy2pF5U?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Cuando la cera se atasca
 

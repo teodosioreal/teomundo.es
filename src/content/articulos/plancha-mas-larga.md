@@ -15,6 +15,12 @@ datePublished: 2027-03-03
 dateModified: 2027-03-03
 imageQuery: "person doing plank exercise floor"
 imageAlt: "Persona haciendo una plancha abdominal en el suelo"
+cover:
+  url: "https://images.unsplash.com/photo-1649789248266-ef1c7f744f6f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwZG9pbmclMjBwbGFuayUyMGV4ZXJjaXNlJTIwZmxvb3J8ZW58MXwwfHx8MTc5NDQ1Mjg2N3ww&ixlib=rb-4.1.0"
+  alt: "Persona haciendo una plancha abdominal en el suelo"
+  author: "Akram Huseyn"
+  authorUrl: "https://unsplash.com/@akramhuseyn?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/a-man-and-a-woman-doing-push-ups-with-dumbbells-JjdGVeUzb78?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "El récord masculino de plancha abdominal es de 9 horas, 38 minutos y 47 segundos, del checo Josef Šálek, en Pilsen, el 20 de mayo de 2023."
   - "El récord femenino es de 4 horas, 30 minutos y 11 segundos, de la canadiense DonnaJean Wilde, el 21 de marzo de 2024."
@@ -61,7 +67,10 @@ En la categoría femenina, la plusmarquista es [DonnaJean Wilde](https://www.gui
 
 En el tiempo que Šálek aguantó en plancha caben unas 578 clases de un minuto, una detrás de otra.
 
-<!-- unsplash: gym class people exercise mats | Clase de gimnasio con personas haciendo ejercicio en esterillas -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1787647089837-34f79c5ed2c3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3ltJTIwY2xhc3MlMjBwZW9wbGUlMjBleGVyY2lzZSUyMG1hdHN8ZW58MXwwfHx8MTc5NDQ1Mjg2OHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1787647089837-34f79c5ed2c3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3ltJTIwY2xhc3MlMjBwZW9wbGUlMjBleGVyY2lzZSUyMG1hdHN8ZW58MXwwfHx8MTc5NDQ1Mjg2OHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1787647089837-34f79c5ed2c3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3ltJTIwY2xhc3MlMjBwZW9wbGUlMjBleGVyY2lzZSUyMG1hdHN8ZW58MXwwfHx8MTc5NDQ1Mjg2OHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1787647089837-34f79c5ed2c3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Z3ltJTIwY2xhc3MlMjBwZW9wbGUlMjBleGVyY2lzZSUyMG1hdHN8ZW58MXwwfHx8MTc5NDQ1Mjg2OHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Clase de gimnasio con personas haciendo ejercicio en esterillas" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@silverkblack?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Vitaly Gariev</a> en <a href="https://unsplash.com/photos/people-holding-yoga-mats-in-studio-KZ0xRW_RwRQ?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Una plusmarquista que empezó con la muñeca rota
 

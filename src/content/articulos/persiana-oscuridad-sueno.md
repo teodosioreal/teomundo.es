@@ -15,6 +15,12 @@ datePublished: 2027-03-07
 dateModified: 2027-03-07
 imageQuery: "dark bedroom window blinds night"
 imageAlt: "Dormitorio a oscuras con la persiana bajada"
+cover:
+  url: "https://images.unsplash.com/photo-1552858725-2758b5fb1286?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZGFyayUyMGJlZHJvb20lMjB3aW5kb3clMjBibGluZHMlMjBuaWdodHxlbnwxfDB8fHwxNzk0NDUyODYzfDA&ixlib=rb-4.1.0"
+  alt: "Dormitorio a oscuras con la persiana bajada"
+  author: "Jp Valery"
+  authorUrl: "https://unsplash.com/@jpvalery?utm_source=teomundo&utm_medium=referral"
+  photoUrl: "https://unsplash.com/photos/table-lamp-turned-on-near-bed-DE9MM2voqKc?utm_source=teomundo&utm_medium=referral"
 keyTakeaways:
   - "En un experimento de la Universidad Northwestern, dormir una noche con la luz del techo encendida (100 lux) subió el pulso durante el sueño."
   - "Esa misma noche, los participantes pasaron menos tiempo en sueño profundo y en sueño REM."
@@ -64,7 +70,10 @@ Los investigadores midieron el sueño, el corazón y, a la mañana siguiente, c�
 
 Los autores relacionan el efecto con una mayor activación del **sistema nervioso simpático**, el que acelera el cuerpo, durante el sueño. Cuanto más activado estaba, peor era la respuesta a la insulina por la mañana.
 
-<!-- unsplash: street lamp light night window | Luz de una farola por la noche vista desde una ventana -->
+<figure class="article-figure">
+<img src="https://images.unsplash.com/photo-1768066408071-d97b471b3c71?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3RyZWV0JTIwbGFtcCUyMGxpZ2h0JTIwbmlnaHQlMjB3aW5kb3d8ZW58MXwwfHx8MTc5NDQ1Mjg2NHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1768066408071-d97b471b3c71?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3RyZWV0JTIwbGFtcCUyMGxpZ2h0JTIwbmlnaHQlMjB3aW5kb3d8ZW58MXwwfHx8MTc5NDQ1Mjg2NHww&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1768066408071-d97b471b3c71?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3RyZWV0JTIwbGFtcCUyMGxpZ2h0JTIwbmlnaHQlMjB3aW5kb3d8ZW58MXwwfHx8MTc5NDQ1Mjg2NHww&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1768066408071-d97b471b3c71?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c3RyZWV0JTIwbGFtcCUyMGxpZ2h0JTIwbmlnaHQlMjB3aW5kb3d8ZW58MXwwfHx8MTc5NDQ1Mjg2NHww&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Luz de una farola por la noche vista desde una ventana" loading="lazy" decoding="async">
+<figcaption>Foto de <a href="https://unsplash.com/@ronan18?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Ronan Furuta</a> en <a href="https://unsplash.com/photos/city-buildings-illuminated-at-night-with-streetlights-xK7EYtwMa1k?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
+</figure>
 
 ## Lo que no dice el estudio
 
