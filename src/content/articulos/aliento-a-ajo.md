@@ -46,6 +46,7 @@ related:
   - cocido-da-sed
   - legumbres-gases
   - dieta-mediterranea-beneficios
+  - picante-patatas-bravas
 next: cocido-da-sed
 ---
 

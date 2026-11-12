@@ -43,6 +43,7 @@ related:
   - cambio-de-hora-salud
   - dieta-mediterranea-beneficios
   - legumbres-gases
+  - paseo-despues-de-comer
 next: cambio-de-hora-salud
 ---
 

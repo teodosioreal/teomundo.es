@@ -39,6 +39,7 @@ related:
   - afeitarse-pelo-mas-fuerte
   - azucar-hiperactividad-ninos
   - mito-10-por-ciento-cerebro
+  - rascarse-pica-mas
 next: azucar-hiperactividad-ninos
 ---
 

@@ -44,6 +44,7 @@ related:
   - mito-10-por-ciento-cerebro
   - zurdos-viven-menos
   - cinco-sentidos
+  - memoria-fotografica
 next: mito-10-por-ciento-cerebro
 ---
 

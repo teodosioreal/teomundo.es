@@ -48,6 +48,7 @@ related:
   - latidos-del-corazon-en-una-vida
   - cuanta-saliva-producimos
   - cuanto-tiempo-sin-dormir
+  - grito-mas-fuerte
 next: latidos-del-corazon-en-una-vida
 ---
 

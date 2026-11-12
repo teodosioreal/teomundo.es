@@ -40,6 +40,7 @@ related:
   - hueso-mas-pequeno
   - latidos-del-corazon-en-una-vida
   - cuanto-tiempo-sin-dormir
+  - plancha-mas-larga
 next: longitud-vasos-sanguineos
 ---
 

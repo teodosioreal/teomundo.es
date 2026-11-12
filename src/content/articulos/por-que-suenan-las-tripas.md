@@ -41,6 +41,7 @@ related:
   - como-quitar-el-hipo
   - cortar-cebolla-sin-llorar
   - sacudida-al-dormirse
+  - hambre-al-oler-comida
 next: como-quitar-el-hipo
 ---
 

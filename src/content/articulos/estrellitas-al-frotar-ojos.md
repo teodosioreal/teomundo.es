@@ -50,6 +50,7 @@ related:
   - mareo-al-levantarse
   - ojos-lloran-con-frio
   - estornudar-con-el-sol
+  - parpado-tiembla
 next: mareo-al-levantarse
 ---
 

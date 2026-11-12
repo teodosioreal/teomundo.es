@@ -41,6 +41,7 @@ related:
   - mas-alto-por-la-manana
   - cerebro-consume-energia
   - huella-de-la-lengua
+  - para-que-sirve-la-cera-de-los-oidos
 next: mas-alto-por-la-manana
 ---
 

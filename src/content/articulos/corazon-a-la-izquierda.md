@@ -50,6 +50,7 @@ related:
   - electricidad-del-corazon
   - cuantas-veces-respiramos
   - agua-en-el-cuerpo
+  - coxis-cola
 next: electricidad-del-corazon
 ---
 

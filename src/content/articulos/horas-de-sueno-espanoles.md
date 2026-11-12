@@ -48,6 +48,7 @@ related:
   - cenar-tarde
   - cambio-de-hora-salud
   - beneficios-de-la-siesta
+  - persiana-oscuridad-sueno
 next: beneficios-de-la-siesta
 ---
 

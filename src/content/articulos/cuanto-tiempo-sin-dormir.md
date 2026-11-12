@@ -40,6 +40,7 @@ related:
   - hueso-mas-pequeno
   - musculo-mas-fuerte
   - latidos-del-corazon-en-una-vida
+  - mas-tiempo-en-el-espacio
 next: musculo-mas-fuerte
 ---
 

@@ -48,6 +48,7 @@ related:
   - acido-del-estomago
   - cuanto-crecen-las-unas
   - electricidad-del-corazon
+  - globulos-rojos-vida
 next: acido-del-estomago
 ---
 

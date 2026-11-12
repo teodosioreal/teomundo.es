@@ -49,6 +49,7 @@ related:
   - acido-del-estomago
   - estomago-se-renueva
   - mariposas-en-el-estomago
+  - para-que-sirve-el-apendice
 next: mariposas-en-el-estomago
 ---
 

@@ -49,6 +49,7 @@ related:
   - cuanto-tiempo-sin-dormir
   - latidos-del-corazon-en-una-vida
   - corte-de-digestion
+  - everest-sin-oxigeno
 next: latidos-del-corazon-en-una-vida
 ---
 

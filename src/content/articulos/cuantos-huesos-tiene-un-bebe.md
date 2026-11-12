@@ -39,6 +39,7 @@ related:
   - mas-alto-por-la-manana
   - los-ojos-crecen
   - electricidad-del-corazon
+  - hueso-roto-cuanto-tarda
 next: cuerpo-humano-brilla
 ---
 

@@ -48,6 +48,7 @@ related:
   - agua-en-el-cuerpo
   - tiempo-de-digestion
   - corazon-a-la-izquierda
+  - cuanta-orina-al-dia
 next: agua-en-el-cuerpo
 ---
 

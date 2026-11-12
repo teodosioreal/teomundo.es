@@ -48,6 +48,7 @@ related:
   - despertar-sonambulo
   - cafe-deshidrata
   - mito-10-por-ciento-cerebro
+  - luna-llena-sueno
 next: despertar-sonambulo
 ---
 

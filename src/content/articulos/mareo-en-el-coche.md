@@ -49,6 +49,7 @@ related:
   - mareo-al-levantarse
   - cosquillas-a-uno-mismo
   - estornudar-con-el-sol
+  - vertigo-de-altura
 next: mareo-al-levantarse
 ---
 

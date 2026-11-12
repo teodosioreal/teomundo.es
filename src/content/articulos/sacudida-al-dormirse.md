@@ -40,6 +40,7 @@ related:
   - pierna-dormida
   - como-quitar-el-hipo
   - hablar-dormido
+  - por-que-roncamos
 next: pierna-dormida
 ---
 

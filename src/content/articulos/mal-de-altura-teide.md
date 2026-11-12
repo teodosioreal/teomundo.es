@@ -48,6 +48,7 @@ related:
   - vivir-en-madrid-o-en-la-costa
   - calor-y-corazon
   - vitamina-d-en-espana
+  - ampollas-camino-de-santiago
 next: vivir-en-madrid-o-en-la-costa
 ---
 

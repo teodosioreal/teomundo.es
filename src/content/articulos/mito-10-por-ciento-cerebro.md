@@ -41,6 +41,7 @@ related:
   - leer-con-poca-luz
   - azucar-hiperactividad-ninos
   - cerebro-izquierdo-derecho
+  - neuronas-se-regeneran
 next: tragar-chicle
 ---
 

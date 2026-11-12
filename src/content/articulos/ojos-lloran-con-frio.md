@@ -51,6 +51,7 @@ related:
   - por-que-tiritamos
   - piel-de-gallina
   - labios-cortados-invierno
+  - ojos-rojos-piscina
 next: cortar-cebolla-sin-llorar
 ---
 

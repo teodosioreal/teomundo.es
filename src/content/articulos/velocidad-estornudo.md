@@ -40,6 +40,7 @@ related:
   - longitud-vasos-sanguineos
   - celulas-que-se-renuevan
   - cuanta-saliva-producimos
+  - estornudo-mas-largo
 next: celulas-que-se-renuevan
 ---
 

@@ -40,6 +40,7 @@ related:
   - afeitarse-pelo-mas-fuerte
   - cuanta-agua-beber-al-dia
   - corte-de-digestion
+  - mujeres-mas-frio
 next: cuanta-agua-beber-al-dia
 ---
 

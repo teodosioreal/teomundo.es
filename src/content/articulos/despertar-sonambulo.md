@@ -40,6 +40,7 @@ related:
   - azucar-hiperactividad-ninos
   - leer-con-poca-luz
   - mito-10-por-ciento-cerebro
+  - nariz-sangra-cabeza-atras
 next: mito-10-por-ciento-cerebro
 ---
 
