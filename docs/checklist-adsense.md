@@ -62,7 +62,7 @@
 
 | Item | Status | Observação |
 |---|---|---|
-| Imagens nos artigos | ✅ | **175 de 205 artigos com capa**; os 30 do lote 7 (agendados de 18/02 a 19/03/2027) recebem capa pelo `unsplash-covers.yml` a partir de 12/11/2026 (todos os publicados e o lote 6 já têm) e fotos no meio do texto, todas revisadas uma a uma (sem marcas, tabaco, álcool em destaque ou cenas fora do tema) e com texto alternativo em espanhol. |
+| Imagens nos artigos | ✅ | **205 de 205 artigos com capa** (incluindo os 30 do lote 7, agendados até 19/03/2027) e fotos no meio do texto, todas revisadas uma a uma (sem marcas, tabaco, álcool em destaque ou cenas fora do tema) e com texto alternativo em espanhol. |
 | Dados do titular em `src/data/owner.mjs` | ✅ | Titular fora da Espanha (Brasil): marca TeoMundo + país + e-mail, sem nome pessoal (decisão do dono). Se um dia abrir CNPJ, colocar a razão social. |
 
 ## Quando pedir a aprovação

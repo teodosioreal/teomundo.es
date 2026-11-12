@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2027-03-16
 dateModified: 2027-03-16
 imageQuery: "scratching arm"
-imageAlt: "Persona rascándose el brazo"
+imageAlt: "Brazo extendido de una persona"
 cover:
   url: "https://images.unsplash.com/photo-1578848547990-5d3e0de52f0e?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8c2NyYXRjaGluZyUyMGFybXxlbnwxfDB8fHwxNzk0NDU2OTEwfDA&ixlib=rb-4.1.0"
-  alt: "Persona rascándose el brazo"
+  alt: "Brazo extendido de una persona"
   author: "Sincerely Media"
   authorUrl: "https://unsplash.com/@sincerelymedia?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/person-showing-left-hand-QyzlAZjm0r0?utm_source=teomundo&utm_medium=referral"
