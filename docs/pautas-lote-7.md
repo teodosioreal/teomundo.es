@@ -20,7 +20,7 @@
 | 28/02/2027 | por-que | `por-que-roncamos` | ¿Por qué roncamos? |
 | 01/03/2027 | mitos | `luna-llena-sueno` | ¿La luna llena nos hace dormir peor? |
 | 02/03/2027 | cuerpo-y-espana | `picante-patatas-bravas` | ¿Por qué pican las bravas? |
-| 03/03/2027 | records | `temperatura-corporal-extrema` | Temperaturas corporales extremas sobrevividas |
+| 03/03/2027 | records | `plancha-mas-larga` | La plancha abdominal más larga (trocado: temperatura corporal extrema sem fonte primária acessível) |
 | 04/03/2027 | en-1-minuto | `cuanta-orina-al-dia` | ¿Cuánta orina producimos al día? |
 | 05/03/2027 | por-que | `vertigo-de-altura` | ¿Por qué marea mirar hacia abajo? |
 | 06/03/2027 | mitos | `neuronas-se-regeneran` | ¿Las neuronas no se regeneran? |
