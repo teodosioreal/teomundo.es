@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2027-02-28
 dateModified: 2027-02-28
 imageQuery: "man sleeping on his back bed"
-imageAlt: "Hombre durmiendo boca arriba en la cama"
+imageAlt: "Dormitorio con la cama deshecha por la mañana"
 cover:
   url: "https://images.unsplash.com/photo-1585963373105-404b0a93c946?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8bWFuJTIwc2xlZXBpbmclMjBvbiUyMGhpcyUyMGJhY2slMjBiZWR8ZW58MXwwfHx8MTc5NDQ1Mjg2OXww&ixlib=rb-4.1.0"
-  alt: "Hombre durmiendo boca arriba en la cama"
+  alt: "Dormitorio con la cama deshecha por la mañana"
   author: "Diego Lozano"
   authorUrl: "https://unsplash.com/@diegonacho?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/person-in-black-shorts-lying-on-bed-QGHNk7eis0k?utm_source=teomundo&utm_medium=referral"
@@ -67,10 +67,7 @@ Ocurre porque, cuando duermes, esas zonas se relajan y se estrechan. El aire tie
 | Boca que se abre al dormir | Otra causa habitual |
 | Nariz tapada o vías estrechas | También pueden provocarlo |
 
-<figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1758524941775-81accee1b252?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y291cGxlJTIwYmVkJTIwb25lJTIwY292ZXJpbmclMjBlYXJzJTIwcGlsbG93fGVufDF8MHx8fDE3OTQ0NTI4NzB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1758524941775-81accee1b252?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y291cGxlJTIwYmVkJTIwb25lJTIwY292ZXJpbmclMjBlYXJzJTIwcGlsbG93fGVufDF8MHx8fDE3OTQ0NTI4NzB8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1758524941775-81accee1b252?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y291cGxlJTIwYmVkJTIwb25lJTIwY292ZXJpbmclMjBlYXJzJTIwcGlsbG93fGVufDF8MHx8fDE3OTQ0NTI4NzB8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1758524941775-81accee1b252?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8Y291cGxlJTIwYmVkJTIwb25lJTIwY292ZXJpbmclMjBlYXJzJTIwcGlsbG93fGVufDF8MHx8fDE3OTQ0NTI4NzB8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Persona tapándose los oídos con la almohada en la cama" loading="lazy" decoding="async">
-<figcaption>Foto de <a href="https://unsplash.com/@silverkblack?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Vitaly Gariev</a> en <a href="https://unsplash.com/photos/couple-kissing-in-bed-while-taking-a-selfie-sP0ZhGgllmE?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
-</figure>
+<!-- unsplash: pillow over head bed | Persona tapándose la cabeza con la almohada -->
 
 ## Tu plan para roncar menos
 

@@ -13,8 +13,8 @@ secondaryKeywords:
   - "ampollas de sangre"
 datePublished: 2027-03-17
 dateModified: 2027-03-17
-imageQuery: "pilgrim walking trail galicia boots"
-imageAlt: "Peregrino caminando por un sendero de Galicia"
+imageQuery: "hiking boots trail"
+imageAlt: "Botas de montaña en un sendero"
 keyTakeaways:
   - "Una ampolla es una pequeña bolsa de líquido bajo la piel que se forma para proteger la piel dañada y ayudarla a curar."
   - "Al caminar, se deben sobre todo al roce; las de sangre aparecen cuando también se dañan pequeños vasos de la piel."

@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2027-03-03
 dateModified: 2027-03-03
 imageQuery: "person doing plank exercise floor"
-imageAlt: "Persona haciendo una plancha abdominal en el suelo"
+imageAlt: "Dos personas haciendo ejercicio en el suelo de un gimnasio"
 cover:
   url: "https://images.unsplash.com/photo-1649789248266-ef1c7f744f6f?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGVyc29uJTIwZG9pbmclMjBwbGFuayUyMGV4ZXJjaXNlJTIwZmxvb3J8ZW58MXwwfHx8MTc5NDQ1Mjg2N3ww&ixlib=rb-4.1.0"
-  alt: "Persona haciendo una plancha abdominal en el suelo"
+  alt: "Dos personas haciendo ejercicio en el suelo de un gimnasio"
   author: "Akram Huseyn"
   authorUrl: "https://unsplash.com/@akramhuseyn?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/a-man-and-a-woman-doing-push-ups-with-dumbbells-JjdGVeUzb78?utm_source=teomundo&utm_medium=referral"

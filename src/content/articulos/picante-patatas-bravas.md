@@ -13,14 +13,8 @@ secondaryKeywords:
   - "el picante es un sabor"
 datePublished: 2027-03-02
 dateModified: 2027-03-02
-imageQuery: "patatas bravas tapa spanish bar"
-imageAlt: "Ración de patatas bravas en un bar"
-cover:
-  url: "https://images.unsplash.com/photo-1781115650909-6b0417c601b6?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cGF0YXRhcyUyMGJyYXZhcyUyMHRhcGElMjBzcGFuaXNoJTIwYmFyfGVufDF8MHx8fDE3OTQ0NTI4NjV8MA&ixlib=rb-4.1.0"
-  alt: "Ración de patatas bravas en un bar"
-  author: "Paul"
-  authorUrl: "https://unsplash.com/@paul_colorado?utm_source=teomundo&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/small-sausages-with-mustard-on-bread-served-as-appetizers-A4vR839x9xc?utm_source=teomundo&utm_medium=referral"
+imageQuery: "spicy potatoes"
+imageAlt: "Patatas fritas con salsa picante"
 keyTakeaways:
   - "El picante no es un sabor: es una señal de calor y dolor."
   - "La capsaicina, la sustancia que pica en los pimientos y guindillas, activa un receptor llamado TRPV1."

@@ -13,8 +13,8 @@ secondaryKeywords:
   - "síntomas de apendicitis"
 datePublished: 2027-02-22
 dateModified: 2027-02-22
-imageQuery: "human anatomy model abdomen"
-imageAlt: "Maqueta anatómica del abdomen humano"
+imageQuery: "anatomy model"
+imageAlt: "Maqueta anatómica del cuerpo humano"
 keyTakeaways:
   - "Durante mucho tiempo se pensó que el apéndice era un resto inútil de la evolución; hoy se sabe que tiene funciones inmunitarias."
   - "Contiene tejido linfoide, parte del sistema de defensa del intestino."
