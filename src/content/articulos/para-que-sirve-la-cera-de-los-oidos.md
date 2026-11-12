@@ -67,10 +67,7 @@ Esa cera va avanzando poco a poco hacia la entrada del oído. Allí cae sola o s
 
 El [NHS](https://www.nhs.uk/conditions/earwax-build-up/), el servicio de salud británico, lo resume en una frase: la cera no se puede evitar, porque está ahí para proteger los oídos de la suciedad y los gérmenes.
 
-<figure class="article-figure">
-<img src="https://images.unsplash.com/photo-1645567455251-334ed4702f9b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Y290dG9uJTIwc3dhYnMlMjBiYXRocm9vbSUyMHNoZWxmfGVufDF8MHx8fDE3OTQ0NDg4ODd8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70" srcset="https://images.unsplash.com/photo-1645567455251-334ed4702f9b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Y290dG9uJTIwc3dhYnMlMjBiYXRocm9vbSUyMHNoZWxmfGVufDF8MHx8fDE3OTQ0NDg4ODd8MA&amp;ixlib=rb-4.1.0&amp;w=640&amp;h=360&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 640w, https://images.unsplash.com/photo-1645567455251-334ed4702f9b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Y290dG9uJTIwc3dhYnMlMjBiYXRocm9vbSUyMHNoZWxmfGVufDF8MHx8fDE3OTQ0NDg4ODd8MA&amp;ixlib=rb-4.1.0&amp;w=960&amp;h=540&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 960w, https://images.unsplash.com/photo-1645567455251-334ed4702f9b?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Y290dG9uJTIwc3dhYnMlMjBiYXRocm9vbSUyMHNoZWxmfGVufDF8MHx8fDE3OTQ0NDg4ODd8MA&amp;ixlib=rb-4.1.0&amp;w=1200&amp;h=675&amp;fit=crop&amp;crop=entropy&amp;fm=webp&amp;q=70 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" alt="Bastoncillos de algodón en la repisa de un baño" loading="lazy" decoding="async">
-<figcaption>Foto de <a href="https://unsplash.com/@steveungermann?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Steven Ungermann</a> en <a href="https://unsplash.com/photos/a-bathroom-sink-with-a-soap-dispenser-and-a-soap-dish-ioazSWHfmzY?utm_source=teomundo&amp;utm_medium=referral" rel="noopener" target="_blank">Unsplash</a></figcaption>
-</figure>
+<!-- unsplash: cotton swabs | Bastoncillos de algodón -->
 
 ## Cuando la cera se atasca
 

@@ -13,14 +13,8 @@ secondaryKeywords:
   - "frío y sexo"
 datePublished: 2027-02-24
 dateModified: 2027-02-24
-imageQuery: "woman wrapped in scarf office cold"
-imageAlt: "Mujer abrigada con una bufanda en la oficina"
-cover:
-  url: "https://images.unsplash.com/photo-1661437502046-54db1e6115f3?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8d29tYW4lMjB3cmFwcGVkJTIwaW4lMjBzY2FyZiUyMG9mZmljZSUyMGNvbGR8ZW58MXwwfHx8MTc5NDQ0ODg3Nnww&ixlib=rb-4.1.0"
-  alt: "Mujer abrigada con una bufanda en la oficina"
-  author: "Catherine Tskho"
-  authorUrl: "https://unsplash.com/@catherine_tskho?utm_source=teomundo&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/a-woman-holding-a-tablet-W8hoW9sZYRM?utm_source=teomundo&utm_medium=referral"
+imageQuery: "woman cold scarf indoors"
+imageAlt: "Mujer abrigada con una bufanda dentro de casa"
 keyTakeaways:
   - "Es un mito a medias: depende de qué parte del cuerpo y de qué se mida."
   - "En un estudio japonés, al bajar la temperatura de la sala, el flujo de sangre y la temperatura de las manos y los dedos bajaban más en las mujeres que en los hombres."

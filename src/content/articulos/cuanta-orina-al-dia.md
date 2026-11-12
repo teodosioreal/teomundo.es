@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2027-03-04
 dateModified: 2027-03-04
 imageQuery: "drinking water glass"
-imageAlt: "Persona bebiendo un vaso de agua"
+imageAlt: "Vaso de agua sobre una mesa"
 cover:
   url: "https://images.unsplash.com/photo-1534616042650-80f5c9b61f09?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8M3x8ZHJpbmtpbmclMjB3YXRlciUyMGdsYXNzfGVufDF8MHx8fDE3OTQ0NDg4Njh8MA&ixlib=rb-4.1.0"
-  alt: "Persona bebiendo un vaso de agua"
+  alt: "Vaso de agua sobre una mesa"
   author: "manu schwendener"
   authorUrl: "https://unsplash.com/@manuschwendener?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/clear-drinking-glass-filled-with-water-zFEY4DP4h6c?utm_source=teomundo&utm_medium=referral"
