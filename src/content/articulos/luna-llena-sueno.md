@@ -73,7 +73,7 @@ Los autores proponen una explicación evolutiva. Antes de la luz eléctrica, la 
 
 Según su hipótesis, ese ritmo seguiría presente hoy, y la luz artificial podría imitar ese efecto ancestral de la luna en las primeras horas de la noche.
 
-## Lo que este estudio no dice
+## Los límites del estudio de la luna
 
 - No demuestra que la luna «altere» a nadie ni cause insomnio.
 - Los autores reconocen que los estudios sobre la luna y el sueño han dado resultados contradictorios.
