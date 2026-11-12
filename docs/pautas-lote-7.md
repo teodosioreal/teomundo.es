@@ -32,7 +32,7 @@
 | 12/03/2027 | cuerpo-y-espana | `cafe-cafeina-espana` | Cuánta cafeína es demasiada |
 | 13/03/2027 | records | `grito-mas-fuerte` | El grito más fuerte |
 | 14/03/2027 | en-1-minuto | `coxis-cola` | El coxis |
-| 15/03/2027 | por-que | `hambre-al-oler-comida` | ¿Por qué da hambre oler comida? |
+| 15/03/2027 | por-que | `hambre-al-oler-comida` | ¿Por qué se hace la boca agua al oler comida? (ajustado à fonte) |
 | 16/03/2027 | mitos | `rascarse-pica-mas` | ¿Rascarse hace que pique más? |
 | 17/03/2027 | cuerpo-y-espana | `ampollas-camino-de-santiago` | Ampollas del Camino de Santiago |
 | 18/03/2027 | records | `everest-sin-oxigeno` | El Everest sin oxígeno |
