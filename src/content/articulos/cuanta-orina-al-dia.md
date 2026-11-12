@@ -13,14 +13,8 @@ secondaryKeywords:
   - "levantarse a orinar por la noche"
 datePublished: 2027-03-04
 dateModified: 2027-03-04
-imageQuery: "glass of water on bedside table"
-imageAlt: "Vaso de agua sobre la mesilla de noche"
-cover:
-  url: "https://images.unsplash.com/photo-1757796859729-270d1e3ad4d5?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8Mnx8Z2xhc3MlMjBvZiUyMHdhdGVyJTIwb24lMjBiZWRzaWRlJTIwdGFibGV8ZW58MXwwfHx8MTc5NDQ0NDgwNHww&ixlib=rb-4.1.0"
-  alt: "Vaso de agua sobre la mesilla de noche"
-  author: "Clay Banks"
-  authorUrl: "https://unsplash.com/@claybanks?utm_source=teomundo&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/open-book-on-bedside-table-with-lamp-QEVwQcqKRRM?utm_source=teomundo&utm_medium=referral"
+imageQuery: "drinking water glass"
+imageAlt: "Persona bebiendo un vaso de agua"
 keyTakeaways:
   - "Con una ingesta normal de unos 2 litros de líquido al día, lo normal es producir entre 800 y 2.000 ml de orina."
   - "La mayoría de los adultos produce al menos 500 ml de orina en 24 horas."

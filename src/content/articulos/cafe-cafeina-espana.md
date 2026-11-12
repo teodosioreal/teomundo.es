@@ -13,14 +13,8 @@ secondaryKeywords:
   - "bebidas energéticas cafeína"
 datePublished: 2027-03-12
 dateModified: 2027-03-12
-imageQuery: "espresso coffee cup bar counter"
-imageAlt: "Taza de café solo sobre la barra de un bar"
-cover:
-  url: "https://images.unsplash.com/photo-1775850201902-1418bc12594a?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8ZXNwcmVzc28lMjBjb2ZmZWUlMjBjdXAlMjBiYXIlMjBjb3VudGVyfGVufDF8MHx8fDE3OTQ0NDQ4MDF8MA&ixlib=rb-4.1.0"
-  alt: "Taza de café solo sobre la barra de un bar"
-  author: "Soroush H. Zargarbashi"
-  authorUrl: "https://unsplash.com/@soroushzargar?utm_source=teomundo&utm_medium=referral"
-  photoUrl: "https://unsplash.com/photos/bottles-of-alcohol-displayed-behind-a-bar-counter-M8avLU2Enz8?utm_source=teomundo&utm_medium=referral"
+imageQuery: "espresso cup"
+imageAlt: "Taza de café solo"
 keyTakeaways:
   - "Según MedlinePlus, un expreso de unos 30 ml tiene alrededor de 40 mg de cafeína, y una taza de café de filtro de unos 180 ml, de 75 a 100 mg."
   - "Unos 400 mg al día se consideran una cantidad media o moderada para la mayoría de las personas; más de 1.200 mg en poco tiempo pueden ser tóxicos."

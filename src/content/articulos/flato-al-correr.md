@@ -14,10 +14,10 @@ secondaryKeywords:
 datePublished: 2027-02-18
 dateModified: 2027-02-18
 imageQuery: "runner holding side park"
-imageAlt: "Corredora sujetándose el costado en un parque"
+imageAlt: "Camino arbolado de un parque para salir a correr"
 cover:
   url: "https://images.unsplash.com/photo-1778705635181-95bdd0a5ffbd?ixid=M3wxMTAzMDg4fDB8MXxzZWFyY2h8MXx8cnVubmVyJTIwaG9sZGluZyUyMHNpZGUlMjBwYXJrfGVufDF8MHx8fDE3OTQ0NDQ4MTF8MA&ixlib=rb-4.1.0"
-  alt: "Corredora sujetándose el costado en un parque"
+  alt: "Camino arbolado de un parque para salir a correr"
   author: "Mark Ashford"
   authorUrl: "https://unsplash.com/@ashforma?utm_source=teomundo&utm_medium=referral"
   photoUrl: "https://unsplash.com/photos/autumn-trees-line-a-park-path-beside-a-lake-mFt2X_R2-yA?utm_source=teomundo&utm_medium=referral"
